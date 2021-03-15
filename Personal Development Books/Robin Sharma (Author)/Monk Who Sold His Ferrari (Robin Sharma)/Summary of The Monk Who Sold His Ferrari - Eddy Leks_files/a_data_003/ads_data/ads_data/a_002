@@ -1,0 +1,9 @@
+Adform=window.Adform||{};
+Adform.host="https://asia.adformdsp.net";
+Adform.shost="https://s2.adformdsp.net";
+Adform.scriptBase=Adform.shost+"/banners/scripts/";
+Adform.cache="584";
+Adform.ADFBannerData={URL:"https://asia.adformdsp.net/adfserve/?CC=1&bn=14869892;rtbwp=WC3YJQAMIiIKj4eJAAbu8xx2moOgwpiX6SsP_w;rtbdata=ceDV5mfyBZUy25VY8R8F4cJK5zWjak_Mwrxm6m9frEz61arHF0TDs6f-_40hx-NTpTup1P1HokfUdpNlEsZNs4fHqF9DUmhgDShh4ptgRqYOx6iyt9e8NSW8mbCu2W7tirw4X6AGUt3XIzVaksQOe-15Pn3TjkwcXkGmrcI269RAmHkgEHwxKRaRoBapBA81D8V261trWTnhQW6FXjSrzw2;nofp=1;click=https://adclick.g.doubleclick.net/aclk?sa=L&ai=C_0zQJdgtWKLEMImPvgTz3ZvQCuLegsNEvtC4heUCwI23ARABIABg5YKAgKQOggEXY2EtcHViLTE0MDM3NTMwNTY3NzUwNzTIAQmpAvZ2jIjmRoM-qAMBqgSzAU_Qmp4VRokSLsCKUxzGLKzL1q_DfzoAPo62sJxo73lYpT0MkGva57pT9hsAykZAlbrEiVlzkqc4zcRUEz62zF9NEqf_JhN5e2c51Zu6I6U0a7vm2QTcZNkLQmo6eDB8EIGmI0vqyydnyws4p9bege8S6oH-VW2cl1Kye4NjH44AFrAHAp0NEU98vA8PYwDHbtErQuYsg7TtTqyZkLnoenW5zdyt2zmjNX8U4wnvM7V5qq9AgAbRuLex4rqaxOsBoAYhqAemvhvYBwDSCAUIgAEQAQ&num=1&sig=AOD64_2PAK7dbOQJZwaxN5BT0MPR22zBDg&client=ca-pub-1403753056775074&adurl=",CREFURL:"https%3a%2f%2fgoogleads.g.doubleclick.net%2fpagead%2fads%3fclient%3dca-pub-1403753056775074%26format%3d370x280%26output%3dhtml%26h%3d280%26slotname%3d1851556517%26adk%3d3241700194%26adf%3d4120647350%26w%3d370%26afmt%3dauto%26lmt%3d1479399459%26to%3dpso%26channel%3dWordPressSinglePost%26flash%3d0%26url%3dhttp%253A%252F%252Fwww.eddyleks.com%252F2009%252F09%252F29%252Fsummary-of-the-monk-who-sold-his",BN:"14869892"};
+if(!Adform.ADFBannerParams)Adform.ADFBannerParams=[];
+Adform.ADFBannerParams.push(Adform.ADFBannerData);
+typeof Adform.ADFUtilInstance=="undefined"?document.write('<scr'+'ipt type="text/javascript" src="https://s2.adformdsp.net/stoat/584/s2.adformdsp.net/bootstrap.js"></scr'+'ipt>'):new Adform.ADFBanner();
