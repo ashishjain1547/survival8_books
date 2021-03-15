@@ -1,0 +1,102 @@
+.:
+total 190M
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:31 Time Series Analysis/
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:31 Scrapy/
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:31 Machine Learning/
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:31 Kong/
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:37 Flutter Books/
+-rw-r--r-- 1 Ashish Jain 197121    0 Mar 15 08:47 file_log.txt
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:31 epub/
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:31 Data Science/
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:38 ../
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:47 ./
+-rw-r--r-- 1 Ashish Jain 197121 621K Nov  1 22:11 Email Etiquettes (Book by TradePub).pdf
+-rw-r--r-- 1 Ashish Jain 197121 2.0M Aug 16  2020 Gray Mountain_ A Novel - John Grisham.pdf
+-rw-r--r-- 1 Ashish Jain 197121 3.8M Mar  5  2019 Linkedin - 30 questions to identify high potential candidates.pdf
+-rw-r--r-- 1 Ashish Jain 197121 3.8M Jan  6  2019 Outliers (Malcolm Gladwell).pdf
+-rw-r--r-- 1 Ashish Jain 197121 4.2M Feb 11  2019 Salary Trend - Jan 2019 (eBook).pdf
+-rw-r--r-- 1 Ashish Jain 197121 4.2M Jan 29  2019 David Hosmer, Stanley Lemeshow, Rodney Sturdivant - Applied Logistic Regression - Wiley (2013).pdf
+-rw-r--r-- 1 Ashish Jain 197121 4.8M Aug  4  2018 John A. Rice-Mathematical Statistics and Data Analysis 3ed (Duxbury Advanced) (2006).pdf
+-rw-r--r-- 1 Ashish Jain 197121 9.6M Apr 18  2016 Lucene in Action (A Guide to the Java Search Engine) [Hatcher 2004].pdf
+-rw-r--r-- 1 Ashish Jain 197121  22M Aug 16  2020 Monson H. Hayes - Statistical Digital Signal Processing and Modeling-John Wiley & Sons (1996).pdf
+-rw-r--r-- 1 Ashish Jain 197121  33M Sep 26  2018 Data Structures and Algorithms - Narasimha Karumanchi.pdf
+-rw-r--r-- 1 Ashish Jain 197121  36M Sep 26  2018 Data Structures and Algorithms Made Easy in Java - Narasimha Karumanchi.pdf
+-rw-r--r-- 1 Ashish Jain 197121  67M Nov 28 19:32 Aurelien Geron - Hands-on ML with skLearn, Keras, and TensorFlow-O’reilly (2019).pdf
+
+./Time Series Analysis:
+total 37M
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:47 ../
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:31 ./
+-rw-r--r-- 1 Ashish Jain 197121  447 Mar 17  2020 Time Series Analysis Books (Mar 2020).txt
+-rw-r--r-- 1 Ashish Jain 197121 7.2M Mar 17  2020 James Douglas Hamilton - Time Series Analysis-Princeton University Press (1994).djvu
+-rw-r--r-- 1 Ashish Jain 197121 9.3M Apr  9  2020 (For dummies) Lillian Pierson_ Jake Porway (foreword) - Data science for dummies-John Wiley and Sons (2015).pdf
+-rw-r--r-- 1 Ashish Jain 197121 9.4M Aug 14  2020 Aileen Nielsen - Practical Time Series Analysis_ Prediction with Statistics and Machine Learning-O’Reilly Media (2019).pdf
+-rw-r--r-- 1 Ashish Jain 197121  11M Mar 17  2020 C. Chatfield - The analysis of time series_ an introduction-Chapman and Hall_CRC (1996).pdf
+
+./Scrapy:
+total 32M
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:47 ../
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:31 ./
+-rw-r--r-- 1 Ashish Jain 197121 4.8M May 25  2020 Gábor László Hajba - Website Scraping with Python_ Using BeautifulSoup and Scrapy-Apress (2018).pdf
+-rw-r--r-- 1 Ashish Jain 197121 8.3M May 25  2020 Dimitrios Kouzis-Loukas - Learning Scrapy-Packt Publishing (2016).pdf
+-rw-r--r-- 1 Ashish Jain 197121  19M May 25  2020 Dimitrios Kouzis-Loukas - Learning Scrapy-Packt Publishing.pdf
+
+./Machine Learning:
+total 145M
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:47 ../
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:31 ./
+-rw-r--r-- 1 Ashish Jain 197121 3.6M Jun 15  2020 Apache-Spark-for-Data-Science-Cookbook.pdf
+-rw-r--r-- 1 Ashish Jain 197121 4.2M May 25  2020 Charu C. Aggarwal - Outlier Analysis-Springer International Publishing (2017).pdf
+-rw-r--r-- 1 Ashish Jain 197121 5.0M May 25  2020 Zafarani R., Abbasi M.A., Liu H. - Social Media Mining_ An Introduction-CUP (2014).pdf
+-rw-r--r-- 1 Ashish Jain 197121 5.4M Jun 15  2020 Sibanjan Das & Umit Mert Cakmak [Das, Sibanjan & Cakmak, Umit Mert] - Hands-On Automated Machine Learning_ A Beginner’s Guide to Building Automated Machine Learning Systems Using AutoML and Python-Pac.pdf
+-rw-r--r-- 1 Ashish Jain 197121 7.9M May 25  2020 Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia - Learning Spark_ Lightning-Fast Big Data Analysis-O'Reilly Media (2015).pdf
+-rw-r--r-- 1 Ashish Jain 197121  15M Jun 15  2020 Rishi Yadav - Apache Spark 2.x Cookbook_ Cloud-ready recipes for analytics and data science-Packt Publishing (2017).pdf
+-rw-r--r-- 1 Ashish Jain 197121  16M May 25  2020 Dattaraj Rao - Keras to Kubernetes_ The Journey of a Machine Learning Model to Production-Wiley (2019).pdf
+-rw-r--r-- 1 Ashish Jain 197121  17M May 25  2020 Ian Goodfellow and Yoshua Bengio and Aaron Courville - Deep Learning_ Adaptive Computation and Machine Learning-The MIT Press (2016).pdf
+-rw-r--r-- 1 Ashish Jain 197121  19M Jun 15  2020 (Packt) Guglielmo Iozzia - Hands-On Deep Learning with Apache Spark.epub
+-rw-r--r-- 1 Ashish Jain 197121  54M May 25  2020 Aurélien Géron - Hands-On ML with skLearn, Keras, and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems-O’Reilly (2019).pdf
+
+./Kong:
+total 8.9M
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:47 ../
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:31 ./
+-rw-r--r-- 1 Ashish Jain 197121 476K Apr 12  2020 Kong Book 02 - FLSM-EBOOK.pdf
+-rw-r--r-- 1 Ashish Jain 197121 507K Apr 12  2020 Kong Book 01 - Boosting-Microservices-Development-with-CICD.pdf
+-rw-r--r-- 1 Ashish Jain 197121 588K Apr 12  2020 Kong Book 08 - Service-Mesh-and-the-Evolution-of-Microservices.pdf
+-rw-r--r-- 1 Ashish Jain 197121 691K Apr 12  2020 Kong Book 05 - Microservices-and-Multi-Cloud.pdf
+-rw-r--r-- 1 Ashish Jain 197121 691K Apr 12  2020 Kong Book 09 - Understanding-Microservices-eBook.pdf
+-rw-r--r-- 1 Ashish Jain 197121 890K Apr 12  2020 Kong Book 06 - Kong-Serverless-v2.pdf
+-rw-r--r-- 1 Ashish Jain 197121 1.1M Apr 12  2020 Kong Book 07 - Kubernetes-The-Future-of-Infrastructure.pdf
+-rw-r--r-- 1 Ashish Jain 197121 1.4M Apr 12  2020 Kong Book 04 - Kong-Cloud-Native-FINAL.pdf
+-rw-r--r-- 1 Ashish Jain 197121 2.8M Apr 12  2020 Kong Book 03 - blowing-up-the-monolith-adopting-microservices-based-architectures.pdf
+
+./Flutter Books:
+total 17M
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:47 ../
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:37 ./
+-rw-r--r-- 1 Ashish Jain 197121 682K Sep 11  2019 Build beautiful native apps in record time with flutter - Eduardo Telaya.pdf
+-rw-r--r-- 1 Ashish Jain 197121 1.4M Sep 11  2019 Dylan Drost - Dart_ I'm your Flutter.pdf
+-rw-r--r-- 1 Ashish Jain 197121 1.5M Sep 11  2019 Flutter - 60FPS UI of the future  - DroidconDE 17.pdf
+-rw-r--r-- 1 Ashish Jain 197121 6.4M Sep 12  2019 Kathy Walrath, Seth Ladd - Dart_ Up and Running-O'Reilly Media (2012).pdf
+-rw-r--r-- 1 Ashish Jain 197121 7.3M Sep 11  2019 Prajyot Mainkar Salvatore Giordano - Google Flutter Mobile Development Quick Start Guide-Packt_ (2019).pdf
+
+./epub:
+total 22M
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:47 ../
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:31 ./
+-rw-r--r-- 1 Ashish Jain 197121 243K Aug 16  2020 Outliers.epub
+-rw-r--r-- 1 Ashish Jain 197121 1.1M Aug 16  2020 Leaders Eat Last Why Some Teams Pull Together and Others Don’t by Simon Sinek ().epub
+-rw-r--r-- 1 Ashish Jain 197121 1.6M Aug 16  2020 McIntyre, Marie G_ - Secrets to winning at office politics (2005).epub
+-rw-r--r-- 1 Ashish Jain 197121 1.6M Nov 28 13:11 McIntyre, Marie G - Secrets to winning at office politics (2005).epub
+-rw-r--r-- 1 Ashish Jain 197121 2.8M Aug 16  2020 Ashlee_Vance_-_Elon_Musk_Tesla_SpaceX_an.epub
+-rw-r--r-- 1 Ashish Jain 197121 3.2M Nov 28 13:11 Evan Osnos - Joe Biden_The Life, the Run, and What Matters Now (2020).epub
+-rw-r--r-- 1 Ashish Jain 197121  11M Aug 16  2020 Designing-Bots-Creating-Conversational-Experiences.epub
+
+./Data Science:
+total 34M
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:47 ../
+drwxr-xr-x 1 Ashish Jain 197121    0 Mar 15 08:31 ./
+-rw-r--r-- 1 Ashish Jain 197121 213K Feb 26  2020 Python For Data Science (Cheat Sheet).pdf
+-rw-r--r-- 1 Ashish Jain 197121 4.9M Feb 26  2020 Breaking data science open (Oreilly).pdf
+-rw-r--r-- 1 Ashish Jain 197121 7.1M Feb 26  2020 Data_Science_from_Scratch_First_Princ (Joel_Grus).pdf
+-rw-r--r-- 1 Ashish Jain 197121  22M Feb 26  2020 Python Data Science Handbook (Oreilly, 2017).pdf

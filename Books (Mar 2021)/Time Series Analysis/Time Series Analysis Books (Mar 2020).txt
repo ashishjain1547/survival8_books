@@ -1,0 +1,20 @@
+1.
+Time series analysis and its applications
+Textbook by Robert H. Shumway
+
+2. 
+Time series analysis, forecasting and control
+Book by George E. P. Box
+
+3.
+Practical Time Series Analysis: Prediction with Statistics and Machine Learning
+Book by Aileen Nielsen
+
+4.
+Introduction to multiple time series analysis
+Textbook by Helmut Lütkepohl
+
+5.
+Time Series Analysis: Univariate and Multivariate Methods
+Book by William W. S. Wei
+
