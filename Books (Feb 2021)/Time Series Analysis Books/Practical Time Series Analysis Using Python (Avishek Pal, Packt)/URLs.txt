@@ -1,0 +1,6 @@
+The code bundle for the book is also hosted on GitHub at 
+https://github.com/PacktPublishing/Practical-Time-Series-Analysis
+
+We also have other code bundles
+from our rich catalog of books and videos available at https:/ / github. com/
+PacktPublishing/ . Check them out!
