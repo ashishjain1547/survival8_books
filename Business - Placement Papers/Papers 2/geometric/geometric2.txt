@@ -1,0 +1,178 @@
+GSSL
+
+ITest : General Intelligence
+
+II test : Technical test
+
+III test : C-language
+
+
+I Test
+
+Some of the questions what I have Iam sending.
+
+1. 5,5,,13,13,21,21    Ans: 29
+
+2.0,7,26,63,124,   Ans: 215 i.e.n**3-1 rule following
+
+3. 1,3,5,7, Ans: 9   '1' is not a prime number
+
+4. If a person walks at 4/5th of his usual spee he reaches 40min late. If 
+he walks athis usual speed how much time does he travels.
+
+Ans:160min or 2hr 40min
+
+5. Two trains A&B start at opposite points 120km at 60kmph. A fly 
+starting along with train A at 120kmph reaches B then returns back to 
+touch and continue. By the time two trains meet howmuch distance the fly 
+would have travelled?
+
+Ans : By  1hour both trains meet, so the distance travel by fly in 1hr is 
+120km.
+6.In a class 80% have passed english,70% passed Hindi 10% didnot passed 
+either. If 144 students passed both. What is the total strength of the class.
+
+Ans: 240
+
+. Find the least number when divided by 7 gives the reminder 6, when 
+divided by 6 gives reminder 5, when divided by 5 gives reminder 4 and so 
+on....
+Ans: 419
+
+8. If a man stands in front of sun what is the first letter of the 
+direction which is left to him:
+
+Ans: North(N)
+
+9.A square is to circle what is cube to
+
+Ans: sphere
+
+10. Synonyms
+
+	i) Joy = gay
+
+	ii) Inert = Inactive
+11.One wordswill begiven find oddman out: Ans:sickle like that
+ a) sow  b) cut c)   d) sickel
+
+12. If I bought a cycle before 2days of my birthday and I broke it after 
+3 days of my birthday the day I broke is Mar2, 1956?  Answer following 
+logical questions?
+i) when is his birthday?
+Ans: April,28  (due to leap year i.e.1956)  but do not keep answer 
+blindly we just think before choosing answer Iam just giving ideaof question
+
+13.
+							Monday
+							Aug25, 96
+
+Mr A,
+	You forgott your umbrella during the party on last friday.I 
+expected you to collect it on your visit on wednesday,I plan to leave on 
+this Friday.
+
+Questions: when  A missed umbrella?
+When A is supposed to collect it?
+
+When K leaves?
+
+Hint:  These dates i.e. Aug 25 is not exactly given in test, but Iam 
+giving feel of that question.If you solve this question you can solve it 
+easily in exam.
+
+14.What is my father's sons son to my son?
+
+Ans: cousin brother
+
+15.On cutting which solid parabola would be generated Ans: cone
+
+16. Eulers formula:  Ans: F+V-E =2;  
+
+F= faces;V= vertices;E = number of edges	
+
+17. Newton Rapson method is to find Ans:to find the root of f(x) = 0;
+
+18. How many tangents can be dran within three circles if they donot lie 
+within each other
+Ans : 12  But this answer is not there I kept 8 as answer
+
+
+19. In language the fortran which is true. A) fortran uses call by value
+
+20. When a program is compiled what it produces
+
+Ans:source code to object code
+
+21. In the following venn diagram shaded region is represented by some 
+question like that I can't draw figure here thats why Iam sendinganswer only
+
+Ans: (B-A)'   i.e. (B-A) whole dash
+
+
+22. xy-x+2y = 6 equation is shifted to form equation xy=c what is c?
+
+Ans : 4
+
+23.When x is real what is the least value of (x**2-6*x+5)/(x**2+2*x+1)
+
+Ans:-1/3
+
+24.When an object like cube or sphere is seen along x,y,z,axes we get the 
+same.Apart from these suggest another which has similar characteristics?
+
+Ans:you have to draw the figure    Ans: is triangular prism you draw 
+triangular prism.
+
+25. When an object is seen from front side we can see two concentric 
+squares and topview also without any hidden lines. Draw the side view.
+
+Ans: I know ans but I canot draw.
+
+26. Convert  251 decimal to base 8(i.e. octal)?
+
+Ans: similar question    but for this question answer is 373
+
+27. How much information can be solved in 1 byte of a IBM pc compatible?
+
+Ans: 256
+	
+28.What is the language used for Artificial Intelligence Ans: lisp
+
+29. Swap two variables without using temporary variable
+
+Ans:   a= a+b;
+	b= a-b;
+	a= a-b:
+
+30.Which is not the operating system ?Ans: BIOS
+
+31. What is the optimum number of operations for 2*(x**3)+3*(x**2)+5*x+5?
+
+Ans: three multiplications, three additions.
+
+32. A=> Bmeans
+Ans: if A is true B has to be true
+
+33.If A is not invertible and BA = I is not possible
+
+Ans: Determinant is Zero.
+
+34, What is FREE BoDY Diagram
+
+Ans: Used for analysing FEM.
+
+35. A  die is thrown twice what is the probability that you get same number
+
+Ans:11/36.
+
+.............................................................................
+
+In interviewthey will ask about graphics i.e. about curves, prove sum of 
+the angles in triangle is 180
+
+About MTP
+
+If we draw a triangle in a circle prove that angle is 90 degrees.
+
+------------------------------------------------------------------------

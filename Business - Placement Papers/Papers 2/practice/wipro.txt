@@ -1,0 +1,114 @@
+
+
+Dear Freinds, 
+           The below is Wipro Paper held at I.S.I-CALCUTTA 
+On 02/08/99. 
+           Read On..... 
+
+  
+   
+   There are 20 questions . Each 3 marks. -1 for wrong answer. 
+
+   1)How many NAND gates are required to implement an OR-gate? 
+   ans  3 
+
+   2)There is one Karnaugh map. asked to write the Boolean expresion. 
+   ans is   xyz'+xy'z+x'yz 
+
+   3)They have given one   D-flip flops circuit and asked to find the 
+   function. 
+   ans is shift Register. 
+
+   4)There are 16 address lines and the page size is .5Mbytes .Then How
+many 
+   pages are there in Virtual memory. 
+   ans is 128 
+
+   5) There are 3 Interupts .the processor takes 5ns to serve the
+request. 
+   Interupt 11 takes 24.5ns   High Priority 
+   12 takes 
+   13 takes 20ns    Low Priority 
+
+      What is the time range to complete the Interupt 13. 
+      ans is 29.5    to 93.5 
+
+
+   6) One question on 8085 address lines. 
+   ans : 8 lines    bidirection 
+
+   7)    One question on automata .Given the graph and asked to finnd the 
+
+   regular expression 
+   ans: (aab+ba) (bab)* 
+
+   10)Another  question on automata.   a/ba* indicates 
+   Ans: 
+   the strings which contains   either one "a"  or   a " b" followed by
+zero 
+   or 
+   more "a"  s. 
+
+   11) 
+   One question on LR pass of compiler. 
+
+   12) 
+   Binary equialent of 10.625 
+
+   ans:1010.101 
+
+   13) 
+   In which addressing mode Effective address  is computed by adding a 
+   constant to a register. 
+
+   ans: Indexed mode 
+
+   14) 
+   Files (sequential)f1 ,f2,f3,f4,f5,f6   are having
+100,200,70,40,250,50 
+   Bytes respectively.In which order the access time is minimum if you
+are 
+   asked to get all the files. 
+
+   15) 
+
+   16) 
+   -20)    on c language   mainly on pointers. 
+
+
+  
+   
+   This is the entire paper. The cut off mark is 25. They selected   16
+for 
+   Interiew and selected 7. 
+
+They are asking O.sys ,Networks, data structures   and giving c problems
+on 
+pointers(How to reverse a linked list  ..etc). 
+
+  
+   
+   Wish u all the best. 
+
+
+
+
+_____________________________.
+
+
+         
+
+
+        **********************************************************      
+         Krishna Mohan Reddy.N       * 
+           Room no: 253              *   M.Tech(C.S)
+          Narmada Hostel             *  Dept. of Computer Science
+           IIT Madras                *   IIT Madras
+          CHENNAI-600036.            *  CHENNAI-600036.
+           ph no:4459083 
+        Email:  reddy@rts.iitm.ernet.in
+        **********************************************************
+          If above mail do not work, use
+                nkmr@peacock.iitm.ernet.in
+                nkmreddy@hotmail.com
+                nkmreddy@mailcity.com

@@ -1,0 +1,144 @@
+THIS PAPER HAS GIVEN IN IIT DELHI , SO GO THROUGH THIS IT WILL GIVE 
+ROUGH IDEA;
+
+
+1.   typedef struct{
+	char *;
+	nodeptr next;
+	} * nodeptr;
+what does nodeptr stand for?
+
+2. supposing thaty each integer occupies 4 bytes and each charactrer 
+1 byte , what is the output of the following programme?
+
+#include<stdio.h>
+main()
+{
+ int a[] ={ 1,2,3,4,5,6,7};
+char c[] = {' a','x','h','o','k'};
+printf("%d\t %d ", (&a[3]-&a[0]),(&c[3]-&c[0]));
+}
+ans : 3  3
+
+3. what is the output of the program?
+
+#include<stdio.h>
+main()
+{
+struct s1 {int i; };
+struct s2 {int i; };
+struct s1 st1;
+struct s2 st2;
+st1.i =5;
+st2 = st1;
+printf(" %d " , st2.i);
+}
+
+ans: nothing  (error)
+expl: diff struct variables should not assigned using "=" operator.
+
+
+
+4.what is the output of the program?
+
+#include<stdio.h>
+main()
+{
+int i,j;
+int mat[3][3] ={1,2,3,4,5,6,7,8,9};
+for (i=2;i>=0;i--)
+ for ( j=2;j>=0;j--)
+printf("%d" , *(*(mat+j)+i));
+}
+
+ans : 9 6 3 8 5 2 7 4 1
+
+5.
+
+fun(n);
+}
+int fun( int n)
+{
+int i;
+for(i=0;i<=n;i++)
+fun(n-i);
+printf(" well done");
+
+}
+ howmany times is the printf statement executed for n=10?
+
+
+ans: zero
+expl: Befire reaching to printf statement it will goes to infinite loop.
+
+
+6.what is the output of the program?
+
+main()
+{
+struct emp{
+	char emp[];
+	int empno;
+	float sal;
+};
+struct emp member = { "TIGER"};
+printf(" %d %f", member.empno,member.sal);
+
+
+ans: error. In struct variable emp[], we have to give array size.
+ If array size given
+ans is 0, 0.00
+
+
+
+7. output of the program?
+
+	# define infiniteloop while(1)
+	main()
+	{
+	infiniteloop;
+	printf("DONE");
+}
+
+ans: none
+expl: infiniteloop in main ends with ";" . so loop will not reach end;
+and the DONE also will not print.
+
+8.  output of the program?
+	
+main()
+{
+int a=2, b=3;
+printf(" %d ", a+++b);
+}
+
+ans:5
+expl: here it evaluates as a++ + b. 
+
+9. output of the program?
+
+#define prn(a) printf("%d",a)
+#define print(a,b,c) prn(a), prn(b), prn(c)
+#define max(a,b)  (a<b)? b:a
+
+main()
+{
+int x=1, y=2;
+print(max(x++,y),x,y);
+print(max(x++,y),x,y);
+}
+
+
+ans: 3 4 2
+
+10. which of the following is the correct declaration for the function main() ?
+
+ans: main( int , char *[])
+
+11. if ptr is defined as
+
+	int *ptr[][100];
+	which of the following correctly allocates memory for ptr?
+
+ans: ptr = (int *)(malloc(100* sizeof(int));
+

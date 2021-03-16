@@ -1,0 +1,141 @@
+The quetions may not be in order
+
+Q 1-5:
+
+1) 6 persons A,B,C,D,E,F are playing a game of cards . A's  father and mother , uncle were in the gang. There were two women. B is the mother of A gets more
+   points then her husband. D got more points then E but less then F. Niece of
+E got the lowest points. Father of A agot More points then F. But would not win 
+the game.
+
+i). who won the game? 
+a)A  b) B  c) F  d) D    ans: b
+
+ii) who got lowest points ?
+
+a) A b) C  c) E d) B    ans: a
+
+iii). who is the husband of B ?
+a) F  b) E c) D d) c   ans : c
+
+iV) B was one of the lady. who was other lady?
+a) C b) D c) E d) A  ans: a
+
+v) who stood second in the game?
+a) A b) B c) C d) D  ans: c
+
+NOTE:  check answers.
+
+
+6). A is the widow of B. B & C were the only children of E. C is unmarried and
+is a doctor. D is the grand daughter of E and studies science. How is A related to D.
+
+a)Aunt b) daughter c) sister d) sister_in_law 		ans: b
+
+Follow the following for Q. 7-8.
+a) Only conclusion I follows definately.
+b)       ,,        II      ,,
+c) Both  I  &  II follow
+d) Neither I nor II follows.
+e) either I or II follows.
+
+7). STATEMENTS:
+It is some times said that corruption is due to proverty and gross diparities.
+It is an uncalled for slurr on the poor. Because the poor in India are among the most unsight persons.
+
+conclusions: 
+I. upsight persons can't be corrupt persons.
+II. Disparities of income make the people corrupt.
+
+
+ans: c
+
+8) STATEMENTS:
+The Indian economy has suffered considerble stresses and strains during the lostthree years. The general picture is one of stagnations. 
+conclusions: 
+I. stresses and strains in economy lead to stagnation .
+II. Indian economy is stagnant.
+
+ans: e
+
+Q. 9-15 follow this answers.
+a) only inference I follows.
+b) only inference II follows.
+c) Both I & II follow.
+d) neither I nor II follows.
+
+9). no hawk is a sparrow.
+    All hawks are hens.
+Inferences:
+I. no hen is a sparrow.
+II. no sparrow is a hen.
+ans: c
+
+10). all graduates are chairs.
+     all chairs are tables.
+Inferences:
+I. all graduates are tables.
+II. all tables are graduates.
+ans: a
+ 
+11) some birds are elephnts.
+    some elephants are white.
+Inferences:
+I. some birds are white
+II. some white are birds
+ans: d
+
+12) all fans are vans.
+    none van is pan.
+I. No pan is fan.
+II.no fan is pan.
+ans: d
+
+13). all boats are coats.
+     no coat is shirt.
+I. all boats are shirts
+II. all shitrs are boats.
+ans: a
+
+14). no pen is hen.
+     some hens are healthy.
+I. no pen is healthy.
+II. no healthy thing is pen.
+ans: d
+
+15) all hopes are doops.
+    all fears are hairs.
+
+I. all hopes are fears.
+   all doops are hairs.
+ans: d
+
+
+
+Below we are giving Q'es whatever remember to us. It is not clear and order.
+
+1). poem, song, rommance, dirty,couplet
+ans: Rommance
+
+2). Historical, ancient, olden ,inheritant.
+ans: inheritant.
+
+3) widow ...........,  		ans: daughter.
+
+4) For one coding problem ( ie he will give some numbering to alphbets )
+ans: 
+ 				1) PRIQOV
+				2) MOFZB
+
+6). synonyms:
+i) placeble   ii) emblish  iii) incence  iv) depricate  v) palret
+
+7) ODDMEN OUT:	
+
+	i) bench, chair, winch,thrown,pedastal  ans: pedestal
+	ii) book, volume, saga......
+	iii) 3,4,20,38 ....... ans: 20
+	iv) 3,6,52.5,157.5 ....ans: 52.5
+
+8). one age problem  father and son 10 years ago........ans: 14,38.
+
+

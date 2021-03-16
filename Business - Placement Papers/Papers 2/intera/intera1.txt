@@ -1,0 +1,147 @@
+Optimize the below 1,2,3,4 questions for time:
+
+1)
+int i;
+if i=0 then i:=1;
+if i=1 then i:=0;
+
+2)
+int i;
+if i=0 then i:=1;
+if i=1 then i:=0;
+(given that i can take only two values (1,0))
+
+3)
+int i;
+if i=0 then i:=1;
+else if i=1 then i:=0;
+(given that i can take only two values (1,0))
+
+4)
+int m,j,i,n;
+for i:=1 to n do
+m:=m+j*n
+
+5) Expand the following
+ a) ISDN
+ b) CASE
+ c) CSMA/CD
+ d) OOPS
+ e) MIMD
+
+6) In the following questions, answer A,B,C,D depending on when 
+the errors are  detected?
+  A if no error is detected
+  B if semantic and syntactic checking
+  C if during Code genration & Symbol allocation
+  D run time
+
+a) Array overbound
+b) Undeclared identifier
+c) stack underflow
+d) Accessing an illegal memory location
+
+7) How many page faults will occur for below sequence of pages when LRU
+page replacement algorithm is used ( The memory can only have 3pages):
+
+1,2,3,4,2,1,5,2,4 (something like that) 
+
+
+
+8) If a CPU has 20 address lines but MMU does'nt use two of them.
+   OS occupies 20K. No virtual memory is supported. What is the 
+   maximum memory available for a user program?
+
+9) For a binary tree with n nodes, How many nodes are there which
+  has got both a parent and a child?
+
+10) Understand the funda of incrementing a variable using 
+    val++   and ++val . Some programs are given for error correction.
+
+11) Learn datagram . (Computer networks)
+
+12) Which of the following can be zero? (only one)
+    a)  swap space
+    b)  physical memory
+    c)  virtual memory
+
+
+13) What is a must for multitasking?
+    a) Process preemption
+    b) Paging
+    c) Virtual memory
+    d) None of the above
+
+14) A question on call by value,
+		  call by name,
+		  call by reference.
+
+f(x,y,z)
+{
+y := y+1;
+z := z+x;
+}
+main()
+{
+int a,b;
+a := 2
+b := 2;
+f(a+b,a,a);
+print a;
+}
+
+what is the value of a printed for three different calls in main.
+
+15) Using the following instructions and two registers , A&B.
+   find out A XOR B and put the result in A
+   PUSH <reg>
+   POP  <reg>
+   NOR    These instructions operates with A & B and puts the result in
+   AND     A
+
+(question basically to get XOR in terms of NOR and AND)
+
+16) True/False questions:
+   1) The page size should be the power of 2.
+   2) 
+
+
+ 
+17) 
+int i=0;
+int j=0;
+
+loop: 
+  if(i = 0)
+     i++;
+  i++;
+  j++;
+  if(j<= 25)
+    goto loop
+xxx:   
+
+
+question1 : how many times is the loop entered 
+A few questions of that sort. some count fundaes. Easy one )
+
+18)  Who handles page faults? 
+  a) OS
+  b) MMU
+  c) Hardware logic
+  d) etc etc....
+
+19)  For which of following is it not possible to write an algorithm.
+
+a) To find out 1026th prime number
+b) To write program for NP-complete problem
+c) To write program which generates true Random numbers.
+etc...
+
+20) what is the essential requirement for an real-time systems
+ 
+a) pre-emption
+b) virtual memory
+c) paging  etc...
+
+
+	-- Question bank collected ,compiled and edited by BPM and Baiju.

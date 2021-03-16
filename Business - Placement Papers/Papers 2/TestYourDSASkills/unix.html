@@ -1,0 +1,254 @@
+<HTML>
+
+<HEAD>
+  <TITLE>Some Useful UNIX Commands</TITLE>
+</HEAD>
+
+<BODY bgcolor="#000000"
+      text  = "#00FF00"
+      link  = "#FFFF00"
+      vlink = "#FFAA00"
+      alink = "#FFAA00">
+<script language="JAVASCRIPT">
+<!--
+if (navigator.onLine){
+document.write("<!-- Spidersoft WebZIP Ad Banner Insert -->");
+document.write("<TABLE width=100% border=0 cellpadding=0 cellspacing=0>");
+document.write("<TR>");
+document.write("<TD>");
+document.write("<ILAYER id=ad1 visibility=hidden height=60></ILAYER>");
+document.write("<NOLAYER>");
+document.write("<IFRAME SRC='http://www.spidersoft.com/ads/bwz468_60.htm' width=100% height=60 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></IFRAME>");
+document.write("</NOLAYER>");
+document.write("</TD>");
+document.write("</TR>");
+document.write("</TABLE>");
+document.write("<!-- End of Spidersoft WebZIP Ad Banner Insert-->");
+}
+ //-->
+</script>
+
+<H1>Some Useful UNIX Commands</H1>
+
+What follows are some excerpts from the manual pages; for complete
+descriptions, use <B>man command</B>
+<P>
+Square brackets [ ... ] denote optional arguments to the command.
+
+<HR>
+<DL>
+<DT> <B>cd </B> [ directory ]
+<DD> directory becomes the new working  directory.   The  process
+     must  have  execute (search) permission in directory.  If cd
+     is used without arguments, it  returns  you  to  your  login
+     directory.
+<P>
+<DT> <B>cp </B> file1 file2
+<DD> cp copies the contents of  filename1  onto  filename2.   The
+     mode  and  owner  of  filename2  are preserved if it already
+     existed; the mode of the source file is used otherwise.   If
+     filename1  is a symbolic link, or a duplicate hard link, the
+     contents of the file that the link  refers  to  are  copied;
+     links are not preserved.
+<P>
+<DT> <B>diff </B> [ options ] filename1 filename2
+<DD> diff is a differential file comparator.  When run on regular
+     files,  and  when  comparing  text  files that differ during
+     directory comparison  (see  the  notes  below  on  comparing
+     directories),  diff  tells what lines must be changed in the
+     files to bring them into agreement.   Except  in  rare  circumstances,
+     diff finds a smallest sufficient set of differences.  If
+     neither filename1 nor filename2 is  a  directory,
+     either may be given as `-', in which case the standard input
+     is used.  If filename1 is a directory, a file in that directory
+     whose filename is the same as the filename of filename2
+     is used (and vice versa).
+<P>
+<DT> <B>du </B> [ -s ] [ -a ] [ filename ... ]
+<DD> du gives the number of kilobytes contained in all files and,
+     recursively,  directories within each specified directory or
+     file filename.  If filename is  missing,  `.'  (the  current
+     directory) is used.
+<P>
+<DT> <B>elm </B>
+<DD> Elm is an interactive screen-oriented  mailer  program  that
+     supersedes mail and mailx.
+<P>
+<DT> <B>emacs </B> [ filename ]
+<DD> MicroEMACS is a tool for creating and changing documents,
+     programs, and other text  files.   It is both relatively easy for
+     the novice to  use,  but  also  very  powerful in the hands of an
+     expert. MicroEMACS can be extensively customized for the needs of
+     the individual user.
+<P>
+<DT> <B>finger </B> [ options ] [ name ]
+<DD> By default, finger displays information about each logged-in
+     user,  including his or her: login name, full name, terminal
+     name (prepended with a `*' if write-permission  is  denied),
+     idle  time,  login  time,  and  location  (comment  field in
+     /etc/ttytab for users logged in locally, hostname for  users
+     logged in remotely) if known.
+<P>
+<DT> <B>ftp </B> [ host ]
+<DD> ftp is the user  interface  to  the  ARPANET  standard  File
+     Transfer  Protocol (FTP).  ftp transfers files to and from a
+     remote network site.
+<P>
+<DT> <B>handout </B>
+<DD> Handout allows access to a handout in the category  of  your
+     choice.  Handout  provides  a  menu  of current handouts and
+     interactively allows viewing, copying, and printing of  handouts
+     in the specified categories.
+<P>
+<DT> <B>lpq </B> [ -Pprinter ]
+<DD> lpq displays the contents of a printer  queue.   It  reports
+     the  status  of jobs specified by job#, or all jobs owned by
+     the user specified by username.  lpq reports on all jobs  in
+     the default printer queue when invoked with no arguments.
+<P>
+<DT> <B>lpr </B> [ -Pprinter ] filename
+<DD> lpr creates a printer job in a spooling area for  subsequent
+     printing  as  facilities become available.  Each printer job
+     consists of a control file and one or more data files.   The
+     data  files  are copies of (or, with -s , symbolic links to)
+     each filename you specify.  The spool area is managed by the
+     line printer daemon, lpd.  Jobs that specify a printer on
+     a remote machine are forwarded by lpd.
+<P>
+<DT> <B>lprm </B> [ -Pprinter ] [ - ] [ job# ] [ username ]
+<DD> lprm removes a job or jobs from a printer's spooling  queue.
+     Since  the  spool  directory  is protected from users, using
+     lprm is normally the only method by which a user can  remove
+     a job.
+<P>
+<DT> <B>ls </B> [ options ] [ name ]
+<DD> For each filename which is a directory, ls  lists  the  contents
+     of  the directory; for each filename which is a file,
+     ls repeats its name and any other information requested.  By
+     default, the output is sorted alphabetically.  When no argument
+     is  given,  the  current  directory  is  listed.   When
+     several  arguments are given, the arguments are first sorted
+     appropriately,  but  file  arguments  are  processed  before
+     directories and their contents.
+<P>
+<DT> <B>mail </B> [ options ] [ recipient ]
+<DD> mail is a comfortable,  flexible,  interactive  program  for
+     composing, sending and receiving electronic messages.  While
+     reading messages, mail provides you with commands to browse,
+     display, save, delete, and respond to messages.  While sending
+     mail, mail allows  editing  and  reviewing  of  messages
+     being  composed,  and  the  inclusion  of text from files or
+     other messages.
+<P>
+<DT> <B>man </B> [ options ] name
+<DD> man displays information from the reference manuals.  It can
+     display  complete  manual pages that you select by title, or
+     one-line summaries selected either by keyword  (-k),  or  by
+     the name of an associated file (-f).
+<P>
+<DT> <B>mkdir </B> directory
+<DD> mkdir creates directories.  Standard entries, `.',  for  the
+     directory itself, and `..' for its parent, are made automatically.
+<P>
+<DT> <B>more </B> file
+<DD> more is a filter that displays the contents of a  text  file
+     on  the  terminal,  one  screenful  at  a time.  It normally
+     pauses after each screenful, and prints --More-- at the bottom
+     of the screen.  more provides a two-line overlap between
+     screens for continuity.  If more  is  reading  from  a  file
+     rather  than  a pipe, the percentage of characters displayed
+     so far is also shown.
+<P>
+<DT> <B>mv </B> file1 file2
+<DD> mv moves files and directories around in the file system.  A
+     side  effect  of  mv  is to rename a file or directory.
+<P>
+<DT> <B>paper </B> [ user ]
+<DD> Paper displays paper usage information stored in the default
+     paper  quota file /usr/adm/pquota. Each user has an entry in
+     the paper quota file on the home site of the user.
+<P>
+<DT> <B>passwd </B>
+<DD> passwd changes (or installs) a  password,  login  shell  (-s
+     option),  or  full name (-f option) associated with the user
+     username (your own  by  default).   chsh  is  equivalent  to
+     passwd  with the -s option, and chfn is equivalent to passwd
+     with the -f option.
+<P>
+<DT> <B>ps </B> [ options ]
+<DD> ps displays information  about  processes.   Normally,  only
+     those processes that are running with your effective user ID
+     and are attached to a controlling terminal  (see  termio(4))
+     are  shown.  Additional categories of processes can be added
+     to the display using various options.  In particular, the -a
+     option allows you to include processes that are not owned by
+     you (that do not have your  user  ID),  and  the  -x  option
+     allows  you  to include processes without control terminals.
+     When you specify both -a and -x, you get processes owned  by
+     anyone,  with  or without a control terminal.  The -r option
+     restricts  the  list  of  processes  printed  to   "running"
+     processes:  runnable processes, those in page wait, or those
+     in short-term non-interruptible waits.
+<P>
+<DT> <B>quota </B> [ -v ] [ username ]
+<DD> quota displays users'  disk  usage  and  limits.   Only  the
+     super-user  may  use  the optional username argument to view
+     the limits of users other than himself.
+<P>
+<DT> <B>rm </B> file
+<DD> rm removes (directory entries for) one or more files.  If an
+     entry  was  the  last link to the file, the contents of that
+     file are lost.  See ln(1V) for more information about multiple
+     links to files.
+<P>
+<DT> <B>rmdir </B> directory
+<DD> rmdir removes each  named  directory.   rmdir  only  removes
+     empty directories.
+<P>
+<DT> <B>sort </B> [ options ] filename
+<DD> The sort program sorts and collates lines contained  in  the
+     named files, and writes the result onto the standard output.
+     If no filename argument is given, or if `-'  appears  as  an
+     argument, sort accepts input from the standard input.
+<P>
+<DT> <B>telnet </B> [ host [ port ] ]
+<DD> telnet communicates with another host using the TELNET  protocol.
+     If  telnet  is invoked without arguments, it enters
+     command mode, indicated by its prompt  (telnet>).   In  this
+     mode, it accepts and executes the commands listed below.  If
+     it is invoked with arguments, it performs  an  open  command
+     (see below) with those arguments.
+<P>
+<DT> <B>vi </B> [ options ] [ filename ]
+<DD> vi (visual) is a  display  oriented  text  editor  based  on
+     ex.   ex and vi are, in fact, the same text editor; it is
+     possible to get to the command mode of ex from within vi and
+     vice-versa.
+<P>
+<DT> <B>who </B>
+<DD> Used without arguments, who lists the login  name,  terminal
+     name,  and  login time for each current user.  who gets this
+     information from the /etc/utmp file.
+</DL>
+<HR>
+Updated: 6/27/95 <P>
+Peter Blomgren.
+
+<DT> <B></B>
+<DD> 
+<P>
+
+<P><IMG SRC="../../Figures/line2.gif" WIDTH="100%" height="2"><p>
+<center>
+  <A HREF="index.html">PIC60 index page</A>
+  &nbsp; &nbsp; &nbsp; &nbsp; 
+  <A HREF="mailto:blomgren@math.stanford.edu">Send mail to Peter</A>
+  &nbsp; &nbsp; &nbsp; &nbsp; 
+  <a href="javascript:self.close()"
+   onMouseOver='window.status="Close Window"'; return true;>close</a>
+</center>
+<P><IMG SRC="../../Figures/line.gif" WIDTH="100%" height="2">
+</CENTER>
+
+</body>
+</html>

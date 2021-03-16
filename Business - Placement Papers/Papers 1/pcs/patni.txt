@@ -1,0 +1,303 @@
+This is the latest patni paper(campus recritment)
+Basically there is a 
+1.apti(general+tech)
+2.gd
+3.pschyometric test
+4.interview(tech+personal)
+
+
+the apti consist of 20 questions time 50 min
+1.a school has 4 maths 3 physics and 3 chemistry
+teachers each teacher can
+teach 2 subjects max what is he minimum number of
+teachers required
+2.there is a weight question comparing peoples weight
+ans,, meera(choice d)
+3.one simple maths sum
+ans. 3/2
+4.a man walks at 8km/hr train crosses him at some
+speed^Å..
+ans.44
+5.there is a circle of radius 5.what is the area of
+the biggest rectangle that
+can be cut out of this circle
+6.in a chess board 2 squares are cut out leaving 61
+squares if we place blocks
+each of length=lengthof 2 squares and width=width of 1
+square how many blocks
+will be necessary
+7.how many minimum number of weigh are required to
+weigh 1-40kg using a
+weighing pan
+8.CPU     execution order(arrange the given steps in
+order ie steps involved in
+the execution of a statement by cpu
+9.radius =3 of a sphere it is melted to form a
+cube.what is the ratio of the
+cube of the volume of the sphere to the cube of the
+volume of the cube
+10.venn diagram
+ans . none of the above
+11 there are four consonants 3 vowels how many 6
+letter strings can u form
+with atleast one vowels in each 
+12. binary rep of .6875
+
+
+c apti
+
+
+13.scanf(^Å.)^Å^Å not sure
+ans :all the above 
+14.if(I&lt;j,j&gt;k,k=2)^Å^Å^Å^Å..
+ans 2
+16 "-this is a line"^Å^Å.
+Ans 11
+17.palindrome^Åchecking
+18.while loop
+ans 011122
+19 if(
+   i=2
+return
+else i=5
+^Å.return(i)
+^Å
+^Å
+ans 5
+20    array [5][10]
+*(*(array+2)+3) represents what?
+Ans represents content of [2][3]
+
+
+
+                    In the paper I am sending,there r
+about 40 vocabulary questions.But
+                    this year's paper has only 20 of
+them.Time 5 min.Marks 10.Do only
+                    15 or 16 bits correctly.
+
+
+                     Quantitative aptitude:I am
+sending 15 questions.In the latest paper we got,
+                      there r only 10 of them r
+present.Time 10 min.Marks 20.Do all the
+                      problems correctly.
+
+
+                      Reasoning:All answers r
+given.Remember them.In the exam, u willnot be
+                      having time to read the
+passages.So remember the answers.
+                      I dont remember twohe passages
+(R and Q).U can read these passages
+                      in the exam and answer
+them.Remember: don't answer all questions.Write
+                      7 or 8 incorrect answers.Time 45
+min.Total 70 questions and Marks 70.
+
+
+                      Your ultimate aim is to get 75
+to 85 marks.Because if u get high marks,
+                      they may assune that u know the
+paper beforehand and u may be disqualified.
+                      So don't get morethan 90 marks.
+
+
+                               WISH U ALL THE BEST.
+
+
+
+                  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                   &gt; &gt;
+                   &gt; &gt; Vocabulary
+                   &gt; &gt; ----------
+                   &gt; &gt;
+Admonish-usurp,meager-scant,alienate-estrange,merry-gay,brim-boarder,obstinate-stubbourn
+                   &gt; &gt;
+solicit-urge,subside-wane,furtive-stealthy,misery-distress,volume-quantity,
+                   &gt; &gt;
+veer-diverge,stiffle-snithy,adhesive-sticky,hamper-obstruct,belief-co
+                   &gt; &gt;
+nviction,lament-wail,incentive-spur,innert-passive,baffle-frustrate,confiscate-appropriate,c
+                  
+overt-crave,caprice-whim,concur-acquiesce,cargo-frieght,dispel-scatter,divulge-reveal,tomerit-to
+                  
+deserve,discreation-prudence,emancipate-liberate,efface-obliterate,
+                   &gt; &gt;
+                   &gt; &gt; hover-linger,heap-to
+                   &gt; &gt;
+pile,instigate-incite,latitude-scope,latent-potential,lethargy-stupor
+                   &gt; &gt;
+momentary-transient,pretentious-ostentatious,embrace-effigy
+                   &gt; &gt;
+                   &gt; &gt; Apptitude
+                   &gt; &gt; ---------
+                   &gt; &gt; 1)2 pencils costs 8 cents,then
+5 pencils cost how much
+                   &gt; &gt; a)20c
+                   &gt; &gt; 2)a work is done by the people
+in 24 min.one of them can do this work
+                   &gt; &gt; a lonely in 40 min.how much
+time required to do the same work for the
+                   &gt; &gt; second person
+                   &gt; &gt; a)60min
+                   &gt; &gt; 3)a car is filled with four and
+half gallons of oil for full round
+                   &gt; &gt; trip.fuel is taken 1/4 gallons
+more in going than coming.what is the fuel
+                   &gt; &gt; consumed in coming up.
+                   &gt; &gt; a)2 gallons
+                   &gt; &gt; 4)low temperature at the night
+in a city is 1/3 more than 1/2 hinge as
+                   &gt; &gt; higher temperature in a day.sum
+of the low temp and high temp is 100 c.
+                   &gt; &gt; then what is the low temp.
+                   &gt; &gt; a)40 centigrade
+                   &gt; &gt; 5)a person who decided to go
+weekend trip should not exceed 8 hours
+                   &gt; &gt; driving in a day average spped
+of forward journey is 40 mph.due to
+                   &gt; &gt; traffic insundays the return
+journey average speed is 30 mph.how far he
+                   &gt; &gt; can select a picnic spot.
+                   &gt; &gt; a)120 miles
+                   &gt; &gt; 6)a sales person multiplied a
+number and get the answer is 3
+                   &gt; &gt; instead of that number divided
+by 3.what is the answer he actually
+                   &gt; &gt; has to get.
+                   &gt; &gt; a)1/3
+                   &gt; &gt; 7)a ship started from a port
+and moving with I mph and another ship
+                   &gt; &gt; started from L and moving with
+H mph.at which place these two ships
+                   &gt; &gt; meet.
+                   &gt; &gt; a)between I and J and close to
+J
+                   &gt; &gt; 8)a building with height D ft
+shadow upto G.A neighbour building
+                   &gt; &gt; with what height shadow C ft is
+                   &gt; &gt; a)B ft
+                   &gt; &gt; 9)a person was fined for
+exceeding the speed limit by 10mph.another
+                   &gt; &gt; person was also fined for
+exceeding the same speed limit by twice the same
+                   &gt; &gt; if the second person was
+travellling at a speed of 35 mph.find the
+                   &gt; &gt; speed limit
+                   &gt; &gt; a)15mph
+                   &gt; &gt; 10)a bus started from bustand
+at 8.00am and after 30min staying at
+                   &gt; &gt; destination it returned back to
+the bustand.the destination is 27
+                   &gt; &gt; miles from the bustand the
+speed of the bus 50percent fast speed at what
+                   &gt; &gt; time it returns to the bustand.
+                   &gt; &gt; a)11.00am
+                   &gt; &gt; 11)in a mixture,R is 2 parts,s
+is 1 part
+in order to make s to 25% of the
+                   &gt; &gt; mixture,howmuch r is to be
+added
+                   &gt; &gt; a)one part
+                   &gt; &gt; 12)wind flows 160 miles in
+330min.for 80 miles how much time required
+                   &gt; &gt; a)---
+                   &gt; &gt; 13)with 4/5 full tand vehicle
+travels 12 miles, with 1/3 full tand how
+                   &gt; &gt; much distance travels
+                   &gt; &gt; a)5 miles
+                   &gt; &gt; 14)2 trees are there.one grows
+at 3/5 of the other.In 4 years
+                   &gt; &gt; total growth of the trees is 8
+ft.what growth will smaller tree will have
+                   &gt; &gt; in 2 years.
+                   &gt; &gt; a)2 ft
+                   &gt; &gt; 15)a storm will move with a
+velocity of --- towards the center in ---
+                   &gt; &gt; at the same rate how much far
+will it move in hrs
+                   &gt; &gt; a)8/3 or 2 2/3
+                   &gt; &gt; 15 not clear
+                   &gt; &gt;
+                   &gt; &gt;
+                   &gt; &gt; Reasoning
+                   &gt; &gt; ----------
+                   &gt; &gt; A.
+                   &gt; &gt; my father had no brothers but
+his 3 sisters are all married and each has 2
+                   &gt; &gt; children.my grandfather has 2
+sons.
+                   &gt; &gt; 1.mu father was an only child  
+  F
+                   &gt; &gt; 2.3 of my aunts have sons      
+  C
+                   &gt; &gt; 3.i have six cousins on my
+mother's side   C
+                   &gt; &gt; 4. i have only one uncle   F
+                   &gt; &gt;
+                   &gt; &gt; B.
+                   &gt; &gt; Senior managers in a leading
+company said that new japanese investment
+                   &gt; &gt; in india was transforming the
+car industry and warned that jobs were
+                   &gt; &gt; under threat from japanese
+competition. they stated that increasing
+                   &gt; &gt; competition would be coupled
+with an in evitable downturn i the car market
+                   &gt; &gt; and the recent rise in interst
+rates whaich had already hit demand.
+                   &gt; &gt; 5.some senior managers said
+that more people will want to buy new cars in
+                   &gt; &gt; the future.  F
+                   &gt; &gt; 6.managers told workers that
+japanese workers are taking jobs away from
+                   &gt; &gt; indian workers in the car
+industry.  F
+                   &gt; &gt; 7.the managers issued their
+warning after a rise in interest rates.  T
+                   &gt; &gt; 8.the increased rate of the
+interest will mean that japanese firms will
+                   &gt; &gt; cease to operate in this
+country.  C
+                   &gt; &gt;
+                   &gt; &gt; C.Researchers in mumbai have
+found that certain types of gallstones can be
+                   &gt; &gt; dissolved by injecting them
+with a gasoline additive in the form of ether
+                   &gt; &gt; the ether is injected through a
+tube directly into a tube directly into
+                   &gt; &gt; the gallbladder.the one day
+treatment works only on cholesterol-based
+                   &gt; &gt; stones.not those composed
+largely o calcium.however as the clolesterol
+                   &gt; &gt; stones are by far the most
+common typefor millions of gallstones
+                   &gt; &gt; sufferers the treatment should
+offer a welcome alternative tosurgery
+                   &gt; &gt; the commonest option in nost
+hospitals.
+                   &gt; &gt; 9.injecting ether into the
+gallbladder dissolves most gallstones   T
+                   &gt; &gt; 10.surgery is the only
+treatment for calcium stones   T
+                   &gt; &gt; 11.hundreds of peoplecontains
+calcium stones    C
+                   &gt; &gt; 12.calcium stones will be cured
+in one day  F
+                   &gt; &gt;
+                   &gt; &gt; D.organising the home can be
+perceived as conferring power so large
+                   &gt; &gt; numbers of women are unwilling
+to let go of chores,even when they have
+                   &gt; &gt; careers.a survey found that,out
+of 65 new marriages not one single wife
+                   &gt; &gt; expected her husband to share
+work equally.according to the family policy
+                   &gt; &gt; studies center 81% working
+wives return home to do all th cooking.The
+                   &gt; &gt; average male has nearly half as
+much more tfree time at weekends
+              &n
+

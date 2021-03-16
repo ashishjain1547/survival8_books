@@ -1,0 +1,112 @@
+    CISCO SELECTION PROCEDURE 
+    -------------------------
+        WRITTEN TEST + ONE INTERVIEW
+
+WRITTEN TEST
+============
+* Total Duration : 1 hour
+* NO NEGATIVE MARKING
+
+Total 3 sections
+----------------
+ * First section is COMPULSORY for both Electronics and Computer Science
+   students.
+
+ * Second Section is of Software.
+
+ * Third is of Hardware.
+
+ * I M P O R T A N T  :: ONLY  ONE  SECTION AMONG 2nd OR 3rd need to be
+   answered like for you, you will give the answers of Section 2. 
+
+ * 30 questions in each section
+ 
+ * There was no bound of time for a particular section. You can
+   devote any amount of time to any section but max. limit is 1 hr for
+   the whole paper.
+
+  DETAILS OF SECTIONS
+  ------------------- 
+  First Section : 1. Common to both cs and elec people.
+                  2. total 30 questions and NO negative marking
+                  3. Simple questions on digital logic design, 2's
+                     complement, number representations, flipflops,
+                     microprocessors(8085), Architecture[virtual memory
+                     and small numerical like what will be the size of the 
+                     memory if we have given the no. of address bits and
+                     other necessary details].
+                     One question of formal method.
+
+  Second Section: 1. Software Section
+                  2. total 30 questions and NO negative marking 
+                  3. OS(3-4 qns), Compilers(2-3 qns. on basics),
+                     maximum qns. were of C and Data Structures[trees,
+                     preorder,post,inorder traversals,complexity of
+                     search/sort, suitable data structures etc.]
+
+  Third Section : devoted to hardware. i do not have any details as no
+                  computer sc. student appeared for this section.
+
+INTERVIEW
+=========
+Regarding CISCO interviews...... they asked about project and some C and
+data structures and to some students some basics of networking and OS
+questions..... there were 3 panels....... 2 panels for Software and 1 for
+hardware....
+
+Student has to give only one interview in any panel....There was no
+separate HR interview.... interview was of generally 25-30 minutes
+duration.... 2/3 persons in an interview panel....
+
+Finally from IISc, in Software, they selected 9 people from Computer
+Science and in hardware, 3 from CEDT(Electronics Design).
+
+Interview Questions
+-------------------
+0. M.E. Project
+
+1. If you are not having a sizeof operator in C, how will you get to know
+   the size of an int ?
+
+2. Write a macro to set the nth bit ?
+
+3. Can you use a variable in a file using extern which is defined as
+   both static and global in base file?
+
+4. When we declare union in C, how is the size of union allocated in the
+   memory?
+
+5. What is the boundary problem in allocation of size of structures?
+
+6. Data Structures:-
+   
+   a. Write a program to reverse a linked-list.
+      Uma, before interview, practise it on a paper as many here couldn't
+      write the code at the time of interview.
+
+   b. Some trees question...what is balanced binary tree?..etc..
+
+To Some students, one software panel asked about the courses they had done
+here in IISc.
+
+To some people, they have asked some OS and networking questions like 
+
+OS Questions:
+1. What is the difference between user and kernel space?
+2. What is real time OS and how it's different from other OS?
+3. signal and interrupt handling.
+
+Networking Questions:-
+1. Sliding window protocol.
+2. TCP And IP differences.
+
+This all I come to know from the 2 fellows, other written paper details
+possibly questions, i will enquire tomorrow morning and send you.
+
+IMPORTANT : I am sending you an OLD paper of CISCO as an attachment. My
+            friends who have got thru cisco says that this year many
+            questions were there from this paper. For example, in 1st
+            section of the written test, the only question of formal
+            method was same as asked in this old paper. 
+*************************************************************
+

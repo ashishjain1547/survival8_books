@@ -1,0 +1,264 @@
+     HONEYWELL 
+
+Here is the questions that was asked to one of my ms friends in
+last years campus interview (Honeywell).
+This was not included in the database in ~mrb.
+/***************************************************************/
+Hi MRB,
+		I am out of placement after getting selection in Honeywell,
+which was my dream job.
+
+Honeywell conducted a test in IIT and Interview was in their
+office at B'lore.
+
+Test contained 100 multiple choice questions divided into
+
+		a) Verbal ability  (15 ques)
+		b) Numerical aptitude (15 )
+		c) Logical and analytical ability (15)
+		d) Elementary computer science (10)
+		d) Programming langauages (20)
+		e) Operatins systems and Data structures (25)
+
+Not sure about the number of questions.
+
+Verbal ability questions contained 3 parts. 
+a) One passage is given and U have to answer 5 questions
+b) Some words are given and their synonyms have to be written
+c) 
+
+Numerical aptitude and Logical questions were the usual stuff.
+---------------------------------------------------------------
+I had 4 rounds of interview.
+First round (around 45 minutes) contained, questions from Real-time
+-----------
+Systems (my research area), operating systems and Software Engineering
+
+Explain U'r research work.
+
+What is a Real-Time System ?
+What is the difference between Hard and Soft real-time systems ?
+What is a mission critical system ?
+What is the important aspect of a real-time system ?
+
+Explain the difference between microkernel and macro kernel.
+Give an example of microkernel.
+Why paging is used ?
+Which is the best page replacement algo and Why ?
+
+WHat is software life cycle ?
+How much time is spent usually in each phases  and why ?
+Which one do U want to work if selected in Honeywell ?
+( I said I don't like testing )
+They asked why ? 
+I said it is a boring job. Then they tried to analyse
+the knowledge in testing.
+
+What is testing ?
+Which are the different types of testing ?
+Then they explained the way they do testing. They said that they are
+doing testing in requirement phase and design phase so that if any
+problem comes in those phases it is not ncecessary to go back and change
+the requirement or design. All the test processing is automated.
+
+Why do U want to join Honeywell ?
+Ans : To get a practical feeling of Real-time systems. 
+
+Do U know C++ ?
+How good are U in C and C++ ?
+Rate U'rslef in both C and C++. ( 1 - 10 marks)
+
+Second round (around 45 minutes ) 
+------------
+They wanted a bio-data at the time of inteview. I gave the placement
+office bio-data and in that one there was column 'Major subjects
+studied'. Many of the questions came from those.
+
+Explain U'r research work.
+Lot of questions from it.
+
+What is a distributed system ?
+Some questions about CSP. ( I kept quiet)
+Which languages do U know ?
+What are the differences between Pascal and C.
+I said Pascal is a strongly typed language.
+Then what is typing  and its advantages ?
+Then he asked some questions from Compiler construction and Lisp.
+
+WHich are the different computer architectures ?
+What is the requirement in MIMD ?
+What is the difference between RISC and CISC processors ?
+Difference between loosely coupled and tightly coupled systems ?
+What is an open system ?
+
+Still a lot of questions from software engineering .
+Which are the different phases in Software life cycle (asked again)
+Why is analysis and testing phases very important ?
+Which methodologies are U familiar with ?
+
+Have U worked in windows ? (Yes)
+What is the difference U have seen from a Dos environment ?
+I said it event driven .
+So what do U mean by event driven ?
+How do WinMain look like ?
+How the messages are processed in Windows ?
+(Queue of events)
+What are parameters needed to distinguish an event ?
+
+Have U done any network programming ?
+Why networks are layered ?
+What is the advantage of that ?
+How many layers are there in OSI ?
+WHy is it called OSI model ?
+Are U familiar with network topologies ?
+Which are the different network toplogies ?
+Tell an example of bus type network.
+I said ethernet.
+What is the Bandwidth of ethernet ?
+Explain the advantage and disadvantage of ethernet ?
+Which is the protocol used in ethernet. (CSMA/CD)
+Why is it called so ?
+If all stations tries to communicate at same time, what will happen.
+What is binary exponential backoff algo ?
+
+What is the advantage of Ring network ?
+Compare it with ethernet.
+In a real-time system which one do U prefer and why ?
+What is the basic requirement of a real-time network ?
+Which one is costly - ethernet of ring networks ?
+
+Some questions form OOSD and Digital signal processing.
+What is inheritance, encapsulation etc.
+
+Third Round (15 minutes)
+-----------
+Asked about the percentages and marks during SSC, PDC, B.Tech and MS.
+When can U join ?
+Who is U'r guide ?
+U are from which place ?
+Where is it in Kerala ?
+How do U perform in the first two interviews ?
+WHy have U given Honeywell as dream job ?
+Some more personal questions
+
+Fourth Round (45 minutes)
+------------
+What do U like in Bangalore ?
+I said the weather and all my friends are here.
+Asked about my family members.
+How do  U interact with friends ?
+How do adjust to a new environemnt ?
+Suppose U solve a problem and after that U are getting an almost same
+problem with high complexity ( and lower complexity). How will U
+approach to the next problem. 
+What is U'r approach towards a new subject ?
+How do U prepare for exams ?
+Suppose in a project meeting, somebody fires U, how will U react ?
+Are U patient enought to wait in long queues ?
+Still some more which I don't rememebr.....
+
+
+VERIFONE
+
+Verifone test Questions :
+
+There are two parts :
+Note: The Answers given here are what i wrote, May not be correct.
+
+1. Aptitute test 	:  15 Minutes, 20 Questions
+
+	Towards the middle questions are easy than from the front.
+
+	eg.  Product of three consecutive nos. 210.  What is the sum
+	   	of two least numbers?
+		ans.: 5 * 6 * 7 = 210 , sum = 11 is answer
+
+	eg.  If the area of the sqaure is increased by 69 % how
+		much the length of the side will increase?
+
+		  ans.: 13 (i think)
+	eg.  if the sum of five consecutive nos. 35? how many prime nos
+		are there :
+		 
+		ans: 5 + 6 + 7 + 8 + 9 = 35  so two primes
+
+	eg.  if the length of the rectangle is reduced by 20% and breath
+		is increased by 20 % what is the net change ?
+		ans.: 4 % decrease
+
+2. 
+
+
+i. Electrical & Electronics  	: 15 Questions
+	and,nand...circuit realted stuff,  ..........
+
+ii.Data Structures, Algo., & Complexity theory : 5 questions
+
+a. if W is a sequence of strings without a and W' is its reversal
+	then WaW' is generated by:
+
+		ans. i think Context Free Grammmars
+
+b. Whether all recusive pgm can be writtten iteratively?
+
+c. What data structes you will use if you want to go to first record from
+the last and vice versa?  
+	ans.: doubly linked circular list
+
+d. Given 10000 nos. and 48MB Memory.  What is the complexity of the 
+efficient sorting algo.? (the algo. is not mentioned)
+
+e.  Given a  C code and ask what it does?
+	I think the code was something similar to Bubble sort and that
+particular code does the sorting in Desending order and the complexity
+is O(n^2)(which is the next question).
+
+iii. OS : 5 questions
+
+a. If there are too many page faults what is the problem?
+
+b. To ensure one pgm. doesnt corrupt other pgm. in a Multi-pgm. enviornment
+	what you should do?
+
+c. Which one you will use  to implement critical section?
+	Binary Semaphore
+
+d. Which one is not needed for Multi-pgm. enviornment?
+	options are: virtual memory,security,time sharing,none of the
+     			above.	
+	
+
+iv. Networks and Hardware:  5 questions
+
+a. Which one is not done by Data link layer ?
+	bit stuffing, LRC,CRC,parity check 
+	
+b. Which one is not related to Data link layer?
+
+c. Which one is not suitable for client-server application?
+	tcp/ip,message passing,rpc,none of the above.
+
+d.
+
+
+
+v. Databases and Misc.: 5 questions
+
+a. What SQL .................. (not the expansion)
+
+b. Indexing in databases give you ............
+
+c.  
+
+
+vi. C Pgm. : 5 questions
+
+1. int a=1,b=2,c=3;
+   printf("%d,%d",a,b,c);
+	What is the output?
+
+2. for(i=0; i<=10;i++,printf("%d",i); +-   (+- is there in the questions)
+
+3. Scope of Static Variable ............
+
+4. Given a C code and what is the output?

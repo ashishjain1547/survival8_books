@@ -1,0 +1,392 @@
+
+>                        INFOSYS(1998-99)
+>                   
+>                     LOGICAL THINKING TEST
+>                     ---------------------
+>                                                       Time : 1 hour
+>                                                       Total Marks : 50
+> 
+>           ALL QUESTIONS DO NOT CARRY EQUAL MARKS
+> 
+> INSTRUCTIONS
+>       
+>       *  Please do not write/mark on the question paper.
+> 
+>       *  Read the questions carefully. Work your answers carefully 
+> and as
+ 
+>          rapidly as possible.
+>       
+>       *  Do not spend too much time on questions that seem difficult 
+> for you.
+ 
+>          If time permits go back to the ones you have left out.
+> 
+>       *  Answer sheets have been provided to you separately. Use the 
+> first
+ 
+>          sheet to write your answers and use the remaining sheets for 
+> the 
+ 
+>          detailed working.
+> 
+>       *  On completion, please put your answer sheet along with the 
+> working
+ 
+>          sheets, inside the question paper and hand them back to us.
+> 
+>       *  There is no negative marking.   
+> 
+> 
+>       Do not turn the page until you are told to do so.
+> 
+> 
+> 
+> 
+> 
+>  1.                                                           2 Marks
+>       
+>       When Arthur is as old as his father Hailey is now, he shall be 
+> 5 times
+ 
+>       as old as his son Clarke is now. By then, Clarke will be 8 
+> times older
+ 
+>       than Arthur is now. The combined ages of Hailey and Arthur are 
+> 100 
+ 
+>       years. How old is Clarke ?
+> 
+> 2.                                                            3 Marks 
+>         
+>       I have one orange glass containing orange juice and another 
+> white glass
+ 
+>       containing apple juice. I take 50 ml of orange juice and mix it 
+> with
+ 
+>       apple juice in the white glass. Then I take 50 ml of this 
+> mixture and
+ 
+>       transfer it back to the orange glass.
+>       If you compare amount of apple juice in the orange glass and 
+> amount of
+ 
+>       orange juice in the white glass which is more than the other 
+> and by
+ 
+>       how much ?
+> 
+> 3.                                                            3 Marks 
+>       
+>         The seven digits in this subtraction problem are 
+> 0,1,2,3,4,5 and 6.
+ 
+>       Each letter represents the same digit whenever it occurs.
+>       
+> 
+>                    D   A   D   C   B
+>                       
+>                        E   B   E   G
+> 
+>                   --------------------
+>                   
+>                          B   F   E   G
+>                        
+>                     --------------------
+>                        
+>       What digit is represented by each letter ?
+>       
+> 
+> 4.                                                            4 Marks
+> 
+>         The Jones have named their four boys after favourite 
+> relatives; their
+ 
+>       friends, the Smiths, have done the same thing with their three 
+> boys.
+ 
+>       One of the families has twin boys. From the following clues, 
+> can you
+ 
+>       determine the families of all seven children and their ages ?
+> 
+>       i)   Valantine is 4 years older than his twin brothers.
+>       ii)  Winston, who is 8, and Benedict are not brothers. They are 
+> each
+ 
+>            named after a grandfather.
+>       iii) Briscoe is two years younger than his brother Hamilton, 
+> But three
+ 
+>            years older than Dewey.
+>       iv)  Decatur is 10 years old.
+>       v)   Benedict is 3 years younger than Valentine; they are not 
+> related.
+ 
+>       vi)  The twins are named for uncles.
+> 
+> 
+> 5.                                                            4 Marks
+> 
+>         Motorboat A leaves shore P as B leaves Q; they move 
+> across the lake at
+ 
+>       a constant speed. They meet first time 600 yards from P. Each 
+> returns
+ 
+>       from the opposite shore without halting, and they meet 200 
+> yards from
+ 
+>       Q. How long is the lake ?
+> 
+> 
+> 6.                                                            4 Marks
+> 
+>         Fanta, Pepsi and Citra often eat dinner out.
+> 
+>       a) Each orders either coffee or tea after dinner.
+>       b) If Fanta orders coffee, then Pepsi orders the drink that 
+> Citra orders.
+ 
+>       c) If Pepsi orders coffee, then Fanta orders the drink that 
+> Citra does
+ 
+>          not order.
+>       d) If Citra orders tea, then Fanta orders the drink that Pepsi 
+> orders.
+ 
+> 
+>       Which person/persons always orders the same drink after dinner 
+> ?
+ 
+> 
+> 
+> 7.                                                            6 Marks
+> 
+>         On the Island of imperfection there is a special road, 
+> Logic Lane, on
+ 
+>       which the houses are usually reserved for the more mathematical 
+> inhabitants.
+ 
+> 
+>       Add, Divide and Even live in three different houses on this 
+> road (which
+ 
+>       has houses numbered from 1-50). One of them is a member of the 
+> Pukka Tribe,
+ 
+>       who always tell the truth; another is a member of the Wotta 
+> Tribe, who never
+ 
+>       tell the truth; and the third is a member of the Shalla Tribe, 
+> who make
+ 
+>       statements which are alternately true and false, or false and 
+> true.
+ 
+> 
+>       They make statements as follows :
+> 
+>       ADD     : 1 The number of my house is greater than that of 
+> Divide's.
+ 
+>                 2 My number is divisible by 4.
+>                 3 Even's number differs by 13 from that of one of the 
+> others.
+ 
+> 
+>       DIVIDE  : 1 Add's number is divisible by 12.
+>                 2 My number is 37.
+>                 3 Even's number is even.
+> 
+>       EVEN    : 1 No one's number is divisible by 10.   
+>                   2 My number is 30.
+>                 3 Add's number is divisible by 3.
+>               
+>       Find to which tribe each of them belongs, and the number of 
+> each of
+ 
+>       their houses.
+> 
+> 
+> 8.                                                            8 Marks 
+> 
+>       
+>         The names of the inhabitants of Walkie Talkie Land sound 
+> strange to the
+ 
+>       visitors, and they find it difficult to pronounce them, due to 
+> their
+ 
+>       length and a few vowel sounds they contain. The Walkie Talkie 
+> guide is
+ 
+>       discussing the names of four inhabitants - A,B,C and D. Their 
+> names
+ 
+>       each contain upto eight syllables, although none of the four 
+> names
+ 
+>       contain the same number. Two of the names contain no vowel 
+> sounds; one
+ 
+>       contains one vowel sound; and one contains two vowel sounds.
+> 
+>       From the Guide's statements below, determine the number of 
+> syllables
+ 
+>       and vowel sounds in each of the four Walkie Talkie names :
+> 
+>       i)  The one whose name contains two vowel sounds is not A.
+>       ii) C's name does not contain more than one vowel sound or 
+> fewer than
+ 
+>           seven syllables.
+>       iii)The name with seven syllables does not contain exactly one 
+> vowel
+ 
+>           sound.
+>       iv) B and C do not have names with the same number of vowel 
+> sounds.
+ 
+>       v)  Neither the name with five syllables nor the name with 
+> seven syllables
+ 
+>           contains more than one vowel sound.
+>       vi) Neither the name with six syllables, nor the B's name, 
+> contains
+ 
+>           two vowel sounds.
+> 
+> 
+> 9.                                                            8 Marks
+> 
+> 
+>         Multiplication and Division.
+> 
+>       
+>       (1)    - - - - -  (a)          (2)          _ _ . _    (d)
+>                                           ________________
+>                  - - -  (b)          - - -) - - - - - . 0
+>             _________________                 - - -
+>                                            _______________
+>              - - - - -                        
+>          - - - - -                            - - - -
+>         ___________________                     - - -
+>                                              _______________
+>          - - - - - - -  (c)                       
+>                                                   - - -
+>                                                   - - -
+>                                                  ========
+> 
+>         (1) and (2) represent the same two numbers - in one case 
+> multiplied 
+ 
+>  9together, in other case divided.
+> 
+>       Given that there are no 3's. find the missing digits indicated 
+> as
+ 
+>       (a), (b), (c) and (d) above ?
+> 
+> 10.                                                           8 Marks
+> 
+>         Two identical twins have a very unusual characteristic. 
+> One tells 
+ 
+>       nothing but lies on Mondays, Wednesdays and Fridays, and tells 
+> nothing
+ 
+>       but the truth all other days. The other tells nothing but lies 
+> on
+ 
+>       Tuesdays, Thursdays and Saturdays, and tells nothing but the 
+> truth
+ 
+>       all other days. On Sundays both children speak the truth.
+> 
+>       1) Which of the following statements can be deduced from the
+>          information presented ?
+>         
+>          i)  If it is Sunday, the twins will both say so.
+>          ii) If it is not Sunday,one twin will give the correct day 
+> and
+ 
+>              the other will lie about everything.
+>          iii)On any given day, only one twin will give his correct 
+> name.
+ 
+> 
+>                a)  i only
+>                b)  i and ii only
+>                c)  i and iii only
+>                d)  ii and iii only
+>                e)  i,ii and iii
+> 
+>       2) According to the information presented, which of the 
+> following
+ 
+>          conversations will be impossible.
+> 
+>          a) Twin A  :  "Today you are a lier"
+>             Twin B  :  "You are telling the truth"
+> 
+>          b) Twin A  :  "Today you are a lier"
+>             Twin B  :  "Today I am a truthteller"
+>             
+>          c) Twin A  :  "Tommorow I shall be a lier"
+>             Twin B  :  "That's correct"
+>             
+>          d) Twin A  :  "Tommorow you will be a lier"
+>             Twin B  :  "Today you are a truthteller"
+>             
+>          e) Twin A  :  "Yesterday we were both truthtellers"
+>             Twin B  :  "You are lying"
+> 
+>        3) Assume that the twins followed a different set of 
+> rules, so that on
+ 
+>           a given day both told only the truth while next day 
+> both only lied,
+ 
+>         alternating days of truth telling and lying. Under these 
+> rules,which
+ 
+>         of the following conversations would be possible ?
+> 
+>          a) Twin A  :  "Today you are a lier"
+>             Twin B  :  "That is correct"
+>             
+>          b) Twin A  :  "Today you are a lier"
+>             Twin B  :  "That is not so"
+>             
+>          c) Twin A  :  "Tommorow we will be liers"
+>             Twin B  :  "Yesterday we were truthtellers"
+>             
+>          d) Twin A  :  "Tommorow we will be liers"
+>             Twin B  :  "You are 1 year older than I am"
+>             
+>          e) Twin A  :  "We always tell the truth"
+>             Twin B  :  "We some times tell the truth"
+> 
+>       4) If the twins are heard saying the following on the same 
+> day, which
+ 
+>          choice presents a correct statement ?
+> 
+>         Twin A   :   "It is Sunday Today"
+>         Twin B   :   "Yesterday was Sunday"
+>         Twin A   :   "it is summer season now"
+> 
+>           a) it is a summer sunday
+>         b) it is a summer monday
+>         c) it is Monday but not summer
+>         d) it is Sunday but not summer
+>         e) it is impossible to determine whether it is Sunday or 
+> Monday.
+ 
+> 
+> 
+>                  -----------------*-----------------

@@ -1,0 +1,105 @@
+Dear Friends,
+ 
+  This is  INFOSYS PAPER for the CAMPUS at V.J.T.I.  On 9th July 2001.
+      TOTAL MARKS   50                                               DURATION  60 MIN.  
+
+   Total 300 candidates have appeared for written exam and 108 were short listed.
+   In the interview, in general 3 puzzles were asked; followed by technical questions in respective field. Also some general questions were asked.
+
+  I am not remenbering the correct names so abbrevated them as A,B,C...
+
+
+1.A,B,C were  gone for a trip. A  visited 2.4 t imes than B, B visited 6 few than C.Find minimum no. of trips all of them visited.
+        3 Marks
+  Ans. 28
+2.A & his family decided to go for trip for the 9 days. They did not wish to travel too many in the first day, so they decided they will travel 20 kms. more every day rom first day
+ day.They had travelled 1080 kms. at the end of 9th day.
+        4 MARKS
+    A. How much distance they had travelled on 4th day?
+      ans   100
+    B. How much distance they had travelled on last day?
+     ans   200
+3. 1,2,3,4,5,6,7,8,9 r different cities to be connected by air route.but condition is that two cities will be connected if the no. formed by them is divisible by 3 (eg. If 1 & 2 r two cities no. formed by them us 12,divisible by 3)
+    How many cities r connected to city 8 ,consider intrconnectivity.
+           3 MARKS
+     ans.
+
+4.A thief entered in house for theft, he found a pile of diamomds. He kept half of the diamonds & 2 more.there after second thief entered, kept half of the remaining & two more. Third thief entered, kept half of the remaining & 2 more. Fourth thief entered ,kept half of remaining & two more. Fifth thief entred ,found that there is nothing renaining.
+    How many diamonds r there in pile
+           5 MARKS
+    Ans - 60
+
+5. Tank is filled by 2 pipes, bigger & smaller. IF bigger pipe open, tank is filled in 3 hrs, if smaller is open, it is filled in 5hrs.If outlet pipe is open ,it is emptied in 8 hrs.If all the three pipes r open,what would be the volume in proportion to be failed up in the 1.84 hrs.
+   
+      4 MARKS   
+    
+    Ans.  (1/5 + 1/3-1/8)* 1.84
+
+6.Hare & tortoise race. They decided to run around a circle of dia  100 yards.They started at the same point in opposite direction.  Hare starts after tortoise covered 1/8th of distance. Hare meets tortoise when he covered 1/6 of total distance.
+   How much faster hare should run to win the race?
+
+   4 MARKS 
+
+7.There is a CAR AUCTIONS & there r thirty bidders. 10 bidders bought less than 6 cars, 8 bought more than 7, 5 bought more than 8 & i bought more than 9.  How many bidders bought 6,7,8,9 cars?
+   5 MARKS
+
+Ans.-6-6, 7-6, 8-3, 9-4
+ 
+8. I am following SHAKESPARES THORY that the person who is slim always speaks the truth.There r 4 persons A,B,C,D WHO MADE FOLLOWING STATENENTS.
+   
+  A- B is ligher than D
+  B- A is heavier than  C
+  C- I am heavier than D
+  D- C is heavier than B
+
+  The fact is that "ONLY ONE THEM SOEAKS THE TRUTH"
+  Arrange the A,B,C,D in ascending order from slim to haevy.
+     
+      8 MARKS
+  
+ Ans- A
+         C
+         B
+         D
+9. Capton Latoof & his 4 friends deciced to play game of Mustak (shooting game) 
+    Decide their order fulfiling following conditions.
+
+  1.CL is 3rd if RD is fifth
+  2.WJ didnot stand second If BC is 1st or 3rd.
+  3.BC is 1st if CL is 2nd & RD fourth.
+  4.CL is 2nd or fourth if WJ stands 2nd
+             8 Marks
+
+  Ans         1                  2                   3                4
+   
+              U have to arrange them below 1,2,3,4 &  there r only 4 no.
+             I am not able to recall it correctly, It is better if u refer this type of PUZZLES FROM GEORGE SUMMER or RAVI NARULA.  KEEP IN MIND THEME OF PUZZLE.
+10.   I am having a company & decided to hire 5 peoples for different jobs of DOORKEEPER, DOORKNOB CLEANER, WORKER, WELFARE OFFICER,BOTTLE WASHER. 
+   A,B,C,D,E  are 5 options.
+    A  wishes that E should not be cleaner.
+    B  wishes that C neither doorkeeper nor welfare officer
+    C  wishes that B either  cleaner or bpttle washer
+    D  wishes that  C should be worker.  
+         
+      Decide the jobs of respective fulfilling given conditions.
+
+               A             B           C           D        E
+JOBS    
+
+        U have to write type of jobs below A,B,C,D,E
+           8 MARKS
+Ans.
+  
+         I am not able to recall it correctly, It is better if u refer this type of PUZZLES FROM GEORGE SUMMER or RAVI NARULA.  KEEP IN MIND THEME OF PUZZLE.
+ 
+ESSAY WRITING
+ 
+ MARKS 15                                DURATION  15 MIN.
+   
+ TOPICS
+  
+1.  INTERNET REACH TO INDIA
+
+2. PRIVATISATION OF PUBLIC SECTOR IS NECESSORY?
+
+         

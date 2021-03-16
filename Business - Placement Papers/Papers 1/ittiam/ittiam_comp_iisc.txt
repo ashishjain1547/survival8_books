@@ -1,0 +1,92 @@
+for computers
+ 20 tech 30 app
+tech ican remember
+but non tech i cant,
+some question on digital also asked.
+
+
+in apptitude see problems on profit loss, chainl rule,set(a - some b some,
+a and b in some then a and b in none.)some question on relations some quetions
+on  placing of someople at possible places,. ...
+
+
+1.in around people have to take seats there are N people. so what is the probabilty of A and B sit Together.
+a)1/N+1  b)2/N+1......
+
+2.one question asked on double linked list there are three nodes T is poniting to middle one.if T  should be removed what is the code for it . some three libe code is give in opytions.
+
+3.given a diagram there is 0-9 address line, 0-16 data line and two one line
+and one line . how many address lines can be formed. 
+
+4.one threaded binary tree is given and some node in it is given and asked to give the root of it some three codes are given i think answer is all the above i think.
+
+
+
+ 
+5)int *(p)();
+  what is the meaning of this statement.
+ 
+6)what laplace transform of the function
+   f(i)=1 given at range
+       =0 others
+7)what is the Z transformer of impulse fuction
+ 
+8)the probability of ouccurance of A,Band C are 0.55,0.35,and0.15 then 
+what is the huffman coding given to A.
+
+
+9)a question on cahehit ratio. asked to give effective access time easy one
+every one can solve it answer is 4.94.
+
+10)         -----------|>|-----|(---
+            |                       |
+            |                       |
+            |                       |
+             -------------O---------  
+   
+think it as a circuit my figure is not good |> think this symbol as diode.
+ then what will be the the nature of voltage acros -|>|---, --|(--- etc
+  
+11)   the sum of series going from  k= 0 to infinete for the
+       function 1-k/2^k.
+      (actually it is given in sigma symbol. that sum of)
+
+12)  given a 1...N nodes how many trees are there for whic there
+     preorder and post order traversals are equal.
+
+13) sequence of numbers  given asked to insert in a binary tree.
+    then what is the root of it.
+
+
+these are the 13 out of 20 technical questions i remembered.
+
+*********************
+Some more Questions
+*********************
+here r some questions i remembered from ittiam test
+(the questions r not exact but may give u some idea):-
+comp sci section...
+          *>how many binary search trees r there for which postorder and
+inorder travrsals r same?
+          *>for a microprocessor, some address pins r given...u have 2
+find the addressing capability?
+          *>numbers 1 to 9 (not in that order) given, u have to find root
+if they r inserted in a bin search tree?
+          *>implementation of x-or gate using combination of or,and and
+not gates?
+          *>2 men sit adjacent to each other in a circular queue of n
+people.how many combinations possible?ANS:2/(n-1).
+          *>Z-transform of impulse function.
+          *>Laplace transform of pulse.
+          *>for AND gate, one input has freq F,other has 2F,what will b
+o/p freq?
+          *>two c prog given of fib series.ANS:same o/p
+          *>a few more questions on c prog
+
+i remember 2 passages-they were picked straight from BARRON's:
+          *>allan,parker,white,black,braun etc. sitting arrangement:
+3-4questions
+          *>a,b,c,d,e interview combinations, c can give only 1 int, all
+others 2,
+            :3-4questions.
+            do these from barron's, they were the same.

@@ -1,0 +1,385 @@
+--------------------------------------------------------------------------------  
+   INFOSYS   -------- 
+	 1.  A person was collecting end pieces of Cigerettes.	He was 	managed to 
+	collect 49     pieces.	We need 7 such pieces to make new one.	So 	how many 
+	Cigerettes he can     make?						       
+	  (2 marks)  
+ 
+	2. A person moving from a place(camp)., towards East one mile, then 	towards 
+	North	  half mile, towards West 1/4 the mile, towards South 1/8th 	mile and 
+	again	 towards East 1/16th mile and so on.  That is the distance 	between him 
+	and the    starting point.						       
+	(3 marks) 3.  500 men were arranged in 10 rows and 50 columns.	They 	picked 
+	the oldest person     from each row and the tallest of these persons 	is 'A'.  
+	They replace them in	  their places and again picked tallest 	person from 
+	each column and the shortest	 of these persons is 'B'. Assume A & 	B are 
+	different people. Who is the	  tallest person among A & B?			       
+		      (5 marks) 4.  The product of two nonzero numbers is 
+	1,000,000,000.	What are the	  numbers ?				       
+		      (5 marks) 5.  There is Mathematician.  He met his 	friend 
+	and asked about his children.	  His friend told in the form of a 	problem 
+	that he has three children. The     product of th eir ages is 36. The 	addition 
+	of their ages is the door number     of his left side house.  	Mathematician 
+	went and checked the door number     He told that the clues are not 
+	sufficient.  He gave another clue that	   is his younger daughter is 	clearly 
+	younger.  What are their ages ?  (6 marks) 6.  There is a light glows 	in the 
+	interval of 13 sec.  It glows first at one     hour 54 minutes 50 	seconds and 
+	the last glow is at 3 hour 17 minute and 49	seconds.  How many 	times is 
+	that light glow, with in these two times ?					       
+				   (2 marks) 7.  After spending 1/3 of money 
+	and then 1/4th of what remained and finally 1/5th	of what 	remained, I 
+	found that I had Rs.100/- left.  How much money I had	  at first ?	       
+					      (3 marks) 8.  A Black Smith was 
+	given a chain torn into equal sections of 3 links     each and asked 	to fix 
+	it.  How many links(minimum) would he has to open     up and reforge 	?	       
+					   (1 mark) 9.	There are six boxes, 
+	of which some boxes contain only red balls and some other      boxes 	contain 
+	only Black balls.  The number of balls in six differnet boxes are     
+	5,6,12,14,23,and 29.  If he sells  Another Set:  ************ 1.  	1/3rd liquid 
+	in a container evaporates in first day. In the second day 3/4th      	remaining 
+	avaporates. How much is left over at the end of second day ?  2.  	first person 
+	:  I am sure you are at least 40 years old and I am 5 years	 	younger than 
+	you.	 second person : I am 35 and you are atleast 5 years elder 	than me.  
+	None	 of these persons spoke truth. What are their ages ? 3.  	Orange cup 
+	has Orange Juice.  White cup has apple Juice.  %0 ml of     Orange 	Juice is 
+	taken and mixed with Apple Juice.  From that mixture	 50 ml is 	taken and 
+	poured into Orange cup.  Now whether apple Juice     in Orange Cupis 	more or 
+	Orange Juice in White cup is more and by what amount? 4.  Ms. Sheela 	goes her 
+	home by car from Station.  Her driver comes and     picks her up 	daily at 5.00 
+	p.m.  One day Sheela arrives at Stationone	hour earlier and 	starts 
+	walking towards  home.	On the way driver     picked her up. By this 	they 
+	reached home 30 minutes earlier.  For how     long she was walking ? 	 5.  Some 
+	students went on a trip to Goa in holidays.  Unfortunately it	   	rained on 
+	some days.  In a surprising manner if it rained in the	   morning, 	they had a 
+	good afternoon and vice versa.	 They had 11 morning	 visits and 	12 
+	afternoon visits.  Altogether it rained for 13 days	during their 	stays.  
+	What is the duration of Holidays ? 6.  A survey was conducted for 100 	people 
+	by Door Darshan      1.  44 people watched channel I	 2.  43  "		 "     
+	  "	II     3.  27  "       "       "     III     4.  17  "	     	"	     " 
+	    I & II     5.  14  "       "       "     I &III	6.  13	 "		"      
+	 "     II &  III     7. 23 watched none.     How many watched I II & 	III ? 7.  
+	Two Swimmers at different rate but at constant Speed were swimming.		They 
+	met at 18 meters from deep end.  Both swimmers took rest for	  4.5 	seconds. 
+	 During their return they crossed at 10 meters from	ashlor end.  	What is 
+	the length of the pool ? 8. Mr. Raj goes to Office by Train.  First 	train in 
+	Main line Starts at	5:02:0.  In Harbour Line it starts at 5:10:0. 	 Every 
+	Ten minutes there    is one train.  What is the probability that Raj 	travels 
+	in harbour line    at a random time of Driving	    the Station? 1.  	A person 
+	was collecting end pieces of Ciger ettes.  He was managed to collect 	49     
+	pieces.  We need 7 such pieces to make new one.  So how many 	Cigerettes he can 
+	    make?							     	  (2 
+	marks) 2. A person moving from a place(camp)., towards East one mile, 	then 
+	towards North	  half mile, towards West 1/4 the mile, towards South 	1/8th 
+	mile and again	  towards East 1/16th mile and so on.  That is the 	distance 
+	between him and the    starting point.					       
+		    (3 marks) 3.  500 men were arranged in 10 rows and 50 	columns.  
+	They picked the oldest person	  from each row and the tallest of 	these 
+	persons is 'A'.  They replace them in	   their places and again 	picked 
+	tallest person from each column and the shortest     of these persons 	is 'B'. 
+	Assume A & B are different people. Who is the	   tallest person 	among A & B? 
+					       (5 marks) 4.  The product of 	two 
+	nonzero numbers is 1,000,000,000.  What are the      numbers ?	&nbs 	p;        
+						       (5 marks) 5.  There is 
+	Mathematician.	He met his friend and asked about his children.     	His friend 
+	told in the form of a problem that he has three children. The	  	product of 
+	their ages is 36. The addition of their ages is the door number     	of his 
+	left side house.  Mathematician went and checked the door number     	He told 
+	that the clues are not sufficient.  He gave another clue that	  is 	his 
+	younger daughter is clearly younger.  What are their ages ?  (6 	marks) 6.  
+	There is a light glows in the interval of 13 sec.  It glows first at 	one     
+	hour 54 minutes 50 seconds and the last glow is at 3 hour 17 minute 	and 49     
+	seconds.  How many times is that light glow, with in these two times 	?	       
+								       (2 	marks) 7.  
+	After spending 1/3 of money and then 1/4th of what remained and 	finally 1/5th  
+	     of what remained, I found that I had Rs.100/- left.  How much 	money I had 
+	    at first ?				& nbsp; 				     
+	(3 marks) 8.  A Black Smith was given a chain torn into equal 	sections of 3 
+	links	  each and asked to fix it.  How many links(minimum) would he 	has to 
+	open	 up and reforge ?							    (1 
+	mark) 9.  There are six boxes, of which some boxes contain only red 	balls and 
+	some other	boxes contain only Black balls.  The number of balls 	in six 
+	differnet boxes are	5,6,12,14,23,and 29.  If he sells  Another 	Set:  
+	************ 1.  1/3rd liquid in a container evaporates in first day. 	In the 
+	second day 3/4th      remaining avaporates. How much is left over at 	the end 
+	of second day ?  2.  first person :  I am sure you are at least 40 	years old 
+	and I am 5 years      younger than you.     second person : I am 35 	and you 
+	are atleast 5 years elder than me.  None     of these persons spoke 	truth. 
+	What are their ages ? 3.  Orange cup has Orange Juice.	White cup has 	apple 
+	Juice.	%0 ml of     Orange Juice is taken and mixed with Apple 	Juice.	From 
+		that mixture	 50 ml is taken and poured into Orange cup.  		Now whether apple 
+	Juice	  in Orange Cupis more or Orange Juice in White cup is more 	and by 
+	what amount? 4.  Ms. Sheela goes her home by car from Station.	Her 	driver 
+	comes and     picks her up daily at 5.00 p.m .	One day Sheela 	arrives at 
+	Stationone	hour earlier and starts walking towards  home.	On 	the way 
+	driver	   picked her up. By this they reached home 30 minutes 	earlier.  For 
+	how	long she was walking ?	5.  Some students went on a trip to 	Goa in 
+	holidays.  Unfortunately it	 rained on some days.  In a 	surprising manner 
+	if it rained in the	morning, they had a good afternoon and vice 	versa.  
+	They had 11 morning	visits and 12 afternoon visits.  Altogether 	it rained 
+	for 13 days	during their stays.  What is the duration of Holidays 	? 6.  A 
+	survey was conducted for 100 people by Door Darshan	 1.  44 	people watched 
+	channel I     2.  43  "       "       "     II	   3.  27  "	   "	  	 "  	 
+  	III	  4.  17  "	  "	  "	I & II	   5.  14  "	   "	   "   
+  I &III     6.  13   "      "	     "	   II &  III	 7. 23 watched none.   
+  How many watched I II & III ? 7.  Two Swimmers at different rate but at 
+constant Speed were swimming.	  They met at 18 meters from deep end.	Both 
+swimmers took rest for	    4.5 s econds.  During their return they crossed at 
+10 meters from	   ashlor end.	What is the length of the pool ? 8. Mr. Raj 
+goes to Office by Train.  First train in Main line Starts at	 5:02:0.  In 
+Harbour Line it starts at 5:10:0.  Every Ten minutes there    is one train.  
+What is the probability that Raj travels in harbour line    at a random time 
+of Driving	the Station?**********sectionI and Section II: same 
+fromprevious papersection III:1.   30 poles are planted in a field such that 
+the distance	  between each pair is 15mts. What is the distance between     
+ 1st and 30th pole?ans 4352.   In a company there are 50 A grade employees and 
+100 B	  grade employees.  The total amount which company gives     salaries 
+per month is Rs.5,00,000/-.  If A grade employee     is given double the 
+salary of C grade employee and B     grade is given 3/2 times the salary of C 
+grade employee.     what is the amount that A gets more than C.ans 12503.  In 
+a class there are 120 students 60% of them speak French.    And remaining 
+speak English. 25% of the students are	   capable of speaking French and can 
+also speak English.    Find the total number of English speaking students.ans 
+664.  There are two tanks X and Y with some fluid. X is having	   600 gallons 
+of more fluid than Y at present.  When 100 gallons    of fluid is removed from 
+both X and Y , X will have 3 times    that of Y. Find the volume of fluid in X 
+and Y.ans 14005.  Given that n= 15*24*28.  which of the following is not    an 
+Integer.    a. n/7  b. n/14  c. n/21  d. n/39ans dsection IV:Ine qualities - 5 
+minutes - 30 questionsdata    inference    True   False     Data 
+insufficient1...30.Section V:8 questions 25 minutes   30 marks1.  A,B,C,D and 
+E are the men who individually are capable of	 talking in two languages.  On 
+whole the no. of people who	speak  the various languages as follows.    
+spanish -3,  Italian - 3, English-2, French-2.	
+********************************* see baron (GRE book) for the exact 
+questions& description of the problem. problem is not described 
+clearly*********************************     A.  Who can speak with D other 
+than E.   Ans.(All others)   B.  Two persons(A & B) have to talk. Who can 
+mediate them.	    clue: See who other can speak, language of those two       
+persons    C. I f a new person has to enter, what languages should	he 
+know , So that he can talk to as many people as       possible.     ans: 
+Spanish and Italian.2.	There are three programmers A,B and C. There are 5 
+programming	assistants D,E,F,G and H.  Management is planning to open    a 
+new office in another city using 3 assistants and 2	programmers of the 
+present strength.  To do so, they planned    to seperate certain individuals 
+who do not function well    together.  The following guide lines were 
+established to	   set up the new Office.   a.	Programmers A and C are 
+constantly finding fault with	     one and another and should not be sent as 
+a team	     to the new office.      b.  C and E function well alone but not 
+as a team, They       should be seperated.    c.  D and G have not bbeen on 
+speaking terms for many months	     They should not go together.   d.	Since 
+D and F have been competing for promotion, they        shall not be a team.    
+D.  If A is to be moved as one of the programmers, which of	  the 
+following cannot be a possible working team?	   i.  ABDEH  ii.  ABDGH  iii. 
+ ABEFG	iv. ABEGH v. ABFGH	 ans: ii.   E.	If C and F are moved to the 
+new office, How many	   combinations are possible?	     i. 1  ii.2   
+iii.3  iv. 4  v.5    ans: i	 F.  If C is sent to the new office , which 
+member of the	    staff cannot go with C?	  i.B  ii. D   iii.   F    iv. 
+ G   v. H3.  Flowers Problems:	      G.  ans:	C    H.  ans: DSECTION	VI:1.  
+The loop has to be executed as follows. 		 i=20	     if log 
+i=0  then stop	   else sum=sum+i     continue	a.  If i[0]=1 and log operand 
+is >=. What is i[f].	  1. 9	ii. 10	 iii.  11   iv	 12    ans: iii.    b. 
+ if i[0]=1 and i[f]=10	what should be the	log operand?	  i. =	i. >& 
+nbsp;	iii.<	iv.  <=     ans: B  c.	if i=i-1, what is i[f] if loop is <    
+  ans: i[f]=0; i[0]=10.2.  function func(x)if(n=1) return;elsefunc(n) = 
+(n+1)*func(n-1)then func(5) = ?    ans : 3605.	n=0Do i=1,2Do j=1,3DO 
+k=1,2If((I+J-K)>=2) n=n+1Print nend doans : 86.  Given the quadratic equation 
+ax*x+bx+c =0, Find the logical error in the given program and suggest the 
+correction. ans: value in the square root can be negitive. its not taking that 
+into account.7.  The alphabets A,B....Z arte asigned as numbers 1,2...26.    
+What is the expression to find vowels	 The function below returns Boolean    
+func()	  Do I = 1,26	 If (expression) the true    else false        What is 
+the expression? i=1 or 5 or 11 or 15 or 21.8.  To convert a real to integer by 
+rounding off	ans: exp: x+0.59.  To check the given number m is prime or 
+not, it    is enough to check the division factors from 2 to ans: 
+sqrt(m)____10  A 3by3 matrix is to be determined from the following logic.    
+State true of False. Whether the logic works. If false	  write the necessary 
+corrections    a11+a12+a13=magic-total	  loop1:  Do i=2,3	      
+If(ai1+ai2+ai3#magic-total) go to failure	     end loop1.    loop2:  Do 
+j=1,2,3 	   If(a1j+a2j+a3j#magic-total) go to failure		end 
+loop 2. 	printf("the matrix is magic")	      printf("t he matric is 
+not a magic")	  Ans: The diagonals are not checked.	 After loop2 the 
+following two statements should be added.    if(a11+a22+a33#magic-total) go to 
+failure    if(a31+a22+a13# magic-total) go to failure11. A logic is given to 
+determine the change given to the     customers in a shop. Tell whether the 
+logic is false or true?    and tell the reason?   int change;	
+i=50,25,10,5,2,1   change=change-i   if(change>=0) printf("change to be 
+given"i);   else   change=change+i;   end do loop   ans:  The logic doesnot 
+work for change less than 50	     as change takes -ve value and the loop is 
+ended	      without giving change12.	A program is used to change Octal to 
+decimal. If n is     no of digits and are entered into the program. The digits 
+    are entered from minimum to maximum.    int oct;	dec=0;	  do i=1 to n  
+  input=oct;	dec = (exp)    end do what is the expression to be written?  
+ans:  dec = dec+(8**(i-1)*oct)13.  The logic below is bound to go into endless 
+loop for some	  compilers, state the reason?	       do(x<=4.0)     
+printf("%d%c",x,sin(x))     x = x+0.1	  end do     ans: X should be in 
+radians,x cannot take other than -phi to phi	 therefor for x>3.14 will hang 
+for some compilers.14.	The program given below is to print the radius and 
+area	 of a circle.  For large values of n, the execution is found	  to 
+take long time. State reasons? How do you reduce the time     of execution.    
+ int r,n     do     pi=3.14159	   else     ..	  .	    .	  ans:	
+Assignments can be done outside.	   write subroutines to calculate the 
+repeated calculations.**** psychology 
+:***************________________________1. You can think your life is 
+worthwhile because ______.2. You respect your seniors who are _____.3. Though 
+you are giving your best to organisation, the organisation is notsatisfied 
+with you, then you will ______.4.How much are you commited to your goals? How 
+do TCS helps achieve your goals ? 5. If you don't like the assignment given by 
+organisation then you ___.6. If you don't like the working environment then 
+you_______.7. Your friends help you because _______________.8. You are engaged 
+in 1 year assignment , one of your team mates got a goodoffer in middle you 
+will -----.9. If your goals does not maatch with organisation goals then 
+_____10. People with hormony, honesty, rapport become good 
+adminstratorsbecause ______. 11. What will you see in a new organisation to 
+join ______.12. If your colleagues and work surroundings are not good what 
+will you do___.13. Your friends listen you because _____.14. Your friends like 
+you because ______.15. When you are joining in a job what are you goin gto see 
+in  1) chances for global manager position 2) Areas of interest 3) Salary and 
+4) work satisfaction16. Good people will alwaays become good managers 
+____________._________________________________________________11. Ans : 2034 
+and 4368  
+ 
+********************************************************************** 
+ 
+> Here are the infosys questions which appeared here.,	They had 
+> five sets of que. papers A,B,C,D,E.  This is set A.  Others 
+> are also of similar type with few modifications. 
+>  
+>  
+>  
+> INFOSYS 
+>  
+>  
+>  
+> > There are 5 q papers  with them. this is only one of those. 
+> > All otheres were more or less of the same model but different 
+> > qs. This is just to give U an idea. 
+> >  
+> >  The questions are not in order. 
+> >  
+> > 1)A,B,C,D,E related.4 of them made these statements each. 
+> >   i)C is my son in law's brother. 
+> >  ii)B is my father's brother. 
+> >  iii)E is my mother in law. 
+> >  iv)A is my brother's wife. 
+> >  who made these statements?(person mentioned is one of A,B,C,D,E)(10 mar   
+      ks). 
+> > 2)e means belong. 
+> >   All members of E e D. 
+> >   All members of D e A. 
+> >   Not all members of D e E. 
+> >   Not all members of A e D. 
+> >   All members of C e both A and B.some questions are asked about relatio   
+       n.use venn diagram.(5 marks).   
+> >  
+> > 3)complete the table. 
+> >  
+> >	Played	won lost draw  goals  goals 
+> >	  for	 against 
+> > A	 2	 2		       1 
+> > B	 2		   1	2      4 
+> > C	 2  &nb sp;		      3      7 
+> >  
+> >   A,B,C are 3 hockey teams.(2 marks). 
+> >  
+> > 4) A says Party was held on :Thursday ,May 8th. 
+> >    B says Party was held on :Tuesday,May 10th. 
+> >    C says party was held on :Friday ,June 8th.    
+> >    Given April 1 st was Tuesday.one of A,B,C says 1 correct.one says 1 
+> >    wrong.and one was completely wrong of date,Month and day. Find the  
+> >    Day  the party held.   (5marks). 
+> >  
+> > 5) A ship is away from the shore by 180 miles.A plane is travelling at  
+> >    10 times speed of the ship.How long from the shore will they meet? 
+> >    (2marks) 
+> >  
+> > 6) Every station in N railroad issue everyother station's ticket. 
+> >    some stations are added.Now they have to issue 46 more tickets. 
+> >    say the No.of stations after and before added.(5 marks). 
+> >  
+> > 7) 3 persons say these statements. 
+> >    A says either Democratic or liberal wins the elections. 
+> >    B says Democratic wins.C says neither democratic nor liberal wins 
+> >    the election.of these only one is wrong.who wins the election? 
+> >    (5 marks). 
+> >  
+> > 8) A clock showing 6 o'clock takes 30 secs to strike 6 times.How long  
+> >    will it take to strike 12 at midnight?Ans.66 secs.(2marks) 
+> >  
+> > 9) Only boys aged > 16 wear coats. 
+> >    Boys aged > 15 go to watch football.some more statements are given. 
+> >    What can be said about those w ho are watching football ? (age and  
+> >    costume) 
+> >    (5 marks). 
+> >  
+> > 10) There are 3 societies A,B,C having some tractors each. 
+> >	A Gives  B and C as many tractors as they already have. 
+> >	After some days B gives A and C as many tractors as they have. 
+> >	After some days C gives A and B as many tractors as they have. 
+> >	Finally each has 24 tractors.what is the original No.of  
+> >	tractors each had in the beginning? 
+> >   Ans.A -39. 
+> >	  B- 21. 
+> >	  C- 12.(7 marks). 
+> > 11) 4,5 statements.From that find the answer.(7 marks). 
+================================= 
+1. a man takes 3 minutes to travel a mile in the dir of the wind and 
+takes 4 min against the wind.how much time does he take in theabsence of 
+wind. 
+a-3.428 min2. s e n d what numbers do m o n e y represent+ m o r 
+e------------ 
+m o n e y3.a man spends 1/6th of his life time as child,1/7th in 
+school,1/11th 
+as bachelor and 1/12th as youth.after 5 years of marriage he bears a 
+son who dies 4 years bfore his fathers death at half the final age of 
+his father what is his fathers final age.a-84 
+4.a man's watch the two hands meet 65 times in a day,does the watch 
+gain or loose time by how mucha-gain by 5/11 min5.a,b,c,d,e 
+1.if a= c,b=/e(not = to)2.a=/c,b=d ,a>e 3.c>0,etca-(a,b,c,d,e) 
+6.there are a few diamonds ,a robber comes and steals a 1/2 of that 
+and another2,3 ,4 robbers do the same. the 5th robbers comes and 
+finds none.how many were there to start with.a-60 
+7. first name 2nd name \they sellmary 1 1.popcornruby 2 2.peanuts3 3 
+3.icecreams 
+4 45 5a-how many whose 2nd name is not mil does not sell popcorna-4 
+8.4 gents,4 ladies,4dances which pair dances which 
+9.200 people stand in 20 rows and columns. the shortyest from each 
+row is taken and among there the tallest is a.the tallest from each 
+column is taken andamong them shortest is b.				 
+who is taller a or b 
+10.a rope of uneven thicknes takes exactly one hour tom burn.measure 
+one hour using thisa- burn both sides of rope 
+11.a well,a stone,a stopclock are provided.measure the depth of thewell. 
+a-find the time taken to stone to reach the well water12.in a zoo 
+men,lizards ,snakes are theretaotal legs-70,total head =27find each animal 
+13. 1 1 1 11 3 5 71 5 13 251 7 25 ?a-63infosys igit-2000 
+q1) a tag of wood wt 30 kg.how much will be its wt if it is twice as thick 
+but twicetwice as short.	   ans 60kg    
+q2)a man smokes 2/3 of his cigar. he finds that after 
+smoking 3 cigars he can make one.if he has 27 cigars how many times he smoke. 
+   ans 40q3)a train from newyoark leaves every1hr & train from washington 
+leaves 
+every 1.5 hr. find the no of trains a person will see when he goes from 
+newyork to washington.		  ans 21. 
+q4)H can just pull B & J together in atug of war. H+J when togetherare 
+against T & B then neither of them can pull each other but if B & Jchange 
+their position then second group wins easily write the strength of H,J,B,T 
+in increasing order .ans J,B,H,Tq5)once there was a theft in a bank. 
+   1)the cashier says that the villlian had blue eyes tall height, wearsvest 
+& hat,2. B says grey eyes short height wears vest & hat . 
+3. c says black eyes medium height wears rain coat & hat. 
+4. D says brown eyestall height wears vest but not hat. 
+each of them tells one out of 4 things correct.find out the identification 
+				  
+q6) a ball drops from 180 feet bounces 1/10th find total dist. travelelled 
+by the ball. ans 220 
+q9) a factory has clerk cashier fl** worker manager buyer and name of the 
+workers are Mr Brown, Ms ames ms 2 mr evans mr canary mr david 
+1. manager and clerk were roommate in college 
+2 david will be acting as the best man in the marriage of clerk andcashier. 
+3 mr ames has only buisness relations with evans 
+4 mrs conray was disappointed when mr conray was denied a pay hike by the 
+manager write names of the worker 
+q10)madhaban , murli,anad,anindya has nick names zambie, maddy perich 
+anddummy. 
+1. madhaban can run faster than perich and can not lift more weight thandummy 
+2 anada is stronger than dummy but not stronger than zambie. 
+3 maddt is not

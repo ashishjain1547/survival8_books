@@ -1,0 +1,91 @@
+These are some of the questions asked me in Microsoft
+ Hyd Interview......fortunatly I did all of them..
+ 
+ 1)Asked me to reverse the given n-bit unsigned integer?
+ 	I mean if 1011 is the i/p then o/p=1101
+ 	Time copmlexity should be as small as possible...
+ 	try it out...
+  	
+ 2)Given 10 points, Asked me to arrange those 10 points so that 
+   I have to draw five straight lines and each straight line should
+   have 4-points
+   
+    	
+ 3)Asked me to write Open Hashing code with doubly linked list...
+ 
+ 4)To see my coding style Asked me to write linked list reversal program
+ 
+ 5)Asked me About My Project...(about 1hour)
+ 
+ 6)Given an Array of integers as the input asked me to find out
+   smallest subset of the array such that the sum of the all the elements
+   of that subset array should be maximum...in all the subsets...
+   
+ 7)To Give design aspects of writting a software for a car which will
+    be driven by the blind people..
+    
+ 8)Given a character array which has one word asked me to reverse that word.
+ 
+ 9)Given a character array which has "x" no of words, asked me to reverse them
+ 
+ 10)Asked me to write all the test cases for the above...
+ 
+ 11)A Desert has 1000KM legnth, A Camel and 3000 bananas are there at one end
+    problem is you have to get as many bananas as possible to the other end
+    by that camel...
+    
+    camel constraints...
+       1) It will eat 1 banana for each kilometer even if it
+	  is not carrying any bananas(i.e it needs on banana 
+			            for just to walk 1km)
+       2) It cannot carry more than 1000 bananas.
+       
+ 12) Given a two dimensional array of size mxn, Problem is to take each 
+     and every cell, as there are 8 directions to travel from that cell
+     one right, two left, three up, four down, other four are through 
+     four diagnols. except at the boundaries(< 8 directions)..
+     Asked me to print all ths words ?
+     
+ 13) Asked me to write all the different test cases for the above....
+ 
+ 14) One function which was written by somebody else? that function spec
+     says the following.....
+     
+     takes a two dimensional array as the input which has "N" no of words
+     and "M" no of non-words...
+     that function returns the no of words.
+     
+     given two cases of inputs...
+     		1) array has 32words and 32 non words]
+     		2) array has 30 wrods and 34 non words
+     		
+     out of these two which case is better and why?
+     
+  15) Given the Robo which has PC interface via the following 3 functions
+  
+  	1) bool is_ther_any_step(bool);
+  		sees any step above if the argument is true and returns true
+  		 	if step exists above ti it.
+  		sees any step below to it if the argument is false and returns
+  			appropriately..
+  			
+  	2) goto_next_step(bool )
+  		Goes to next upper step if the argument is true
+  		if the argument is true and no above step then robo gets damaged
+  		
+  		Goes to down step if the argument is false...
+  		
+  	3) Clean_floor()...
+  		cleans that step by pouring water,cleaning and drying..
+  		
+   Asked me to write the program to clean a stair case in any building...
+   
+   Please think and write....tricky problem
+   
+   I did not remembered the other Questions...
+   
+- anil(anil@csa.iisc.ernet.in)
+   
+  		
+			     
+    

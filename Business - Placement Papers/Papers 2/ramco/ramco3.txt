@@ -1,0 +1,281 @@
+                         RAMCO PAPER.
+MARKS------60---TOATAL
+QUANTITATIVE ---------30
+ENGLISH-----30
+
+                        HAI FRIENDS
+				
+				here i am sending ramco paper.here in iitm and
+anna university they have given different papers.so don't depend fully on
+this paper.quantitative is very easy.you can easily solve.
+     BEST OF LUCK.
+
+Directions: Each of the following question has a question and two
+statements labelled as (i) and (ii). Use the data/information given
+in (i) and (ii) to decide whether the data are sufficient to answer
+the question record your answer as
+
+a) if you can get the answer from (1)alone but not from (2)
+b) if you can get the answer from (2)alone but not from (1)
+c) if can get the answer from (1)and (2)together ,although
+   neither statement by itself suffice
+d) if statement (1)alone suffices and statement (2) alone also suffice.
+e) if can't get the answer from statements (1) and (2) together 
+    you need more data.
+      
+1)what will be the population of city X in 1991?
+
+1) populatino of city % has 55 annual growth rate
+2) in 1991,the population of city X was 8 million
+ans)C
+
+2) was it rani's birthday yesterday?
+1)lata spends rs 100/ in rani's bitrth day
+2)lata spends rs 100/ yesterday
+ans) E
+
+3)is 3*5 is greater 4*6?
+ 1)a*b =b*a     2)a*b is the remainder of ab%(a+b)
+ ans)B
+ 
+4)will the graph X-Y pass through the origin?
+ 1) x proportional to the Y
+ 2)increment in y per units rise of x is fixed.      
+  ans)E 
+  
+5) what was the value of the machine 2 years ago?
+1) the deprecition of the value of the machine per year is 10%
+2)present value of the machine is rs 8000/
+  ans)C
+  
+6) What will be the area of a square that can be inscribed in a circle?
+ 1) Radius of the circle is T
+ 2) Length of a diagonal of the square is 2r
+ and)D
+ 
+7)  Can it be concluded that the port made more profit in 1988 than in 1987
+ 1)  1987
+     _______________________________________________________________ 
+    | Total tonnage handled by the | Expenditure made by the port    |
+    |  port 10 million tonnes      | to handle one tonne of cargo    |
+    |                              |         Rs 20/-                 |
+    |________________________________________________________________|
+    
+    
+ 2)  1988
+     ___ ____________________________________________________________ 
+    | Total tonnage handled by the | Expenditure made by the port    |
+    |  port 12.5 million tonnes    | to handle one tonne of cargo    |
+    |                              |         Rs 25/-                 |
+    |________________________________________________________________|
+
+  ans) E
+
+8) There are two figures viz., a circle and a square. Which having greater
+   area?
+   1) Perimeter of the circle is the same as the perimeter of the square.
+   2) Eleven times the radius is equal to seven times the length of one
+      side of the square.
+   ans) D
+
+9) A candidate who was found to be under weightin medical test had been 
+   selected provisionally subject to his attainment of 60Kg weight within
+   one year. What should be the percentage increase of his weightso that 
+   selection is confirmed after one year.
+   1) Weight (Kg)=16+8 Height (ft) is standard equation for the Indian 
+   population. The candidates height is 5.5
+   2) His present weight is 55Kg.
+   ans) D
+
+10) Is angle theta=90
+   1) sin**2(theta)+cos**2(theta)=1
+   2) sin**2(theta)-+cos**2(theta)=1
+   ans) E
+
+11) What will be the average age of workers of an Institution after two
+    years?
+    1) Present average age is 35 years
+    2) There are total 20 workers in the Institution
+    ans) A
+
+12) Can it be concluded that firestry is getting increasing importance in 
+    India? ( Disregarding the change in money value ) 
+
+    1)
+    ____________________________________________________________________
+     Name of the plan                          Expenditure on Forest 
+                                                  (Crores of rupees) 
+    ____________________________________________________________________
+    
+    First five year plan                                 10
+    Second five year plan                                19
+    ____________________________________________________________________
+
+    2)
+    ____________________________________________________________________
+     Name of the plan                          Expenditure on Forest 
+                                                  (Crores of rupees) 
+    ____________________________________________________________________
+    
+    First five year plan                                 46
+    Second five year plan                                92.5
+    ____________________________________________________________________
+
+    ans) E
+
+13) Is AB>AM ( A Triangle is given )
+    1) AB<AC
+    2) M is any point other than B and C on BC
+    ans) E
+
+14) Is X^2+Y^2<X+Y?
+    1) 0<X<1
+    2) 0<Y<1 and X!=Y (X not equal to Y)
+    ans) C
+
+15) Can it be concluded that angle ABO = angle ODC
+    1) ABCD is a Parallelogram and O is the point of 
+       intersection of the diagonals.
+    2) Angle DOC =75deg. and angle DAO =35deg.
+    ans) A
+
+16) What is the value of x+y?
+    1) 2y=x+6
+    2) 5x=10y-30
+    ans) E
+    
+17) How many students are there in the class?
+    1) 30 students play foot ball and 40 play cricket .
+    2)Each student plays either foot ball or cricket or both.
+    ans) E
+
+18) What is the value of a:b?
+    1) a=x+10%ofx
+    2) b=a+10%ofa    
+    ans) B
+    
+19) What is the maximum value of the expression 5+8x-8x^2?
+    1) x is real
+    2) x is not positive
+    ans) C
+
+20) What will be the value of the greatest angle of the triangle ABC?
+    1) Angles of the triangle are in the ration 2:5:3
+    2) The side opposite to the greatest angle is the longest side.
+    ans) A
+    
+21) What is the range of values of x?
+    1)
+       x-2      1
+       ---- <  ---
+       2x+5     3
+       
+    2) 
+       2x      17
+       ---- +  --- > 3x-20
+        3       3
+     ans) D
+     
+22) Of the two which one is the greater?
+      - 3       -3
+       ----  ,  --- 
+        x        y
+    1) x,y>0
+    2) x<y
+    ans) C
+
+23) What percentage of the candidates passed both in science and mathematics?
+    1) 52 percent of the candidates failed in science 
+    2) 42% of the candidates failed in mathematics
+    ans) C
+
+
+24. How much pure H2SO4 (HYDRO SULFURIC ACID) should be added to bring
+down the percentage of impuritity to 5%? 
+1. 50 liters of pure H2SO4 was diluted
+2. dilution was to the extent of 20%
+ans:c
+25. What is the cost of building when archtects feeses was 70,000 
+1. Architect gets 10% for the first Rs. 50000 of the cost of building 
+2. Architect gets 3% on the cost of the building over 50000
+ans:C
+26 What is the value of BC?
+( here one triangle figure is there )
+1. AP=4
+2. PQ=5
+ans: E
+27. What is the area of the shaded portion (assume AB, CD are arcs of two
+circles with centre at o.)
+Here one arc figure is there
+1. CA=20m
+2. CB=5m
+ans:C
+28. What is the area of the greatest circle that can be out from
+rectangular paper
+1. length of the paper is 30cm
+2. Width of the paper is 21cm
+ans:B
+29. Y is what percentage of X?
+1. 0.3x=Y 2. 3x-10y=0
+ans:D
+
+30. What is the area of the trepazium abcd wher Ab is 5cm
+1. BC=7CM
+2. AB+CD= 16CM
+ans:B orC
+31  . Directions :- each sentense below has one or two blanks each blank
+indicating that something has been omiting beneeth the sentense or five
+letter words . choose the word for setof words foreach blank that best
+fits the meaning of one sentense as a whole.        
+
+31. The air was bitter cold, the temperature well below the freexzing
+point , yet they found themsemlevs ------freely as they clamsered up the
+steep northern slope
+
+ans: disporting
+
+32. We were taken       when we       of his difection never having
+suspected that he was anything but loyal. So capacble had been his ----
+or     and devotion to cease
+ans: presentiment
+33. WAR and peace are mutually(-------)states of being and warto
+preserve peace not a paradox . It is a(-----)
+ans:c    incompatable -- contridction
+
+34.For those who believe in the --  ---theory of histroy being ----- is
+ipso facto testimony to behind the senses intrigue and plotting.
+ans:e   marxist   --confession
+35. Although the injuty appeared --- the examination by the opthamilogist
+revealed that he would need immediate surgey to save his signt.
+ans: superficial
+
+ANTONIAMS
+41. CORROBORATIVE    --- REFUTABLE
+42.  roxious   ---- harmless
+43.  sanction -- hinder
+44.  empirical -- experimental
+45. aborigine -- emigrant
+
+Directrions for questions . 56- 60 . questions 56 -60 are based on the
+following information
+
+A port has four berths W,V,X,Y of these two aregeneral cargo erth, one is
+a fertiliser berth asnd one is for liquid cargo, when veseel A arrived she
+was berthed at berth V. But the vessel B  which along with A had to wait
+prior to berthing as vessel C was working in berth Y and vessel D was
+working in berth W .Vessel E came to unload fertilise and did not have to
+wait. All are specilised berths that is general cargo vessel.has to work
+only in a general cargo berth. So is true for fertiliser vessel and liquid
+cargo vessel.
+56. The vessel E should be alotted to the berth.
+ans: X
+57. Which of the following berth can accept a vessel carrying liquid cargo.
+ans': V
+58. Which of the following is not a general cargo vessel.
+ans:A
+59. Total number of general cargo vessels mentioned in the above
+discription is
+ans:3
+60. Whcih of the following allotments is possible
+ans: Bto W
+

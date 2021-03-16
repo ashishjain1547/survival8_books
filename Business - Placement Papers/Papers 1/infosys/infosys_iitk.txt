@@ -1,0 +1,65 @@
+1. my sons age in weeks is same as that of my grandson's age in days. my
+age in year is same as that of my grandson's age in months. sum of our
+ages is 120.
+what is my age ?
+ans: 72years. please check the values ans is ok.
+
+2. i have five letters and five envelopes with adresses on them. what is
+the probabilty that my 4 letters are in right envelops.
+ans: 0.
+
+3. what is the time after midnight is nine times the time before midnoon
+in minutes.
+ans: 10:48 am.
+
+4. a painter paints the floor of dimension 12ft*10ft in one hour. what
+time it will take if the dimensions r doubled.
+ans: 4hrs.
+
+5.one question on tea, coffee and cola.............
+ans: half. and twice.
+
+6. Sally and Sue have a strong desire to date Sam. They all ion
+truthfully. If I tell you that Sam's number is less than Sue's or
+Sally's,
+a decides to visit. When she gets there, she finds out she is wrong. This
+is not surprising, considering Sam answered only the second question
+truthfully. Sue, unaware of Sally's conversation, asks Sam two questions.
+Sue asks "Is your house number a perfect cube?". He answers. She then
+asks
+"Is it greater than 25?". He answers again. Sue thinks she knows where
+Sam
+lives and decides to pay him a visit. She too is mistaken as Sam once
+again answered only the second question truthfully. If I tell you that
+Sam's number is less than Sue's or Sally's, and that the sum of their
+numbers is a perfect square multiplied by two, you should be able to
+figure out where all three of them live
+ans:55, 64, 81.
+
+7. an artist has seven paintings T,U,V,X,W,Y,Z. he has to put 5 paintings
+in the exhibition:
+- when T is choosen X is not choosen.
+- when V is choosen X must be choosen.
+- when U is choosen Y must be choosen.
+a, which of the following is fisible combination.
+ans:   UVXYZ.
+b, if Z is not included then which should not be selected.
+ans: T.
+c, if X is choosen then which should not be selected?
+ans: T.
+d, don't remember.........
+ans: T.
+
+8. one question on game was given. three teams A,B,C were there. each got
+two points on a win and one point on a draw. some combination was given
+and we were to find the final score and goal made by each.....
+later, it was asked who played and won: also goal made by each team was
+asked........table was also given.
+
+
+
+9. one question on quite tough but answer is:
+ans: B, D.
+
+10. very long question and quite tough to remember
+a, compass was there in outhouse at 1pm and much more....

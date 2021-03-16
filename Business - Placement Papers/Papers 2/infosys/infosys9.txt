@@ -1,0 +1,223 @@
+PART 1
+
+1). A beggr collects cigarette stubs and makes one ful  cigarette 
+with every 7 stubs.  Once he gets 49 stubs .  How many cigarettes 
+can he smoke totally.
+                     Ans. 8
+2). A soldiar looses his way in a thick jungle  at  random  walks 
+from his camp but  mathematically  in  an  interestingg  fashion.  
+First he walks one mile east then half mile to north.   Then  1/4 
+mile to west, then 1/8 mile to south and so  on  making  a  loop. 
+Finally hoe far he is from his camp and in which direction.
+ans: in north and south directions 
+   1/2 - 1/8 + 1/32 - 1/128 + 1/512 - and so on 
+                = 1/2/((1-(-1/4))
+      similarly in east and west directions
+     1- 1/4 + 1/16 - 1/64 + 1/256 -    and so on 
+             = 1/(( 1- ( - 1/4))
+   add both the answers
+3). hoe 1000000000 can be written as a  product  of  two  factors 
+neither of them containing zeros
+   Ans   2 power 9 x 5 ppower 9  ( check the answer )
+4). Conversation between two mathematcians:
+  first : I have three childern. Thew pproduct of their ages is  36 
+.  If you sum their ages . it is exactly same as  my  neighbour's 
+door number on my left. The  sacond  mathematiciaan  verfies  the 
+door number and says that the not sufficient  .  Then  the  first 
+says " o.k one more clue is that my youngest is the youngest"
+Immmediately the second mathematician answers . Can  you  aanswer 
+the questoion asked by the first mathematician?
+What are the childeren ages?        ans  2 and 3 and 6
+5). Light glows for every 13 seconds .  How  many  times  did  it 
+between 1:57:58 and 3:20:47 am
+      ans : 383 + 1 = 384
+
+6). 500 men are  arranged in an array of 10 rows and 50 columns . 
+ALL tallest among each row aare asked to   fall  out  .  And  the 
+shortest among THEM is A. Similarly after resuming that to  their 
+originaal podsitions that the shorteest  among  each  column  are 
+asked to fall out. And the longest among them is B . Now  who  is 
+taller among A and B ?
+      ans  A  
+7). A person spending out 1/3 for cloths , 1/5 of the  remsaining 
+for food and 1/4 of the remaining for travelles  is left with
+Rs 100/- . How he had in the begining ?
+    ans    RS 250/-
+8). there are six  boxes containing 5 , 7 , 14 , 16  ,  18  ,  29 
+balls of either red or blue in colour. Some  boxes  contain  only 
+red balls and others contain only blue . One sales man  sold  one 
+box out of them and then he says " I have the same number of  red 
+balls left out  as that of blue ". Which box is the one he  solds 
+out  ?
+Ans : total no of balls  =  89 and (89-29 /2 = 60/2 = 30 
+     and also 14 + 16 = 5 + 7 + 18 = 30
+9).  A  chain  is  broken  into  three  pieces  of  equal  lenths 
+conttaining 3 links each. It is taken to a backsmith to join into 
+a single continuous one . How many links are to  tobe  opened  to 
+make it ?
+    Ans : 2.
+10). Grass in lawn grows equally thickand in a uniform  rate.  It 
+takes 24 days for 70 cows and 60 for 30 cows . How many cows  can 
+eat away the same in 96 days.?
+    Ans : 18 or 19
+11). There is a certain four digit number whose fourth  digit  is 
+twise the first digit.
+   Third digit is three more than second digit.
+   Sum of the first and fourth digits twise the third number.
+   What was that  number ?
+  Ans : 2034 and 4368 
+
+
+	If you qualify in the first part then you have to appear for 
+the second i.e the following part.
+
+Part 2.
+
+1.  From  a  vessel  on  the  first  day,  1/3rd  of  the  liquid 
+evaporates.  On the second day  3/4th  of  the  remaining  liquid 
+evaporates.  what fraction of the volume is present at the end of 
+the II day.  
+2. an orange galss has orange juice.  and white glass  has  apple 
+juice.  Bothe equal volume 50ml of the orange juice is taken  and 
+poured into the apple juice.  50ml from the white glass is poured 
+into the orange glass.  Of the  two  quantities,  the  amount  of 
+apple juice in the orange glass and the amount of orange juice in 
+the white glass, which one is greater and by how much?
+3.  there is a 4 inch cube painted on all  sides.   this  is  cut 
+into no of 1 inch cubes.  what is the no of cubes which  have  no 
+pointed sides.
+4. sam and mala have a conversation.  sam says i am vertainly not 
+over 40.  mala says i am 38 and you are  atleast  5  years  older 
+than me.  Now sam says you are atleast 39.  all the sattements by 
+the two are false.  How hold are they realy.
+5.  ram singh goes to his office in the city, every day from  his 
+suburbun house.  his driver mangaram drops  him  at  the  railway 
+station in the morning and picks him up in  the  evening.   Every 
+evening ram singh reaches the station  at  5  o'clock.   mangaram 
+also reaches at the same time.  one day  ramsingh  started  early 
+from his office and came  to  the  station  at  4  o'clock.   not 
+wanting to wait for the car he  starts  walking  home.   Mangaram 
+starts at normal time, picks him up on the way and takes him back 
+house, half an hour early.  how much time did ram singh walk.
+6.  in a railway station, there are tow trains going.  One in the 
+harbour line and one in the main line, each having a frequency of 
+10 minutes.  the main line service  starts  at  5  o'clock.   the 
+harbour line starts at 5.02a.m. a man goes to the  station  every 
+day to catch the first train.  what is  the  probability  of  man 
+catchinhg the first train
+7.  some people went for vaction.  unfortunately it rained for 13 
+days when they  were  there.   but  whenever  it  rained  in  the 
+morning, they had clean afternood and vice versa.   In  all  they 
+enjoyed  11 morning and 12 afternoons.  how many  days  did  they 
+stay there totally
+8. exalator problem repeat
+9. a survey was taken among 100 people to firn  their  preference 
+of watching t.v. programmes.  there are 3 channels.  given no  of 
+
+people who watch
+at least channel   1
+"         "        2
+"         "        3
+no channels at all
+atleast channels  1and 3
+"     "           1 and 2
+"        "        2 and 3
+find the no of people who watched all three.
+10. albert and fernandes they have two leg swimming  race.   both 
+start from opposite and of the pool.  On the first leg, the  boys 
+pass each other at 18 mt from the deep end of the  pool.   during 
+the II leg they pass at 10 mt from the shallow end of  the  pool.  
+Both go at const speed.  but one of them  is  faster.   each  boy 
+rests for 4 sec to see at the end of the  i  leg.   what  is  the 
+length of the pool.
+11. T  H  I  S                Each  alphabet  stands  for  one 
+        I S                   digit, what is the maximum value T 
+--------------                can take
+    X F X X
+  X X U X
+--------------
+  X X N X X
+--------------
+
+
+1. an escalator is descending at constant speed.   A  walks  down 
+and takes 50 steps to reach the bottom.  B runs down and takes 90 
+steps in the same time as A takes 10 steps.  how many  steps  are 
+visible when the escalator is not operating.
+2. evvery day a cyclist meets a train at a  particular  crossing.  
+the road is straignt before the crossing and both are  travelling 
+in the same direction.  cyclist travels with a speed of 10  Kmph.  
+One day the cyclist comes late by 25 min. and meets the train 5km 
+before the crossing.  what is the seppd of the train.
+3. five persons muckerjee, misra, iyer,  patil  and  sharma,  all 
+take then first or middle names in the full names.  There  are  4 
+persons having I or middle name of kumar, 3 persons with mohan, 2 
+persons withdev and 1 anil.
+--Either mukherjee and patil have a I or middle name  of  dev  or 
+misra and iyer have their  I or middle name of dev
+--of mukherkjee and misre, either both of them have  a  first  or 
+middle name of mohan or neither have a first or  middle  name  of 
+mohan
+--either iyer of sharma has a I or middle name of kumar  hut  not 
+both.
+who has the I or middle name of anil
+4. reading conprehension
+5. a bird keeper has got Ppigeon, M mynas and  S  sparrows.   the 
+keeper goes for lunch leaving his assistant to watch the birds.
+a. suppose p=10, m=5, s=8 when the bird keeper  comes  back,  the 
+assistant informs the x birds  have  escaped.   the  bird  keeper 
+exclaims oh no! all my sparrows are gone.  how  many  birds  flew 
+away.
+   b. when the bird keeper come back, the assistand told him that 
+x birds have escaped.  the keeper realised that atleast2 sparrows 
+have escaped.  what is minimum no of birds that can escape.
+6.  select from the five alternatives A,B,C,D,E
+   AT THE end of each question ,two  conditions  will  be  given.  
+the choices are to filled at follows.
+a. if a definete conclusion can be drawn from condition 1
+b. if a definete conclusion can be drawn from condition 2
+c. if a definete conclusion can be drawn from condition 1 and 2
+d. if a definete conclusion can be drawn from condition 1 or 2
+e. no conclusion can be drawn using both conditions
+1. person 1 says N<5
+   person says n>5
+     person 3 says 3N>20
+     person 4 says 3n>10
+    person 5 says N<8
+whaT IS value of N
+a) 1. no of persons who speak false being less than no of persons 
+who tells the truth.
+   2. person 2 is telling the truth.
+b)  1. no of persong telling the truth  is  greater  than  no  of 
+persons telling lies
+    2. person 5 is telling the truth.
+7.  there are N coins on a table.  there  are  two  players  A&B.  
+you can take 1 or 2 coins at a time.  the person  who  takes  the 
+last coin is the loser.  a always starts first
+--1. if N=7
+     a) A can always win by taking two coins in his first chanse
+     b) B can win only if A takes two coins in his first chance.
+     c) B can always win by proper play
+     d) none of the above
+--2.  A can win by proper play if N is equal to 
+ a) 13   b) 37  c) 22 d) 34   e) 48      ans. e.
+--3. B can win by proper play if N is equal to
+a) 25   b)26    c) 32   d) 41  e) none
+--4. if N<4, can A win by proper play always
+
+8. Two turns have vertain pecular charcteristics.   One  of  them 
+always lies on Monday, Wednesday, Friday.  \the other always lies 
+on Tuesdays, thursdays and saturdays.  On the other days they tel 
+the truth.  You are given a conversation.
+    person A--  today is sunday my name is anil
+    person B-- today is tuesday, my name is bill
+
+
+answers for selected questions
+2.  equal                          1. 150
+3.  8                              2. 60 kmph
+4. 37(M),41(S)                     3.  Mukherjee
+5.   45 min.                       8. today is tuesday
+6.   0.8
+7.   18
+11.   T max value = 4

@@ -1,0 +1,89 @@
+
+
+Hello friends,
+  I got some information about SISL's written test,which was conducted recently in IITK.My friend has written that it is the old paper only.
+Enjoy it...
+  your's lovingly,
+  R.PRASAD.
+ 
+
+All are multiple choice questions.60 questions to be answered in 60 mins.
+ Distribution of questions:
+---10 questions from data structures and some general topics.
+-----10 questions from Unix and C.
+--7Questions from Data base.
+----Remaining from Windows(x windows,MS Windows etc..)
+The distribution is not exact.Only approximate.
+Totally there are six sections as below:
+1.General
+2.Unix and c
+3.RDBMS
+4.C++/object oriented
+TCP/IP
+6not remembered.
+The questions are as follows:
+RDBMS-----
+	1.What is RDBMS...Def
+	2.Two tables are given.In 1st table 2 columns are there.one
+	isEmployee no,second is salary.In second table 3 columns are there,one is employee no,second is date,3rd is salary.
+	Select employee no,from table1,table 2.
+	How many records it will contain?.(This is somewhat difficult).
+	
+	3.What is transaction?
+TCP/IP:
+	1.X.25 protocol belongs to which layer.
+	2,Order all the 7 layers in sequence
+	3,One node has 2 IP address but data goes through only one link.What is the reason?
+	4,Router,Bridge,Gateway....Which one of these can not connect
+	two different LANS and is protocol sensitive.
+	5,Client sends server---reqest or demand or -----Choices
+	are given.
+Another section...
+1.main(argc,argv)
+{
+  if(argc<1)
+  printf("error");
+  else
+     exit(0);
+     }
+     If this program is compiled without giving any argument ,what it will print.
+2.What are the static variables...def
+3.What is Dynamic allocation ?
+4.Dead lock condition...What may be the condition for it.
+5.Semaphore variable?..def
+6.Most of the Windows operating systems are....choices are given like
+----a,maltitasking,multiuser,multi processing
+	b,only.......&......
+	c,only........&......
+	like that
+7.Properties of object oriented,(just recall the name of the properties like
+inheritance,....
+8.A program of C++,and two questions were based on the o/p of that program.
+.................---------.................
+
+
+ Some more questions are not remembered.
+ Here I am concatenating another mail from my friend.The number of questions from different areas as mentioned before is not correct.The correct numbers are given below.
+Sections...
+1, 5Q ...x windows
+2, 5Q .....MS Windows
+3, 7Q.....Databases
+4, 20 Q....General
+5, 20Q....UNIX/C
+6,5Q  ....OOPS
+Some questions.....
+1,Sticky bit concept
+2,Bourne shell.,no hup concept
+3,Net work layers
+4,Ethernet,Token Ring
+5,
+Unix...(Ans is Multitasking,Multi user)
+6,Windows...(ans is pseudo multitasking)
+7,IP Addresses
+8,Normalisation(in data basese)
+9,SQL Queries
+10, semaphores
+...............................................................
+   The remaining questions are not remembered.Totally 12 members have been short listed for the interview.Finally,only one MTECH has been selected.
+ Best of luck...
+

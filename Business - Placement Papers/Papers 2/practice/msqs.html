@@ -1,0 +1,728 @@
+<HTML>
+<HEAD>
+<TITLE>Microsoft Interview Questions!</TITLE>
+</HEAD>
+
+<BODY BACKGROUND = "../background/rainbow.jpg">
+<script language="JAVASCRIPT">
+<!--
+if (navigator.onLine){
+document.write("<!-- Spidersoft WebZIP Ad Banner Insert -->");
+document.write("<TABLE width=100% border=0 cellpadding=0 cellspacing=0>");
+document.write("<TR>");
+document.write("<TD>");
+document.write("<ILAYER id=ad1 visibility=hidden height=60></ILAYER>");
+document.write("<NOLAYER>");
+document.write("<IFRAME SRC='http://www.spidersoft.com/ads/bwz468_60.htm' width=100% height=60 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></IFRAME>");
+document.write("</NOLAYER>");
+document.write("</TD>");
+document.write("</TR>");
+document.write("</TABLE>");
+document.write("<!-- End of Spidersoft WebZIP Ad Banner Insert-->");
+}
+ //-->
+</script>
+
+<FONT FACE="Verdana, Arial, Helvetica, sans-serif">
+
+<H2>	INTERVIEW QUESTION BANK</H2>
+
+<P>
+For the LATEST version refer <A
+HREF="http://halcyon.usc.edu/~kiran/msqs.html">to this page</A>
+<BR><BR>
+<HR>
+<P>
+Here is a set of questions that I have with me which software guys
+have asked at interviews in the past, most of them are actually from
+Microsoft but a few have been pulled together from other places too.
+Sadly the solutions are not listed here but you could try and discuss
+them with your friends. If someone is willing to send me the solutions
+(a good number, not just one) then I can add them to this page. I have
+collected these from friends and would welcome any additions from you.
+Mail them to <A HREF="mailto:kiran@usc.edu">kiran@usc.edu</A>
+
+<P>
+<A HREF="#appqs">Go here for some questions specific to Application
+Programming</A>(VB, VBScript, HTML, ASP, ADO etc.) <BR>
+<P>
+
+<PRE>
+
+ 1. Given a rectangular (cuboidal for the puritans) cake with a rectangular
+    piece removed (any size or orientation), how would you cut the remainder
+    of the cake into two equal halves with one straight cut of a knife ?
+ 
+ 2. You're given an array containing both positive and negative integers and
+    required to find the subarray with the largest sum (O(N) a la KBL).  
+    Write a routine in C for the above.
+ 
+ 3. Given an array of size N in which every number is between 1 and N, 
+    determine if there are any duplicates in it.  You are allowed to destroy
+    the array if you like. [ I ended up giving about 4 or 5 different solutions 
+    for this, each supposedly better than the others ].
+ 
+ 4. Write a routine to draw a circle (x ** 2 + y ** 2 = r ** 2) without making
+    use of any floating point computations at all.  [ This one had me stuck for
+    quite some time and I first gave a solution that did have floating point
+    computations ].
+ 
+ 5. Given only putchar (no sprintf, itoa, etc.) write a routine putlong that
+    prints out an unsigned long in decimal.  [ I gave the obvious solution of
+    taking % 10 and / 10, which gives us the decimal value in reverse order.  
+    This requires an array since we need to print it out in the correct order.
+    The interviewer wasn't too pleased and asked me to give a solution which
+    didn't need the array ].
+ 
+ 6. Give a one-line C expression to test whether a number is a power of
+    2. [No loops allowed - it's a simple test.]
+ 
+ 7. Given an array of characters which form a sentence of words, give an
+    efficient algorithm to reverse the order of the words (not characters)
+    in it.
+ 
+ 8. How many points are there on the globe where by walking one mile south,
+    one mile east and one mile north you reach the place where you started.
+
+ 9. Give a very good method to count the number of ones in a 32 bit number.
+    (caution: looping through testing each bit is not a solution).
+
+ 10. What are the different ways to say, the value of x can be either a 0
+     or a 1. Apparently the if then else solution has a jump when written
+     out in assembly. 
+	if (x == 0)
+		y=0
+	else 
+		y =x    
+
+	There is a logical, arithmetic and a datastructure soln to the above
+	problem.
+
+ 11. Reverse a linked list.
+ 
+ 12. Insert in a sorted list
+ 
+ 13. In a X's and 0's game (i.e. TIC TAC TOE) if you write a program for
+     this give a gast way to generate the moves by the computer. I mean this
+     should be the fasteset way possible. The answer is that you need to store
+     all possible configurations of the board and the move that is associated
+     with that. Then it boils down to just accessing the right element and
+     getting the corresponding move for it. Do some analysis and do some more
+     optimization in storage since otherwise it becomes infeasible to get
+     the required storage in a DOS machine.
+ 
+ 14. I was given two lines of assembly code which found the absolute value
+     of a number stored in two's complement form. I had to recognize what the
+     code was doing. Pretty simple if you know some assembly and some fundaes
+     on number representation.
+
+ 15. Give a fast way to multiply a number by 7. 
+
+ 16. How would go about finding out where to find a book in a library. (You 
+     don't know how exactly the books are organized beforehand).
+
+ 17. Linked list manipulation.
+ 
+ 18. Tradeoff between time spent in testing a product and getting into the 
+     market first.
+
+ 19. What to test for given that there isn't enough time to test everything
+     you want to.
+ 
+ 20. First some definitions for this problem:
+    a) An ASCII character is one byte long and the most significant bit
+       in the byte is always '0'.
+    b) A Kanji character is two bytes long. The only characteristic of a
+       Kanji character is that in its first byte the most significant bit
+       is '1'. 
+
+     Now you are given an array of a characters (both ASCII and Kanji) and,
+     an index into the array. The index points to the start of some character.
+     Now you need to write a function to do a backspace (i.e. delete the 
+     character before the given index).
+
+ 21. Delete an element from a doubly linked list.
+
+ 22. Write a function to find the depth of a binary tree.
+
+ 23. Given two strings S1 and S2. Delete from S2 all those characters which
+     occur in S1 also and finally create a clean S2 with the relevant characters
+     deleted.
+
+ 24. Assuming that locks are the only reason due to which deadlocks can occur
+     in a system. What would be a foolproof method of avoiding deadlocks in 
+     the system.
+
+ 25. Reverse a linked list.
+
+     Ans: Possible answers - 
+
+     iterative loop
+       curr->next = prev;
+       prev = curr;
+       curr = next;
+       next = curr->next
+     endloop
+
+     recursive reverse(ptr)
+       if (ptr->next == NULL)
+        return ptr;  
+       temp = reverse(ptr->next);
+       temp->next = ptr;
+       return ptr;
+     end
+
+
+ 26. Write a small lexical analyzer - interviewer gave tokens. expressions like
+     "a*b" etc.
+
+ 27. Besides communication cost, what is the other source of inefficiency in RPC?
+     (answer : context switches, excessive buffer copying).
+     How can you optimise the communication? (ans : communicate through shared
+     memory on same machine, bypassing the kernel _ A Univ. of Wash. thesis)
+
+ 28. Write a routine that prints out a 2-D array in spiral order!
+
+ 29. How is the readers-writers problem solved? - using semaphores/ada .. etc.
+
+ 30. Ways of optimizing symbol table storage in compilers. 
+
+ 31. A walk-through through the symbol table functions, lookup() implementation
+     etc - The interv. was on the Microsoft C team.
+
+ 32. A version of the "There are three persons X Y Z, one of which always lies"..
+     etc..
+
+ 33. There are 3 ants at 3 corners of a triangle, they randomly start moving 
+     towards another corner.. what is the probability that they don't collide.
+
+ 34. Write an efficient algo and C code to shuffle a pack of cards.. this one
+     was a feedback process until we came up with one with no extra storage.
+
+ 35. The if (x == 0) y  = 0 etc..
+
+ 36. Some more bitwise optimization at assembly level
+
+ 37. Some general questions on Lex Yacc etc.
+
+ 38. Given an array t[100] which contains numbers between 1..99.
+     Return the duplicated value. Try both O(n) and O(n-square).
+
+ 39. Given an array of characters. How would you reverse it. ?
+     How would you reverse it without using indexing in the array.
+
+ 40. GIven a sequence of characters. How will you convert the lower
+     case characters to upper case characters. ( Try using bit vector
+     - sol given in the C  lib -typec.h)
+
+ 41. Fundas of RPC.
+
+ 42. Given a linked list which is sorted. How will u insert in sorted 
+     way.
+
+ 43. Given a linked list How will you reverse it.
+
+ 44. Tell me the courses you liked and why  did you like them.
+
+ 45. Give an instance in your life in which u were faced with a 
+     problem and you tackled it successfully.
+
+ 46. What is your ideal working environment. ( They usually 
+     to hear that u can work in group also.)
+
+ 47. Why do u think u are smart.
+
+ 48. Questions on the projects listed on the Resume.
+
+ 49. Do you want to know any thing about the company.( Try to ask some
+     relevant and interesting question).
+
+ 50. How long do u want  to stay in USA and why?
+
+ 51. What are your geographical preference?
+
+ 52. What are your expecctations from the job.
+
+ 53. Give a good data structure for having n queues ( n not fixed) in a
+     finite memory segment. You can have some data-structure separate for
+     each queue. Try to use at least 90% of the memory space.
+
+ 54. Do a breadth first traversal of a tree.
+
+ 55. Write code for reversing a linked list.
+
+ 56. Write, efficient code for extracting unique elements from
+     a sorted list of array.  e.g. (1, 1, 3, 3, 3, 5, 5, 5, 9, 9, 9, 9) ->
+     (1, 3, 5, 9).
+
+ 57. C++ ( what is virtual function ?
+     what happens if an error occurs in constructor or destructor.
+     Discussion on error handling, templates, unique features of C++.
+     What is different in C++, ( compare with unix).
+
+ 58. Given a list of numbers ( fixed list) Now given any other list,
+     how can you efficiently find out if there is any element in the 
+     second list that is an element of the first list (fixed list).
+
+ 59. GIven 3 lines of assembly code : find it is doing. IT was to find 
+     absolute value.
+
+ 60. If you are on a boat and you throw out a suitcase, Will the level of
+     water increase. 
+
+ 61. Print an integer using only putchar. Try doing it without using extra 
+     storage.
+
+ 62. write C code for
+     deleting an  element from a linked listy
+     traversing a linked list
+     efficient way of elimiating duplicates from an array
+
+ 63. what are various problems unique to distributed databases
+
+ 64. declare a void pointer
+     a)      void    *ptr;
+
+ 65. make the pointer aligned to a 4 byte boundary in a efficient manner
+     a)      assign the pointer to a long number
+	     and the number with 11...1100
+	     add 4 to the number
+
+ 66. what is  a far pointer (in DOS)
+
+ 67. what is  a balanced tree
+
+ 68. given a linked list with the following property
+     node2 is left child of node1, if node2 < node1
+     els, it is the right child.
+
+	O P
+	|
+	|
+	O A
+	|
+	|
+	O B
+	|
+	|
+	O C
+
+	How do you convert the above linked list to the
+	form without disturbing the property. Write C code
+	for that.
+
+			O P
+			|
+			|
+			O B
+		       / \
+		      /   \
+		     /     \
+		    O ?     O ?
+
+	determine where do A and C go
+	
+
+ 69. Describe the file system layout in the UNIX OS
+     a)  describe boot block, super block, inodes and data layout
+
+ 70. In UNIX, are the files allocated contiguous blocks of data
+     a)      no, they might be fragmented
+     how is the fragmented data kept track of
+     a)      describe the direct blocks and indirect blocks in UNIX 
+	     file system
+
+ 71. Write an efficient C code for 'tr' program.  'tr' has two command
+     line arguments. They both are strings of same length. tr reads an
+     input file, replaces each character in the first string with the
+     corresponding character in the second string. eg. 'tr abc xyz'
+     replaces all 'a's by 'x's, 'b's by 'y's and so on.
+     a)      have an array of length 26.
+	     put 'x' in array element corr to 'a' 
+	     put 'y' in array element corr to 'b' 
+	     put 'z' in array element corr to 'c' 
+	     put 'd' in array element corr to 'd' 
+	     put 'e' in array element corr to 'e' 
+	     and so on.
+
+	the code
+		while (!eof)
+		{
+			c = getc();
+			putc(array[c - 'a']);
+		}
+
+ 72. what is disk interleaving
+
+ 73. why is disk interleaving adopted
+
+ 74. given a new disk, how do you determine which interleaving is the best
+     a)      give 1000 read operations with each kind of interleaving
+	     determine the best interleaving from the statistics
+
+ 75. draw the graph with performace on one axis and 'n' on another, where
+     'n' in the 'n' in n-way disk interleaving. (a tricky question, should
+     be answered carefully)
+
+ 76. I was a c++ code and was asked to find out the bug in that. The bug
+     was that he declared an object locally in a function and tried to
+     return the pointer to that object.  Since the object is local to the
+     function, it no more exists after returning from the function. The
+     pointer, therefore, is invalid outside.
+
+ 77. A real life problem - A square picture is cut into 16 sqaures and
+     they are shuffled.  Write a program to rearrange the 16 squares to
+     get the original big square.
+
+
+A few more questions these with possible answers from the web page of dear
+friend Manku. Some of the questions might be du0plicates from above so read
+through...
+
+Arrays
+======
+
+   1. Given an array of integers, find the contiguous subarray with
+      the largest sum.
+ 
+   2. Given an array of length N containing integers between 1 and N,
+      determine if it contains any duplicates.
+
+   3. Sort an array of size n containing integers between 1 and K,
+      given a temporary scratch integer array of size K.
+
+*  4. An array of size k contains integers between 1 and n.
+      You are given an additional scratch array of size n.
+      Compress the original array by removing duplicates in it.
+      What if k << n?
+
+   5. An array of integers. The sum of the array is known not to overflow
+      an integer. Compute the sum.  What if we know that integers are in 2's
+      complement form?
+
+   6. An array of characters. Reverse the order of words in it.
+
+*  7. An array of integers of size n. Generate a random permutation of the
+      array, given a function rand_n() that returns an integer between
+      1 and n, both inclusive, with equal probability. What is the
+      expected time of your algorithm?
+
+   8. An array of pointers to (very long) strings.
+      Find pointers to the (lexicographically) smallest and largest strings.
+
+
+Linked lists
+============
+ 
+*  0. Under what circumstances can one delete an element from a singly
+      linked list in constant time?
+
+*  1. Given a singly linked list, determine whether it contains a loop or not.
+
+   2. Given a singly linked list, print out its contents in reverse order.
+      Can you do it without using any extra space?
+
+   3. Given a binary tree with <value, right-ptr, left-ptr> nodes,
+      print out the values in pre-order/in-order/post-order without
+      using any extra space.
+
+   4. Reverse a singly linked list recursively. The function prototype is
+                  node * reverse (node *) ;
+
+Bit-manipulation
+================
+
+*  1. Reverse the bits of an unsigned integer.
+
+*  2. Compute the number of ones in an unsigned integer.
+
+   3. Compute the discrete log of an unsigned integer.
+
+*  4. How do we test most simply if an unsigned integer is a power of two?
+
+   5. Set the highest significant bit of an unsigned integer to zero.
+
+   6. Let f(k) = y where k is the y-th number in the increasing sequence
+      of non-negative integers with the same number of ones in its binary
+      representation as y, e.g. f(0) = 1, f(1) = 1, f(2) = 2, f(3) = 1,
+      f(4) = 3, f(5) = 2, f(6) = 3 and so on.
+      Given k >= 0, compute f(k).
+
+Graphics
+========
+ 
+   1. Write a function to check if two rectangles defined as below overlap
+      or not.
+         struct rect {
+                 int top, bot, left, right;
+         } r1, r2; 
+ 
+   2. Write a SetPixel(x, y) function, given a pointer to the bitmap. Each
+      pixel is represented by 1 bit. There are 640 pixels per row. In each
+      byte, while the bits are numbered right to left, pixels are numbered
+      left to right. Avoid multiplications and divisions to improve
+      performance.
+
+Databases
+=========
+
+*  1. You, a designer want to measure disk traffic i.e. get a histogram
+      showing the relative frequency of I/O/second for each disk block.
+      The buffer pool has b buffers and uses LRU replacement policy.
+      The disk block size and buffer pool block sizes are the same.
+      You are given a routine          int lru_block_in_position (int i)
+      which returns the block_id of the block in the i-th position in the
+      list of blocks managed by LRU.  Assume position 0 is the hottest.
+      You can repeatedly call this routine.
+
+      How would you get the histogram you desire?
+
+ 
+Semaphores
+==========
+
+   1. Implement a multiple-reader-single-writer lock given a
+      compare-and-swap instruction. Readers cannot overtake
+      waiting writers.
+
+Non-programming
+===============
+ 
+*  1. Given a rectangular (cuboidal for the puritans) cake with a rectangular
+      piece removed (any size or orientation), how would you cut the remainder
+     of the cake into two equal halves with one straight cut of a knife?
+
+Others
+======
+
+   1. A character set has 1 and 2 byte characters. One byte characters
+      have 0 as the first bit. You just keep accumulating the characters
+      in a buffer. Suppose at some point the user types a backspace, how can
+      you remove the character efficiently. (Note: You cant store the last
+      character typed because the user can type in arbitrarily many
+backspaces)
+ 
+   2. What is the simples way to check if the sum of two unsigned integers
+      has resulted in an overflow.
+
+   3. How do you represent an n-ary tree? Write a program to print the
+      nodes of such a tree in breadth first order.
+ 
+   4. Write the 'tr' program of UNIX.
+      Invoked as 
+            tr -str1 -str2.
+ 
+      It reads stdin and prints it out to stdout, replacing every occurance of
+     str1[i] with str2[i].
+ 
+      e.g. tr -abc -xyz
+      to be and not to be   <- input
+      to ye xnd not to ye   <- output
+      <EOF>
+ 
+-------------------------------------------------------------------------
+
+Interesting observations and answers:
+
+Arrays
+======
+
+   1. Can be done in O(n) time and O(1) extra space. Scan array from
+      1 to n. Remember the best subarray seen so far and the best
+      subarray ending in i.
+ 
+   2. [Is there an O(n) time solution that uses only O(1) extra
+      space and does not destroy the original array?]
+
+   3. Compute cumulative counts of integers in the auxiliary array.
+      Now scan the original array, rotating cycles!
+      [Can someone word this more nicely?]
+
+   4. Can be done in O(k) time i.e. without initializing the 
+      auxiliary array!
+
+   5. If numbers are in 2's complement, an ordinary looking loop
+      like for(i=total=0;i<n;total+=array[i++]); will do.
+      No need to check for overflows!
+
+   6. Write a routine to reverse a character array.
+      Now call it for the given array and for each word in it.
+
+   7. "Expected time" should ring a bell.
+      To compute a random permutation, use the standard algo of
+      scanning array from n downto 1, swapping i-th element with
+      a uniformly random element <= i-th.
+      To compute a unformly random integer between 1 and k (k < n),
+      call rand_n() repeatedly until it returns a value in the
+      desired range.
+
+   8. Scan array in pairs. Remember largest-so-far and smallest-so-far.
+      Compare the larger of the two strings in the current pair with
+      largest-so-far to update it. And the smaller of the current pair
+      with the smallest-so-far to update it.    For a total of <= 3n/2
+      strcmp() calls.   That's also the lower bound.
+
+Linked lists
+============
+
+   0. If the list is circular and there are no references to the nodes
+      in the list from anywhere else!
+      Just copy the contents of the next node and delete the next node.
+      If the list is not circular, we can delete any but the last node
+      using this idea. In that case, mark the last node as dummy!
+
+   1. (a) Start reversing the list. If you reach the head, gotcha! there
+          is a loop!
+          But this changes the list.  So, reverse the list again.
+
+      (b) Maintain two pointers, initially pointing to the head. Advance
+          one of them one node at a time. And the othe one, two nodes
+          at a time. If the latter overtakes the former at any time,
+          there is a loop!
+
+   2. Start reversing the list. Do this again, printing the contents.
+
+   3. [Yet to think about]
+
+   4. node * reverse (node * n)
+      {
+         node * m ;
+
+         if (! (n && n -> next))
+           return n ;
+         
+         m = reverse (n -> next) ;
+         n -> next -> next = n ;
+         n -> next = NULL ;
+         return m ;
+      }
+
+Bit-manipulation
+================
+
+   1. #define reverse(x)                              \
+              (x=x>>16|(0x0000ffff&x)<<16,            \
+               x=(0xff00ff00&x)>>8|(0x00ff00ff&x)<<8, \
+               x=(0xf0f0f0f0&x)>>4|(0x0f0f0f0f&x)<<4, \
+               x=(0xcccccccc&x)>>2|(0x33333333&x)<<2, \
+               x=(0xaaaaaaaa&x)>>1|(0x55555555&x)<<1)
+
+   2. #define count_ones(x)                        \
+              (x=(0xaaaaaaaa&x)>>1+(0x55555555&x), \
+               x=(0xcccccccc&x)>>2+(0x33333333&x), \
+               x=(0xf0f0f0f0&x)>>4+(0x0f0f0f0f&x), \
+               x=(0xff00ff00&x)>>8+(0x00ff00ff&x), \
+               x=x>>16+(0x0000ffff&x))
+
+   3. 
+
+   4. #define power_of_two(x) \
+               ((x)&&(~(x&(x-1))))
+
+   5. 
+
+   6. 
+
+Graphics
+========
+ 
+   1. 
+ 
+   2. 
+
+Databases
+=========
+
+   1. Simply do       histogram [lru_block_in_position (b-1)] ++ 
+      at frequent intervals...  The sampling frequency should be close
+      to the disk I/O rate. It can be adjusted by remembering
+      the last block seen in position b. If same, decrease frequency;
+      if different, increase, with exponential decay etc.
+      And of course, take care of overflows in the histogram.
+ 
+Semaphores
+==========
+
+   1. 
+
+Non-programming
+===============
+ 
+   1. Join the centers of the original and the removed rectangle. It works
+      for cuboids too!
+
+Others
+======
+
+   1. 
+ 
+   2. 
+
+   3. 
+ 
+   4. 
+ 
+   5. 
+
+</PRE>
+<HR>
+
+<A NAME="appqs">Application Programming Questions</A>
+
+<P>
+<PRE>
+Most of these questions are in VB,ASP, ADO,VBScript,HTML etc.
+
+1.  The three types of DAO      Dynaset,Snapshot,Table
+2.  Why do we use Option Explicit
+3.  Difference between Dim Object as object AND dim obj as myform
+4.  How do we make a poperty read only?   Private Property Get(Read Only )
+5.  How do you declare an object in VBscript?       Dim object
+6.  What is the equivalent of VBScript's On Error In Jscript ??
+7.  How many data types are supported in Vbscript
+8.  MFC
+9.  Java
+10. Active Server Pages
+11. What are session variables??
+12. In what languages in ASP written.
+13. How do you create Virtual Root in IIS
+14. How do you remotely administer MS IIS??
+15. What is the key advantage of Windows NT Challenge/Response security?
+16. What problems do the vendors of ODBC Technology face with ASP/ADO ?
+18. How do you administer Connection Pooling in IIS 3.0
+19. How do you administer Connection Pooling in IIS 4.0
+20. What are the three Ado objects?? --Connection,command, recordset
+21. Two Methods of retrieving SQL
+22. How do you assign Construct the where clause without concatenating Field,
+value pairs??
+23. What cursor type do you use to retrieve multiple recordsets?
+24. What action do you have to perform before retrieving data from the next
+result set of a stored procedure ??
+25. What are The three tags of a form tag in HTML form <name, method,action>
+26. What are The two tags for framesets <frameset> <frame>
+27. How do you create Drop Down Combos in HTML ? select Tag
+28. In DHTML what is the difference between FontSize and Font Size ??
+   A: FontSize is a property, Font Size is a style
+29. What is the tag Code Base and why do we use it?
+30. How can you have different number of cells for each row of a table?
+
+31. The three file types in NT ?  NTFS,Macintosh(HPFS), FAT
+32. Describe a two tier Windows NT Domain?
+33. Define and explain COM
+34. What is IUnknown and what are its three parts??
+
+35. Define Query Interface,Adref,Release
+36. Do COM keep track of all the object references(Accounting)??
+37. What is Marshalling
+38. When is Marshalling not necessary??
+
+</PRE>
+
+<HR>
+
+<A HREF="index.html">AIS Homepage</A><BR>
+<A HREF="../index.html">Kiran Bondalapati Homepage</A>
+
+</BODY>
+</HTML>
+

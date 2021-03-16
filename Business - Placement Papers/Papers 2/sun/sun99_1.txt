@@ -1,0 +1,134 @@
+From: "N. VIJAYA KUMAR" <vijji@mailcity.com>
+paper were contributed by viji, thejo and c.v.Rao
+SUN-99
+
+1.struct XXX
+    {
+      int a;
+      float b;
+      char *s;
+    }X;
+   If optimization   :X not used in compiler then un used
+bits_________________.   give your assumption_______________. 
+
+2.struct XXX
+           {
+            int a:6;
+            float b:4;
+            char s;
+          }structure;
+   size og (structure); 
+3.class used for the multiple inheritence in yava_________________
+  (a) Anonymous class
+  (b) inner class
+  (c)  abstreet class
+  (d)  none
+4. XDR fixes in which part of OS1 stack.
+5. LDAP is____________service protocol.
+6. Given definition for a function which returns a array of pointers with 
+   argument of int*. 
+7.Give a function declaration with no arguments which refers a two dimensional
+
+  array
+8.Pick up the correct function declaration.
+  1.void *[] name();
+  2 void int[][] name();
+  3 void ** name();
+  4 none of the above.
+9.Give the difference between monolithic and microlithic kernal:
+  a mololic large
+  b micro used in embedded systems.
+  c.none.
+10.rPC coresponds to_______________in OSI stack.
+11.find the no.of page faults using LRU stack.
+  eg.3 4 4 6 7 8 1 2 .. ..
+12.the inorder representation of a tree 41523 and preorder is 211513 Draw it?
+13. when does a stack member will be initialised
+   (a) when object is created
+   (b) when object is initialised.
+   (c) doesnot depend on object.
+   (d) none.
+14 no.of CPU in a multiprocess is contrassed by
+  (a) RISC nohere of CPU
+  (b) memory
+  (c)___________
+  (d)_____________
+15  main()
+      {
+        char *s;
+         s="hot java";
+        strcpy(s,"solarrs java")
+      }
+16 main()
+  {
+   printf("hot java");
+   fork()  
+   exit(0);
+  }
+  1. when redirected to a sreen what will be printed.
+  2 when redirected to file what will be printed.
+17.main()
+    {
+     int ret;
+     ret=fork();ret=fork();ret=fork();ret=fork();
+     if(!ret)
+     printf("sun");
+     else
+     printf("solaris");
+  how many sun 4 solaris will get printed
+18. main()
+      {
+        char *p='a';
+        int *i=100/*p;
+     }
+  what will be the value of *i= 1
+                                1.03
+                                cannot be defined.
+19 which data structure gives efficient search
+    1 B-tree
+    2 binary tree
+    3 array
+    4 linked list
+20. struct point
+           {
+            struct point *next;
+            int data;
+           }x;
+    main()
+       {
+        int i;
+        for(x=p;x!=0;)
+        x=x->next,x++;
+      freelist(x);
+      }       
+         freelist(x)
+           {
+            free(x);
+            return
+         }
+    find error?
+21. mutex and _________are similar locking mechanisms.
+22.nextt question on from pointers and functions( highfy) take care.
+23. SNMP and SMIP transport layer protocols for TCP/IP&OSI.
+24 unix : difference between select and poll
+interview questions were mainly on data structures, computer architecture ( very imp) , os and networks
+from
+vijay
+cvrao
+
+____________________________________________________________________
+Get your own FREE, personal Netscape WebMail account today at http://webmail.netscape.com.
+
+--------- End Forwarded Message ---------
+
+
+
+Get your FREE Email at http://mailcity.lycos.com
+Get your PERSONALIZED START PAGE at http://my.lycos.com
+
+--------- End Forwarded Message ---------
+
+
+
+Get your FREE Email at http://mailcity.lycos.com
+Get your PERSONALIZED START PAGE at http://my.lycos.com

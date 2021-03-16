@@ -1,0 +1,60 @@
+Model paper of Inetrgraph 
+
+NO.of questions 40.     Time  45minutes
+out of 40 questions 20 from 'c' and 20 from analytical ability,quantitative ability .
+also 1 question ___ to draw venn diagram
+   1 question__  on analogy
+  1 "    _______non verbal reasoning
+ALL THESE ARE NOT TOUGH .AVERAGE LEVEL.
+THEY HAVE GIVEN TWO TYPES OF PAPERS.HERE I AM GIVING THE PAPER WHICH 
+WAS WRITTEN BY MY FRIEND.
+
+
+1.there are 6 (p,q,r,s...)people.each one play one game 
+---tennis,football,hockey,cricket etc
+clues given like:shortest one plays  hokey
+          largest person plays ..tennis
+           P,Q ARE NEITHER LARGEST NOR SHORTEST 
+          R PLAYS FOOTBALL
+   s is between t &r  in height
+question: who plays which game 
+          who is taaller than whom
+2.a cube has colors blue,red ,yellow each on two opposite sides.cube is 
+divided into "32 small cubes and 4 large cubes".
+ question:how many cubes (on 36 cubes) have blue at leat one side.
+        how many cubes have colors on two sides.
+3.anlogy: cell: tissue::atom:?
+
+4.aa person sold two articles for 80 /- each.with 20% profit on one 
+article and 20% loss on another article, what is the loss / prifit he 
+will gain on both.
+
+5.five cities. city1 is west to city3.city4 is east to city 5._____etc.
+which is   farthest on west side.
+
+6.one question on: -=+,*=-,/=* etc
+  then 10/5*45=?
+
+7.on ,C, paper is easy.mostly on pointers,3 question on structures,5 on 
+fundamentals,
+8.ex:define max 10
+
+main()
+{int a,b;
+int *p,*q;
+a=10;b=19;
+p=&(a+b);
+q=&max;
+} Q a)error in p=&(a+b) b)error in p=&max c)error in both d) no error 
+
+
+important suggestions:
+   1. average  preparation is enough to qualify foe interview.time is 
+enough.
+2.they are particular about academic background .
+3.interview is only on personal details.no question on technical subjects
+4.they may change paper sets also.
+5.in outside recruitment they are asking more questions on CAD. 
+ but not in campus.
+   in iitd they interviewed  5students out of 21 .selected 1,waiting list 1.
+6.cut off cgpa:7.5

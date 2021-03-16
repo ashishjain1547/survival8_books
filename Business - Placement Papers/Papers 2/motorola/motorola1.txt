@@ -1,0 +1,43 @@
+Motorola Interview.
+There was a Technical Interview,followed by personal interview.  
+Mainly concetrating on the interesting subjects. 
+
+
+write a C code 
+1.to reverse a string using a recursive function, without 
+   swapping or using an extra memory.
+2.To reverse a linked list as above.
+
+given a macro like
+  #define MAX(A,B) {to return that is larger}
+     what will MAX(i++,j),MAX(i,j++) return.
+
+Difference between Macro and ordinary definition.
+Difference between Class and Struct.
+
+Testing and Maintenance.(will you work in it and what are they)
+
+Give the outputs of a compiler and assembler and loader and linker etc.
+If a new data structure, suppose a queue is to be added like int, long 
+etc.,
+where shall the changes be -- lex or yacc or where.
+
+what is a Real Time OS.
+Name some.
+Describe VRTX in few words.
+How does the scheduler know the time how it should be scheduled.
+
+
+sockets, TLI, streams.
+
+and much about project.
+
+What is deadlock? How do you avoid it?
+What is a semaphore?
+What exactly happens after each system call in sockets, both at the 
+client and at the server.
+What is the difference between widget & gadget in XWindows?
+Tell about strtok & strstr functions.
+Motorola Interview.
+There was a Technical Interview,followed by personal interview.  
+Mainly concetrating on the interesting subjects. 

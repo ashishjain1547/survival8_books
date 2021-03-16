@@ -1,0 +1,108 @@
+   Here is theinfosys paper It may not contain full 
+> questions and ans
+ 
+>         Understand it
+> 
+> 
+>         1. There are 4 married couples out ofwhich 3 a group 
+> isneeded . Butther
+ 
+>         should not be his of her spouse .How nmany groups are 
+> possible ?
+ 
+>         Ans 32
+> 
+>         2.In the 4 digits 1,2,3,4 how many 4 digited numbers are 
+> possible
+ 
+>          which are divisable by 4? Repetetions are allowed
+>         Ans 64
+> 
+>         3. Twow men are goingalong a trackf rail in the opposite 
+> direction.
+ 
+>             One goods train crossed the first person in 20 sec. 
+> After 10 min
+ 
+>         the train crossed the other person who is commingin 
+> opposite direction
+ 
+>          in 18 sec .Afterthe train haspassed, when thetwo 
+> persons will meet?
+ 
+> 
+>         Approx  72min check it once.
+> 
+>         4. Theno. of children > adults . Theno .of adults > the 
+> no .of boys .
+ 
+>           The no.of boys > no. of girls .The no.of girls > no.of 
+> familyi                 conditions
+ 
+>               1.No family is without a child 
+>       2 Every girl has atleast one brotherand sister .
+> 
+>       Ans c>a>b>g>f; 9 6 5 4 3 .
+> 
+>       6.There are4 boys Anand ,Anandya ,Madan and Murali with 
+> nicmnames perich       ,zomie ,drummy and madeena not in thesame 
+> order
+ 
+>        Some com=nditons
+> 
+>       Ans Anand : Perich
+>               Anandya: drummy
+>               Madan : Zombie
+>               murali: Madeena
+>       7.Thereare2diomans ,1 spadeand1 club and 1ace and also 1king ,1 
+> jack
+ 
+>       and 1 aceare arranged in a straight line 
+>       
+>       1.The king is at third place
+>       2.Theleft of jack is a heart and itsright is king
+>       3. No two red colours arein consequtive.
+>       4.The queensareseperated by two cards. Write the orderor which 
+> suits 
+ 
+>       (hearts ,clubs )and names(jacks queensetc.)
+>       8. Writeeach statementis true or false 8M
+>       1.The sum of the1st three statements and the2nd false statement 
+> givesthe true statement.
+ 
+>       2.The no.oftrue statements >falsestatement 
+>       3. The sum of2nd true statement and 1st falsestatement gives 
+> the first 
+ 
+>       true statement.
+>       4. Thereareatmost 3 falsestatements 
+>       5.There is no two consequtive true statements 
+>       6.If this containsonly 1-5 statements ,theanswer of this is 
+> sameasthe an  answer of the following question
+ 
+>       
+>       9.Question on Venn diagram.
+>       All handsome are also fair skinned 
+>       Sme musularsare fair skinned 
+>       Some musculars are also handsome
+>       All lean are  also muscular 
+>       Some lean are also fair skinned.
+>       All rich  man inot fair skinned but all rich manare handsome 
+> 
+>       Some questions follows.
+>       10 
+>       There are 3 pileseach containe 10 15 20 stones. There are 
+> A,B,C,D,F,G
+ 
+>       and h persons .One man can catch upto four stones from any 
+> pile.
+ 
+>       The last manwho takeswill  win. If first A starts next B. and 
+> so on 
+ 
+>       who will win? 
+>       Ans May be F
+>       
+>       Essay writing 
+>       1 Intrnet revolution
+>       2.Media for youth 

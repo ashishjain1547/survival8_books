@@ -1,0 +1,103 @@
+TIL-2001 AT IITB:
+word List
+remote         -corner
+plethora       -excess
+obstinate     -stubborw
+hover         -linger
+acknowledge   -recognize
+incentive     -stimulus
+connotation   -implication
+accede        - agree
+emancipate    -liberate
+lethargy      -stupor
+concur         acquiesce
+baffle          -frustrate
+misery          -distress
+Tranquil      -serene
+efface        -obliterate
+abstract      -theory
+canny           - shrewd
+
+.Depreciation:  deflation,
+passe         -
+Reciprocal:    opposite
+
+
+I don't remember others but try to solve old TCS and
+TIL vocabs.
+
+Letter series.  (Total 34  and time 8 mins)
+
+ADGJMP   - RWTS    ANS; S
+ABCEFGIJK - MLONP    ANS; M
+ACE?I    -    Ans     G
+AASASPASPKA - RQTSU  ANS;S
+LULMGMNFNPS - ONQPS ANS:P
+ODJTOPQNOERT  - QOUVW   ANS;O
+XWEFGVUHIJK  -  PNSRT  ANS: T
+
+BCDAEGHIFJLMN   LKNMO   ANS: K
+ABDGKP  -  LIWUX    ANS:U
+
+NZI YCX KWF - JFVMY  ANS;V
+
+These are repeated from old papers so i remember
+others i don't  but
+these
+are easy only thing is the practice. and speed.
+
+
+Analytical:-
+
+Similar to old papers as:-
+
+
+1. 3257/16.57 =  ans 200
+3. 10995+115=         11110
+4. 47+553-247=
+5. 8/64+64/16=
+6. 907.54/0.3073= (NOTE:denominator is changed)
+
+
+Reasoning:-
+
+1. Radha is Dinu's mothers mother in law what relation
+does dinu has
+with
+radha's Husband :         Ans Grandfather
+
+2. increse 20%,then decrease 20%,. what is the change?
+ANS:-  4%
+Decrease.
+
+3.Slowing running   speed A/hour
+
+Medium running speed B/hour
+
+fast running speed  C/hour
+
+
+Total distance covered if slow running for n hours and
+fast for k
+hours??
+
+Ans: nA+kC
+
+
+
+
+Reasoning quest are easiest and time is sufficient so
+don't worry abt
+this
+portion.
+
+
+
+Flowcharts :-
+
+similar to previous years with some modifications.
+
+
+So friends Improve ur speed and remember at least
+whatever u get and be
+fast .

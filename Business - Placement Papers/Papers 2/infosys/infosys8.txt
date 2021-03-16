@@ -1,0 +1,45 @@
+
+This paper contains INFOSYS interview questions.
+=================================================
+
+
+1> S: Satch         J:Jute           ANS
+    person1: Most of us are satch     J
+    person2:Most of us are jute       S
+    person3:Two of us are satch       J
+    person4: Three of us are jute     J
+    person5:I am satch                J
+    we have to find who is satch and who is jute.
+2> Four perssons are three to cross a bridge they have one torch light
+    one person  A can cross in  1 min
+        person  B  can cross in 2 min
+        person  C can  cross in 5 min
+         person D can cross in 10 min
+ They have to cross bridge with in 17 min.
+  At a time only two persons can cross
+  I    A&B    ----> 2
+  II   A      <----1
+  III  C&D     ---->10
+  IV   B       <----2
+  V    A&B      ---->2
+               __________
+      Total         17
+
+3>7 hours  hour glass
+  11 hours hour glass
+  you have to boil one egg for 15 hours
+4> What is the maximum number of slices can you obtain by cutting
+  a cake with only 4 cuts?
+  ANS: 16
+5> Three are three boxes ,
+   In one box Two white balls
+   In two box 2 black balls
+   In three box 1 white &1 black
+   The lables on the boxes are not correct.Then you have to open
+   one box and to find the colour of the balls in all boxes.
+
+Solution: Open the box labled black& white
+If white balls are there then the box labled with white balls
+contain black balls and labled with black balls contain one
+black and one white ball and viceversa if two black ballsare there.
+

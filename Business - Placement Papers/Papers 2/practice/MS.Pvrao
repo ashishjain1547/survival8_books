@@ -1,0 +1,100 @@
+Interview 1
+===========
+
+1. Asked me about my graphics Project. Be prepared with any project that u have
+written in ur resume as part of ur curriculam . 
+
+2. Detect loops in a list . May be u might be asked to write code related to
+it.
+
+3. He went further and asked me like, say there is a list and there is a loop
+starting from some where in the middle . Then i was asked to find the lenght of
+the handle . 
+
+Interview 2
+===========
+
+1. Asked me to explain my ME Project . 
+
+2. Say there is a list of (n-1) integers and they are in the range 1 to n .
+Then find the integer missing in the list .
+
+3. Say there are some students and some courses offered in a college . Then
+there will be many relations between the two sets . Like each student takes
+many courses . 
+    Asked me to represent the data-structure for the given prob. I was asked
+many Q's on the data-structure and asked me for the best possible
+data-structure which would be efficient for answering any kind of Querry
+related to the Prob.
+
+4 . Asked me to write linked reversal code and the recurssive version of the
+prob.
+
+Interview 3
+===========
+
+1. Given 6 pencils how will u construct 4 equilateral Triangles . { Hint :
+Think of a three dimensional structure }
+
+2 . There is an Array of structures . The structure contained Name of Employee,
+salary  & Employee ID . Say u are asked to sort the array then u will have to
+move the data in array up and down . So if u treat it as a database then lot of
+data movement is needed . To avoid such a kind of thing say u contruct a new
+array which only contains the indexes of the array of structures in sorted form
+. This way u don't have to move data . Like say there is an array of the
+follwing structures 
+            
+            {[x,200,100],[a,100,2],[y,300,25]}
+
+            And now say u are to get the contents of the database sorted by
+names then the new array will be {1,0,2}.
+
+   Now say there are duplicate names in the database then u have to sort on the
+bases of Employee ID which is unique . 
+
+They asked me to code for such a kind of prob . They ask for optimization at
+every line and every expression of the code . 
+
+3. Asked me about Merge sort . And now say there is an array A of sorted 
+elements and another array B of sorted array of elements  and say B is of size
+(A+B) . Now write a code for filling (A+B) with all sorted elements of A and B
+.
+
+Interview 4
+===========
+
+1. Asked me about something about my self and why i wanted to join MS . 
+
+2. Say there is a circular list of integers . Say it is sorted . say u are
+given a node ptr at some where in between . U don't know whcih way the list is
+sorted (like the ptr going right could be the element > or < the current , but
+the list is sorted ). Now u have to insert a node in this kind of a circular
+list .
+
+2. A puzzle was asked which needs to be drawn . There are 8 Airports say . say
+there is a flight from,
+
+             1-->4  & 1-->6 (the graph is non-directional)
+             4-->7  & 4-->1 
+             6-->3  & 6-->1
+             5-->2  & 5-->8
+             2-->7  & 8-->3
+             4-->7 
+
+     There are 4 persons L1,L2,W1 & W2 . L1 and L2 are at Airport 2 and 4
+respectively . W1 and W2 at 8 and 6 resp. Now L1 should be placed at 8 or 6 and
+L2 should be placed at the position one among 8 or 6 (like say if L1 is
+positioned at 8 then L2 should be at 6 and the otherway round) . Similarly W1
+should be placed at 2 or 4 . And W2 should be at the positon where W1 is not(
+Again like if say W1 has been placed at 2 then W2 should be at 4). Now in how
+many hops of plane traversal will u do this exchange of places . It is simply
+like L1 & L2 exchanging positions with W1 & W2 .
+
+I think have written all the Q's 
+===============================================================================
+
+Anyone going for the interview please go through the book "How to solve it by
+Computer" . It is a very nice book . And also u should be prepared for writing
+code for any given prob.
+
+===============================================================================

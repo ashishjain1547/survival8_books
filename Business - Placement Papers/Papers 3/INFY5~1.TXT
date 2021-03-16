@@ -1,0 +1,43 @@
+punith 5   Bhubaneshwar....
+.	A  bicycle goes 1 mile in 3 min.with the wind and  returns back in 4 min.against the wind. How much time will he take to cover 1 mile when there is no wind?	(Ans. 24/7 min.)
+2.	A man  passed 1/6 of his life in childhood, 1/12 in youth and 1/7 more as a  bachelor. Five years after his marriage a son was born  who died four years before his father at half his final age. What is the total age of  the man?	(Ans. 84 yrs.)
+3.	Alpha, Beta, Theta, Gamma & Epsilon are stated as follows:	
+				
+	#. If and only if alpha is equal  to gamma then beta is not equal to epsilon.		
+	#. Alpha-Beta=Beta-Gamma  ;Alpha>Theta.				
+	#. Alpha>Beta and Gamma>Theta.									Write  the above quantities in  descending order?							(Ans. Alpha>Beta=Epsilon>Gamma>Theta)
+4.	A thief broke into a jwellwry shop and thought of  taking all the diamonds with him . But while he was leaving, he came to his better senses and thought of taking half with him. But he couldn't resist and took two more and left. A second thief came and took half of the remaining and two more. Similarly third and fourth thief came and did the same. The fifth thief came but there was no diamond left for him. What was the initial number of diamonds?	(Ans. 60)
+5.	SEND+MORE=MONEY	What is the value of "M","O","N","E" ?				(Hint: 9567+1085=10652	M=1,O=0,N=6,E=5)
+6.	Three men A,B,C went in three directions and had stolen a mule, a horse and a camel. They were caught by CBI and arrested. During their interrogation they gave the following statements:				
+	A: B has stolen the horse.									                      B: A & C are both lying and I have stolen nothing.						                      C: A is lying and B has stolen a mule.											One who has stolen a camel is telling lie and one who has stolen a horse is telling truth. Among A,B,C who has stolen what?		
+	(Ans. A-Camel	B-Mule	C-Horse)
+7.	A scientist "SAM" arrived late in his lab and found that in his watch, the minute hand and the hour hand were coming  together every 65 min. Was his watch gaining or losing time and by how much per hour?	(Hint: Shakuntala Devi's Puzzles to Puzzle You  Problem 63)
+8.	*Amarpur is north of Landganj and west of Chutpur.
+      *Basti is north of Amarpur and west of Fulganj.
+      *Dania is south and east of Amarpur.
+      *Landganj is north of Fulganj and east of Dania.
+      *Fulganj is north of Dania and west of Amarpur.
+      *Chutpur is south of Fulganj and east of Dania.
+. Which town is farthest to the north-lganj?
+#. Which town is both north and east of Fulganj?	
+I.	Amarpur	
+II.	 Chutpur	
+III.	 Landganj		
+I only
+II only
+III only
+I & II
+I & III
+#. Which of the following town(s) must be situated both south and west of at least one other town?
+1 . Amarpur only	
+2. Amarpur &Fulganj	
+3. Dania & Fulganj 
+4. Dania, Chutpur & Fulganj
+ 5. Chutpur & Landganj
+		
+#. Which of the following statements, if true, would make the information in the numbered statements more specific?			
+1.  Chutpur is north of Dania
+2.  Landganj is north of Dania
+3.  Amarpur is east of Basti
+4.  Chutpur is east of Fulganj
+5.  Basti is north of Fulganj

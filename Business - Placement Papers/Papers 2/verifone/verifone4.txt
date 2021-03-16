@@ -1,0 +1,43 @@
+
+Verifone Interview.
+Here, we had three single man panels. They are seeing the subjects 
+taken and asking questions in that mainly. They didn't go deep into
+any subject and they were just  asking overview. When they catch any
+new word they are asking about it. 
+      
+These are some of the questions asked to us.(not to a single person.)
+     
+What is a finite Automata.
+what is a turing machine.
+how many processors are there in a pentium microprocessor. in Sparc.
+difference between risc and cisc.
+is risc always fast.
+
+
+what is a real time system.
+name some real time OS
+what are the characteristics of Real time OS.
+is DOS a real time OS.
+what is a kernel,shell.
+
+what is binary search, traversal, hashing etc.
+given a scenario what is the  suitable data structure.
+write a code to count the no. of 1's in a binary rep. of a number.
+memory taken for char *, int * etc.
+char *cp; int *ip; cp++,ip++ - what is the result.
+compare the no. of bytes in unix and Dos for long char short int.
+how to make programs portable on unix and Dos under such circumstances.
+in c++, what is a constructor, destructor etc. 
+what is friend etc.
+  
+
+
+what is waterfall model, prototype model etc.
+what is testing. what is unit testing, integration testing etc.
+
+What is indexing in databases? 
+What is atomicity?
+Can recursive pgms be written in C++, Write a recursive pgm to 
+calculate factorial in c++.
+What is best data structure to store the processes info in a real time 
+operating system?

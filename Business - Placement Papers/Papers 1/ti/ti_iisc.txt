@@ -1,0 +1,39 @@
+      Technical was "very easy" but Aptitide was lengthy & hence
+difficult.
+Interview was cool...........
+      Just clear the test.............and get it.
+
+      I appeared for CS sections, there were easy programs on C and in
+other section few questions on DSA, OS and Architecture.
+
+      1. binary search complexity
+      2. for a paging system 2 programs were given u have to choose the
+faster one
+      3. 1 q. on bigendian
+      4. If high priority process  comes when low prority process is
+running, what will OS do?
+      5. i simple qn on Hash table with rehashing.
+            5 nos were given with rehashing , find the location at
+2nd position.
+      6. difference between combinational and sequential logic
+      7. find formula for effective access time calculation... hit
+ratio,cache access time and memory access time was given.
+      8. int *ptr[4]() something like this.........
+            what does it represent?
+      9. In an architecture at each fun. call it stores 4 registers and
+on return loads the 4. each load and store take 1 cycle.
+A recursive fn to find fibonacci seriese is given with start val  as 5.
+Calculate the num of extra cycles reqd in load/store.
+
+n = 5;
+fib(int n)
+{      if(n ==0 || n==1)
+            return(1);
+      return( fib(n-1) + fib(n-2) );
+}
+ans 120    check.           
+
+
+      Can't recall all the questions ..............sorry...............
+      Apti is imp........... prepare for that............
+

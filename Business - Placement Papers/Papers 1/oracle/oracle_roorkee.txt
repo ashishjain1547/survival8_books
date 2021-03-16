@@ -1,0 +1,121 @@
+here is paper of oracle at roorkee
+this is only tech section
+
+     My final schedule is...
+
+   I could arrange the following Oracle tech. questions.
+1)
+#include<stdio.h>
+#include<conio.h>
+#define cube(x) (x*x*x)
+main()
+{
+int a,b=3;
+clrscr();
+a=cube(++b)/(++b);
+printf("%d.....%d",a,b);
+getch();
+}
+
+2)
+#include<stdio.h>
+main()
+{
+function()
+{
+printf("inner loop");
+}
+printf("outer loop");
+getch();
+}
+
+3)
+#include<stdio.h>
+main()
+{
+int i=10,m=10;
+clrscr();
+printf("%d",i>m?i*i:m/m);
+getch();
+}
+
+4)
+#include<stdio.h>
+main()
+{
+int x=1,y;
+y=--x--;
+printf("%d%d",x,y);
+}
+
+5)
+#include<stdio.h>
+main()
+{
+int i,x=1,y=1,z=1;
+clrscr();
+i=++x||++y&&++z;
+printf("%d..%d..%d..%d",i,x,y,z);
+getch();
+}
+
+6)
+#include<stdio.h>
+main()
+{
+int a=1,b=1;
+clrscr();
+printf("%d..",printf("%d%d",a,b));
+getch();
+}
+
+7)
+#include<stdio.h>
+main()
+{
+int k=10,m=10;
+clrscr();
+k=!k;
+m=!k&&!m;
+printf("%d...%d",m,k);
+getch();
+}
+
+8)
+#include<stdio.h>
+main()
+{
+int a=12,i=0;
+while(a>>=i)printf("%d",a,i++);
+}
+
+9)
+#include<stdio.h>
+main()
+
+{
+static char s[]="oracle";
+clrscr();
+printf("%d",*(s+strlen(s)));
+getch();
+}
+
+10)
+#include<stdio.h>
+struct node
+{
+int i;
+struct node *link;
+};
+main()
+{
+struct node *k,*m;
+clrscr();
+printf("%d",sizeof(int));/*if answer is 4*/
+k=(struct node*)malloc(sizeof(struct node));
+m=malloc(sizeof(k));
+printf("%d%d",sizeof(m),sizeof(k));
+getch();
+}
+
+

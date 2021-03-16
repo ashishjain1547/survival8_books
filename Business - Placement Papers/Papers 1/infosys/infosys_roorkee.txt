@@ -1,0 +1,46 @@
+Infosys - Ree
+1) if one special ice-cream contains 99% fate free. Then how much ice-cream cup should I eat to get the fate of the same amout as normal icecream.
+   ans: 100
+2) train and cyclist problem of Shakuntala Devi. (slight change in data from Shakuntla so answer is 60 instead of 72)
+   ans: 60
+3) Dale, Lee and Terry problem of George summer.
+   ans: Dale is Merried Man
+4) Mr. Carpenter, Mr. Meson and Mr. Painter are three friends, and There occupation is the same as that of their name but need not in the same order. Following conditions are given.
+   a. Carpenter is not painter
+   b. Carpenter is Carpenter
+   c. Meson is not painter
+   d. Meson is not Carpenter.
+   ans: Mr. C-C, Mr. M-M, Mr.P-P.
+5) There are six cups placed on a table in straight line. They all are inverted and contain balls of different color inside it. The color of balls are m, r, y, g, o, p
+   The all cups are numbered from 1 to 6 successively.
+   There are two conditions given for the sequence of the balls only for three balls. And all 5 options given are to be analysed for the conditions. Three options get deducted by one condition and out of 2 remaining 1 option get deducted by another condition. Very Easy
+   Ans: Option C
+6) In one gym there are 2 kg and 5 kg weights there are total 14 plates. Weight of 2 kg plates and 5 kg plates are same . Tell me the total wt.
+   ans: 40
+7) A farmer grows some vegetables in his farm, Following two condition
+ 1. If he takes the crop of Beans then he also Corn.
+ 2. He takes crop of Kale alternative years.
+ 3. In two years of crops he only takes one crop of Vegetable. Find which of the following is the correct sequence for the successive two years.
+
+there were three options. Sequence I exactly don't remember but it was very simple. Just considering the first two conditions we can cross out the odd options.
+Ans : B
+
+8) There are four persons each playing a card game. During this game they have taken the first name as J, M, T, S. and last name as A, B, C, D. During this play first winner takes ten rupees from each. Second one 20 and 3 winner 30 and 4th winner 40. They played only 4 games and exactly each wins once. The sequence was as follow
+ 1) M - is second. 2) S - is 4th 3) A - 1st and 4) c - 3.
+now when the game started B was having more money and at the end T was having the more money. Find the full names.
+ (this sequence is just given for representing the puzzle but the actual puzzle may contain some different name.)
+
+9) PACIFIC + PACIFIC + PACIFIC = ATLANTIC. Each alphabet contains an integer. Find value of P, A, I, C.
+   ans: C-0, I-5 (Others do your self. Here very few did this one. So check the answer.)
+
+10) Too Long. Too Complecated. 3-Dimensional. Appearently no one did it. And no one remembers  it.
+
+Para : Same as that of VJTI.
+
+All the best Guys and Gals.
+
+Mukesh Lalchandani			Amit Jain
+S-32, Azad Bhawan,			amit1pme@isc.rurkiu.ernet.in
+University of Roorkee
+Roorkee
+mukclpme@isc.rurkiu.ernet.in

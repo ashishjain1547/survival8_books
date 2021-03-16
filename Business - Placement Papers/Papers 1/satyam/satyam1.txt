@@ -1,0 +1,100 @@
+SATYAM PAPER
+
+25 apti+ 25 tech in 1 hour
+less emphasis on tech
+
+TECH:
+1) c-question
+static int a[5]={10,20,30,40,50};
+int j;
+for(j=0;j<=4;j++);
+{
+if(j<=4)
+{
+a[i]=a[j]*a[j];
+printf("%d",a[i]);
+}
+}
+
+what is the o/p
+Ans) no o/p  (as semiclon is given after for loop 3rd
+line of the
+program).
+
+2)bit-byte-field-record
+arrange in smallest to biggest
+Ans) field-bit-byte-record
+
+3)a type similar to above question
+Ans) record.
+
+4)2-3 extremely cheap operating system and network
+question.
+5)2-3 extremely vague DBMS questions.
+6)2-3 very very easy c++ questions.
+
+
+APTI:(For apti go through rs agarwal)
+1) two questions on time discount and interest and
+stuff like
+that.(questions from rs agarwal only)
+2)two hands of watch meet every 64 min. does the watch
+go slow or
+fast.
+3)two pipes can  fill a tank in 4&5 hrs
+respectively.one can empty in
+2 hrs .If the tanks are opened in order 1,2,3 .m
+respectively ,when
+the cistern will be empty.
+options--3p.m,4p.m,5p.m,6a.m,7a.m
+Ans)5p.m
+4)a garrisson of 2000 men has provision for 54 days d
+of 15 days a
+reinforcement of men arrive and it is found that now
+the provision
+will last for 20 days more.Find the no. of men arrived
+
+Ans)1900(check inrs agarwal).
+5)one question from alligation and mixture(r.s
+agarwal).
+6) two or three questions at least had 5-7 steps given
+for a
+procedure ,the steps had to be arranged in alogical
+oredr.There was a
+simple catch in each but was easy.
+e.g. to print ur name in reverse
+1)print the 'i'th alphabet
+2)count the no. of alphabets
+3)If i=0 end
+4)i--
+5)goto 3
+options like
+a)3,2,4,5,1
+b)2,1,4,5,3
+c)1,4,2,3,5
+d)none
+
+-similar questions for calcuylating average,checking
+greater etc.
+-there was one flow chart of fibinacci series.
+-loop for fibonacci.
+-some simple C loops written in words to be traced
+basically just
+watch out for the catch.
+i=j
+k=(z+i)/(z+j)
+l=3*i(j*3)
+m=(3*(3+i)/(j*(3+j)
+if i=3=j initially
+a)all are same
+b)one is different
+c)all are different
+d)none
+
+7)Some simple computer based questions(objective)
+-function of CPU
+-what is ram etc.
+-what is buffer.
+
+8) some vague Data base questions (nobody understood
+that)

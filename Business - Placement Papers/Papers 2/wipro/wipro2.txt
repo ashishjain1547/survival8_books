@@ -1,0 +1,135 @@
+
+section-1:
+questions not in order.
+
+1.distance D=rt where r & t are +ve and r is constant,as t increses then
+   D_________
+
+ans:D increses irrespective of r & t
+
+2.E=I*I*R what is the effect of E when I becomes I/2
+
+ans:1/4E(E decreses by 4 times)
+
+3.out of 55 eggs 5 are defective. what is % of defective eggs
+
+ans:9/11%
+
+4.salary is 's' per month,'x'% of salary is given as bonus, if 3 months
+salary is s1,s2 & s3 then what is his salary.
+
+ans:s1*x/100 + s2*x/100 + s3*x/100
+
+5.consider expresion 'ab' . what happens when 'a' is divided by 'c' & 
+'b' is
+  multiplied by 'c'.
+
+ans:value remains same.
+
+6.area of triangle=1/2*b*h base incresed by 4 times & height is devided 
+by
+  2, the net effect of area.
+
+ans:twice the the original area.
+
+7.in base representation for a rupee 100 paise,then base 8 
+representation
+  what is rupee value .
+
+ans:144
+
+8.A>B,B>C,C=D,D>E,then which is greatest
+  a)A/B  b) A/C  c) A/E d)none
+
+ans: c
+
+9.to travel 'm' miles the time is 'h' hours,then what is the time taken 
+to
+  travel M miles.
+
+ans:M*h/m
+
+10.a sum 's' is devided into 4 parts.second person gets Rs 10 more than
+  first.3rd person is Rs 10 more than second, 4th is 10 more than 3rd.
+  how much amount do 1st person get.
+
+ans;(s-60)/4
+
+11.fridge cost R Rs,cover value is 5,discount d% then its new cost
+
+ans:R-R*d/100-5(1-d/100)
+
+12.1/8 is devided by 's' , if 's' is incresed by 2 times, what is the
+result.
+
+ans:increses two times.
+  section 2.  letter series
+  -------------------------
+    1. a c b d f e g i __    ans: h
+    2. x y z u v w r s t __  ans: o
+    3. a c f j o __        ans:u
+ section 3.   numerical ability
+-------------------------------
+  1. 10099+99=10198
+  2. 31 - 29+2/33=__   ans:64/33
+  3. 2.904+0.0006=___  ans: 2.9046
+  4. 55/1000=___     ans:.005
+  5. 0.799*0.254= 0.202946
+  6. 200/7*5.04=144
+  7. 842.8 +602=1444.8
+  8. 5.72% of 418= 23.9096
+  9. 625% of 7.71=48.1875
+ 10. 25% of 592=148.00
+ 11. 665+22.9=687.9
+ 12. 15% of 86.04=12.906
+section 4 :  DIAGRAMMING
+--------------------------
+each flowchart contains 5 questions .
+in each flow chart,there will be 5 numbered(1,2,3,4&5)
+boxes(cells).each cell we have to fill with the conditions given below.
+
+1. 400 employee(not complete question)
+   different categories based on age,salary,lenth of expereince in years
+  ANSWER.
+ cell 1-c,cell2-a,cell3-b,cell4-e,cell5-d.
+
+2. 10 balls,red,black balls.
+     2 points for red balls etc.. 3 points for a ball
+    if it is of the same colour as preceeding one..
+ANSWER:
+       cell 1-c,cell 3-d,cell 5-d,cell 2-e,cell 4-e.
+                         <ceded>
+3.
+     30 coins. these are divided into 3 groups:A,B,C to find
+     the only largest weight coin,other 29 coins are of lower weight.
+  ANSWER:
+         D A C A C.
+
+ 4.
+ totally there are 100 numbers to find largest(LNUM).smallest(SNUM).
+ANSWER:
+     A _ D _ _ _
+          HINT;;
+                feed problem to adjust temperature and pressure for
+optimal production.
+                   (answer not known exactly.).
+
+5.bag red,black balls,different condition
+                                odd,red etc
+                ANSWER:
+                        c_c__
+    ---------------------------------end ---------------------------
+          
+there two types of jobs in wipro.1 is soft ware side
+                                   2 is hard ware side
+
+ in soft ware side there is only interview (no test)
+ in hard ware side both test & interview.
+ for software interview the main possible areas to ask are
+   1.a deep look into C
+   2.an outlook of datasrtuctures
+   3.operating systems
+   4.networking mainly ethernet,internet etc..
+
+
+    ..................Anji	

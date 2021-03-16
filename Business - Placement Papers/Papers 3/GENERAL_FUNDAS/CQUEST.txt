@@ -1,0 +1,87 @@
+/*      ----------    cquest      --------
+Some of the C frequently asked questions (Collected from Express Computer mag.)
+*******************************************************************************
+1. what is the error in the following sequence of program.
+	
+	int i1;
+	switch(i1)
+	{
+		printf("The value of I1 is :");
+		case 1: printf("%d",i1);
+			break;
+		case 2: printf("%d",i1);
+			break;
+		default : printf("Invalid entry");
+	}
+
+2. what is an error in the following sequence of a program.
+	
+	int i1;
+	switch(i1)
+	{
+		case 1: goto lure;
+			break;
+		case 2: printf("This is second choice");
+			break;
+		default: printf("This is default choice");
+	}
+	void fun(void)
+	{
+	lure: printf("This is unconditional jump");
+	}
+
+3. What is an error in the following sequence of a program.
+	
+	int i;
+	switch(i)
+	{
+		case 1: printf("This is first choice");
+			break;
+		case j: printf("This is second choice");
+			break;
+		case 1+2+4: printf("This is the third and last choice");
+			break;
+	}
+
+4. what is an error in the following sequence of a program.
+		
+	int i;
+	switch(i)
+	{
+		default: printf("This is default value");
+			break;
+		case 1: printf("This is first choice");
+			break;
+		case 2: printf("This is the second choice");
+	}
+
+
+
+1.  Will the following be used as an identifier?
+	a. sum_of_credits 	b. initial tree 	c. final_#
+	d. while		e. SECTION_6		f. bingo-square
+	g. 2_4_87
+
+2.  Are the identifiers name and NAME are same?
+
+3.  Is it right to type # of #define other than in first column?
+
+4.  Does C require expressions to be enclosed in parenthesis for while loop?
+
+5.  Will the preprocessor terminates with semicolon ?
+
+6.  What is the return value of scanf statement?
+
+7.  What will happen, if there are two statements (without grouping) in if
+condition and an else is there for that if.
+
+8.  What will be the output of this program.
+
+	int no_fish;
+	no_fish=1;
+	if (no_fish==1)
+		printf("The water was to warm\n");
+	else ;
+		printf("The wates were all fished out\n");
+ 
+9.  Is parenthesis required for conditional expression in if condition?

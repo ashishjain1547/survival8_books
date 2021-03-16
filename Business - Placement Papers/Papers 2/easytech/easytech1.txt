@@ -1,0 +1,451 @@
+From vnaras@iitk.ac.in Fri Nov  6 17:01:09 1998
+Date: Wed, 19 Aug 1998 10:34:38 +0530 (IST)
+From: vnaras <vnaras@iitk.ac.in>
+To: "K.V.Ramachandra Murthy" <sarben@hijli.iitkgp.ernet.in>
+Cc: "P.C.V.Sarveswara Rao" <rao97@aero.iisc.ernet.in>,
+     "V.Sridhar" <mcp2@arp.iitkgp.ernet.in>, veeramalla@mailcity.com,
+     "K.S.Gopal" <ceph9603@violet.iitm.ernet.in>
+Subject: easy-tech
+
+       Hai guys,
+               Atlast it came to an end in GSSL.I couldn't qualify in
+written test.Actually I could have qualified in written test.But I made
+a big mistake by giving the gssl paper to allof my friends.It had resulted
+in the rapid spreading of the paper throughout the hostel making everybody
+aware of the questions that were going to come in the exam.And surprising-
+ly the gssl had given us the same question paper.Had I have not given the
+paper to all I would have certainly qualified in the written test.Anyway,
+I am not blaming myself for it.Whatever has happened I am not going to 
+dug into it.
+             On 23rd TCS will be testing us.Here I am sending the paper of
+Easy-Tech.I don't know when it is coming here.Sarva, you had once mention-
+ed in your mail that easy-tech is coming to your campus.Best of luck for
+your campus interviews.Be prepare well.
+                    Reply soon 
+                                               yours lovingly,
+                                                  dvnrao
+
+
+
+---------------------------------------------------------------------------
+
+1]. The following variable is available in file1.c
+
+ 
+static int average_float;
+
+        all the functions in the file1.c can access the variable
+
+
+[2]. extern int x;
+
+        Check the answer
+
+[3]. Another Problem with 
+
+        # define TRUE 0
+
+        some code
+
+        while(TRUE)
+        {
+                some code 
+
+        }
+        
+
+        This won't go into the loop as TRUE is defined as 0
+
+
+[4].   A question in structures where the memebers are dd,mm,yy.
+
+        mm:dd:yy
+        09:07:97
+
+[5]. Another structure question         
+
+        1 Rajiv System Analyst
+
+[6].    INFILE.DAT is copied to OUTFILE.DAT
+
+
+[7]. A question with argc and argv . 
+
+        Input will be
+
+        c:\TEMP.EXE Ramco Systems India
+
+
+-----------------------------------------------------------------------
+
+
+main()
+{
+        int x=10,y=15;
+        x=x++;
+        y=++y;
+        printf("%d %d\n",x,y);
+}
+
+
+
+
+----------------------------------------------------------------------
+
+
+int x;
+main()
+{
+        int x=0;
+        {
+                int x=10;
+                x++;
+                change_value(x);
+                x++;
+                Modify_value();
+                printf("First output: %d\n",x);
+        }
+        x++;
+        change_value(x);
+        printf("Second Output : %d\n",x);
+        Modify_value();
+        printf("Third Output : %d\n",x);
+}
+
+Modify_value()
+{
+        return (x+=10);
+}
+
+change_value()
+{
+        return(x+=1);
+}
+
+----------------------------------------------------------------------------
+
+main()
+{
+        int x=20,y=35;
+        x = y++ + x++;
+        y = ++y + ++x;
+        printf("%d %d\n",x,y);
+}
+
+-----------------------------------------------------------------------
+
+
+main()
+{
+        char *p1="Name";
+        char *p2;
+        p2=(char *)malloc(20);
+        while(*p2++=*p1++);
+        printf("%s\n",p2);
+}
+----------------------------------------------------------------------
+
+
+main()
+{
+        int x=5;
+        printf("%d %d %d\n",x,x<<2,x>>2);
+}
+
+--------------------------------------------------------------------
+
+#define swap1(a,b) a=a+b;b=a-b;a=a-b;
+main()
+{
+        int x=5,y=10;
+        swap1(x,y);
+        printf("%d %d\n",x,y);
+        swap2(x,y);
+        printf("%d %d\n",x,y);
+}
+
+int swap2(int a,int b)
+{
+        int temp;
+        temp=a;
+        b=a;
+        a=temp;
+        return;
+}
+----------------------------------------------------------------------
+
+
+main()
+{
+        char *ptr = "Ramco Systems";
+        (*ptr)++;
+        printf("%s\n",ptr);
+        ptr++;
+        printf("%s\n",ptr);
+}
+
+---------------------------------------------------------------------
+
+#include<stdio.h>
+main()
+{
+        char s1[]="Ramco";
+        char s2[]="Systems";
+        s1=s2;
+        printf("%s",s1);
+}
+
+-----------------------------------------------------------------
+
+
+
+#include<stdio.h>
+main()
+{
+        char *p1;
+        char *p2;
+        p1=(char *) malloc(25);
+        p2=(char *) malloc(25);
+        strcpy(p1,"Ramco");
+        strcpy(p2,"Systems");
+        strcat(p1,p2);
+        printf("%s",p1);
+}
+
+
+
+
+
+*********************************************************************.
+
+		2)****SHOULD LEARN C++(this is very very IMP,Based
+			on this only I got job.One more thing is
+			CLASS,INHERATENCI&POLYMORPHISM is sufficient)
+		3)YOU SHOULD PREPARE ONE FEM PROJECT AND TELL THEM
+		  THAT AS YOUR OWN WORK(This will increase chance
+			to 99%)
+                      EASI-TECH
+                 WRITTEN TEST PATTERN
+		 --------------------
+1] C       TEST 10Q 20MINUITS
+2]F E M    TEST 19Q 20MINUITS
+3]APTITUDE TEST 15Q 20MINUITS
+-----------------------------
+F E M TEST
+----------
+
+1)WHO USED THE TERM FINITE ELEMENT FOR THE FIRST TIME?
+  a)
+  b)
+  c) CLOUGH
+
+2)DERIVE THE JACOBIEN |J| FOR BEAM ELEMENT WITH STRAIN 
+  ENERGY?
+
+  (ANS:PROMLEM IS NOT CORRECT PLEASE DO NOT ATTEMPT)
+
+3)FOR AN ELEMENT SIGMA Ni=1,WHICH TYPE OF ELEMENT IT IS?
+   a)
+   b)NATURAL CO-ORDINATE
+
+    (ANS 100% CORRECT)
+
+4)TIMOSHENKO BEAM ELEMENT THEORY TO CONSIDER -- - - -?
+   a)
+   b)
+   c)SHEAR DEFORMATION
+
+5)SHEAR LOCKING - - - - ?
+
+  (ANS IS VERY STIFF 'K')
+
+6)MEMBRANE LOCKING 
+
+  (ANS IS ARCH ELEMENT)
+
+7)Ex(epsiolan x)=dU/dX,Ey=dV/dY,r(X,Y)=?(gama(x,y)=?)
+  (ANS IS dU/dY+dV/dX )
+8)K=integral B(TRANSPOSE)*D*B  FOR LARGE DEFORMATION
+  WHICH MATRIX WILL GET EFFECTED?
+
+  (ANS IS  D matrix )100%correct
+
+9)FOR PLANE STRAIN  f(Ex,Ey,Ez,r(x,y) ) - - - 
+
+  (ANS IS    Ez=0)  
+
+10)SERENDIPITY ELEMENT IS
+
+   (ANS 8 NODED ELEMENT)
+ (The element which is having nodes only on boundary is
+   called SERENDIPITY element)
+
+11)IF THE ROTATION OF ELEMENT AND THE DISPLACEMENT ABOUT
+   N-A  IS SAME THEN THE ORDER OF CONTINUITY
+
+   (ANS IS  C1)
+
+12)FRONTAL THEORY IS APPLIED FOR
+  (Please refer any fem book)
+
+13)MINDLINS THEORY IS APPLIED FOR
+
+  c) this is the answer(Both Co&C1problems)
+
+14)X=SigmaNi*Xi,U=sigmaNi*Ui WHICH TYPE OF ELEMENT
+  (Refer book)
+
+15)BEAM SUBJECTED TO UDL FIND THE MOMENTS AT THE  2 NODES
+
+ 16)Integral B(Transpose)*sigma(here sigma means stress)*dV 
+    REPRESENTS?
+ 
+   (ANS IS INTERNAL LOAD VECTOR)
+
+17)Integral ET(epsiolan transpose)*sigma*dV
+    P=strain displacement vector
+    Q=stress-strain deformation
+    Find [K]
+
+    (ANS    [K]=[P]T(p transpose)*[Q]*[P] )
+
+18)
+19)
+
+
+REMEMBER ORDER MAY NOT BE CORRECT
+
+	
+                      APTITUDE TEST
+
+ 1)33 1/3 of     101 + 296 is		(ans 1200) check
+
+ 2)0.625= ?	(ans 27/40)
+
+ 3)One ship goes along the stream direction 28 km and in opposite
+   direction 13 km in 5 hrs for each direction.What is the velocity
+   of stream?	`	(ans 1.5 kmph)
+
+ 4)Cubic root of 3375=?	(ans 15)
+
+ 5)2020201-565656=?		(ans 1454545)
+
+ 6)CHAIRS PROBLEM
+	5 chairs=9 tables,12 tables = 7 stools likethat- - - 		(ans is 80Rs)
+
+ 7)One clock ringes 7 O'clock in 7 sec.In how many seconds it will
+   ring 10 O'clock.		(ans 10.5 sec)
+
+ 8)One watch is showing 30 past 3 .What is the angle between minutes &
+   hours hand?			(ans 75 degrees)
+
+ 9)The average of 4 consecutive even numbers is 27. What is the largest
+   number?			(ans 30)
+
+ 10) 25 stations ,24 stations are inbetween- - - - -     how many tickets should be required.
+                (ans 25*24=600)PUZZLES TO PUZZLE YOU "S.DEVI"PROB 24
+
+ 11)One ball was dropped from 8ft height and every time it goes half
+    of the height. How much distance it will travell before coming to 
+    rest.		        (ans 24 approximately)
+
+ 12)Two trains are travelline at equilateral .Train A is travelling
+    in the direction of earths spin.Other train B is travelling in
+    opposite direction of earths spin.Which trains wheels will wear
+    first?and why?	        (ans TRAIN B .Because of less centrifugal force.)
+        
+
+
+
+          OK HARI 3 MORE QUES ARE THERE.I HOPE YOU CAN SOLVE EASILY.
+            NOW I have only 3 C ques. I am sendins them in immediate 
+            mail. Any whey I will try to send remaining 7 C ques
+		before 20th.
+
+		
+
+
+	C QUESTIONS:WHAT IS THE OUT PUT FOR FOLLOWING 
+
+PROGRAMMS
+
+1)
+main()
+{
+char a[2];
+*a[0]=7;
+*a[1]=5;
+printf("%d",&a[1]-a)
+ANS:
+
+   ans may be 1.(illegal initialization)
+
+2)
+#include<stdio.h>
+main(){
+char a[]="hellow";
+char *b="hellow";
+char c[5]="hellow";
+printf("%s %s %s ",a,b,c);
+printf(" ",sizeof(a),sizeof(b),sizeof(c));
+}
+
+(ans is     hellow,hellow,hellow
+              6,2,5   )
+
+3)
+#include<stdio.h>
+main()
+
+float value=10.00;
+printf("%g %0.2g %0.4g %f",value,value,value,value)
+}
+
+(ans is 10,10,10,10.000000)
+
+4)
+#include<stdio.h>
+void function1;
+int i-value=100;
+main()
+{
+ i-value=50;
+function1;
+printf("i-value in the function=",i-value);
+printf("i-value after the function=",i-value);
+}
+printf("i-value at the end of main=",i-value);
+functioni()
+i-value=25;
+
+
+THIS IS ROUGH IDEA OF THE PROGRAM
+   ANS ARE
+1)i-value in the function=25;
+2)i-value after the function=50;
+3)i-value at the end of the main=100;
+
+5)
+  main()
+{
+funct(int n);
+{
+switch(n)
+  case1:
+        m=2;
+  		break;
+  case2:
+	m=5;
+		break;
+  case3:
+	m=7;
+		break;
+  default: 
+	m=0;
+}
+
+THIS IS ROUGH IDEA:
+    (ANS:Out put is m=0) 
+
+REMAINING 5 PROGRAMS SOME WHAT LARGE AND COMPLICATED.ANY WHEY
+I WILL SEND REMAINING PROGRAMS BEFORE 20th.

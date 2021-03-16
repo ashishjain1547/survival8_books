@@ -1,0 +1,112 @@
+This is the paper given at ISI july 2001.
+In Jadavpur university only BE students were allowed because
+of some problems with the placement officer.
+It allowed only top 10 students in all branches.
+It did notinterviewed any and left with none selected at both
+jadavpur university and ISI kolkata.
+Some of the interview questions that were asked in ISI kolkata
+were as follows.
+1.questioins on Operating systems.
+2.Different IPC mechanisms
+3.basic unix commands like open,create,read,write,etc along with the formats
+4.c++ questons
+The test consisted of 3 sections as follows.
+1.Analytical 20 q
+2.Technical 20 q(c-13q,c++ 5q,java 2q)
+3.write an Algorithm .
+
+The questions that we colleced were from ISI.
+sorry for not gathering the technical questions.
+The questions were not in order and may vary with slight difference.
+
+CHECK THE ANSWERS.
+part a:
+20 bits(20 min)
+
+
+aptitude:
+ 1)reasonig question is there,
+   see in alphabetical order of the names
+ 2)In a pack of cards what is the probability of 1 jack, 1 queen, 1 
+king
+ans : 64/52*51*50
+ 3)how many three digits numbers are divisiable by 10,15,20.
+ ans :16
+ 4)8 persons are there,sequence of 3 persons are  never changed,in a 
+circle.
+number of possiabilites .
+ans :6!*3! or 5!3!
+ 5)if x is number, the sum of digits,the (x!-x) is completely divided 
+by
+ number x, find that number.
+ ans: any no less than 10.(Check).
+ 6)in cetain part of 40% solutin is replaced by 25% solution, and 
+resultant 
+solution is 35%, then how much solution is replaced.
+ans : 1/3.
+ 7) i collected 8 spiders and bettles, he is a habbit removing of legs,
+    he put the legs in torcher box, their count is 54, find howmany 
+spiders
+and bettles are there.
+ans :
+ 8)one question was there on equation
+   one kg of rice and two kg of wheat cost 320.
+   six kg of wheat and 2 kg of pulses  cost is 620
+    rice cost is twice the pulses.find the rice cost.
+    ans :rice 170,wheat 75,pulse 85. 
+ 9)finding age problem
+10)x2-x-6>0, x2-5x+4<0
+   this type of problem, find common solution
+11)
+In a game problem there are two persons A and B.
+A's probabiliy of winning the gme is 0.4 and B's is 0.6
+There are two possible serises of winning the game.
+one is choosing the best out of 3
+and the other is best out of 5.What is the probability of a winning the game.
+some thing like this.
+ANS: c
+sol may be like this
+P(X=3)=3C3*(0.4)^3+3C2*(0.4)^2*(1-0.4).
+12)
+Two rains travelling in opposite directions with 45 KMPH and 35KMPH
+of equal length
+cross each other in 36 seconds.Find the length of each train.
+Ans: 400 m
+13)
+3/5th average age of my and my son is equal to sum of our age 5 years ago.
+my sons present age is 10.
+what is my present age.(some thing like this)
+ans: 50.(check it)
+14)This year she recieved award.In the feciliation function she
+said "This has been possible for my stuff,
+whom i have selected and praised".
+This sentence refers to
+ans: her self apprisal.
+15)
+A went to market and bought some Kgs of rice.
+If he had given 10% discount then he would have obtined 1Kg of extra rice at an
+extra cost of 5%.
+find the no. of kgs of rice.
+ans:
+16)
+You were given 28 pages in a single days paper.$ pages were found missing.One is 21.
+what are the other pages.
+ans:7,8,22
+17)
+A farmw has got land.Area of land in sq.mts is 3 time the square of goats
+he has He sold 1 goat and found that he needs to sell 57 sq.mts of land to maintain the
+same relationship.How many goats he have now?
+ans:10
+part c(15 min)
+
+part c:
+algoritham:
+  write an algoritham for, in chess board arranging the queens without 
+  threaten themselves.
+Ans:ref book of satraj sahani and Horowtiz
+of Design and analysis of Algorithms.(DAA).
+
+part b:
+c bits(13)
+c++ 5
+java 2    (30 min)

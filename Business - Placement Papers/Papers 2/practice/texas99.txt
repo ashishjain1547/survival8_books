@@ -1,0 +1,206 @@
+
+             Here is Texas paper for you.
+    in this paper there was 20 questions as follows in 60 minutes .
+    second part consists of 36 que. in 30 minutes all questions are
+    diagramatical.(figurs)..
+
+    1. if a 5-stage pipe-line is flushed and then we have to execute 5 and
+12
+    instructions respectively then no. of  cycles will be
+    a. 5 and 12
+    b. 6 and 13
+    c. 9 and 16
+    d.none
+
+    2. k-map
+
+    ab
+    ----------
+    c       1   x  0  0
+           1   x  0  x
+
+    solve it
+
+    a. A.B
+    B. ~A
+    C. ~B
+    D. A+B
+
+    3.CHAR  A[10][15] AND INT B[10][15] IS DEFINED
+    WHAT'S THE ADDRESS OF A[3][4] AND B[3][4]
+    IF ADDRESS OD A IS OX1000 AND B IS 0X2000
+
+    A. 0X1030 AND 0X20C3
+    B. OX1031 AND OX20C4
+    AND SOME OTHERS..
+
+    4. int f(int *a)
+    {
+    int b=5;
+    a=&b;
+    }
+
+    main()
+    {
+    int i;
+    printf("\n %d",i);
+    f(&i);
+    printf("\n %d",i);
+    }
+
+    what's the output .
+
+    1.10,5
+    2,10,10
+    c.5,5
+    d. none
+
+    5. main()
+    {
+    int i;
+    fork();
+    fork();
+    fork();
+    printf("----");
+    }
+
+    how many times the printf will be executed .
+    a.3
+    b. 6
+    c.5
+    d. 8
+
+    6.
+    void f(int i)
+    {
+    int j;
+    for (j=0;j<16;j++)
+    {
+    if (i & (0x8000>>j))
+    printf("1");
+    else
+    printf("0");
+    }
+    }
+    what's the purpose of the program
+
+    a. its output is hex representation of i
+    b. bcd
+    c. binary
+    d. decimal
+
+    7.#define f(a,b) a+b
+    #define g(a,b) a*b
+
+    main()
+    {
+
+    int m;
+    m=2*f(3,g(4,5));
+    printf("\n m is %d",m);
+    }
+
+    what's the value of m
+    a.70
+    b.50
+    c.26
+    d. 69
+
+    8.
+    main()
+    {
+    char a[10];
+    strcpy(a,"\0");
+    if (a==NULL)
+    printf("\a is null");
+    else
+    printf("\n a is not null");}
+
+    what happens with it .
+    a. compile time error.
+    b. run-time error.
+    c. a is  null
+    d. a is not  null.
+
+    9. char a[5]="hello"
+
+    a. in array we can't do the operation .
+    b. size of a is too large
+    c. size of a is too small
+    d. nothing wrong with it .
+
+    10. local variables can be store by compiler
+    a. in register or heap
+    b. in register or stack
+    c .in stack or heap .
+    d. global memory.
+
+    11. average and worst time complexity in a sorted binary tree is
+
+    12. a tree is given and ask to find its meaning (parse-tree)
+    (expression tree)
+    ans. ((a+b)-(c*d))  ( not confirmed)
+    13. convert 40.xxxx into binary .
+
+    14. global variable conflicts due to multiple file occurance
+    is resolved during
+    a. compile-time
+    b. run-time
+    c. link-time
+    d. load-time
+
+    15.
+    two program is given of factorial.
+    one  with  recursion and one without recursion .
+    question was which program won't run for very big no. input     because
+of stack overfow .
+    a. i only  (ans.)
+    b. ii only
+    c. i& ii both .
+    c. none
+
+    16.
+    struct a
+    {
+    int a;
+    char b;
+    int c;
+    }
+
+    union b
+    {
+    char a;
+    int b;
+    int c;
+    };
+    which is correct .
+    a. size of a is always diff. form size of b.(ans.)
+    b. size of a is always same  form size of b.
+    c. we can't say anything because of not-homogeneous (not in ordered)
+    d. size of a can be same if ...
+
+                                   bye..
+                                            p.sreenivasa rao
+
+______________________________________________________
+
+------------------------------------------------------------------------
+Click Here to apply for a NextCard Internet Visa and start earning
+FREE travel in HALF the time with the NextCard Rew@rds Program.
+
+http://clickhere.egroups.com/click/449
+
+eGroups.com home: http://www.egroups.com/group/csmtechiitm
+http://www.egroups.com - Simplifying group communications
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+----------------------------------------------------------------------------
+
+
+
+               ©1995-1999 WhoWhere? Inc. All Rights Reserved.
+     Copyright © 1998-1999 Lycos, Inc. All Rights Reserved. Lycos® is a
+             registered trademark of Carnegie Mellon University.
+      Terms and Conditions  Standard Advertising Terms and Conditions

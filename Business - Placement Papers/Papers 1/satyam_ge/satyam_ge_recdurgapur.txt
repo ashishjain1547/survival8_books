@@ -1,0 +1,550 @@
+
+below gd topic is paper of satyam-ge given in rec durgapur
+
+
+gd topic:
+it will be same for all groups
+
+on a mid may at about 10 a.m. ur plane crashed at a desert at
+rajsthan.u r at 70 miles from ur destinatin.u  r along  with  two
+pilot and u
+r in simple dresses,road shoes and every one has a handkerchif. the
+temp at the hill foot is about 113 f. u r provided with 15 articles
+and u
+have to choose to whom u will give more priority in order to reach ur
+destination..accordingly u have to  serial 15 articles.
+                             
+
+aricles                       indivisual score                   team
+score
+
+1. flashlight(4 battery)        -----9-
+                               
+-------
+2. magnetic compass           ----2--                              
+----
+3.area map                          ---3---
+                               
+-----
+4.top coat                           --6------
+                             
+-----
+5.sun glass                         -5-----
+                                
+-----
+6.cosmatic mirror               --7--
+                                  
+----
+7.water bottle                      --4---
+                               
+-----
+8.vodka                               ---15--
+                                
+-----
+9.parachute                          --1---
+                                 
+-----
+10.a book entitled with
+desert animals                    ---14-
+                              
+-----
+11.plastic rain coat              ---9-
+                                   
+----
+12.jack knife                           --8--
+                               
+----
+13.
+14.
+15.
+so u have to fill up the remaining  in which way i've filled up.they
+give u 10 min  to read the case study and then 5 min oto fill up the
+2nd
+column.then disscision will go on &a
+final  conclusion will be drawn at the end that u've to fill up in
+3rd
+column.
+
+   best of luck. bye
+
+although i qualified the written but i could not clear the g.d.
+
+i'm sending the qps below.DON"T WORRY THE QN NOS R IN EXACT SERIAL
+(qns
+acording to qn no, butt we written it here &there).i'm also giving
+the
+some ans .u better check it once again.
+
+    
+
+************************************************************8---------
+-----------------------------------------------------------------
+1) 1. value of  N and K is100
+   2.N is divided by K and the integer part of the quotient is stored
+in I.
+   3. N is divided by K and the reminder is stored in K
+   4. I is multiplied by itself to get the new value of I
+   5. if the value of I and J are equal then N is printed
+   6. add 1 to N
+   7. if the value of N exceeds 999 then stop.
+   8. go to step 2
+The result of the above logic is
+a) 124, 248, 369 ....b) 101 , 204, 309, .....c) 111, 222, 333, ...d)
+none   ans. (b)
+
+2)
+1. Sony =0
+2.jimmy =1
+3.Add jimmy to sony to get new jimmy
+4. add sony to jimmy to get new jimmy.
+5. if jimmy is equal to 34 then stop
+6. go to step 3
+What is the value of Sony when the logic terminates.
+a) 15 b) 18 c) 21 d) none
+ans:d(check)
+
+3)
+get the cost of the iteam (C)   
+1.get the no of iteams (N)
+2.multiply N by C to get total cost (TC)
+3.if Tc is above 10000 then discount (d)= 5%
+4. if TC is less than 10000 but more then 5000 and C is above 85 then
+D=4.5 %
+5. if Tc is less than 5000 and C>65 and N>50 then D=4%
+What will be te discount if 40 iteams were purchased each costing Rs
+58'
+a)5% b) 4.5% c) 4% d)none
+ans:d(check)
+
+4)
+the average age of a class of 45 is 20 years. the age of the teacher
+is
+30 years. the the average age of the 45 peaple together is
+1.j=z * l            /* here * means multiplication*/
+2.m=j+ 30
+3.z= 20
+4.r=m/(l+1)
+5.l=45
+the above logic represents the solution of  the given problem. the
+correct sequence is
+a)5-3-1-4-2 b)5-3-1-2-4 c)5-3-2-1-4 d)none
+ans:b(check)
+
+5)
+1.k=10
+2.add 1 to k to get the value of z
+3.p= quotient of z  divided by 10
+and some statements are there...
+8. Go to 2
+the result of the above steps is
+a)11,22,33,.....b)21,32,33,..c)12,23,24...d)none
+ans...(b)
+6) A long flow chat
+FN=10-----> k=10-----> divide FN by K and ......
+.....
+the number of values that are printed are
+a) 9 b) 19 c) 29 d)none
+ans (a)
+7)
+1. cost of iteam C= Rs 50
+2. total cost TC= 0
+3.number of iteams purchased =1
+4.TC= TC+C
+5.if the reminder of N divided by 5 is 0 then reduce Rs. 10 from C
+6.increase the value of N by 1
+using the above rule, how much money should one pay after buying 12
+iteams
+a)480 b) 510c)540 d) none
+ans.....(d)
+check the answer.     
+8)flow chat
+every applicants takes 3 tests. the candidate is selected if he/she
+secures 80 % above in the aggregate and 75% and above atleast two
+testes.
+all tests are evaluated to 100 marks.
+C=0------> Get T1,T2,T3------> Is T1>74.........
+...............................
+if a candidate scores 96, 78, 68 in the three testes going by the
+above
+logic, his result will be
+ans...(b) selected
+
+9)flow chat
+R=8 and J= 5 ---------> print R------L= R+j
+..........
+the out put of the above logic is
+ans .... (d) none
+
+10)flow chat
+N= 100 -------> D=INT(N/100) ------> K=reminder (N/100)
+.............> print N
+if the no like 244, 514,136 etc are to printed from the above logic ,
+the ? should be replaced with ...
+ans.d(check).....
+***11)
+1. let the value of FN be 1
+2. let the value of A be 2
+3.Let the new value of FN be FN multiplied by A  and add 1 to it.
+4.Write the value of FN
+5.If the value written is more than 777 then stop
+6.---------------------------
+7.go to step 3
+if the expected out put from the above logic is 3,10,41,206,1237,
+then
+the statement in the line 6 should be
+(a)let the value of A be A multiplied by A      (b) add A to A   
+(c)add 1 to A          (d)   none
+
+ans.......(c) add 1 to a
+
+**12)flow chat
+  
+N=2----> R= N+1,   --------> print J----> N=N+1----.is N>9 ?
+              J=N x
+R .                                                      
+|
+                 
+^                                                       
+no   |
+                 |-------------------------------------------------
+the result of the above logic is
+(a)6,8,14...    (b)6,12,20,30 ......  (c)6,12,18,24...(d)none
+
+ans.....(b)
+
+***13)
+the followig qualification are necessary for recruitment of a
+librarian
+. the candidate must
+1. have master degree in library science with at least 55% mark.
+2.have one year specialization in IT
+3.have at least 10 yrs experience in university
+In case the candidate
+4.has 15 yrs experience in college ,the case may be reffered to vice
+chancellor
+5.has obtained less than 55% marks but has 13 yrs expr.in university
+,the case may be to resistrar
+6.has PHD in library sc./documentation,the conditin 1 may be  waived.
+
+gopal brahma has been deputy librarian of SLC university since 1982
+and
+has a master degree in library sc.with 53 % . given  the above rules
+and Gopal's information,Gopal should be
+(a)selected    (b) rejected (C) referred to V-C  (d) none
+ans.....d:none(chek)
+***14).flow chart ans:a
+***15>
+1.R=2
+2.J=R*R-R
+3.R=R+1
+4.K=R*R-R
+5.print K-J
+6.let J=K
+7.if R.8 then stop
+8.go to 3
+the result of the above logic is
+(a)4,9,16,25....   (b)4,6,8,10.... (c)4,4,4,4....   (d)none
+ans (b)(check)
+
+**16>flow chart                           is remainder of
+N=66---->D=N/2--->N=D+1------> N/2=0      ------>stop
+                                ^                    
+|                                                                   
+|                     
+|no                                                               
+|- ---------------|    
+after how much iteration will the above logic terminate       
+(a)8  (b)6  (c)7  (d) none         ans.(d) 
+check                                     
+
+
+**17.
+1.T=1
+2.T1=T*1000
+3.T2=T+1
+4.T3=T2*100
+5.T4=T2+1
+6.T5=T4*10
+7.T6=T4+1
+8.T7=T1+T3+T6+T5
+9.print T7
+10.T=T+1
+11.if T<8 then 2
+12.stop
+which of the following value will not ptinted by above logic
+(a)6789 (b)7890 (c)7900 (d) none
+ans (b) 7890
+q18))
+
+ans:c is j>10   hint: k=3,j=2......
+Q19)
+
+flowchart
+ans:a)200
+Q20)
+
+flowchart
+ans:a)21
+
+Q21)
+
+flowchart
+
+ans:a)10 (confirm the question)
+
+q22)
+
+flowchart
+
+ans:c(4x+8y)
+
+q23)
+
+ans:c)4-6-5-1-3-2
+
+q24)flowchart
+
+ans:b(17)
+
+q25)a person distribute his pen among four friends in the ratio
+1/3,1/4,1/5,1/6.....
+
+ans:b(minimum he should have)
+
+Q26)
+1.let the value of N be 10
+2.divide N by 10 to give quotient (Q) remainder(R)
+3.diff=R-Q
+4.if diff=1 then 6
+5.go to step 7
+6.display the value of N
+7.add 1 to N
+8.if N <100  go to step 2
+the above logic will produce
+(a)11,12,13,,14..(b)12,23,34,.....(C)21,32,4,354......(d)none
+
+ans:d(none)
+
+Q27)flowchart
+
+ans:b(36,45,25)
+
+Q28)flowchart
+
+ans:b(375)
+
+Q29)a man has Rs. 128 in currency of one rupee........
+
+ans:a(24)
+
+Q30)when A is devided by B,it is reqd tro round of the result to the
+nereast whole no,the logic is giv en below .give the correct sequence
+1. divide A by B giving correct sequence
+2.substract INTERGER(A/B) from C and store theresult in D
+3.if reminder (A/B) is 0 then stop
+4.print INTERGER (A/B)
+5.if D>.49,increase the value of INTRGER (A/B) by 1
+(A)1,3,2,5,4(B)1,3,2,4,5(C)1,2,3,5,4(D) none
+
+ans:a(1,3,2,5,4)
+
+Q31)A cistren is filled by 9 hours.......
+
+ans:a)90 hours
+
+Q32)
+
+ans:c(42)
+
+Q33)
+
+flowchart
+
+ans:d(none)
+
+**34>
+When madan said that he was burn on 31-9-83,everybody laughed.the
+logical sequence of steps involved in reduculing madan's statement r
+given
+below
+
+1.if the day of birth is >Y(month of birth)then wrong
+2.since 1983 is not a leap year february has 28 days
+3. store 31,28,31,....31 in an array y(12)
+4.month of birth is not less than 1 and not greater than 12,
+therefore
+month of birth is valid
+
+the right sequence of steps is
+a)3-1-4-2
+b)3-2-4-1
+c)3-2-1-4
+d)none
+ans:b(check)
+
+35).
+the logic to convert a 3 digit number to a word is given, Ex 123
+should
+be written as One Two Three
+
+1. accept the number N
+2. if N < 100 or N > 999 go to step 1
+3. Split N into hundreds(H), Tens (T), & Units(U)
+4. Store words zero,one,two,....... in array W(10)
+5. print W(H),W(T),W(U)
+6. Stop
+The above logic is
+a) incomplete b) complete c) complete but inefficient d)none
+ans: b
+36)
+given a number which is more than 99 but less than 1000, the logical
+sequence of steps to say how many hundreds, tens & units are  in the
+given number is given below.identify the logical order.
+1.get the number N
+2.write quotient and the words 'tens'
+3.write the remainder and the words "units'
+4.write the quotient and the word "hundred"
+5.divide the number N by 100 and get the quotiient and remainder
+6.divide the remainder by 10 giving the quitient and remainder
+(a) 1,5,6,2,3,4 (b)1,5,4,3,2,6 (c) 1,5,4,6,2,3(d) none
+ans.c
+
+**37.
+step 1.no of toffees in hand (TIH)=2
+2.no of picks (NOP) = 1
+3. Multiply TIH by 2
+4. Add 1 to NOP
+5. If NOP is less than 4 then step 3
+6. Print TIH
+7. Stop
+
+The value of TIH at the end of execution of logic is
+
+a) 16   b) 24   c)30  d)None
+ans: a
+
+Q38)
+
+flowchart
+
+ans:b (1,2,4,8,16,32,32,16,8,4,2,1)
+
+Q39)
+
+flowchart
+
+ans:b(2)
+
+Q40)
+
+ans:a)17
+
+Q41)
+
+ans:b(6 days)
+
+
+Q42)
+flowchart
+
+ans:b(I=468 , II=468)
+
+Q43)
+the logical sequence of steps to calculate the average of N nos is
+given below
+1.let the sum(S) of N nos be zero
+2.get the value of N
+3.let the value of A be N
+4.add N to S
+5.add 1 to A
+6.if A is not = N then go to 4
+7. compute average by dividingS by N
+the abouve logic is
+(a)correct(b)incorrect(c)inadequate data(d)none
+
+ans:b(incorrect)
+
+Q44)
+indetify the correct logical order to write ur name in reverse order
+1.count the no of alphabets in ur name(L)
+2.if L=0 stop
+3.rerduce the value of L by 1
+4.write the lth character
+5.transfer control to the step where the value of L is reduce
+(a)1,4,3,5,2(B) 1,4,3,2,5 (c)1,3,4,2,5, (d) none
+
+ans:a(1,4,3,5,2)
+
+**45.
+six girls A,B,C,D,E & F have 10 marbles each. a & B take 4 marbles
+each
+from D & E respectively. C gives 3 marbles to F who in turn gives 2
+marbles to D & 4 marbles to E. E takes back the marbles she had given
+to B
+and gives them to C.
+    The equations r given below
+1.    A=A+4
+2.    B=B+4
+3.    D=D-4
+4.    E=E-4
+5.    F=F+3
+6.    F=F-2
+7.    F=F-4
+8.    C=C-3
+9.    D=D+2
+10.    E=E+4
+11.    B=B-4
+12.    C=C+4
+
+The above sequence of steps are
+a)Complete     b)Incomplete    c)Incorrect    d)none
+ans:b
+46.
+Subtract 3 from the number X. Multiply the result by 3, Add 3 & then
+divide this result by 3. The final result is
+ans:a
+a) X-2    b)X+2   c)X+1   d) X
+
+47.
+
+Given a sentence which has only lower case letters and which ends
+with
+a period (.), you r asked to count the number of vowels & consonants.
+The logical sequence of steps r given below. Arrange them in correct
+order.
+
+1. If character = a,e,i,o or u increse VC by 1 else increase CC by 1.
+2. Print VC,CC
+3. Read a character
+4. If character read is . then go to print VC,CC
+5. Go to read a character
+6. Stop
+7. Initialise VC & CC to 0
+ur logical sequence of steps r
+a)7,3,4,1,5,2,6   b)7,4,3,1,2,5,6   c)7,3,4,5,1,2,6   d)none
+ans:c
+48.
+1.number of units consumed(NUC) = Closing reading - Opening reading
+2. if NUC is less than 100 units then 5
+3. if NUC is less than 200 units then 6
+4. if NUC is less than 300 units then 7
+5. CHARGE=NUC
+6.CHARGE = 100+(NUC-100)*2
+7.CHARGE=300 +(NUC -200)*3
+8. Print CHARGE
+if the opening reading is 785 and the Closing reading is 865, CHARGE
+is
+a)80   b)60   c)-60   d)None
+
+ans: d
+
+Q49)
+
+ans: c)3,7,1,2,5,6,4
+
+Q50)
+
+flowchart
+
+ans:b(prints multiplication table from 1 to 10)
+*************************

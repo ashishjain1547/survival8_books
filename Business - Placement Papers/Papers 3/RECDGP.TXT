@@ -1,0 +1,69 @@
+
+
+roopeshnair@yahoo.com
+sumit
+
+
+              INFOSYS 2000. REC DGP
+     50 MARKS                           1 HOUR
+                                     
+(1)A and B are 2 employees.Presently A has been working for twice as long as
+B.2 years ago,A was with the company for thrice as long as B.Det. the period of working
+of Aand B.                                                            (3)
+
+(2)There are 20 flagpoles on a running track.A runner starts from 1st pole 
+and takes 24 secs to reach the 12th one.Hou long does he take to reach the 20th one?   (4) 
+
+(3)    N O O N
+       M O O N
+     + S O O N
+     -----------
+       J U N E
+     ____________     
+Each alphabet corresponds to a digit.find numerical equivalent of JUNE?
+ans 9326            (3)
+
+(4)In going from A to B a driver passes a milestone with a no on it .
+1 hour later he passes another with the same digits but in reverse order
+another hour later he passes a 3rd with same digits(forward or backward order)
+but with a in between.find driver's speed?   45km/hr        (6)
+
+(5)Mr x on reaching his office late ,says "my watch needs repair .the min 
+and hour hands come together after 65 mins ."is the clock going fast or slow?
+if so,how much an hour?  ( ans gains time by 60/143 mins/hr)   (4)
+
+(6)A,B,C are 3 friends .at the death of A's wife ,his neice lives with him.
+C also a widower, lives with his daughter .B is married.they all plan to live together,
+upon the condition that each member will pay Rs 25 at the beginning of every
+month, at the of which the rem.,if any,will be returned equally to all.
+if the monthly expenses were Rs 92 and each member received back an even no. of
+Rs , find that amount.  (ans Rs2 ,4members)        (4)
+
+7)Jack,Brown,Smith were 3 neighbours out of which one was a policeman
+while the others being a teacher and a fireman. we were 5 statements out of which 
+2 were correct.we had to pick them out and det. the profession of all the 3.
+ 
+(8)jerry and his friend a broker gave a party of total 5 friends .5 cards
+   are distributed randomly among them .(ace,king ,queen,jack,ten)
+   some clues are given.you have to find out the proffesion of individuals.
+   ans is something like this
+          __________________________________________________
+         | ...    | amanda  |   ...  |  ...   |  jerry     |
+         ---------------------------------------------------
+         | doctor | mechanic|attorney| broker |  banker    |
+         ---------------------------------------------------
+         |   10   |   jack  |   queen|  king  |    ace     |       (8)
+         --------------------------------------------------- 
+ 
+ (9)4 men x,y,z,v sitting on a table & in front them ,there is 1 card each 
+    which have diff color on the two faces .colors are like this 2 are red 
+     2 are green ,2 are blue .they saw the hidden part and give the statement
+     x: blue or green
+     y: neither blue nor green
+     z: blue or yellow
+     v: blue or yellow
+    exactly two are lying .the color visible to them are red ,blue ,red,green
+    respectively .give the color of hidden side.
+    ans     yellow      yellow       green      blue
+              x           y           z           v
+                                 

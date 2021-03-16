@@ -1,0 +1,315 @@
+
+            ************************************
+			VERIFONE
+            ************************************
+
+there will be 45 qstns. 15+5+5+5+5+5+5.
+section: electronics:
+1.a logic ckt is given and asked to identify the configuration.
+ans: XOR.
+2.multi vibrator with nor gates is given 
+ans: astable multi sqr wave opt.
+3.4 stage ripple counter with delay(f/f) 10msec. How much time it takes 
+for a state to change. 4*10=40.
+4.impedence of a p'lel resonant circiut at resonance:R.
+5.serial to parellel conversion is done by ans:shift register.
+5.if the address bus id 20bits.then the memory space is 1Mb.
+6.filtering can be done with:capacitor,iductor,both,none.
+7.the config that is worst effected by low CMMR
+ans:Non inverting amplifier.
+8.two progs are given. one satrts counting frm 0 to MAX and the other 
+stars frm MAX to 0. which one executes fast.may be Max to 0.Think of.it 
+should be.
+
+another 6 qstns are there. simple.
+
+Networks:
+1.
+the fctn of datalink layer is:bit stuffing.
+2.which of the following is not fctn of datalink layer: Encription.
+3.voltage levels of rs232x:+12,-12.
+4.which of the following is not used for client/server.
+RPC,TCP/IP,MESSAGEQs None ans:may be none.
+5.
+
+database:
+1. which of the following is true.
+ans:the primary key in DataBAse design is very important.
+2. SQL is a Non procedural query langauge.
+3.
+4
+5.
+compiler/algo/ds:
+1.Data structure used to impliment a menu: doubly linked circular linked 
+list.
+2. some regular expression is given:WaW'.may be it is context free grammar.
+3.,4,5.
+os:
+1.the feature of real time os is: fast context swithing.
+2.os impliments protection with the help of hardware(like virtual 
+addressing in 386/286 etc).
+
+C:
+some small c progs are given asked to tell the function/errors etc.
+one of the qstn(last in the paper) is an invalid statement.
+finish of all these very fast and think about those others. they are 
+simple only.
+
+
+Interview:
+depends on the member.(Mr.Deep if he comes asks archirect of 586/486/386/286
+etc. otherwise DS,OS,C,TCP/IP . they hv taken 21(18btechs+3mtechs).
+ok if u hv any queries ask immediately.
+ok
+all the best.
+
+
+
+------------------  COMPLETE  --------------------
+Verifone Interview.
+****************************:-
+
+Here, we had three single man panels. They are seeing the subjects 
+taken and asking questions in that mainly. They didn't go deep into
+any subject and they were just  asking overview. When they catch any
+new word they are asking about it. 
+      
+These are some of the questions asked to us.(not to a single person.)
+     
+What is a finite Automata.
+what is a turing machine.
+how many processors are there in a pentium microprocessor. in Sparc.
+difference between risc and cisc.
+is risc always fast.
+
+
+what is a real time system.
+name some real time OS
+what are the characteristics of Real time OS.
+is DOS a real time OS.
+what is a kernel,shell.
+
+what is binary search, traversal, hashing etc.
+given a scenario what is the  suitable data structure.
+write a code to count the no. of 1's in a binary rep. of a number.
+memory taken for char *, int * etc.
+char *cp; int *ip; cp++,ip++ - what is the result.
+compare the no. of bytes in unix and Dos for long char short int.
+how to make programs portable on unix and Dos under such circumstances.
+in c++, what is a constructor, destructor etc. 
+what is friend etc.
+  
+
+
+what is waterfall model, prototype model etc.
+what is testing. what is unit testing, integration testing etc.
+
+What is indexing in databases? 
+What is atomicity?
+Can recursive pgms be written in C++, Write a recursive pgm to 
+calculate factorial in c++.
+What is best data structure to store the processes info in a real time 
+operating system?
+
+
+
+
+
+
+VERIFONE ------> Paper:-
+*********************************
+Verifone test Questions :
+
+There are two parts :
+
+1. Aptitute test 	:  15 Minutes, 20 Questions
+
+  Some questions are:
+	 (not in order)
+
+
+
+
+   1. A question (first one)on addition of fraction of inches 
+           a. was the answer
+
+   2. There were 36 chairs. how many ways can they be placed such
+   that all rows have equal no. of chairs and atleast three chairs 
+   are there in each row and there are atleast three rows.
+	 5 ways.
+
+   3. There are 27 balls, of which 1 is heavier. given a balance
+   how many times you need to weigh to find out the odd ball. 
+          3 Weighs.
+
+   4.  Product of three consecutive nos. 210.  What is the sum
+   	of two least numbers
+         11. 
+
+   5.  If the area of the sqaure is increased by 69 % how
+	much the length of the side will increase?
+	   30%
+   6.  if the sum of five consecutive nos. 35? how many prime nos
+		are there :
+           2 primes.	
+
+   7.  if the length of the rectangle is reduced by 20% and breath
+		is increased by 20 % what is the net change ?
+        	 4 % decrease
+   8.  A question on sets.
+	There are some 20 Basketball players & 30 Football players,
+	and 25 cricket players. 1 of them plays all the three games.
+	8 of them plays atleast two games. They are 50 altogether.
+	How many of them plays none of the games.
+   9. A question on directions.
+	 B is 20 miles east of A. D is 30 miles east of C. E is 10 miles
+	 north of D. C is 20 miles north of B. How far E is from A?
+   Some 3 questions on Reasoning like,
+   10. If you say that giving stock options to employees increases the 
+	productivity of the company, which of the following sentences
+	support it.
+	 A) Giving stock options increases the morale of the employees
+	 ..
+	 ..
+	  etc.,
+    11. Gamblers comes to the Amusement parks. There are some Amusement 
+	parks in each city. There are some gamblers in each city. So 
+	what can you infer.
+	 A) Amusement park always have gamblers.
+	 ..
+	 ..
+	   etc.,
+	
+
+2. Technical Questions.  
+
+i. Electrical & Electronics  	: 15 Questions
+        1.A Circuit with nand gates. (ans. may be XOR)
+
+        2.CMRR. relates to  (options not in order)
+	       voltage follower
+	       non invering amplifier
+	       inverting amplifier
+	       integrator
+
+        3. Given a circuit , give the ouput.
+	    (ans. may be triangular wave.)
+
+        4. o/p of an assembly code.
+		mulitply by 11.
+
+        5. how to handle asynchronous events.
+                    a) polling 
+		    b) interrrupt 
+			 etc.
+
+ii)Data Structures, Algo., & Complexity theory : 5 questions
+iii)  OS : 5 questions
+iv) Networks and Hardware:  5 questions
+v) Databases and Misc.: 5 questions
+vi) C Pgm. : 5 questions
+   some more 10 questions.
+        
+
+1. if W is a sequence of strings without a and W' is its reversal
+	then WaW' is accepted by:
+
+	  Context Free Grammmars
+
+2. Whether all recusive pgm can be writtten iteratively? 
+  yes.
+3. What data structes you will use if you want to go to first record from
+the last and vice versa?  
+	 doubly linked circular list
+
+4. Given 10000 nos. and 48MB Memory.  What is the complexity of the 
+efficient sorting algo.? (the algo. is not mentioned)
+       O(N)
+
+5.  Given a  C code and ask what it does?
+	code was something similar to Bubble sort and that
+particular code does the sorting in Desending order and the complexity
+is O(n^2)(which is the next question).
+
+       
+6.  
+     A code like this is given.
+	a. for(i=0;i<num;i++)
+	b. for(i=num;i>0;i--)
+     Assuming no code optimization and  assume that the microprocessor
+     has flags etc. which one is correct.
+	 
+	 b will execute faster.
+
+7. If there are too many page faults what is the problem?
+
+8. To ensure one pgm. doesnt corrupt other pgm. in a Multi-pgm enviornment
+	what you should do?
+
+9. Which one you will use to implement critical section?
+	Binary Semaphore
+
+10. Which one is not needed for Multi-processing. enviornment?
+	options are: virtual memory,security,time sharing,none of the
+     			above.	
+	
+11. Which one is not done by Data link layer ?
+	bit stuffing, LRC,CRC,parity check 
+	
+12. Which one is not related to Data link layer?
+
+13. Which one is not suitable for client-server application?
+	tcp/ip,message passing,rpc,none of the above.
+
+14. What is SQL. 
+      Procedural Relational DB Query Language.
+
+15. Indexing in databases give you
+       options were like 1.efficient deleting and inserting
+			 2.efficient deleting. 
+			   etc.
+16. int a=1,b=2,c=3;
+   printf("%d,%d",a,b,c);
+	What is the output?
+17. Scope of Static Variable ............
+        in a file.
+
+18. for(i=0; i<=10;i++,printf("%d",i)); +-   (+- is there in the questions)
+
+20. Real Time Os should have 
+   a)fast context switch
+   b)Virtual memory etc.
+
+
+
+21. Messages are transferred in some E71 code, where after 7 bits of data,
+1 bit of stopping data is to be transferred. what should be done.
+     options were like 
+	 a) send directly
+	 b) send after encoding 
+		  etc.
+22. There are three processes A, B, C. A sends data to B. B removes the
+header stores it and sends the data to C. C returns it to B. B receives the
+message, identifies the message and adds the header that was stored and 
+sends to A.B receives the messages from C such that atmost 'm' messages  
+B
+are pending.
+     Identify the best Data Structure.
+
+23.  A question in compiler about the heap and stack allocation of memory.
+
+24.  struct 
+	{
+	  char a[3];
+	  int b;
+          }x;
+     char *cp;
+
+      a) size of x is 7.
+      B
+      b)
+      c)
+      d) cp takes the size of a pointer. 
+	  (d ) is the ans.
+
+

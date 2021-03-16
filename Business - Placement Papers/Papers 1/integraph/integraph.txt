@@ -1,0 +1,174 @@
+> 
+> Paper consists of two sections : 1. analytical (20 marks)
+>                                  2. C skills (20 marks)total time 45 min
+> 
+> Analytical:
+> -------------
+> 
+> 1. Given a cube, with different colors on its faces, and then is cut
+> into 64 pieces, and the questions relate to the colors of different 
+> colored small cubes.
+> 
+> 2. A few ladies and gents sit around table in some given order and 4
+> questions are about their seating arrangement with some restrictions.
+> 
+> 3. Draw a venn diagram for 3 items : white, flowers, cloth
+> 
+>  Ans : draw 3 circles each intersecting the other , with white kept in the
+> middle.
+> 
+> 4. A problem related to seating arrangement of 4 people ( 2 ladies and
+> 2 gents) with some restrictions
+> 
+> 5. problem related to milk with water added to it for three times
+> 
+> Ans: 20.5 litres
+> 
+> 6. Problem related to diagrams . Five diagrams were given and asked to
+> find the sixth one.
+> 
+> C-Skills:
+> --------
+> 
+> 1. Max number of nodes in a binary tree with height 3 is 20 : Ans: False
+> 
+> 2. 10,20,30,40,50,60 : give the order when put in a queue and in a stack
+> 
+> Ans : Queue : 10,20,30,40,50,60
+>       stack : 60,50,40,30,20,10
+> 
+> 3. Debugging is the process of finding
+> 
+> Ans : logical and runtime errors
+> 
+> 4. trace the error:
+> 
+>    void main(){
+>             int &a;
+>              /* some other stuff here */
+>                }
+> Ans: syntax error
+> 
+> 5. a problem with a function named 'myValue' will be given and asked to
+> find the value of main() for an argument of 150,
+> 
+> Ans : 150
+> 
+> 6. Some problems related to 'for' loops.
+> 
+> 7. problem on conditional inclusion.
+> 
+> 8. problem related to depth first and breadth first search (DSA subject)
+> 
+> 9. study the syntax of malloc function
+> 
+> 10. locate the error
+> 
+>     int arr (20);
+>    Ans: syntax error.
+> 
+>    
+> the above are only the guide lines, may not be the exact paper.
+> 
+> WISHING YOU ALL THE BEST
+
+********************************************************************************
+	There are two sections in Intergraph.
+	
+	1.Aptitude	20 nos
+	2.'C' Programming	
+
+
+
+
+1.Non-verbal questions
+	
+	________________________________________________________
+	|	*|	|	|	|	|	|				|
+	|	|	|	|	|	|	|	 	|
+	|_______|_______|_______|_______|_______|_______|__________|
+	|	|	|	|	|	|	|	|
+	|	|	|	|	|	|	|	|
+	|_______|_______|_______|_______|_______|_______|____________|
+
+		Like this
+
+2.Venn diagram
+
+
+	Draw venn diagram for flowers,white,clothes
+
+	(Complete question is not there)
+
+3.Analytical
+
+	ABCDEF -->Boys
+	PQRST  -->Girls
+
+		AD
+		ST	
+		BR
+		CQ
+4.
+
+	a.A will with D
+	b.S will with T
+	c.B will with R
+	d.C and Q wants to be in the same team.
+
+5. Matricide:Mother::Homicide:?
+   a)Human	b)Children	c)Father	d)None
+
+8.Rs.3 costs 5 oranges.Then sold each orange at 1 rupee each.Then sold each
+  orange at 1 rupee each.For Rs.36 profit what is the no. of oranges 
+  required?
+
+	Ans.90
+
+9.The wages of the worker was increased from Rs.18 to Rs.21 per week.The 
+average working hours is 7 hrs/day instead of 8 hrs/day.How much fast wokers
+should do work?
+
+10.A sales person visits M,N,P,Q,R and S
+
+	S can be varied according to the question.
+
+Ans.	S MNPQR 
+
+
+13.A cube is colored on the opposite faces blue,black and yellow.It is 
+then cut into 36 cubes.Out of which 32 were small cubes and 4 where big 
+cubes.
+
+	a)How many cubes were there,colored on the face
+	b)How many cubes were colored on three faces.
+
+16.A cask contain 40 liters milk.8 liters we taken out and filled with 
+water.The same process is contained second&third time.How much amount of 
+milk will be there?
+
+
+	'C' language
+	------------
+
+
+1).	  main()
+		{
+			int a[100];
+			int i;
+			x=    0
+			y=    100
+                      ---------
+                      -----------
+			for(i=1;i<=4;i++)
+
+			}
+
+
+			return;
+
+2). union(one questions) Ans:a
+
+3).         Debugging 
+
+	Ans: Logical&routine error

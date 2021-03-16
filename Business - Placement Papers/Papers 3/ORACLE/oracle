@@ -1,0 +1,56 @@
+       *******************************************************
+                              ORACLE
+       *******************************************************
+
+
+section 2:
+
+   1. what is sparese matrices?. give (at least) two methods for implemetation
+      rather than two dimentional array.
+   2.what are cheap locks/latches?.
+   3.what is two phase locking?. Name two locks.
+   4. What are volatile variables in C?. What is their significance ?.
+   5. will these two work in same manner
+      #define intp int *
+       typedef int * inpp;
+   6. what are binary trees?. what is its use?.
+   7. 
+
+ section 3 :
+
+  A). write header file containing functions used, etc  (C),
+     problem is to maitain a Queue. user has to give size and type of Queue.
+    This problem is like this I don't remember exactly.
+ B). C++
+  1. What is polymorphism?
+  2. What is Inheritence?.
+  3. Mention four Object Oriented Programming Languages?>
+  4. Mention basic concepts of OOP.
+  5. What are messages in OOP?.
+  6. What is garbase collection?.
+  7.what is object?.
+  8. what is a class?.
+
+ section 4:
+  1. expand the following:
+     a.SEI b. ISO
+  2. what are different levels of SEI?.
+  3. What is significance of ISO?>
+  4. Expand the following:
+        a. WWW
+        b. HTTP
+        c. HTML
+	d. TCP/IP
+  5. what is Black box testing?.
+  6. explain the following:
+     1. white box testing
+     2. white box testing
+     3. boundary testing
+     4 stress
+     5. negative
+     6. system
+     7. unit
+     8.module
+     9.destructive
+
+------------------  COMPLETE  --------------------

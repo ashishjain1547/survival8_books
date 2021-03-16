@@ -1,0 +1,314 @@
+texas instruments paper .
+
+in this paper there was 20 questions as follows in 60 minutes .
+second part consists of 36 que. in 30 minutes all questions are
+diagramatical.(figurs)..
+
+ 
+
+1. if a 5-stage pipe-line is flushed and then we have to execute 5 and 12
+instructions respectively then no. of  cycles will be
+a. 5 and 12
+b. 6 and 13
+c. 9 and 16
+d.none 
+
+
+2. k-map
+
+
+ab
+----------
+c	1   x  0  0
+	1   x  0  x
+
+solve it 
+
+a. A.B
+B. ~A
+C. ~B
+D. A+B
+
+
+3.CHAR  A[10][15] AND INT B[10][15] IS DEFINED
+WHAT'S THE ADDRESS OF A[3][4] AND B[3][4]
+IF ADDRESS OD A IS OX1000 AND B IS 0X2000
+
+A. 0X1030 AND 0X20C3
+B. OX1031 AND OX20C4
+AND SOME OTHERS..
+
+4. int f(int *a)
+{
+ int b=5;
+a=&b;
+}
+
+main()
+{
+int i;
+printf("\n %d",i);
+f(&i);
+printf("\n %d",i);
+}
+
+what's the output .
+
+1.10,5
+2,10,10
+c.5,5
+d. none
+
+5. main()
+{
+int i;
+fork();
+fork();
+fork();
+printf("----");
+}
+
+how many times the printf will be executed .
+a.3 
+b. 6
+c.5
+d. 8
+
+
+6. 
+void f(int i)
+{
+int j;
+for (j=0;j<16;j++)
+{
+if (i & (0x8000>>j))
+printf("1");
+else
+printf("0");
+}
+}
+what's the purpose of the program 
+
+a. its output is hex representation of i
+b. bcd
+c. binary
+d. decimal
+
+ 
+7.#define f(a,b) a+b
+#define g(a,b) a*b
+
+
+main()
+{
+int m;
+m=2*f(3,g(4,5));
+printf("\n m is %d",m);
+}
+
+what's the value of m
+a.70
+b.50
+c.26
+d. 69
+
+8.
+
+main()
+{
+char a[10];
+strcpy(a,"\0");
+if (a==NULL)
+printf("\a is null");
+else
+printf("\n a is not null");}
+
+what happens with it .
+a. compile time error.
+b. run-time error.
+c. a is  null
+d. a is not  null.
+
+9. char a[5]="hello"
+
+a. in array we can't do the operation .
+b. size of a is too large
+c. size of a is too small
+d. nothing wrong with it .
+
+10. local variables can be store by compiler
+a. in register or heap
+b. in register or stack
+c .in stack or heap .
+d. global memory.
+
+11. average and worst time complexity in a sorted binary tree is
+
+12. a tree is given and ask to find its meaning (parse-tree)
+  (expression tree)
+ans. ((a+b)-(c*d))  ( not confirmed)
+13. convert 40.xxxx into binary .
+
+14. global variable conflicts due to multiple file occurance 
+is resolved during 
+a. compile-time
+b. run-time 
+c. link-time
+d. load-time
+
+15. 
+two program is given of factorial.
+one  with  recursion and one without recursion .
+question was which program won't run for very big no. input because of
+stack overfow .
+a. i only  (ans.)
+b. ii only
+c. i& ii both .
+c. none 
+
+16. 
+struct a
+{
+int a;
+char b;
+int c;
+}
+
+union b
+{
+char a;
+int b;
+int c;
+};
+which is correct .
+a. size of a is always diff. form size of b.(ans.)
+b. size of a is always same  form size of b.
+c. we can't say anything because of not-homogeneous (not in ordered)
+d. size of a can be same if ...
+
+
+
+
+
+>
+>
+>1.two transistors are connected Vbe is 0.7volts .this is simple ckt.one 
+>transistor is diode equivalent. & asked the o/p across the 2 nd transistor.
+>2.simple k map ans is Bbar.
+>3.
+>
+>                               Emitter
+>---R-------transistorbase| --
+>                          | ---
+>                                   collector
+>             in above capacitor is connected parallel with resistance 
+>r.capacitor is not shown
+>             in fig.capacitor is used for in this ckt:
+>
+>
+>             ans:a.speedupb.active bypass  c.decoupling
+>   4.
+>
+>   -----R------I----------o/p
+>           |___R____ |
+>                             in above r is resistence.I is cmos inverter.
+>                             then ckt is used for:
+>
+>
+>                             a.schmitt trigger b.latch  c.inverter  
+>d.amplifier
+>
+>
+>      5.simple amplifier ckt  openloop gain of amplifier is 4.V in 
+>=1v.asked for V x?
+>      amplifdier + is connected to base. - is connected to i/p in between 
+>5k is connected.
+>      from o/p feedback connected to - of amplifier with 15k.this is ckt.
+>
+>
+>      6.resistence inductot cap are serially connected to ac voltage 5 
+>volts.voltage across
+>      inductor is given.R I C values are given & asked for
+>      voltages across resistence & capacitor.
+>      7.
+>              ___  R_____
+>             |            |
+>      ---R------OPAMP ----------
+>             |---
+>             R1        R1 is for wjhat i mean what is the purpose of R1.
+>             |
+>
+>             ground
+>
+>
+>     8.asked for Vo at the o/p.it is like simple cmos realization that is n 
+>block is above
+>     & p block is below.Vdd is 3 volts at supply.V threshold 5 volts.
+>     9.2 d ffs are connected in asyncro manner .clock 10 MEGAHZ.gate delay 
+>is 1 nanosec.
+>     A B are the two given D FFs.asked for AB output is:
+>
+>
+>     a.updown
+>     b.up c. updown glitching like that (take care abt glitching word)
+>
+>     10.
+>
+>
+>     ----------------| subtractor|---------o/p
+>         |___HPF____|
+>
+>                     the ckt is LPF ,HPF or APF ?
+>
+>   11.in a queue at the no of elements removed is proportional to no of 
+>elements in
+>   the queue.then no of elements in the queue:
+>   a.increases decreases exp or linearly(so these are the 4 options given 
+>choose 1 option)
+>   12.with 2 i/p AND gates u have to form a 8 i/p AND gate.which is the 
+>fastest in the
+>   following implementations.
+>   ans we think ((AB)(CD))((EF)(GH))
+>   13.with howmany 2:1 MUX u can for   8:1 MUX.answer is 7.
+>   14. there are n states then ffs used are log n.
+>   15.cube each side has r units resistence then the resistence across 
+>diagonal of cube.
+>   16.op amp connections asked for o/p
+>   the answer is (1+1/n)(v2-v1).check it out.practise this type of model.
+>   17.
+>       _____________ supply
+>   ---|__           ___|
+>  Ii     >________ |___    Tranistot
+>                       > _______Vo
+>                        |
+>                        |
+>                        R       |
+>                        |       |  Io
+>                        ground.
+>
+>
+>
+>
+>    asked for Io/Ii=? transistor gain is beta.
+>
+>
+>    a.(1+beta)square b.1+beta  c. beta
+>
+>
+>    18.y=kxsquare. this is transfer function of a block with i/p x & o/p 
+>y.if i/p is
+>    sum of a & b then o/p is :--
+>
+>    a. AM b.FM  c. PM
+>    19.
+>                 ------MULTIPLIER--- |
+>                |                    |
+>        _____R__|__OPAMP______________________Vo
+>                 ---
+>                 |
+>                ground.
+>                v in = -Ez then o/p Vo =?
+>                answer is squareroot of -Ez.multiplier i/ps are a & b then 
+>its o/p
+>                is a.b;
+>

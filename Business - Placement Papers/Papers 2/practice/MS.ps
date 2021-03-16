@@ -1,0 +1,1198 @@
+%!PS-Adobe-3.0
+%%Title: MS.Pvrao
+%%For: Mallavarapu Srihari
+%%Creator: a2ps version 4.13
+%%CreationDate: Mon Jan 22 01:19:50 2001
+%%BoundingBox: 24 24 571 818
+%%DocumentData: Clean7Bit
+%%Orientation: Landscape
+%%Pages: 4
+%%PageOrder: Ascend
+%%DocumentMedia: A4 595 842 0 () ()
+%%DocumentNeededResources: font Courier
+%%+ font Courier-Bold
+%%+ font Courier-BoldOblique
+%%+ font Courier-Oblique
+%%+ font Helvetica
+%%+ font Helvetica-Bold
+%%+ font Symbol
+%%+ font Times-Bold
+%%+ font Times-Roman
+%%DocumentProcessColors: Black 
+%%DocumentSuppliedResources: procset a2ps-a2ps-hdr
+%%+ procset a2ps-black+white-Prolog
+%%+ encoding ISO-8859-1Encoding
+%%EndComments
+/a2psdict 200 dict def
+a2psdict begin
+%%BeginProlog
+%%Copyright: (c) 1988, 89, 90, 91, 92, 93 Miguel Santana
+%%Copyright: (c) 1995, 96, 97, 98 Akim Demaille, Miguel Santana
+% Check PostScript language level.
+/languagelevel where {
+  pop /gs_languagelevel languagelevel def
+} {
+  /gs_languagelevel 1 def
+} ifelse
+
+% EPSF import as in the Red Book
+/BeginInclude {
+  /b4_Inc_state save def    		% Save state for cleanup
+  /dict_count countdictstack def	% Count objects on dict stack
+  /op_count count 1 sub def		% Count objects on operand stack 
+  userdict begin
+    0 setgray 0 setlinecap
+    1 setlinewidth 0 setlinejoin
+    10 setmiterlimit [ ] 0 setdash newpath
+    gs_languagelevel 1 ne {
+      false setstrokeadjust false setoverprint 
+    } if
+} bind def
+
+/EndInclude {
+  count op_count sub { pos } repeat	% Clean up stacks
+  countdictstack dict_count sub { end } repeat
+  b4_Inc_state restore
+} bind def
+
+/BeginEPSF {
+  BeginInclude
+  /showpage { } def
+} bind def
+
+/EndEPSF {
+  EndInclude
+} bind def
+
+% Page prefeed
+/page_prefeed {         % bool -> -
+  statusdict /prefeed known {
+    statusdict exch /prefeed exch put
+  } {
+    pop
+  } ifelse
+} bind def
+
+/deffont {
+  findfont exch scalefont def
+} bind def
+
+/reencode_font {
+  findfont reencode 2 copy definefont pop def
+} bind def
+
+% Function c-show (str => -)
+% centers text only according to x axis.
+/c-show { 
+  dup stringwidth pop
+  2 div neg 0 rmoveto
+  show
+} bind def
+
+% Function l-show (str => -)
+% prints texts so that it ends at currentpoint
+/l-show {
+  dup stringwidth pop neg 
+  0 
+  rmoveto show
+} bind def
+
+% center-fit show (str w => -)
+% show centered, and scale currentfont so that the width is less than w
+/cfshow {
+  exch dup stringwidth pop
+  % If the title is too big, try to make it smaller
+  3 2 roll 2 copy
+  gt
+  { % if, i.e. too big
+    exch div
+    currentfont exch scalefont setfont
+  } { % ifelse
+    pop pop 
+  }
+  ifelse
+  c-show			% center title
+} bind def
+
+% Return the y size of the current font
+% - => fontsize
+/currentfontsize {
+  currentfont /FontMatrix get 3 get 1000 mul
+} bind def
+
+% reencode the font
+% <encoding-vector> <fontdict> -> <newfontdict>
+/reencode { %def
+  dup length 5 add dict begin
+    { %forall
+      1 index /FID ne 
+      { def }{ pop pop } ifelse
+    } forall
+    /Encoding exch def
+
+    % Use the font's bounding box to determine the ascent, descent,
+    % and overall height; don't forget that these values have to be
+    % transformed using the font's matrix.
+    % We use `load' because sometimes BBox is executable, sometimes not.
+    % Since we need 4 numbers an not an array avoid BBox from being executed
+    /FontBBox load aload pop
+    FontMatrix transform /Ascent exch def pop
+    FontMatrix transform /Descent exch def pop
+    /FontHeight Ascent Descent sub def
+
+    % Define these in case they're not in the FontInfo (also, here
+    % they're easier to get to.
+    /UnderlinePosition 1 def
+    /UnderlineThickness 1 def
+    
+    % Get the underline position and thickness if they're defined.
+    currentdict /FontInfo known {
+      FontInfo
+      
+      dup /UnderlinePosition known {
+	dup /UnderlinePosition get
+	0 exch FontMatrix transform exch pop
+	/UnderlinePosition exch def
+      } if
+      
+      dup /UnderlineThickness known {
+	/UnderlineThickness get
+	0 exch FontMatrix transform exch pop
+	/UnderlineThickness exch def
+      } if
+      
+    } if
+    currentdict 
+  end 
+} bind def
+
+% Function print line number (<string> # -)
+/# {
+  gsave
+    sx cw mul neg 2 div 0 rmoveto
+    f# setfont
+    c-show
+  grestore
+} bind def
+
+% -------- Some routines to enlight plain b/w printings ---------
+
+% Underline
+% width --
+/dounderline {
+  currentpoint
+  gsave
+    moveto
+    0 currentfont /Descent get currentfontsize mul rmoveto
+    0 rlineto
+    stroke
+  grestore
+} bind def
+
+% Underline a string
+% string --
+/dounderlinestring {
+  stringwidth pop
+  dounderline
+} bind def
+
+/UL {
+  /ul exch store
+} bind def
+
+% Draw a box of WIDTH wrt current font
+% width --
+/dobox {
+  currentpoint
+  gsave
+    newpath
+    moveto
+    0 currentfont /Descent get currentfontsize mul rmoveto
+    dup 0 rlineto
+    0 currentfont /FontHeight get currentfontsize mul rlineto
+    neg 0 rlineto
+    closepath
+    stroke
+  grestore
+} bind def
+
+/BX {
+  /bx exch store
+} bind def
+
+% Box a string
+% string --
+/doboxstring {
+  stringwidth pop
+  dobox
+} bind def
+
+%
+% ------------- Color routines ---------------
+%
+/FG /setrgbcolor load def
+
+% Draw the background
+% width --
+/dobackground {
+  currentpoint
+  gsave
+    newpath
+    moveto
+    0 currentfont /Descent get currentfontsize mul rmoveto
+    dup 0 rlineto
+    0 currentfont /FontHeight get currentfontsize mul rlineto
+    neg 0 rlineto
+    closepath
+    bgcolor aload pop setrgbcolor
+    fill
+  grestore
+} bind def
+
+% Draw bg for a string
+% string --
+/dobackgroundstring {
+  stringwidth pop
+  dobackground
+} bind def
+
+
+/BG {
+  dup /bg exch store
+  { mark 4 1 roll ] /bgcolor exch store } if
+} bind def
+
+
+/Show {
+  bg { dup dobackgroundstring } if
+  ul { dup dounderlinestring } if
+  bx { dup doboxstring } if
+  show
+} bind def
+
+% Function T(ab), jumps to the n-th tabulation in the current line
+/T {
+  cw mul x0 add
+  bg { dup currentpoint pop sub dobackground } if
+  ul { dup currentpoint pop sub dounderline } if
+  bx { dup currentpoint pop sub dobox } if
+  y0 moveto
+} bind def
+
+% Function n: move to the next line
+/n {
+  /y0 y0 bfs sub store
+  x0 y0 moveto
+} bind def
+
+% Function N: show and move to the next line
+/N {
+  Show
+  /y0 y0 bfs sub store
+  x0 y0 moveto
+} bind def
+
+/S {
+  Show
+} bind def
+
+%%BeginResource: procset a2ps-a2ps-hdr 2.0 2
+%%Copyright: (c) 1988, 89, 90, 91, 92, 93 Miguel Santana
+%%Copyright: (c) 1995, 96, 97, 98 Akim Demaille, Miguel Santana
+% Function title: prints page header.
+% <ct> <rt> <lt> are passed as argument
+/title { 
+  % 1. Draw the background
+  x v get y v get moveto
+  gsave
+    0 th 2 div neg rmoveto 
+    th setlinewidth
+    0.95 setgray
+    pw 0 rlineto stroke
+  grestore
+  % 2. Border it
+  gsave
+    0.7 setlinewidth
+    pw 0 rlineto
+    0 th neg rlineto
+    pw neg 0 rlineto
+    closepath stroke
+  grestore
+  % stk: ct rt lt
+  x v get y v get th sub 1 add moveto
+%%IncludeResource: font Helvetica
+  fHelvetica fnfs 0.8 mul scalefont setfont
+  % 3. The left title
+  gsave
+    dup stringwidth pop fnfs 0.8 mul add exch % leave space took on stack
+    fnfs 0.8 mul hm rmoveto
+    show			% left title
+  grestore
+  exch
+  % stk: ct ltw rt
+  % 4. the right title
+  gsave
+    dup stringwidth pop fnfs 0.8 mul add exch % leave space took on stack
+    dup
+    pw exch stringwidth pop fnfs 0.8 mul add sub
+    hm
+    rmoveto
+    show			% right title
+  grestore
+  % stk: ct ltw rtw
+  % 5. the center title
+  gsave
+    pw 3 1 roll
+    % stk: ct pw ltw rtw
+    3 copy 
+    % Move to the center of the left room
+    sub add 2 div hm rmoveto
+    % What is the available space in here?
+    add sub fnfs 0.8 mul sub fnfs 0.8 mul sub
+    % stk: ct space_left
+%%IncludeResource: font Helvetica-Bold
+  fHelvetica-Bold fnfs scalefont setfont
+    cfshow
+  grestore
+} bind def
+
+% Function border: prints virtual page border
+/border { %def
+  gsave				% print four sides
+    0 setgray
+    x v get y v get moveto
+    0.7 setlinewidth		% of the square
+    pw 0 rlineto
+    0 ph neg rlineto
+    pw neg 0 rlineto
+    closepath stroke
+  grestore
+} bind def
+
+% Function water: prints a water mark in background
+/water { %def
+  gsave
+    scx scy moveto rotate
+%%IncludeResource: font Times-Bold
+  fTimes-Bold 100 scalefont setfont
+    .97 setgray
+    dup stringwidth pop 2 div neg -50 rmoveto
+    show
+  grestore
+} bind def
+
+% Function rhead: prints the right header
+/rhead {  %def
+  lx ly moveto
+  fHelvetica fnfs 0.8 mul scalefont setfont
+  l-show
+} bind def
+
+% Function footer (cf rf lf -> -)
+/footer {
+  fHelvetica fnfs 0.8 mul scalefont setfont
+  dx dy moveto
+  show
+
+  snx sny moveto
+  l-show
+  
+  fnx fny moveto
+  c-show
+} bind def
+%%EndResource
+%%BeginResource: procset a2ps-black+white-Prolog 2.0 1
+
+% Function T(ab), jumps to the n-th tabulation in the current line
+/T { 
+  cw mul x0 add y0 moveto
+} bind def
+
+% Function n: move to the next line
+/n { %def
+  /y0 y0 bfs sub store
+  x0 y0 moveto
+} bind def
+
+% Function N: show and move to the next line
+/N {
+  Show
+  /y0 y0 bfs sub store
+  x0 y0 moveto
+}  bind def
+
+/S {
+  Show
+} bind def
+
+/p {
+  false UL
+  false BX
+  fCourier bfs scalefont setfont
+  Show
+} bind def
+
+/sy {
+  false UL
+  false BX
+  fSymbol bfs scalefont setfont
+  Show
+} bind def
+
+/k {
+  false UL
+  false BX
+  fCourier-Oblique bfs scalefont setfont
+  Show
+} bind def
+
+/K {
+  false UL
+  false BX
+  fCourier-Bold bfs scalefont setfont
+  Show
+} bind def
+
+/c {
+  false UL
+  false BX
+  fCourier-Oblique bfs scalefont setfont
+  Show
+} bind def
+
+/C {
+  false UL
+  false BX
+  fCourier-BoldOblique bfs scalefont setfont
+  Show 
+} bind def
+
+/l {
+  false UL
+  false BX
+  fHelvetica bfs scalefont setfont
+  Show
+} bind def
+
+/L {
+  false UL
+  false BX
+  fHelvetica-Bold bfs scalefont setfont
+  Show 
+} bind def
+
+/str{
+  false UL
+  false BX
+  fTimes-Roman bfs scalefont setfont
+  Show
+} bind def
+
+/e{
+  false UL
+  true BX
+  fHelvetica-Bold bfs scalefont setfont
+  Show
+} bind def
+
+%%EndResource
+%%EndProlog
+%%BeginSetup
+%%IncludeResource: font Courier
+%%IncludeResource: font Courier-Oblique
+%%IncludeResource: font Courier-Bold
+%%IncludeResource: font Times-Roman
+%%IncludeResource: font Symbol
+%%IncludeResource: font Courier-BoldOblique
+%%BeginResource: encoding ISO-8859-1Encoding
+/ISO-8859-1Encoding [
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef 
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef 
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef 
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef 
+/space /exclam /quotedbl /numbersign /dollar /percent /ampersand /quoteright 
+/parenleft /parenright /asterisk /plus /comma /minus /period /slash 
+/zero /one /two /three /four /five /six /seven 
+/eight /nine /colon /semicolon /less /equal /greater /question 
+/at /A /B /C /D /E /F /G 
+/H /I /J /K /L /M /N /O 
+/P /Q /R /S /T /U /V /W 
+/X /Y /Z /bracketleft /backslash /bracketright /asciicircum /underscore 
+/quoteleft /a /b /c /d /e /f /g 
+/h /i /j /k /l /m /n /o 
+/p /q /r /s /t /u /v /w 
+/x /y /z /braceleft /bar /braceright /asciitilde /.notdef 
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef 
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef 
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef 
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef 
+/space /exclamdown /cent /sterling /currency /yen /brokenbar /section 
+/dieresis /copyright /ordfeminine /guillemotleft /logicalnot /hyphen /registered /macron 
+/degree /plusminus /twosuperior /threesuperior /acute /mu /paragraph /bullet 
+/cedilla /onesuperior /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown 
+/Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla 
+/Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis 
+/Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply 
+/Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls 
+/agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla 
+/egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis 
+/eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide 
+/oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis 
+] def
+%%EndResource
+% Initialize page description variables.
+/sh 595 def
+/sw 842 def
+/llx 24 def
+/urx 818 def
+/ury 571 def
+/lly 24 def
+/#copies 1 def
+/th 15.000000 def
+/fnfs 11 def
+/bfs 8.005733 def
+/cw 4.803440 def
+
+% Dictionary for ISO-8859-1 support
+/iso1dict 8 dict begin
+  /fCourier ISO-8859-1Encoding /Courier reencode_font
+  /fCourier-Bold ISO-8859-1Encoding /Courier-Bold reencode_font
+  /fCourier-BoldOblique ISO-8859-1Encoding /Courier-BoldOblique reencode_font
+  /fCourier-Oblique ISO-8859-1Encoding /Courier-Oblique reencode_font
+  /fHelvetica ISO-8859-1Encoding /Helvetica reencode_font
+  /fHelvetica-Bold ISO-8859-1Encoding /Helvetica-Bold reencode_font
+  /fTimes-Bold ISO-8859-1Encoding /Times-Bold reencode_font
+  /fTimes-Roman ISO-8859-1Encoding /Times-Roman reencode_font
+currentdict end def
+/bgcolor [ 0 0 0 ] def
+/bg false def
+/ul false def
+/bx false def
+% The font for line numbering
+/f# /Helvetica findfont bfs .6 mul scalefont def
+/fSymbol /Symbol findfont def
+/hm fnfs 0.25 mul def
+/pw
+   cw 81.400000 mul
+def
+/ph
+   501.959430 th add
+def
+/pmw urx llx sub pw 2 mul sub 1 div def
+/pmh 0 def
+/v 0 def
+/x [
+  0
+  dup pmw add pw add
+] def
+/y [
+  pmh ph add 0 mul ph add
+  dup
+] def
+/scx sw 2 div def
+/scy sh 2 div def
+/snx urx def
+/sny lly 2 add def
+/dx llx def
+/dy sny def
+/fnx scx def
+/fny dy def
+/lx snx def
+/ly ury fnfs 0.8 mul sub def
+/sx 0 def
+/tab 8 def
+/x0 0 def
+/y0 0 def
+%%EndSetup
+
+%%Page: (1-2) 1
+%%BeginPageSetup
+/pagesave save def
+sh 0 translate 90 rotate
+%%EndPageSetup
+iso1dict begin
+gsave
+llx lly 12 add translate
+/v 0 store
+/x0 x v get 3.362408 add sx cw mul add store
+/y0 y v get bfs th add sub store
+x0 y0 moveto
+(Interview 1) p n
+(===========) N
+() N
+(1. Asked me about my graphics Project. Be prepared with any project that u have) N
+(written in ur resume as part of ur curriculam . ) N
+() N
+(2. Detect loops in a list . May be u might be asked to write code related to) N
+(it.) N
+() N
+(3. He went further and asked me like, say there is a list and there is a loop) N
+(starting from some where in the middle . Then i was asked to find the lenght of) N
+(the handle . ) N
+() N
+(Interview 2) N
+(===========) N
+() N
+(1. Asked me to explain my ME Project . ) N
+() N
+(2. Say there is a list of \(n-1\) integers and they are in the range 1 to n .) N
+(Then find the integer missing in the list .) N
+() N
+(3. Say there are some students and some courses offered in a college . Then) N
+(there will be many relations between the two sets . Like each student takes) N
+(many courses . ) N
+(    Asked me to represent the data-structure for the given prob. I was asked) N
+(many Q's on the data-structure and asked me for the best possible) N
+(data-structure which would be efficient for answering any kind of Querry) N
+(related to the Prob.) N
+() N
+(4 . Asked me to write linked reversal code and the recurssive version of the) N
+(prob.) N
+() N
+(Interview 3) N
+(===========) N
+() N
+(1. Given 6 pencils how will u construct 4 equilateral Triangles . { Hint :) N
+(Think of a three dimensional structure }) N
+() N
+(2 . There is an Array of structures . The structure contained Name of Employee,) N
+(salary  & Employee ID . Say u are asked to sort the array then u will have to) N
+(move the data in array up and down . So if u treat it as a database then lot of) N
+(data movement is needed . To avoid such a kind of thing say u contruct a new) N
+(array which only contains the indexes of the array of structures in sorted form) N
+(. This way u don't have to move data . Like say there is an array of the) N
+(follwing structures ) N
+(            ) N
+(            {[x,200,100],[a,100,2],[y,300,25]}) N
+() N
+(            And now say u are to get the contents of the database sorted by) N
+(names then the new array will be {1,0,2}.) N
+() N
+(   Now say there are duplicate names in the database then u have to sort on the) N
+(bases of Employee ID which is unique . ) N
+() N
+(They asked me to code for such a kind of prob . They ask for optimization at) N
+(every line and every expression of the code . ) N
+() N
+(3. Asked me about Merge sort . And now say there is an array A of sorted ) N
+(elements and another array B of sorted array of elements  and say B is of size) N
+(\(A+B\) . Now write a code for filling \(A+B\) with all sorted elements of A and B) N
+(.) N
+() N
+(MS.Pvrao) (Page 1/8) (Jan 22, 01 1:18) title
+border
+/v 1 store
+/x0 x v get 3.362408 add sx cw mul add store
+/y0 y v get bfs th add sub store
+x0 y0 moveto
+(Interview 4) p n
+(===========) N
+() N
+(1. Asked me about something about my self and why i wanted to join MS . ) N
+() N
+(2. Say there is a circular list of integers . Say it is sorted . say u are) N
+(given a node ptr at some where in between . U don't know whcih way the list is) N
+(sorted \(like the ptr going right could be the element > or < the current , but) N
+(the list is sorted \). Now u have to insert a node in this kind of a circular) N
+(list .) N
+() N
+(2. A puzzle was asked which needs to be drawn . There are 8 Airports say . say) N
+(there is a flight from,) N
+() N
+(             1-->4  & 1-->6 \(the graph is non-directional\)) N
+(             4-->7  & 4-->1 ) N
+(             6-->3  & 6-->1) N
+(             5-->2  & 5-->8) N
+(             2-->7  & 8-->3) N
+(             4-->7 ) N
+() N
+(     There are 4 persons L1,L2,W1 & W2 . L1 and L2 are at Airport 2 and 4) N
+(respectively . W1 and W2 at 8 and 6 resp. Now L1 should be placed at 8 or 6 and) N
+(L2 should be placed at the position one among 8 or 6 \(like say if L1 is) N
+(positioned at 8 then L2 should be at 6 and the otherway round\) . Similarly W1) N
+(should be placed at 2 or 4 . And W2 should be at the positon where W1 is not\() N
+(Again like if say W1 has been placed at 2 then W2 should be at 4\). Now in how) N
+(many hops of plane traversal will u do this exchange of places . It is simply) N
+(like L1 & L2 exchanging positions with W1 & W2 .) N
+() N
+(I think have written all the Q's ) N
+(===============================================================================) N
+() N
+(Anyone going for the interview please go through the book "How to solve it by) N
+(Computer" . It is a very nice book . And also u should be prepared for writing) N
+(code for any given prob.) N
+() N
+(===============================================================================) N
+(Dinesh) N
+(--) N
+(X 1.*Given a rectangular \(cuboidal for the puritans\) cake with a rectangular) N
+(     piece removed \(any size or orientation\), how would you cut the remainder) N
+(     of the cake into two equal halves with one straight cut of a knife ?) N
+( ) N
+(  2. You're given an array containing both positive and negative integers and) N
+(     required to find the subarray with the largest sum \(O\(N\) a la KBL\).) N
+(     Write a routine in C for the above.) N
+( ) N
+(X 3.*Given an array of size N in which every number is between 1 and N,) N
+(     determine if there are any duplicates in it.  You are allowed to destroy) N
+(     the array if you like. [ I ended up giving about 4 or 5 different solutions) N
+(     for this, each supposedly better than the others ].) N
+( ) N
+(  4. Write a routine to draw a circle \(x ** 2 + y ** 2 = r ** 2\) without making) N
+(     use of any floating point computations at all.  [ This one had me stuck for) N
+(     quite some time and I first gave a solution that did have floating point) N
+(     computations ].) N
+( ) N
+(X 5. Given only putchar \(no sprintf, itoa, etc.\) write a routine putlong that) N
+(     prints out an unsigned long in decimal.  [ I gave the obvious solution of) N
+(     taking % 10 and / 10, which gives us the decimal value in reverse order.) N
+(     This requires an array since we need to print it out in the correct order.) N
+(MS.Pvrao) (Page 2/8) (Jan 22, 01 1:18) title
+border
+grestore
+(Printed by Mallavarapu Srihari) rhead
+(MS.Pvrao) (1/4) (Monday January 22, 2001) footer
+end % of iso1dict
+pagesave restore
+showpage
+%%Page: (3-4) 2
+%%BeginPageSetup
+/pagesave save def
+sh 0 translate 90 rotate
+%%EndPageSetup
+iso1dict begin
+gsave
+llx lly 12 add translate
+/v 0 store
+/x0 x v get 3.362408 add sx cw mul add store
+/y0 y v get bfs th add sub store
+x0 y0 moveto
+(     The interviewer wasn't too pleased and asked me to give a solution which) p n
+(     didn't need the array ].) N
+( ) N
+(X 6.*Give a one-line C expression to test whether a number is a power of) N
+(     2. [No loops allowed - it's a simple test.]) N
+( ) N
+(X 7.*Given an array of characters which form a sentence of words, give an) N
+(     efficient algorithm to reverse the order of the words \(not characters\)) N
+(     in it.) N
+( ) N
+(X 8.*How many points are there on the globe where by walking one mile south,) N
+(     one mile east and one mile north you reach the place where you started.) N
+( ) N
+(X 9.*Give a very good method to count the number of ones in a 32 bit number.) N
+(     \(caution: looping through testing each bit is not a solution\).) N
+() N
+(  10. What are the different ways to say, the value of x can be either a 0) N
+(      or a 1. Apparently the if then else solution has a jump when written) N
+(      out in assembly.) N
+( ) S 8 T (if \(x == 0\)) N
+( ) S 8 T () S 16 T (y=0) N
+( ) S 8 T (else) N
+( ) S 8 T () S 16 T (y =x) N
+( ) S 8 T (There is a logical, arithmetic and a datastructure soln to the above) N
+( ) S 8 T (problem.) N
+() N
+() N
+(These are some of the questions asked me in Microsoft) N
+( Hyd Interview......fortunatly I did all of them..) N
+() N
+(X 1\)Asked me to reverse the given n-bit unsigned integer?) N
+(        I mean if 1011 is the i/p then o/p=1101) N
+(        Time copmlexity should be as small as possible...try it out...) N
+() N
+() N
+(X 2\)Given 10 points, Asked me to arrange those 10 points so that) N
+(   I have to draw five straight lines and each straight line should) N
+(   have 4-points) N
+() N
+() N
+(X 3\)Asked me to write Open Hashing code with doubly linked list...) N
+() N
+(X 4\)To see my coding style Asked me to write linked list reversal program) N
+() N
+( 5\)Asked me About My Project...\(about 1hour\)) N
+() N
+( 6\)Given an Array of integers as the input asked me to find out) N
+(   smallest subset of the array such that the sum of the all the elements) N
+(   of that subset array should be maximum...in all the subsets...) N
+() N
+() N
+(X7\)To Give design aspects of writting a software for a car which will) N
+(    be driven by the blind people..) N
+() N
+(X 8\)Given a character array which has one word asked me to reverse that word.) N
+() N
+(X 9\)Given a character array which has "x" no of words, asked me to reverse them) N
+() N
+( 10\)Asked me to write all the test cases for the above...) N
+() N
+(X 11\)A Desert has 1000KM legnth, A Camel and 3000 bananas are there at one end) N
+(    problem is you have to get as many bananas as possible to the other end) N
+(MS.Pvrao) (Page 3/8) (Jan 22, 01 1:18) title
+border
+/v 1 store
+/x0 x v get 3.362408 add sx cw mul add store
+/y0 y v get bfs th add sub store
+x0 y0 moveto
+(    by that camel...) p n
+() N
+(    camel constraints...) N
+(       1\) It will eat 1 banana for each kilometer even if it) N
+(       is not carrying any bananas\(i.e it needs on banana) N
+(                                    for just to walk 1km\)) N
+(       2\) It cannot carry more than 1000 bananas.) N
+() N
+( 12\) Given a two dimensional array of size mxn, Problem is to take each) N
+(     and every cell, as there are 8 directions to travel from that cell) N
+(     one right, two left, three up, four down, other four are through) N
+(     four diagnols. except at the boundaries\(< 8 directions\)..) N
+(     Asked me to print all ths words ?) N
+() N
+( 13\) Asked me to write all the different test cases for the above....) N
+() N
+( 14\) One function which was written by somebody else? that function spec) N
+(     says the following.....) N
+() N
+(     takes a two dimensional array as the input which has "N" no of words) N
+(     and "M" no of non-words...) N
+(     that function returns the no of words.) N
+() N
+(     given two cases of inputs...) N
+(                1\) array has 32words and 32 non words]) N
+(                2\) array has 30 wrods and 34 non words) N
+() N
+(     out of these two which case is better and why?) N
+() N
+(  15\) Given the Robo which has PC interface via the following 3 functions) N
+() N
+(        1\) bool is_ther_any_step\(bool\);) N
+(                sees any step above if the argument is true and returns true) N
+(                        if step exists above ti it.) N
+(                sees any step below to it if the argument is false and returns) N
+(                        appropriately..) N
+() N
+(        2\) goto_next_step\(bool \)) N
+(                Goes to next upper step if the argument is true) N
+(                if the argument is true and no above step then robo gets damaged) N
+() N
+(                Goes to down step if the argument is false...) N
+() N
+(        3\) Clean_floor\(\)...) N
+(                cleans that step by pouring water,cleaning and drying..) N
+() N
+(   Asked me to write the program to clean a stair case in any building...) N
+() N
+(   Please think and write....tricky problem) N
+() N
+(-------------------------------------------------------------------------------) N
+() N
+(   I did not remembered the other Questions...) N
+(Dear Friends,) N
+() N
+(Here is are some of the sample puzzles.) N
+() N
+(*1. Given two cubes, how will you represent all the dates in a month) N
+(by using numbers 0 to 9?) N
+(You can exchange the cubes and rotate them as you wish!!!) N
+(*2. Wife drives down to a meeting point everyday,and reaches this point) N
+( at 5.00pm to pick up her husband. Assuming it takes 3 hours reach home driving) N
+(MS.Pvrao) (Page 4/8) (Jan 22, 01 1:18) title
+border
+grestore
+(Printed by Mallavarapu Srihari) rhead
+(MS.Pvrao) (2/4) (Monday January 22, 2001) footer
+end % of iso1dict
+pagesave restore
+showpage
+%%Page: (5-6) 3
+%%BeginPageSetup
+/pagesave save def
+sh 0 translate 90 rotate
+%%EndPageSetup
+iso1dict begin
+gsave
+llx lly 12 add translate
+/v 0 store
+/x0 x v get 3.362408 add sx cw mul add store
+/y0 y v get bfs th add sub store
+x0 y0 moveto
+(back.) p n
+(One day, husband reaches this point at 4.00pm and decides take a walk towards) N
+(home.) N
+(Somewhere on the way, his wife picks him up and reach home at 7.50pm.) N
+(At what time, his wife would have met her husband?) N
+() N
+(*3.A camel has to carry 3,000 bananas across a 1,000 mile dessert. There are two) N
+(conditions:) N
+() N
+(a. The camel can only carry 1,000 bananas at a time.) N
+() N
+(b. The camel eats one banana for each mile he travels.) N
+() N
+(What is the maximum number of bananas that will reach the other side of the) N
+(desert?) N
+() N
+(I will send you some more. Meanwhile, please visit some of the sites which) N
+(Contains puzzles and try solving them. Please do not look for answers!!!!) N
+(Unless it is really hard...) N
+() N
+(Happy preparation.) N
+() N
+(Regards) N
+(Ganesh) N
+() N
+() N
+() N
+(1.* Delete loops in a linked list.) N
+(\(two runners on a track meet at some point if they have different speeds :\)) N
+() N
+(2.* how do you efficiently return nth element from the end of the ) N
+(  linked list.\(constant space and linear time\)) N
+(3.* How do you revesre a sinlgy linked list in linear time and constant space?) N
+(  \(with out stacks or recursion\).write code for this.) N
+(4.*   if\(x & x-1\)) N
+() S 8 T (do this) N
+(      else ) N
+() S 8 T (do that) N
+() N
+(if x is a positive natural number, when will I do this and when will I do ) N
+(  that??) N
+() N
+(5. write pseudo code for eliminating blank spaces before lines and empty ) N
+(   lines from a stream of text coming one character at a time into a modem.) N
+(   ... in linear time and constant space.) N
+() N
+(   some problem solving questions.) N
+(   arrange 10 objects in 5 rows of 4 items each) N
+() N
+(6.* if you are given two cubes and you were to represent all the days of the ) N
+(month using numbers on these cubes, what numbers will you put on them ) N
+(\(between 0 and 9 only\)) N
+() N
+(7. A rectangular island of 50x70 meters dimensions is surrounded by a water ) N
+(canal of 10 metres width.if you have two wooden planks each 7 meters ) N
+(in length, how will you enter the island without entering the water.) N
+() N
+(8. How do you write a filesystem replicator program? how do you maintain ) N
+(consistancy and how do you check the correectness of replicator program. ) N
+(How will the replicator program be modified if the duplicate file system ) N
+(is on a different machine?) N
+() N
+(MS.Pvrao) (Page 5/8) (Jan 22, 01 1:18) title
+border
+/v 1 store
+/x0 x v get 3.362408 add sx cw mul add store
+/y0 y v get bfs th add sub store
+x0 y0 moveto
+(some basic c++ fundas and stuff.) p n
+() N
+(I will send you a few more questions soon. These questions, I gathered from ) N
+(other guys being interviewed.) N
+() N
+(-----------------------------) N
+() N
+(o*You are given a sorted array with duplicate elements. Remove the) N
+(  duplicates in linear time, constant space, and return a count of the) N
+(  number of elements left.) N
+() N
+() N
+(o* You are given a linked list. Find out if it is circular in linear) N
+(  time and constant space.) N
+() N
+(o There is an unsorted array of positive and negative integers. Find) N
+(  the subarray that adds up to the largest sum \(in linear time,) N
+(  constant space\).) N
+() N
+(o*There is an unsorted array of n integers, each between 1 and) N
+(  n-1. Hence, there must be at least one duplicate. Find one in linear) N
+(  time, constant space.) N
+() N
+(o Given a string of characters, break it up into lines, and return an) N
+(  array of pointers to the beginnings of the lines. No more than 80) N
+(  chars per line, words shouldn't be broken, the array may have) N
+(  explicit newlines which must be respected, etc.) N
+() N
+(o*Given a pointer to a node in a linked list, how do you delete that) N
+(  node? ) N
+() N
+(o*How do you multiply an integer by 3.5 without using floating) N
+(   point operations?) N
+() N
+(o There are a number of disk blocks in a file system. If a file) N
+(   is too big for a disk block, the block has a pointer to the) N
+(   next block. So basically, you have linked lists of blocks.) N
+(   Identify all blocks that are first blocks \(or heads of the ) N
+(   linked lists\). ) N
+() N
+(o What is Lamport's algorithm for clock synchronization?) N
+() N
+(o Write a hash class. The user should be allowed to do operations) N
+(   like h.insert\(x\), where h is a hash object, and x is something) N
+(   that must be put in a hash table. Its type could be anything:) N
+(   int, float, string, etc.) N
+() N
+(o Write a string class. Overload the type cast operator. Do) N
+(   reference counting in the destructor. ) N
+() N
+() N
+(o*Write an efficient program to find the sum of a polynomial.) N
+( S = a_0 x^0 + a_1 x^1 + ...........+ a_n x^n.) N
+() N
+(o Write a Queue template class.) N
+() N
+(o Write a Queue class in which each record has only one field\(say an id\) and) N
+(the queue has about a million elements.) N
+(\(they expect you to implement a circular list of arrays!\)) N
+() N
+(o* A stream of characters is given to you. It has a mixture of two kinds of) N
+(characters.) N
+(MS.Pvrao) (Page 6/8) (Jan 22, 01 1:18) title
+border
+grestore
+(Printed by Mallavarapu Srihari) rhead
+(MS.Pvrao) (3/4) (Monday January 22, 2001) footer
+end % of iso1dict
+pagesave restore
+showpage
+%%Page: (7-8) 4
+%%BeginPageSetup
+/pagesave save def
+sh 0 translate 90 rotate
+%%EndPageSetup
+iso1dict begin
+gsave
+llx lly 12 add translate
+/v 0 store
+/x0 x v get 3.362408 add sx cw mul add store
+/y0 y v get bfs th add sub store
+x0 y0 moveto
+(ASCII -  which is a byte long with the Most sig bit 0.) p n
+(JAPANESE - which is two bytes and has the MSB in the higher byte set.) N
+() N
+(Given a stream, ) N
+(Implement a backspace function which will erase one or two bytes based) N
+(on whether it is ASCII or JAPANESE.) N
+() N
+() N
+(o* They might ask you to present any of your projects. It might be a good) N
+(idea to have a one page summary of your project with a good diagram.) N
+() N
+() N
+(o* Every time you write a piece of code they expect you to consider ALL ) N
+(boundary cases and might ask you to test your program yourself.) N
+() N
+(o*Program to invert the bits in an integer.) N
+() N
+(o* PRogram to invert a linked list.) N
+() N
+(o* GIven a string which has a mixture of carriage returns \(ENTER CR\) and) N
+(returns\( ENTER \) in an arbitrary string replace all carriage returns) N
+(with returns.) N
+() N
+(abcde ENTER CR ENTER ENTER qqq ENTER CR ) N
+() N
+(becomes ) N
+() N
+(abcde ENTER ENTER ENTER qqq ENTER) N
+() N
+() N
+(o They ask questions about polymorphism, virtual functions, dynamic binding,) N
+(and other C++ concepts.) N
+() N
+() N
+() N
+(These were the questions they asked me in the campus -) N
+() N
+() N
+(1st interview) N
+(-------------) N
+() N
+(  1\) Find the least common ancestor in a binary tree, given any two nodes) N
+(  of the tree.) N
+() N
+(  2\)* Write code to remove duplicates in a sorted array) N
+() N
+(  3\) What are the different test cases for the previous program) N
+() N
+(  4\)* You have a 7 kg gold bar. You have to give 1kg of gold to a person ) N
+(  working under you. But you are allowed to cut the gold bar only twice.) N
+(  How do you do this?) N
+() N
+() N
+(2nd interview) N
+(-------------) N
+() N
+(   1\)* You have a register \( say 8 bit one\). All writes to the register go ) N
+(   through a filter, which is actually a mask. So the write happens only ) N
+(   in the bits of the register only if the corresponding bit in the mask) N
+(   is a 1. Otherwise, the register retains its old contents. The reads to ) N
+(   the register are straight forward. It returns the contents of the register.) N
+(   Now, find the contents of the Mask.) N
+(MS.Pvrao) (Page 7/8) (Jan 22, 01 1:18) title
+border
+/v 1 store
+/x0 x v get 3.362408 add sx cw mul add store
+/y0 y v get bfs th add sub store
+x0 y0 moveto
+() p n
+(   2\)* Find whether a number is a power of two or not \(in a single instn,) N
+(   no loop \).) N
+() N
+(   3\) Write a function in C to convert a int number into a string.) N
+(   You have to consider both the positive and negative numbers.) N
+(   Again what are the test cases for the previous program.) N
+() N
+(   4\) You have a big screen array containing pixel values at each points.) N
+(   You want to implement cut and paste functionality, of a rectangular ) N
+(   sub-block from one place to other inside this big block.) N
+(   How do you go about implementing such a function?) N
+(   He wanted me to start from the prototype of such a function,) N
+(   necessary parameters, analyse all the conditions, ) N
+(   And how to classify into different categories, and what shud) N
+(   be done in the final code.) N
+() N
+(   5\) Difference b/n semaphore, mutex and critical section.) N
+() N
+(   6\) Another design question. Using OO and C++ concepts.) N
+(   Design a window interface, with tha class, member and method descriptions) N
+(   and the interacions b/n different classes.) N
+(   The Window interface has Menu, list box, combo box and such thins, and each) N
+(   of them has one or more text patters, with color and fonts associated with) N
+(   it along with other properties like size etc. Also there can be container ) N
+(   classes, which can contain one or more of the basic classes and/or other) N
+(   container class itself. Finally, there is different sorts of layouts that ) N
+(   can be done as in html, ranging from simple sequential layout, or ) N
+(   North-South-East-West layout etc.) N
+() N
+(   7\) Still with OO, Can the destructor be virtual? if yes, what is its use.) N
+() N
+(3rd interview) N
+(-------------) N
+() N
+(   1\) You have a machine which can do only multiply by 2, divide by 2 and ) N
+(   Addition of 2 numbers. Write a detailed algorithm to multiply any two ) N
+(   numbers, in this kind of a machine.) N
+() N
+(   2\)* You have a character sets containing 1 byte \( say ascii \) character and) N
+(   2 byte \( say japanese \) character. The ascii character can be ) N
+(   identified by the fact that it has MSB 0. The japanese character ) N
+(   has MSB 1 and spans across 2 bytes. Now you have a string containing both) N
+(   ascii and japanese characters, and a pointer to a character, somewhere in ) N
+(   middle of the string is given, Write a comple code to remove the character ) N
+(   just before the given pointer \( that character may be either japanese or) N
+(   ascii \). You are also given the start of the string and the string is ) N
+(   null terminated.) N
+() N
+(MS.Pvrao) (Page 8/8) (Jan 22, 01 1:18) title
+border
+grestore
+(Printed by Mallavarapu Srihari) rhead
+(MS.Pvrao) (4/4) (Monday January 22, 2001) footer
+end % of iso1dict
+pagesave restore
+showpage
+
+%%Trailer
+end
+%%EOF

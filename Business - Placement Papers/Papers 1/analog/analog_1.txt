@@ -1,0 +1,65 @@
+Here is ADI full paper............
+ 
+Ist part Analytical Questions (All subjective)   5 Q   45 min 
+1) One number of five digit is given if we append 9 before the number
+ it will become 4 times when append 9 at end . WHAT  IS NUMBER?
+2) 6 MONKS  6 cannible( can eat monks if C> M any time 
+any where) One boat . boat can sustain at most 3 persons. Trivial 
+question....
+3) Two inputs in a block are going (N1 and N2) two outputs (Max and 
+min of that). If U have 4 numbers than how u use this as a building
+ block to sort 4 numbers.
+4) Two men B1 and B2 and two women G1 and G2 are their. One is killed
+ who is victim we have to find this.....with given condition...........
+Cond1) B1's  sister argues G1's husband after killing. Condn two 
+sister argues twice with Victim's spouse after killing.
+5) A to E five persons are their. 100 rs to be distributed some cond 
+given U have to find how A will get max profit tough question carries
+ 8 marks...
+
+Technical Part contains 50 marks  time 1 hour 
+1st part match the following.
+Questions 10 all basics topics........ 
+1) static (wrt dynamic circuits)
+2) Electromigration
+3) Hot electron
+4) Tr in Saturation
+5) Latch-up
+6) Seq. Ckt.
+7) CLM
+8) FIR filter.
+9) ...
+10) ...
+2nd part contains 15 question all subjective drawing circuits simple 
+all are from moris mano very-very easy so U have to score high..........(Objective)
+1) Dynamic circuits.......with feedback   called HALF LATCH.
+2) inv with PMOS and NMOS exchanged 
+3) which circuit is having smallest fall delay . options 1) NAND both
+ input connected 2) NOR  both input connected 3) NAND with one input
+ at VDD  4) nor with one input at GND
+4) question on microprocessor
+6) question on DMA
+7) Network simple question on charge sharing
+8) Implement following statement with logic gates  if(a==b) {y=p} else{y=q}
+9) One complicated ckt with two inputs and one output and VDD and 
+no GND and is XNOR.
+10) Current mirror simple question current is I2 = 2I1 answer.
+11) NAND and NOR equivalent to the inverter with same rise and
+fall time.
+
+3rd section............... 10 question more marks ..........
+1) Layout routing
+2) Capacitance from layout
+3) Fringing and area capacitance calculation
+4) Sheet resistance is given u have to calculate total resistance.
+5) Microprocessor question with 3-stage pipeline instruction. 
+Easy question
+6) Simple circuit with glitch in that how to remove it and draw 
+the waveforms. K map has given.
+7) Implemet ckt with AND/OR/INV .
+Other questions were easy Best of luck to all of U. 
+
+Interviews were based on projects and some simple digital ckts....................
+Some device physics band banding and how capacitance varies with High and low frequency. 
+Basics of microe or VLSI.
+

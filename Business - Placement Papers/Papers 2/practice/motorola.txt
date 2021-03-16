@@ -1,0 +1,109 @@
+this is motorola paper held in ISI on 13th august.
+
+this consists of full analytical 
+section 1:22 questions-quant
+section 2:11 questions-anal-2paras
+section 3:13 question-logical & anal
+
+time : 45min
+
+i didn't remember all questions.i am sending some questions
+
+
+section 1&3:
+
+1.out of 1800 coins one is lighter than others and in howmany attempts u
+  can find that odd one?
+  ans:7
+2.1,2,3,5,8,?
+  ans:13
+3.out of 52 cards two r drawn consecutively.what is the probabaility to
+  get black king&black queen?
+  ans:2/663
+4.out of 60 students int the class 100 passed in hindi,55 in social,65 in
+  english.what is the maximum number of students who passed in exactly two
+  subjects
+  a)65 b)55 c)100 d)45
+5.6 7  19
+  4 ?   9
+  9 4  13
+  ans:1
+6.h i n d  find the odd man out?
+  ans:i
+7.word1:word2
+  motorola:?
+8.one more question like this.
+9.6    1    2     7
+    12   17    ? 
+  2    3    11    1
+  ans:21 (data may be different.
+10.in a program one part has O(n)complexity and one part has O(n*n)
+    complexity and rest has O(n**4)complexity.find the overall complextiy.
+   ans:O(n**4)
+11.question on floors in buldibg.srinivas lives 3 floors above ramu,who 
+   lives 7 floors above.....
+   how many floors r there in the building.
+   ans :11
+12.for(i=0;i<m;i++) what is the expression to access the array from last
+   element? 
+   ans:a[m-i+1]
+13.1,7,17,31,?,71
+   ans:49
+  (3-4 questions on this type)
+14.how many words are to be formed (given five letter word like SPELL).
+   ans:60
+15.on an article the rate has decreased by 10% and tax has increased by
+   10%.what is the rate of the article.
+16.6 vertices and 6 sides.how many edges?
+   ans:9
+17.a right angle traingle is inside  a cirle  with radius 'r'.what is the
+   length of the hypotenous?
+   ans:2r.
+18.there are two kind of professonal in a company s/w and personal.if the
+   personal are 15% of the total.a party is going.in a party if 50% of the
+   total professonal left and all are s/w then what is the ratio of the
+   s/w professonal left and to total software professonal
+   ans:10/17 
+19.there are 6 balls.
+   green should be in the edge.
+   orange is the middle of white and yellow.
+   violet should not be in the egde.
+   pink is a ball.
+   ....
+  ans:g w o y v p
+20. +>(  -<(
+    ->)   ?
+    ans:+<)
+21.in a city each pair have 3 children each.what is the probability that 
+   the pair have 2 boys and 1 girl.
+   102 204 110 220 137 ?
+   ans:256
+
+
+
+section 2:
+
+1.  a man has to take two types of drinks and 3 types of food items for
+his breakfast dialy.he has to choose two from three drinks orange
+juice,coffee,demon.he has to choose three from five food items p q r s t
+u.
+ 
+ he cannot take coffee and demon.
+ doctor asks to take s and p.
+ ............
+
+ some more conditions and asked 5 questions.
+
+2. there are 3 sisters and 3 bothers.
+   one sister knows dancing.
+   ...
+   dancing sister lives in calcutta.
+   madan marry fair sister.
+   fair sister lives in delhi.
+  .....
+  ....
+
+   
+    some 10 conditions are given and 6 questions.
+
+check these passages in IMS books.

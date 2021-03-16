@@ -1,0 +1,127 @@
+PCS(patni computer systems)
+
+and patni wil give eligibilty for all
+****************
+PCS
+****************          
+1.In a school  there are 4 teachers for maths, 3 teachers for chemistry
+and 3
+teachers for physics, each teacher can take two subjects,so how many,
+minimum
+no. of  teacher should be there in school
+ans :6
+2. minimum no. of weights that are required to weigh, weights between
+integer
+1 to 40 kg.
+ans: 5(check it) refer sakuntala devi
+3. u are walking on the platform at a speed of 8 km/hr. a train away
+u in 8
+seconds come behind from. the length of the train is 330 metres. what
+is the
+speed of the train.
+ans: 44km/hr
+4. the sequence in which the cpu is executing the programs.
+i. read instruction from the memory,
+ii.decoding the instruction
+iii. read the operands from the instruction
+iv. performing the operands
+v. storing the results.
+5. in which way the following XXX CANNOT t be substituted in the program.
+int i,scores[5];
+scanf ("%d",XXX);
+i. scores[i]
+ii. &scores[i]
+iii. scores+i;
+iv. all the above.
+ans :i
+6. what is the output of :
+    int i;
+    for(i=0;i<=2;i++)
+{
+switch(i)
+{
+case1: printf("%d",i);
+case 2: printf("%d",i);
+default: printf("%d",i);
+}
+}
+ans: 011122
+7.#include<stdio.h>
+#include<conio.h>
+main()
+{
+int i,j,k;
+clrscr();
+i=2;j=1;k=0;
+if((i<0)&&(j<i)&&(k=2))
+    printf("\n%d",k);
+else
+    printf("0");
+if((i>2)||(i>1)||(k=1))
+    printf("\n%d",k);
+else
+    printf("1");
+getch();
+}
+8.#include<stdio.h>
+#include<conio.h>
+main()
+{
+int a[4],i=0;
+clrscr();
+for(i=0;i<5;i++)
+scanf("%d",a[i]);
+for(i=0;i<5;i++)
+printf("\n%d",a[i]);
+getch();
+}
+9.#include<stdio.h>
+#include<conio.h>
+main()
+{
+int a[4],i=0;
+clrscr();
+for(i=0;i<5;i++)
+scanf("%d",a[i]);
+for(i=0;i<5;i++)
+printf("\n%d",a[i]);
+getch();
+}
+10. Function for palindrome is given. It is a recursive function. the
+function
+call inside the function is required.
+Ans: pal(t++,f--)
+11. A venn diagram will be given. The equation of the shaded portion
+will be
+asked.
+Ans: C
+12. What is the binary equivalent of 0.6815 (not sure)
+Ans: 0.1011
+13.Corner squares of a chess board are removed and the squares inside
+are
+replaced with rectangles with length twice as the width. How many rectangles
+are required?
+Ans : 30
+14.What is the area of the largest rectangle which can be drawn inside
+a
+circle of radius 5 cm.
+Ans: 50 sq.cm
+15.What does *(*(array+2)+3) point.
+Ans: content of array[2][3]
+16.C program which has while loop and the output is asked. It counts
+the
+number of words in the given string (This is a line.)
+Ans: 11
+17.There are 4 consonents and 3 vowels. How many 6 letter words can be
+made
+from, these letters which have atleast 1 vowel?
+Ans: 5040
+18.a(cube)*b(square)=72; a+b=?
+Ans: 5
+19. A sphere of 3 cm radius is moulded as a cube. What is the ratio of
+the
+cube of the surface area of the sphere to the cube of the surface area
+of the
+cube?
+Ans: pi/6
+

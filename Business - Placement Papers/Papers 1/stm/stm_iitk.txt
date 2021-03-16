@@ -1,0 +1,150 @@
+
+this is STM paper......
+
+
+>> i'll use ot as notation for multiple choice,
+>> i m not writing the choices-
+>>
+>> 1. in a VCO,the capacitance is varied by  using
+>__________.
+>>    ans:rev biased varactor diode.(ot)
+>>
+>> 2. a pnp trans. in active region has  _____________.
+>>   ans:b-e junction fwd biased & b-c rev biased.(ot)
+>>
+>> 3. in a nmos how is V-threshold affected by increasing
+>>    doping conc. of substrate ?(ot)
+>>    ans:increases
+>>
+>> 4. condition for sustained oscillations in a osc.
+>is___.
+>>    ans:A=1 & phase shift = n*pi.(ot)
+>>
+>> 5. if  A?B=C and C?A=B then what is the boolean
+>operator ?
+>>    ans:xor (ot)
+>>
+>> 6. clk is given with some period T to a logic gate.
+>>    the same clk is again fed to the gate via a delay
+>>    element with a delay of T/4 duration.if the gate
+>>    acts as a freq.doubler then identify the gate.
+>>    ans:xor (ot)
+>>
+>> 7. define the setup time & hold time in a f/f.
+>>
+>> 8. given a D f/f ,construct a T f/f from it.
+ans- D=T XOR Q
+>> 9. the following ckt(LADDER) with each resistance
+>equal
+>>    to R(=10 OHMS) is given,find the value of
+>resistance
+>>    between A & B
+>>
+>>     A___________R_________R____
+>>   |          |        |
+>>           R          R        R
+>>           |          |        |
+>>     B___________R_________R____
+>>
+>>    ans:R<10 OHMS (ot)
+>>
+>> 10. in the given ckt,find the current in R1 resistor.
+>>     assuming a gnd somewhere(i don't remember
+>exactly!)
+
+>>
+>>     ____R=10____              _____R=10_____
+>>     |           |             |            |
+>>     |           |             |            |
+>>    +          R=5            R=10          +
+>>    V=10v        |             |           V=20v
+>>    -            |             |            -
+>>    |____________|_____R1=5____|____________|
+>>
+ANS- 0 amp
+>>
+>> 11. the BW of a communication channel is 10kbps,
+>>     what does this mean ?choices--
+>>     (a)the data rate can never exceed 10kbps
+>>     (b)can be doubled using level 4 modulation
+>>     (c)"   "    "        "     "   2    "
+>>
+i think ans is -b
+>> 12. given a 2:1 mux,how will u implement an AND & OR
+>gate ?
+>>
+>> 13. a triangular wave with equal excursions in +ve &
+>-ve direction
+>>     & with voltages marked V1 & V2 is given as input
+>to the
+>>     following clipper ckt. having 2
+>>     diodes ,find o/p.
+>>
+>>     _________R________________
+>>                 |        |
+>>                 +        -
+>>                 D        D
+>>                 -        +
+>>    Vin          |        |      Vo
+>>                 +        +
+>>                 V1       V2
+>>                 -        -
+>>     ____________|________|_____
+>>
+   here V1<V2
+>>
+>> 14. find vo in the given ckt when switches r closed
+>at t=0
+>>     all caps r of 1 farad,cap1 initially charged to
+>4v,cap2
+>>     to 3v & cap3 to 2v,vo is voltage across cap3
+>>
+>>     _________/________/_____________
+>>     |      |      |          |
+>>     V     CAP1   CAP2      CAP3    vo
+>>     |______|______|__________|______
+>>
+ANS- 3V
+>>
+>> 15. a trans. with Re resistor is given,hfe,hie values
+>r
+>>     given required to find i.p resistance . (ot)
+>>     ans:100k (not sure)
+>>
+>> 16. a ckt with 2 d f/f is given ,both have same clk,
+>>     o/p of 2nd f/f say d2 is inverted & fed back to
+>it.
+>>     the i/p to d1 comes by exoring d1's o/p with the
+>>     complemented o/p of d2,identify the ckts
+>operation.
+>>     ans:tHE CKT IS DOWN COUNTER(3,2,1,0)
+
+>> 17. a trans. ckt with npn ,Re & Rc is given ,Ic or Ib
+>>     is asked. (ot)
+ANS- OUTPUT VOLTAGE IS 4 VOLT
+>>
+>> 18. an instrumentation amplifier ckt with 2 op amps is
+>>     given,vin is a sine wave,o/p of upper op amp is v1
+>>     that of lower one is v2,& v3 is v1 connected to v2
+>>     wrt gnd.u'll be asked to draw waveforms for v1,v2
+>>     & v3 on the question paper itself.(6 marks)
+>>
+    V1=2Vin
+    V2=-Vin
+    V3=3Vin
+>> 19. an amp (block dig.) with a f/b which introduces
+>>     -45db attenuation is given,gain plot is given,u r
+>req.
+>>     to plot the phase plot & comment on stability of
+>the
+>>     system.(6 marks)
+   ANS- system is unstable
+>>
+20. which is constant current source
+ans- zener diode
+       two more questions were there.
+21.
+22.
+for innterview be prepared for the questions asked in written test.
+....there is seperate interview  for analog and digital.
+....then HR.

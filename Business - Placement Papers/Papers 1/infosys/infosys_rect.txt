@@ -1,0 +1,169 @@
+infy 2001: RECtrichy
+**********************
+1. A girl has a few eggs. When asked about the number
+of eggs, she
+says that
+if you divide it by 2, then the remainder is 1. If it
+is divided
+by 3,
+then the remainder is 2. If it is divided by 4, then
+the remainder
+is 3. If
+it is divided by 5, then the remainder is 4. What is
+the number of
+eggs ?
+
+
+ans : 59 or 119(take HCF and subtract 1) (3 marks)
+
+
+2. A painter paints the door numbers from 400,
+401...499. How many
+times he
+has to paint 4 ?
+
+
+ans : 120 (3 marks)
+
+
+3. Similar to q number 38 of puzzle to puzzle you by
+shakuntala devi.
+
+
+4. Three thieves, Tommy, Bobby &amp; Rocky were caught by
+the police.
+They say :
+"I didn't steal, the other two stole". People later
+found that
+Tommy was
+lying. Who was the thief ?
+
+
+ans : Tommy (3marks)
+
+
+5. In a theatre 11 persons go to sit on chairs which
+are numbered
+consecuti
+vely from 1 to 11. People are ! A,B,C...K. Condition
+is that first A
+can sit
+anywhere and then B sits adjacent to A. Then C can sit
+adjacent to
+A or B.
+In this way, 11 persons have to sit. In how many ways
+can they sit
+?
+
+
+ans : 2 to the power 10. (5 marks)
+
+
+6. There are 3 persons. A speaks truth only. B speaks
+lies only. C
+speaks
+truth or lies alternately, not necessarily in that
+order. They
+make the
+following 3 statements :
+i) it has three statements. (don't remember)
+ii) it has 2 statements.
+iii) it has 2 statements.
+Who has said which statement, respectively ?
+(5 marks)
+
+
+7. Three persons, A,B &amp; C are there. One is clerk,
+other cashier and
+the last
+is an accountant. Following conclusions are drawn :
+1) If C is cashier, then B is clerk.
+2) If C is clerk, then B is accountant.
+3) If B is not a cashier, then A is accountant.
+4) If ..... is ....., then ..... is ..... (don't
+remember)
+What are A, B and C ?
+((6 marks)
+
+
+! 8. One clock is back by 1 hour. A talks with B.
+B says : We meet 11 hours after the clock strikes for
+10 seconds
+duration.
+A asks : I hope the duration for each gap is 1 second.
+B says : Yes, that's true.
+When do they actually meet, if it is 10 O' clock now ?
+(6 marks)
+
+
+9. B &amp; C speak English.
+B, C, D speak Spanish.
+A, B, E speak French.
+C,E speak Italian.
+Three people speak Portuguese. Most common language is
+spanish.
+One person
+knows all 5 languages. One person knows 4. One person
+knows 3. One
+person 2.
+One person 1.
+Who speaks what ?
+(8 marks) ans:
+A :omly 3
+B: all 5
+c: only 4
+d: one only i.e. spanish
+e: only two
+(a,b,c speak portuguese)
+find out the rest for ur self
+
+
+10.The names of the inhabitants of Walkie Talkie Land
+sound strange
+to the visitors, and they find it difficult to
+pronounce them, due to
+their length and a few vowel sounds they contain.The
+Walkie Talkie
+guide is dis! cussing the names of four inhabitants
+-A,B,C and D. Their
+names each contain upto eight syllables, although none
+of the four
+names contain the same number. Two of the names
+contain novowel
+sounds; one contains one vowel sound; and one contains
+two
+vowel sounds.From the Guide's statements below,
+determine the number
+of syllables and vowel sounds in each of the four
+Walkie Talkie names
+
+
+i) The one whose name contains two vowel
+sounds is not A.
+ii) C's name does not contain more than one vowel
+sound or
+fewer than seven syllables.
+iii)The name with seven syllables does not contain
+exactly one
+vowel sound.
+iv) B and C do not have names with the same number of
+vowel
+sounds.
+v) Neither the name with five syllables nor the name
+with
+seven syllables contains more than one vowel sound.
+vi)Neither the name with six syllables, nor the B's
+name,
+contains two vowel sounds.
+( 8 Marks)
+ans: names syll vowels
+&amp;nbs! p; a 6 0
+b 5 1
+
+
+c 7 0
+
+
+d 8 2
+(check out the answer)
+

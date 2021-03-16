@@ -1,0 +1,444 @@
+ 
+Written Test 
+
+The written test is of two parts:
+
+Section A : Aptitude Test
+Section B : C Test
+
+The aptitude was a mixture of verbal, analytical and quantitative questions. It is based on a
+pattern similar to the GRE tests and questions found in R.S Agarwal
+
+The c section tests your knowlege in pointers and basic C concepts.
+
+ 
+
+
+ 
+
+APTITUDE SECTION
+
+Q1. Mr. Shah decided to walk down the escalator of a tube station. He found 
+       that if he walks down 26 steps, he requires 30 seconds to reach the bottom.
+       However, if he steps down 34 stairs he would only require 18 seconds to 
+       get to the bottom. If the time is measured from the moment the top step begins 
+       to descend to the time he steps off the last step at the bottom, find out 
+      the height of the stair way in steps?
+
+Ans.46 steps.
+
+ 
+
+Q2. The average age of 10 members of a committee is the same as it was 4 
+       years ago, because an old member has been replaced by a young member. Find 
+       how much younger is the new member ?
+
+Ans.40 years.
+
+ 
+
+Q3. Three containers A, B and C have volumes a, b, and c respectively; and
+       container A is full of water while the other two are empty. If from container
+       A water is poured into container B which becomes 1/3 full, and into 
+       container C which becomes 1/2 full, how much water is left in container A?
+
+ 
+
+Q4. ABCE is an isosceles trapezoid and ACDE is a rectangle. AB = 10 and EC = 20.
+       What is the length of AE?
+
+Ans. AE = 10.
+
+ 
+
+Q5. In the given figure, PA and PB are tangents to the circle at A and B respectively and
+       the chord BC is parallel to tangent PA. If AC = 6 cm, and length of the tangent AP
+       is 9 cm, then what is the length of the chord BC?
+
+Ans. BC  = 4 cm.
+
+ 
+
+Q6. Three cards are drawn at random from an ordinary pack of cards. Find 
+       the probability that they will consist of a king, a queen and an ace.
+
+Ans. 64/2210.
+
+ 
+
+Q7. A number of cats got together and decided to kill between them 999919 
+       mice. Every cat killed an equal number of mice. Each cat killed more mice 
+       than there were cats. How many cats do you think there were ?
+
+Ans. 991.
+
+ 
+
+Q8. If Log2 x - 5 Log x + 6 = 0, then what would the value / values of x 
+       be? 
+
+Ans. x = e2 or e3.
+
+ 
+
+Q9. The square of a two digit number is divided by half the number. After 
+       36 is added to the quotient, this sum is then divided by 2. The digits of the
+       resulting number are the same as those in the original number, but they 
+       are in reverse order. The ten's place of the original number is equal to twice 
+       the difference between its digits. What is the number?
+
+Ans. 46
+
+ 
+
+Q10. Can you tender a one rupee note in such a manner that there shall be 
+         total 50 coins but none of them would be 2 paise coins.?
+
+Ans. 45 one paisa coins, 2 five paise coins, 2 ten paise coins, and 1 twenty-five paise coins.
+
+ 
+
+Q11. A monkey starts climbing up a tree 20ft. tall. Each hour, it hops 3ft. 
+         and slips back 2ft. How much time would it take the monkey to reach the 
+         top?
+
+Ans.18 hours.
+
+ 
+
+Q12. What is the missing number in this series?
+          8 2 14 6 11 ? 14 6 18 12
+
+Ans. 9
+
+ 
+
+Q13. A certain type of mixture is prepared by mixing brand A at Rs.9 a kg. 
+         with brand B at Rs.4 a kg. If the mixture is worth Rs.7 a kg., how many 
+         kgs. of brand A are needed to make 40kgs. of the mixture?
+
+Ans. Brand A needed is 24kgs.
+
+ 
+
+Q14.  A wizard named Nepo says "I am only three times my son's age. My father 
+          is 40 years more than twice my age. Together the three of us are a mere 1240 
+          years old." How old is Nepo?
+
+Ans. 360 years old.
+
+ 
+
+Q15. One dog tells the other that there are two dogs in front of me. The 
+         other one also shouts that he too had two behind him. How many are they?
+
+Ans. Three.
+
+ 
+
+Q16.  A man ate 100 bananas in five days, each day eating 6 more than the 
+          previous day. How many bananas did he eat on the first day?
+
+Ans.  Eight.
+
+ 
+
+Q17. If it takes five minutes to boil one egg, how long will it take to boil 
+         four eggs? 
+
+Ans. Five minutes. 
+
+ 
+
+Q18.  The minute hand of a clock overtakes the hour hand at intervals of 64 
+          minutes of correct time. How much a day does the clock gain or lose?
+
+Ans.32 8/11 minutes.
+
+ 
+
+Q19.  Solve for x and y:
+          1/x - 1/y = 1/3, 1/x2 + 1/y2 = 5/9.
+
+Ans. x = 3/2 or -3 and y = 3 or -3/2.
+
+ 
+
+Q20. Daal is now being sold at Rs. 20 a kg. During last month its rate was 
+         Rs. 16 per kg. By how much percent should a family reduce its consumption so 
+         as to keep the expenditure fixed? 
+
+Ans. 20 %.
+
+ 
+
+Q21. Find the least value of 3x + 4y if x2y3 = 6. 
+
+Ans. 10.
+
+ 
+
+Q23. Can you find out what day of the week was January 12, 1979?
+
+Ans. Friday.
+
+ 
+
+Q24. A garrison of 3300 men has provisions for 32 days, when given at a rate 
+         of 850 grams per head. At the end of 7 days a reinforcement arrives and it was 
+         found that now the provisions will last 8 days less, when given at the rate 
+         of 825 grams per head. How, many more men can it feed?
+
+Ans. 1700 men.
+
+ 
+
+Q25. From 5 different green balls, four different blue balls and three 
+         different red balls, how many combinations of balls can be chosen taking at least 
+          one green and one blue ball?
+
+Ans. 3720.
+
+ 
+
+Q26. Three pipes, A, B, & C are attached to a tank. A & B can fill it in 20 
+         & 30 minutes respectively while C can empty it in 15 minutes. If A, B & C 
+         are kept open successively for 1 minute each, how soon will the tank be filled?
+
+Ans.  167 minutes.
+
+ 
+
+Q27.  A person walking 5/6 of his usual rate is 40 minutes late. What is his 
+          usual time? 
+
+Ans. 3 hours 20 minutes.
+
+ 
+
+TECHNICAL SECTION
+
+ 
+
+Q1. typedef struct{
+                             char *;
+                             nodeptr next;
+                             } * nodeptr ;
+
+    What does nodeptr stand for?
+
+ 
+
+Q2.   What does. int *x[](); means ?
+
+ 
+
+Q3.     struct list{
+                          int x;
+                          struct list *next;
+                          }*head;
+        the struct head.x =100
+        Is the above assignment to pointer is correct or wrong ?
+
+Ans. Wrong
+
+
+Q4.What is the output of the following  ?
+        int i;
+        i=1;
+        i=i+2*i++;
+        printf(%d,i);
+
+Ans.  4
+
+
+Q5.      FILE *fp1,*fp2;
+            fp1=fopen("one","w")
+            fp2=fopen("one","w")
+            fputc('A',fp1)
+            fputc('B',fp2)
+            fclose(fp1)
+            fclose(fp2)}
+a.error b. c. d.
+
+Ans. no error. But It will over writes on same file.
+
+
+ What are  the output(s) for the following  ?
+
+
+Q6.    #include<malloc.h>
+         char *f()
+         {char *s=malloc(8);
+         strcpy(s,"goodbye")}
+         main()
+                    {
+                        char *f();
+                        printf("%c",*f()='A');
+                     }
+
+ 
+
+Q7.     #define MAN(x,y) (x)>(y)?(x):(y)
+                    {
+                        int i=10;j=5;k=0;
+                        k= MAX(i++,++j)
+                        printf(%d %d %d %d,i,j,k)
+                    }
+
+Ans. 10 5 0
+
+ 
+
+Q8.     a=10;b=5; c=3;d=3;
+           if(a<b)&&(c=d++)
+           printf(%d %d %d %d a,b,c,d)
+           else printf("%d %d %d %d a,b,c,d);
+
+ 
+
+Q9.          #include<stdarg.h>    
+                show(int t,va_list ptr1)
+                        {    
+                            int a,x,i;
+                            a=va_arg(ptr1,int)
+                            printf("\n %d",a)
+                        }
+                display(char) 
+                       { 
+                            int x;
+                            listptr;
+                            va_star(otr,s);
+                            n=va_arg(ptr,int);
+                            show(x,ptr);
+                        }
+               main()
+                       {
+                            display("hello",4,12,13,14,44);
+                       }
+
+ 
+
+Q10.    main()
+                   {
+                    printf("hello");
+                    fork();
+                    }    
+
+ 
+
+Q11.        main()
+                    {
+                      int i = 10;
+                      printf(" %d %d %d \n", ++i, i++, ++i);
+                    }
+
+ 
+
+Q12.      #include<stdio.h>
+              main()
+                    {
+                      int *p, *c, i;
+                      i = 5;
+                      p = (int*) (malloc(sizeof(i)));
+                      printf("\n%d",*p);
+                      *p = 10;
+                      printf("\n%d %d",i,*p);
+                      c = (int*) calloc(2);
+                      printf("\n%d\n",*c);
+                    }
+
+ 
+
+Q13.     #define MAX(x,y) (x) >(y)?(x):(y)
+            main()
+                {
+                    int i=10,j=5,k=0;
+                    k= MAX(i++,++j); 
+                    printf("%d..%d..%d",i,j,k);
+                }
+
+ 
+
+Q14.        #include <stdio.h>
+                main()
+                    {
+                        enum _tag{ left=10, right, front=100, back};
+                        printf("left is %d, right is %d, front is %d, back is %d",left,right,front,back);
+                    }
+
+ 
+
+Q15.     main()
+                {
+                    int a=10,b=20;
+                    a>=5?b=100:b=200;
+                    printf("%d\n",b);
+                } 
+
+ 
+
+Q16.    #define PRINT(int) printf("int = %d ",int)
+            main()
+                {
+                    int x,y,z;
+                    x=03;y=02;z=01;
+                    PRINT(x^x);
+                    z<<=3;PRINT(x);
+                    y>>=3;PRINT(y);
+                }
+
+ 
+
+Q17.    #include<stdio.h>
+            main()
+                {
+                    char s[] = "Bouquets and Brickbats";
+                    printf("\n%c, ",*(&s[2]));
+                    printf("%s, ",s+5); 
+                    printf("\n%s",s);
+                    printf("\n%c",*(s+2));
+                }
+
+ 
+
+Q18.    main()
+             {
+                 struct s1
+                      {
+                        char *str;
+                         struct s1 *ptr;
+                       };
+                static struct s1 arr[] = { {"Hyderabad",arr+1},
+                {"Bangalore",arr+2},
+                {"Delhi",arr}
+                };
+            struct s1 *p[3];
+            int i; 
+            for(i=0;i<=2;i++)
+            p[i] = arr[i].ptr;
+
+            printf("%s\n",(*p)->str);
+            printf("%s\n",(++*p)->str);
+            printf("%s\n",((*p)++)->str);
+            }
+
+ 
+
+Q19. .main()
+            {
+                char *p = "hello world!";
+                p[0] = 'H'; 
+                printf("%s",p);
+             }
+
+------------------------------------------------------------------
+Interview 
+----------
+
+ The interview is basically a technical inteview with stress on C again.  Programs can be
+given on the spot such as reversal of a string implemented using data structures (like nodes)
+to test your knowledge and understanding of C concepts. Also questions on DBMS, OS and
+Data Structures can be asked. For further details please take a look at our Interview section.
+
+

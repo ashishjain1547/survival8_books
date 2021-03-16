@@ -1,0 +1,362 @@
+                        Infosys
+
+                        --------
+
+
+
+1) There are two balls touching each other circumferencically.
+
+The radius of the big ball is 4 times the diameter of the small
+
+ball.The outer small ball rotates in anticlockwise direction
+
+circumferencically over the bigger one at the rate of 16 rev/sec.
+
+The bigger wheel also rotates anticlockwise at Nrev/sec. what is
+
+'N' for the horizontal line from the centre of small wheel always
+
+is horizontal.
+
+2)     1 2 3 4
+
+     + 3 4 5 5
+
+     ----------
+
+       4 6 8 9
+
+     - 2 3 4 5
+
+     ----------
+
+       2 3 4 4
+
+     + 1 2 5 4
+
+     ------------
+
+       3 6 9 8
+
+ Q)  Strike off any digit from each number in seven rows (need not
+
+ be at same place) and combine the same operations with 3 digit numbers
+
+ to get the same addition. After this strike off another digit from all
+
+ and add all the No.s to get the same 2 digit No. perform the same
+
+ process again with 1 digit No.s. Give the ' no.s in 7 rows at
+
+ each stage.
+
+3) there is a safe with a 5 digit No. The 4th digit is 4 greater than
+
+second digit, while 3rd digit is 3 less than 2nd digit. The 1st digit
+
+is thrice the last digit. There are 3 pairs whose sum is 11. Find
+
+the number.  Ans) 65292.
+
+4) there are 2 guards Bal and Pal walking on the side of a wall of a
+
+wearhouse(12m X 11m) in opposite directions. They meet at a point and
+
+Bal says to Pal " See you again in the other side". After a few moments
+
+of walking Bal decides to go back for a smoke but he changes his
+
+direction again to his previous one after 10 minutes of walking in
+
+the other(opposite) direction remembering that Pal will be waiting
+
+for to meet.If Bal and Pal walk 8 and 11 feet respectively, how
+
+much distance they would have travelled before meeting again.
+
+5)          xxx)xxxxx(xxx
+
+                3xx
+
+                -------
+
+                 xxx
+
+                 x3x
+
+                 ------
+
+                  xxx
+
+                  3xx
+
+                  ------
+
+   Q) Find the 5 digit No.
+
+    Hint: 5 is used atleast once in the calculation.
+
+6) Afly is there 1 feet below the ceiling right across a wall length
+
+is 30m at equal distance from both the ends. There is a spider 1 feet
+
+above floor right across the long wall eqidistant from both the ends.
+
+If the width of the room is 12m and 12m, what distance is to be
+
+travelled by the spider to catch the fly? if it takes the shortest
+
+path.
+
+7) Ramesh sit around a round table with some other men. He has one
+
+rupee more than his right person and this person in turn has 1 rupee
+
+more than the person to his right and so on, Ramesh decided to give
+
+1 rupee to his right & he in turn 2 rupees to his right and 3 rupees
+
+to his right & so on. This process went on till a person has
+
+'no money' to give to his right. At this time he has 4 times the
+
+money to his right person. How many men are there along with Ramesh
+
+and what is the money with poorest fellow.
+
+8)Question related to probabilities of removing the red ball from a
+
+basket,given that two balls are removed from the basket and the other
+
+ball is red. The basket contains blue,red,yellow balls.
+
+9)Venkat has 1boy&2daughters.The product of these children age is 72.
+
+The sum of their ages give the door numberof Venkat.Boy is elder of
+
+three.Can you tell the ages of all the three.
+
+                           ANALYTICAL
+
+                           ----------
+
+1)L:says all of my other 4 friends have money
+
+M:says that P said that exact one has money
+
+N:says that L said that precisely two have money
+
+O:says that M said that 3 of others have money.
+
+P:Land N said that they have money.
+
+   all are liers.Who has money&who doesn't have?
+
+2)A hotel has two,the east wing and the west wing.some east wing rooms
+
+but not all have an ocean view(OV).All WW have a harbour view(HV).The
+
+charge for all rooms is identical, except as follows
+
+* Extra charge for all HV rooms on or above the 3rd floor
+
+* Extra charge for all OV rooms except those without balcony
+
+* Extra charge for some HV rooms on the first two floor&some EW rooms
+
+without OV but having kitchen facilities. (GRE modrl Test 3-question
+
+                                                 1J-22)
+
+3)Post man has a data of name surname door no.pet name of 4 families.
+
+But only one is correct for each family.There are a set of statements
+
+&questions.
+
+4)4 couples have a party.Depending on the set of statements,find who
+
+insulted whom and who is the host of the party.
+
+5)5 women given some of their heights(tall,medium,short)Hair( long,
+
+plainted),stards(Black or Brown), sari,2 medium,2-short.Tall->no
+
+sari.Plainted->medium.Answer the combinations.
+
+1) A person has to go both Northwards&Southwards in search of a job.
+
+He decides to go by the first train he encounters.There are trains for
+
+every 15 min both southwards and northwards.First train towards south
+
+is at 6:00 A.M. and that towards North is at 6:10 .If the person arrives
+
+at any random time,what is the probability that he gets into a train
+
+towards North.
+
+2) A person has his own coach&whenever he goes to railway station he
+
+takes his coach.One day he was supposed to reach the railway station
+
+at 5 O'clock.But he finished his work early and reached at 3 O'clock.
+
+Then he rung up his residence and asked to send the coach immediately.
+
+He came to know that the coach has left just now to tje railway station.
+
+He thought that the coach has left just now to the railway station.He
+
+thought that he should not waste his time and started moving towards
+
+his residence at the speed of 3mi/hr.On the way,he gets the coach and
+
+reaches home at 6 o'clock.How far is his residence from railway
+
+station.
+
+3)Radha,Geeta&Revathi went for a picnic.After a few days they forgot the
+
+date,day and month on which they went to picnic.Radha said that it was
+
+onThursday,May 8 and Geeta said that it was Thursday May 10.Revathi
+
+said Friday Jun 8.Now one of them told all things wrongly,others one
+
+thing wrong and the last two things wrongly.If April 1st is tuesday
+
+what is the right day,date and month?
+
+-------------------------------------------------------------------------
+     I am sending mainly c 
+paper and some questions.Rao
+also will send somethig.There are 15 c q's all are discriptive.
+
+int a=2;
+f1(a++);
+}
+f1(int c)
+{
+printf("%d", c);
+}
+1)fallacy  
+f()
+{
+int a;
+void c;f2(&c,&a);
+2)a=0;
+b=(a=0)?2:3;
+a) What will be the value of b? why
+b) If in 1st stmt a=0 is replaced by -1, b=?
+c) If in second stmt a=0 is replaced by -1, b=?
+3)char *a[2]
+int const *p;
+int *const p;
+struct new { int a;int b; *var[5] (struct new)
+4)f()
+{
+int a=2;
+f1(a++);
+}
+f1(int c)
+{
+printf("%d", c);
+}
+c=?
+5)f1()
+{
+f(3);}
+f(int t)
+{
+switch(t);
+{
+case 2: c=3;
+case 3: c=4;
+case 4: c=5;
+case 5: c=6;
+default: c=0;}
+value of c?
+6)Fallacy
+int *f1()
+{
+int a=5;
+return &a;
+}
+f()
+int *b=f1()
+int c=*b;
+}
+7)a)Function returning an int pointer
+b)Function ptr returning an int ptr
+c)Function ptr returning an array of integers
+d)array of function ptr returning an array of integers
+(See Scham series book)
+8)fallacy 
+int a;
+short b;
+b=a;
+9)Define function ?Explain about arguments?
+10)C passes  By value or By reference?
+11)Post processed code for 
+abc=1;
+b=abc1; (1 or 2 blank lines are given)
+strcpy(s,"abc");
+z=abc;
+12)difference between my-strcpy and strcpy ?check
+13)f()
+{
+int *b;
+*b=2;
+}
+14)Function which gives a pointer to a binary trees const an integer value
+at each code, return function of all the nodes in binary tree.(Study)Check
+15)Calling refernce draw the diagram of function stack illustrating the
+variables in the -----then were pushed on the stack at the point when
+function f2 has been introduced 
+type def struct
+{ double x,double y} point;
+main( int argc, char *arg[3])
+{double a;
+int b,c;
+f1(a,b);}
+f1(double x, int y)
+{
+point p;
+stack int n;
+f2(p,x,y)}
+f2(point p, double angle)
+{ int i,j,k,int max)
+}
+_____________________________________________________________
+1)Least no. when divide by [7 gives remainder 6,6gives 5,5 gives 4 and
+soon     ans;419
+2)What compilation do (ans source code to obj)
+3)Artficial language is provided which of the language (Lisp) check
+4)241 change its equivalent octal ?
+5)for cube and sphere 3 views are similarly draw one such figure?
+6)Write a program to exchange two variaables without temp
+7)Fortran cannot have value by reference
+8)4,6,8,__
+9)success is to failure, joy is to
+10)MEANING OF JOLLY?
+11)opposite to essential?
+12)"Raw" means
+ 13)To be good "Wrestler " one should have?
+14)"Command" opposite?
+15)genuine opposite?
+16)Two proverbs are goven
+17)Sum of two consecutive nos is 55, larger one is?
+18)A person goes 4/5 of his usual speed reaches 10min lateto his
+destinaton, time taken? 
+19)80% pass in english, 70%pass in maths , 10%fail in both , 144 pass in
+both . How many all appeared to the test?
+20)To get a parabola if you cut a section of?
+21)Bird is flying 120km/hr b/w B to R. two trians at B to R at 60 kmph
+The distance trvelled by the bird before it is killed.Ans.120
+22)meaning of inert
+        If any are there  rao will send you. Prepare well
+for the interview. Mostly on graphics , geometry .Prepare questions like
+(for interview)Prove  some of the angles in a triangle are 180.Angle in a
+half circle is 90.How will you measure hight of building when you  are at
+the top of the building and if you have stone with you.

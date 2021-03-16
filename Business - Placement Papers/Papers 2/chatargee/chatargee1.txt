@@ -1,0 +1,69 @@
+Hi,Tulasi..
+	Iam Sending Chatergy Paper. Paper consists of Section A &
+	Section B. Section A consist of Aptitude. It is very very
+	easy. You can do the aptitude in 10 minutes. The total time 
+	is one hour. There is -ve marking.In Section B there are 3
+	parts. Part 1 is C,part 2 is C++,Part 3 is general. You should
+	give much much preference to C++. C++ is very very important.
+	C language questions are very easy. You give much time for
+	solving C++ programs. In the interview also they are asking
+	C++ only. You should be thourough in C++ in friend function,
+	Inheretence,constroctors.In Section B each part consits of
+	10 questions. There are 30 aptitude questions.
+
+	ALL THE BEST.
+	
+	Aptitude
+	--------
+	1)A sequence is given. You should find out error & write correct
+	answer. 1 2 5 10 13 26 29 48. Error is 48,there you should write 58.
+	2)2,3 6,7 14,15 29,46. Error is 46. In every pair you add 1 to get
+	second number. Ans:29+1=30
+	3)A fish problem is given.Ans:72
+	4)John's age like that there is one age problem. Ans:16
+	5)A girl is 13'th highest,13th lowest. How many member.Ans:25
+	6)Cookies problem. Ans:23.
+	7)Rearrange MERGANY Ans:GERMANY (country)
+	8)Rearrange BBIRAT Ans:RABBIT
+	C LANGUAGE
+	----------
+	1)#define min((a),(b))  ((a)<(b))?(a):(b)
+	main()
+	{
+	 int i=0,a[20],*ptr;
+	 ptr=a;
+	 while(min(ptr++,&a[9])<&a[8]) i=i+1;
+	 printf("i=%d\n",i);} Ans:5.
+	2)main()
+	{char a[10]={1,2,3,4,5,6};int x;
+	for(x=0;x<4;x++){ b[x]=x+'a';}
+	printf("%s",b);} Ans:abcd56
+    3)Linked Lists are preffered than arrays to get advantage while
+    a)Insertion b)Deletion c)Accessing Element d)None 
+	4)question on Stack
+	5)3 programs on recursion
+	6)~(~0<<8)? Ans:Last 8 digits are 1's rest are 0's.
+	7)int a,b=3,c=2;
+	 a=b++*c;c=++b*a;Some thing like this.
+	 print a,b,c? Ans:6,4,24
+	C++
+	----
+	1)Virtual Functions in C++(Refer to 13'th chapter first two
+	examples of LAFORE Book)
+	2)Which of the following is not true regarding FRIEND function
+	Ans:If y is friend of x and z is friend of y then z can access
+	private of x.
+	3)Given some program on "&" operator overloading.
+	4)class X{
+	    public:X(){ cout<<"This is Base";}
+	  };
+	  class Y:public X
+	  { public:Y(){cout<<"This is Derived";}};
+	  what is printed when an object of Y is created?
+	5)One question on reference variable in C++.Ans:&a.
+	GENERAL SECTION
+	---------------
+	1)  Number of nodes in Binary tree with height 3:Ans:7
+	    (Refer to Formula 2^^n-1)
+	2)TCP/IP is used in? Ans:LAN/WAN
+	3)Host IP Address is? Ans:32 bits OR 4 bytes.    

@@ -1,0 +1,276 @@
+Subject: Infosys paper from iisc (fwd)
+Date: Wed, 5 Jul 2000 21:26:58 +0530 (IST)
+
+
+
+
+Hi guys, got some more questions for the Infosys test. Hope this will
+help
+
+
+
+
+
+
+
+
+
+1>One person sold two things in same price(12/-) , one in 20% profit
+,another in 20% loss.what is the overall profit or loss?
+Ans.(60p)
+2>there is one five digit integer which has two prime number in it.
+Third digit is the largest ,second digit is the lowest,first digit is
+the
+difference of third and second digit.The sum of fouirth and fifth
+digit is
+less than first digit.There is no repeatation.What is the number?
+Ans. 81942
+
+3>Converasation between two employee about their service time.Two
+simple
+equation related to service time .(4yr & 8yr.)
+
+4>Barron's question related to sitting arrangement among 10 people
+ditto.
+(....M,N,L,O,P are males ..S,T,U,V,W are females ,..O and V are
+couples.
+Each woman sits just right to her husbands.)
+
+5>3 housewives (names are given) have three precious
+jewels,(diamonds,ruby,emerald) 3 thieves(names are given) have stolen
+them.There are other
+conditions , find who has taken which jewels from whom?
+
+6> There are four foreigners came to Goa having different mothertongue
+(French German Italian English)(names are given)
+He who speaks germany doesn't know french and viceversa
+Everyone knows two languages and so on
+
+7>The length of the slope of a hill is 440 m.Jack & Jill were going to
+top of the hill .Jack has greater speed than Jill.After coming back
+from
+peak,Jack meets Jill at 20m from peak.After coming back from the peak
+the time difference between them at base of the hill is 1/2 mins(for
+entire trip).Downhill velocity is 1.5 times uphill velocity.
+Find time for some distance(given) to travel for Jack/Jill.
+
+8>conversation between four thieves and police is given.Who is the
+thief?
+Ans.GUY
+
+===========================
+
+eligibility : 60% + without back.
+strong consideration of marksheet....
+-------------------------------------------------------------------
+
+from Jadavpur,West bengal..... they took 97 guys from Jadavpur...the
+technical paper is expected very soon.
+
+dear friends,
+i've informed you that non of us
+has answered
+more than 30 out of 55 general questions .some of
+these quens
+are here . for technical part i'll send you
+anather mail within
+two days . it was of 20 quens .total time 1 hour
+for 75 quens.
+i've changed my mail address .please mail in this
+address
+.. best of luck for campus .
+
+
+1.a system is taken from p1,v1 to p2,v2. delQ
+is heat given
+& delW is work done .if this done through
+different
+processes then what is constant .
+a)delW
+b)delQ
+c)delW + delQ
+d)|delW - delQ|
+
+2.what is the direction of motion of an electron
+kept in an electromagnetic field.
+
+3.in a transistor, the saturation current can be
+controlled by
+changing
+a)anode potential
+b)grid potential
+c)cathod potential
+d)non of the above
+ans b)
+
+another 7(atleast) quens from physics which none
+of us had done
+
+4.infix expretion-->postfix expretion
+
+5.which of the following sorts has the best &
+worst case time
+complexity O(n logn )
+ans..mergesort
+
+6.given a sequence of codes for some
+alphabet,what will be the
+code for MOON
+ans..most prob.2778
+
+one similar problem like this(above) one
+
+7.same but opposite type of hints as above.what
+aill be the
+word
+for a given code.
+ans..FEAT
+
+8.first sequence (17,21,25,...)
+second sequence (16.21,26,...)
+what will be the sum of first 100 common terms
+ans..101100
+
+9. integrate [(2x+3)/(sqr(sqr(x)+x+1))]dx
+was given
+
+one more integratoin
+
+10.probability for speaking truth for A ->75%
+for B
+->80%
+what is the probability that both of them will
+tell lie for a
+given fact
+
+11. what will be order of SURITI in the
+dictionary if the
+letters of the word is arranged in
+lexicographical order
+
+12.two persons are select any number from 1 to
+25. they win if
+they select the same one.whatis the probability
+that they will
+win .
+
+13.a member of 6 is to be selected from 5 men & 6
+women, taking
+at most 4 from each how many possible groups can
+be formed
+ans..200
+
+14.%composition was given. find the molecular
+formula
+ans..CH2O
+
+15.arrange the given organic acid in increasing
+order of
+acidity
+
+
+ram starts walking from point A move to 2 km.
+north and then
+turns right and walks 4 km. and then turns right
+and walks 4km.
+and then turns right and walks 4km.
+
+16.In which direction he was moving after first
+turn?
+ans..east
+
+17.What was his final displacement?
+ans..2km
+
+Two sol. schemes are given as hint for the given
+problem
+select (a) if first hint is sufficient
+select (b) if second hint is sufficient
+select (c) if both hints are required
+select (d) if none is sufficient
+
+18. (1) x*x-1=0;
+(2) x*x*x+1=0;
+which one implies x is +ve.
+
+19.Two trains A & B are moving with const speed
+and approaching
+towards each other, C is a STATION between them.
+Which of
+them reachs C first?
+(1) C is closer to A.
+(2) B is moving faster than A.
+
+20.Ram do tghe whole work in 60 days .Sam do that
+in how many
+days
+(1)if they combinedly do the work, they do in 42
+days.
+(2)if Y portion is done by Ram & rest by Sam in X
+days
+( X,Y,Z was given )
+
+21.Same atomic no. & atomic mass
+(a) isotone
+(b) isomer
+(c) isobar
+(d) isomar.
+
+
+22.Reasoning
+you touch a bee.
+it will bite you.
+(a) A bee will byte a man.
+(b) A bee may or may not byte a man.
+ans..(b)
+
+23.one more quen. of this(above) type
+
+24.f(x)=(1-cos(x)(1-cos(x)))/(x*x*x)
+What is the value of f(x) at x=0, so that it is
+continious
+
+In a farm 4 people are reqired among them 2 are
+seniors & 2 are
+juniors.if the senior set is {x,y,z} & junior set
+is {a,b,c,d}
+and some conditions was given like
+1)x & z can't work togather
+2)y & c can't work togather
+3)a & d can't work togather
+
+25.26.27.
+there was three quens like, if z & d is in the
+team who are the
+others
+a)ya
+b)xb
+c)yb
+d)yc
+
+28.29.
+there was two differenyial equn.
+you simply differentiate the results and see which
+one matches
+
+30.from a series of organic solutions which one
+was not a proper
+solution
+
+31.one reaction with toluene
+
+32.to find the n-th term of a series
+
+33.to find the sum of a series
+
+34.one more problem of limit
+
+all branches have same 45 question & rest 30 of their respective branch.
+followed by 2 interviews tech, & pi.
+those who cleared tech.i go to pi. pi is just a formality.... stress on c & 
+c++ skills.. & general awareness....
+rest is fine
+best of luck......
+bye
+
+

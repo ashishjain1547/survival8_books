@@ -1,0 +1,134 @@
+                  HELLOSOFT-2K1      PSGCT, Covai.   
+           
+                            SECTION-A            
+(14*1=14)
+1.The impulse responce of a system is
+h(n)={0,1,0.5,0,125,---}.then the response of the
+system for the unit step i/p is _________ .
+2.The impulse responce of the discrete time
+systemdescribed by y(n)=1/2
+x(n)
+  +2 x(n) + x(n-2) + 2 x(n-3) + 1/2
+x(n-4)is___________ .
+3.helbert transform of a unit impulse function
+is________ .
+4.The convolution of the sinc function itself is
+_________ .
+5.If a signal is real & odd in the time domain,
+theFourier Transform is
+
+   _____ .6.Given y(n)=x(2-n)+1,checkwhether the
+function is
+linear, causual, time invariance, memory.
+7.the frequency range of FM radio broadcast is in
+b/w___ & ______ .
+8.If a signal having 6.5khz is sampled at a rate of
+8khz frequency then the aliasing frequency is
+   1) 1.5khz  2)6.5khz     3)2.5khz  4)
+9.If a 1khz signal has an attenuation of 5db, then
+theattenuation of
+32khz is
+    a)-40db    b) -70db   c) ---- d) non of these
+10.which one of the system has stable.
+    a) u(n)/n   b) [1/n]**2  c)e**(-3n) d) sin(3n/n)
+11.match the following sentences.
+    a) bilinear transformation      --- IIR filter
+    b) increase in FIR filter     ----- a tan(w/2)
+    c)poles in the transfor function  --- poles in
+thes- plane eclipse.
+    d) frequency, sampling method --- transition
+widthreduced
+    e) chebyshev responce   -------    ---------- .
+12.name the 2 signals which have the same shape
+infrequency & time
+domain.
+    ans: gaussian & impulse responce13.For sin(nwt) to
+be periodic, 'n'
+must be
+    a)rational b) any number c) irrational14. given
+H(s) =s/(s+a).It
+represents
+     a) LPF   b) HPF   C) BPF   D)  ---- .
+                      SECTION-B            (12*1=12)
+1.-32768  can be represented in 16 bit binary as
+__________ .
+2.0x80c is right shifted by 2 . then the number
+formedis_______ 
+3.if interrupt is enabled while the processor is
+working.then the course of    actions that took
+placeare
+    ans:it completes the current instruction &
+controlof the processor
+jumps
+         to the  starting address of the
+interruptservice routine.
+4.why we r selecting DSP processor over
+microprocessor.    a)multiple
+processing
+    b)pipeline processing    c)high clk rate  
+d)-----
+5.short int *y ,*(*y) represents ________ .      
+ans:0x755.
+6.find the value of s+= x+(y>>2) . given
+s=0x100,x=0x50,y=0x20.   then
+s=?
+7. advantage of pipelining ?8.the transfer function of
+a system is
+invertable if
+   a)both poles & 0's outside the unit circle
+   b) if both poles & 0's inside the unit circle.
+   c)poles inside , 0's ouside of the unit circle.
+   d)poles outside, o's inside of the unit circle.
+9)OSI reference model consists of _____ layers.
+10.FAX/EMAIL/---  can be sent through PSDN modem.
+     state whether it is true or false.11.the 2's
+complete range is
+________
+    ans:-128 to +12712.arithmatic left shift of ox200F
+results  ______
+. 
+       * bits on Random process.                
+INTERVIEW QUESTIONS:
+1.what is adaptive filter? where we can use
+thesefilters.
+2.what is the F.T of rectangle?3.what is the
+convolution of 2
+rectangles?
+4.if we replace a flipflop with a latch.what
+willhappen?     ans:racing
+problem
+5.design a irregular counter.6.F.T or Z transform of
+sin(o.2*pi*n)
+7.questions on randaom process
+8.compare PLC(programmable logic counter) with micro
+processor in economic point of view.
+9. realize filter for {1,1,2}. and realize it?
+10.0.8+j0.2 is one of the roots of FIR filter. what
+rthe other roots?
+11.  a)y(n)=x(n) + x(n-1) + 10**36 x(n-2)+ ---     b)
+y(n)=2y(n-1)+x(n-3)+-----.
+   In the above which one is stable?    ans:a
+12.for designing IIR filter, which method is best?
+13.what is aliasing? & sampling?
+14.where the fourier series(F.S)  & F.T  were used?
+15.write equations for F.S & F.T.16.where the laplace
+transform is
+used?
+17.in F.T why e**(-jwnt) is used?    this question was
+asked in bel crl
+also.
+18.properties of butterworth , chebyshev &
+ellipticfilters?
+19.in which filter the transition width is lower?
+20.why linear phase condition will be assumed in DSP?
+21.if all poles & 0's in the left half of the s-plane,
+it is called
+____ .
+22.FFT ,DFT formulae.23. what is the difference b/w
+bilinear
+transformation
+& impulse invariant transformation? which is
+mostlyused? & why?
+         *they mainly concentrated on filters.   
+                    BEST OF LUCK
+

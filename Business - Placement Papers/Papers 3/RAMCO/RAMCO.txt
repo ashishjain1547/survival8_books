@@ -1,0 +1,314 @@
+
+RAMCO  'C'     QUESTION  PAPER
+
+
+
+1).
+--------------------------------------------------------------
+
+main()
+{
+	char *p1="Name";
+	char *p2;
+	p2=(char *)malloc(20);
+	while(*p2++=*p1++);
+	printf("%s\n",p2);
+}
+
+
+
+Ans : An empty String 
+
+2).
+--------------------------------------------------------------
+
+main()
+{
+  	int x=20,y=35;
+	x = y++ + x++;
+	y = ++y + ++x;
+	printf("%d %d\n",x,y);
+}
+
+Ans   57   94 
+
+
+3).
+--------------------------------------------------------------
+
+
+main()
+{
+  	int x=5;
+	printf("%d %d %d\n",x,x<<2,x>>2);
+}
+
+Ans   5 20 1
+
+
+
+4).
+-----------------------------------------------------------------
+#define swap1(a,b) a=a+b;b=a-b;a=a-b;
+main()
+{
+	int x=5,y=10;
+	swap1(x,y);
+	printf("%d %d\n",x,y);
+	swap2(x,y);
+	printf("%d %d\n",x,y);
+}
+
+int swap2(int a,int b)
+{
+	int temp;
+	temp=a;
+	b=a;
+	a=temp;
+	return;
+}
+
+Ans 		 10   5
+                 10   5
+
+
+5).	
+--------------------------------------------------------------
+
+
+main()
+{
+ 	char *ptr = "Ramco Systems";
+ 	(*ptr)++;
+	printf("%s\n",ptr);
+	ptr++;
+	printf("%s\n",ptr);
+}
+ Ans      Samco Systems
+	  amco Systems
+
+6).
+--------------------------------------------------------------
+
+#include<stdio.h>
+main()
+{
+	char s1[]="Ramco";
+	char s2[]="Systems";
+	s1=s2;
+	printf("%s",s1);
+}
+
+Ans    Compilation error giving it cannot be an modifible 'lvalue'
+
+
+
+7).
+--------------------------------------------------------------
+
+#include<stdio.h>
+main()
+{
+	char *p1;
+	char *p2;
+	p1=(char *) malloc(25);
+	p2=(char *) malloc(25);
+	strcpy(p1,"Ramco");
+	strcpy(p2,"Systems");
+	strcat(p1,p2);
+	printf("%s",p1);
+}
+
+
+Ans : RamcoSystems
+
+
+
+8).
+--------------------------------------------------------------
+
+[1]. The following variable is available in file1.c
+
+ 
+static int average_float;
+
+Ans        all the functions in the file1.c can access the variable
+
+
+
+
+9).
+--------------------------------------------------------------
+
+Ans    :      [2]. extern int x;
+
+	Check the answer
+
+
+
+
+
+10).
+--------------------------------------------------------------
+[3]. Another Problem with 
+
+	# define TRUE 0
+
+	some code
+
+	while(TRUE)
+	{
+		some code 
+
+	}
+	
+
+	This won't go into the loop as TRUE is defined as 0
+	Ans    NONE OF THE ABOVE i.e   D
+
+
+
+11).
+--------------------------------------------------------------
+Ans   :  [4].   A question in structures where the memebers are dd,mm,yy.
+
+	mm:dd:yy
+	09:07:97
+
+
+
+12).
+--------------------------------------------------------------
+Ans :    [5]. Another structure question 	
+
+	1 Rajiv System Analyst
+
+
+
+13).
+--------------------------------------------------------------
+
+Answer
+
+	INFILE.DAT is copied to OUTFILE.DAT
+
+
+
+14).
+--------------------------------------------------------------
+
+ A question with argc and argv . 
+
+	Input will be
+
+	c:\TEMP.EXE Ramco Systems India
+
+	Output will be 
+
+		India: I n d i a
+		Systems: S y s t e m s
+		Ramco: R a m c o
+
+	Answer is choice d
+
+
+
+15). 
+--------------------------------------------------------------
+
+ Structure swap 
+
+	Ramco India
+	Ramco Systems Corporation
+	Ramco ... Limited .
+
+	After swapping the result will be
+
+	First two will be swapped. 
+
+	Ramco Systems Corporation
+	Ramco India
+	Ramco ... Limited .
+
+
+
+
+
+16).
+--------------------------------------------------------------
+
+int x;
+main()
+{
+	int x=0;
+	{
+		int x=10;
+		x++;
+		change_value(x);
+		x++;
+		Modify_value();
+		printf("First output: %d\n",x);
+	}
+	x++;
+	change_value(x);
+	printf("Second Output : %d\n",x);
+	Modify_value();
+	printf("Third Output : %d\n",x);
+}
+
+Modify_value()
+{
+	return (x+=10);
+}
+
+change_value()
+{
+	return(x+=1);
+}
+
+
+
+
+
+Ans   :   12     1      1
+
+
+
+
+17).
+--------------------------------------------------------------
+
+	
+
+main()
+{
+	int x=10,y=15;
+	x=x++;
+	y=++y;
+	printf("%d %d\n",x,y);
+}
+
+
+Ans  :   11    16
+
+
+
+
+
+18).
+--------------------------------------------------------------
+
+
+main()
+{
+	int a=0;
+	if(a=0) printf("Ramco Systems\n");
+	printf("Ramco Systems\n");
+}
+	
+Ans  :  Ony one time 
+		"Ramco Systems" 
+			will be printed
+
+------------------            OVER               ------------------
+

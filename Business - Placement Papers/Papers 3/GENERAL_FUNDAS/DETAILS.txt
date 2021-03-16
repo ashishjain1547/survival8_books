@@ -1,0 +1,205 @@
+************
+
+1. Name of the Company
+	INFOSYS Technologies Ltd.
+2. Date of Int/Selection
+	30th and 31st Aug '95
+3. Panel Details
+	The Panel consisted of 3 chota guys, one GM, and one Veeps(HRD). The
+	VP(HRD) was quite painful during the written test and exceedingly
+	strict. GM was called Kris, and had some fundaes
+4. Area of Work
+	Area of work is 100% appli s/w. Has 4 groups, Mainframes (50% of
+	revenue), AS/400, Open Systems & Client Server, and OSDC (Off-Shore
+        Devpt Group). Usually CS, EE and ECE guys are placed in Open Sys, and
+        OSDC.
+5. Pay (Gross) (Take Home)
+	8,925/- pm, gross for MTech/MS. 20% of Basic increment every April.
+6. Perks and Benefits
+	A big office, 15k sq ft, non A/C, about 15 kms from B'lore proper. Daily
+        bus trips from 13 diff places in B'lore. Subsidised Lunch and Breaker. 4
+        coffee/tea free per day. No advances or loans for house, motor vehicle.
+        Stock offer after 1 year or so. High chances of going abroad for brief
+        stints of 3-4 months.
+7. Work atmosphere, and facilities
+	Atmosphere is cool, hajaar IIT guys there, and avg age is 23-25. Good
+        news for girls and bad for guys, only about 10-12% of staff are kudis, 
+        the rest are chokras. An AT-486 66 Mhz for everyone, with facility to 
+        use it as a WS, or a node. E-mail group ids for everyone, and if you 
+        are on OSDC, Internet ids.
+8. Selection Procedures
+	Two tests, one Mathematical Ability, another Analytical. Short-listed
+        junta for GD (only for PGs). Then Personal Interview (some tech ques 
+	thrown in).
+9. Qualities students should have
+	Prepare well for tests. Speak in the GD, dont be too agressive, try
+        to give some new thots when it is your turn. Personal Int is cool.
+10. Some statistics.
+	About 500 guys took written test. 30 PGs short-listed for GD & Int.
+        22 selected. 128 Btechs selected.
+11. Some Comments about the Company
+	Junta Company, i.e. takes guys in large nos. and truck-loads. Mainly
+        UGs, and a few PGs. 7th in s/w export revenue-wise. Good Co. for Mtechs.        MS with no interest in appli prog, don't apply. 
+
+************ 
+
+1. Name of the Company
+        TISL - Tata Information Systems Limited, Blr.
+2. Date of Int/Selection
+        Date of Interview 14/09/95 - Interview time 9.30 pm
+        Date of Selection 15/09/95
+3. Panel Details
+        Two Panels.  Three Guys, two technical and one HR.  One technical 
+        for each panel, and the HR guy going between the two.
+4. Area of Work
+        Mostly IBM projects, and some system areas.  
+5. Pay (Gross) (Take Home)
+        Gross 1.38 lakhs for PGs, and guys with CG 9-9.5 get a 5% hike on 
+        basic, amounting to a approx. amount of Rs. 400/-pm, and 10% hike 
+        on basic for guys with CG 9.5 and above.
+6. Perks and Benefits
+        For junta from outside Blr, Airfare, or First A/C train fare, and 
+        two weeks stay in a Hotel for self spouse and children. 10 months HRA 
+        (approx. Rs.23000) as interest free loan for paying advance.Rs.50000 
+        vehicle loan at 5% interest. Subsidized lunch. Medical, and other 
+        insurance policies.
+7. Work atmosphere, and facilities
+        Presently promised that each one will get a separate cabin, and a 
+        PC and a terminal attached to the mainframes. E-mail facility will be 
+        provided for most junta.
+8. Selection Procedures
+        One written test and one interview.
+        Written test
+        Has 3 sections, finding the next element in a series of alphabets, 
+	finding next figure in a series of figures, and finally a quantitative
+        ability test. This test needs more speed than anything else as you have
+	to answer something like 30 questions in 10 minutes etc.  
+        Interview
+        First question tell me about yourself, and depending on your answer the
+	rest of the interview proceeds.
+
+9. Qualities students should have, i.e. CGPA, talking skills etc.
+        For written test CGPA should be above 7.5 for BTech and MTech CS junta.
+        But talking skills are important, mainly be confident, and remember 
+	that they need you as much as you need them if not more.
+        
+10. Some statistics i.e. how many attended int/test, and how many got thru.
+        For written, there were hajjar junta.  So can't specify the no.
+        For interview
+        Total, 30 in first set and 10 in second set.From CS, 7 BTechs, 2 MTechs
+	and one MS.
+        Total junta who got thro'  26. From CS, 6 BTechs, and 1 MTech.
+        
+**********
+
+1. Name of the company  
+	Bharat Electronics Ltd ,Central &Research Labs
+2. Date of Selection  
+	22nd September
+3. Panel Details 
+        There were 4 persons in that panel.Each of them asked questions on 
+	different subjects.
+4. Area of work 
+	Mostly , for Defense and Embedded S/W
+5. Pay  
+        I do not know clearly. I think around Rs 7200 to Rs 7500 without PF .
+6. Perks & Befits 
+        It is a Public Sector. May not give any perks.They told that they give
+	Vehicle Allowance , Canteen Subsidy and such things.
+7. Work atmosphere & facilities
+        It is good it seems. I heard that the campus is also good.
+8. Selection Procedure
+        Only Interview. All the panel members asked questions on different 
+	subjects.Usually , thet ask OS, Networks,S/W and the course i am doing 
+	(DC)now and Project. They will ask whether we really want to join in
+	it. There is 3 years bond. 1 year Training period.
+9. Qualities we should have 
+	I do not know clearly about this. They are not so stringent on CGPA. If 
+	we can impress them in the interview for the questions they asked in 
+	subjects and if we can give the guarantee to join in that company , it 
+	is O.K. .Also, they prefer ECE degree people with computers postgraduate
+	degree.
+10. Statistics 
+	Around 20 or 25 people attended. They selected 6 students.(2 M.Tech
+	1 M.Tech(E.C.E) 1 M.S(E.C.E) 2 Ph.d
+
+***********
+
+1. Name of the Company 
+	Oracle Software (I) Ltd.
+2. Date of Int/Selection  
+	19 th Sept.
+3. Panel Details 
+        Two Project Managers  - Mr. G.Ramesh & Mr.Ravishankar(Expert in SCO
+	Unix)
+4. Area of Work 
+        They want expertise in Unix Internals preferably.
+5. Pay (Gross) (Take Home)
+	1.3 lacs gross. Take home not known.
+6. Perks and Benefits
+	The best perks among all the software Co's.
+	Some of the perks are 
+        - Bike loan (interest free)
+        - Visa card.
+        - ANZ Grindlays ATM account.
+        - Club membership.
+        - House Advance
+        - Flexi Timings 
+        - Catered Lunch daily.
+        - Dinner allowance of Rs. 50 if you work in the night. Etc.
+7. Work atmosphere, and facilities  
+        Don't know much. But they mentioned there's one Workstation per
+	person.
+8. Selection Procedures   
+        Intreview only.
+9. Qualities students should have, i.e. CGPA, talking skills etc.  
+        A good CGPA.(Not necessarily very high ).
+10. Some statistics i.e. how many attended int/test, and how many got thru.
+        6 Mtechs,5 Btechs and 2 MS's attended,of which 2 Mtechs,2 MS's and
+	1 Btech got selected.
+
+************
+
+1. Name of the Company
+2. Date of Int/Selection
+3. Panel Details
+4. Area of Work
+5. Pay (Gross) (Take Home)
+6. Perks and Benefits
+7. Work atmosphere, and facilities
+8. Selection Procedures
+9. Qualities students should have
+10. Some statistics.
+
+
+************
+
+1. Name of the Company
+	WIPRO Systems, Bangalore.
+2. Date of Int/Selection
+	1st & 2nd September, 1995.
+3. Panel Details
+	2 guys on the panel.
+4. Area of Work
+	They are interested in application programming, mainly. They have
+	groups which work on OS and Networking also. Lots of interest in
+	Mainframe COBOL, and other tools. C++ and WINDOWS work also going
+	on.
+5. Pay (Gross) (Take Home)
+	About 11k gross.
+6. Perks and Benefits
+	Hajaar perks like house rent advance, vehicle loan, free grub,
+	medical, LTA. Medical bills can include Ray Ban(!).
+7. Work atmosphere, and facilities
+	Good ambience, and office is on MG Road, Bangalore. Only thing is
+	uniform, ties, shoes etc. If not on Mainframes, you have a WS to
+	yourself, and if you are on Mainframes, only a node for you.
+8. Selection Procedures
+	Only interview. But a short-list initially is put out based on
+	CGPA. During 94 they had the cut-off at 8.3. The interview is
+	peaceful and all CS and EE guys selected.
+9. Qualities students should have
+	Good and decent dress, CGPA above cut-off and goos commn skills.
+10. Some statistics.
+	About 12 PGs attended the interview and 10 got thru.
+

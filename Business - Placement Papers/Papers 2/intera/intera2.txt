@@ -1,0 +1,283 @@
+> We do not remember the questions exactly, here we just tried to cover 
+> the major areas.
+> 
+> Paper consists of two sections : 1. analytical (20 marks)
+>                                  2. C skills (20 marks)total time 45 min
+> 
+> Analytical:
+> -------------
+> 
+> 1. Given a cube, with different colors on its faces, and then is cut
+> into 64 pieces, and the questions relate to the colors of different 
+> colored small cubes.
+> 
+> 2. A few ladies and gents sit around table in some given order and 4
+> questions are about their seating arrangement with some restrictions.
+> 
+> 3. Draw a venn diagram for 3 items : white, flowers, cloth
+> 
+>  Ans : draw 3 circles each intersecting the other , with white kept in the
+> middle.
+> 
+> 4. A problem related to seating arrangement of 4 people ( 2 ladies and
+> 2 gents) with some restrictions
+> 
+> 5. problem related to milk with water added to it for three times
+> 
+> Ans: 20.5 litres
+> 
+> 6. Problem related to diagrams . Five diagrams were given and asked to
+> find the sixth one.
+> 
+> C-Skills:
+> --------
+> 
+> 1. Max number of nodes in a binary tree with height 3 is 20 : Ans: False
+> 
+> 2. 10,20,30,40,50,60 : give the order when put in a queue and in a stack
+> 
+> Ans : Queue : 10,20,30,40,50,60
+>       stack : 60,50,40,30,20,10
+> 
+> 3. Debugging is the process of finding
+> 
+> Ans : logical and runtime errors
+> 
+> 4. trace the error:
+> 
+>    void main(){
+>             int &a;
+>              /* some other stuff here */
+>                }
+> Ans: syntax error
+> 
+> 5. a problem with a function named 'myValue' will be given and asked to
+> find the value of main() for an argument of 150,
+> 
+> Ans : 150
+> 
+> 6. Some problems related to 'for' loops.
+> 
+> 7. problem on conditional inclusion.
+> 
+> 8. problem related to depth first and breadth first search (DSA subject)
+> 
+> 9. study the syntax of malloc function
+> 
+> 10. locate the error
+> 
+>     int arr (20);
+>    Ans: syntax error.
+> 
+>    
+> 
+  IITD.
+ 05 -09-1997.
+
+Model paper of Inetrgraph 
+
+NO.of questions 40.     Time  45minutes
+out of 40 questions 20 from 'c' and 20 from analytical ability,quantitative ability .
+also 1 question ___ to draw venn diagram
+   1 question__  on analogy
+  1 "    _______non verbal reasoning
+ALL THESE ARE NOT TOUGH .AVERAGE LEVEL.
+THEY HAVE GIVEN TWO TYPES OF PAPERS.HERE I AM GIVING THE PAPER WHICH 
+WAS WRITTEN BY MY FRIEND.
+
+
+1.there are 6 (p,q,r,s...)people.each one play one game 
+---tennis,football,hockey,cricket etc
+clues given like:shortest one plays  hokey
+          largest person plays ..tennis
+           P,Q ARE NEITHER LARGEST NOR SHORTEST 
+          R PLAYS FOOTBALL
+   s is between t &r  in height
+question: who plays which game 
+          who is taaller than whom
+2.a cube has colors blue,red ,yellow each on two opposite sides.cube is 
+divided into "32 small cubes and 4 large cubes".
+ question:how many cubes (on 36 cubes) have blue at leat one side.
+        how many cubes have colors on two sides.
+3.anlogy: cell: tissue::atom:?
+
+4.aa person sold two articles for 80 /- each.with 20% profit on one 
+article and 20% loss on another article, what is the loss / prifit he 
+will gain on both.
+
+5.five cities. city1 is west to city3.city4 is east to city 5._____etc.
+which is   farthest on west side.
+
+6.one question on: -=+,*=-,/=* etc
+  then 10/5*45=?
+
+7.on ,C, paper is easy.mostly on pointers,3 question on structures,5 on 
+fundamentals,
+8.ex:define max 10
+
+main()
+{int a,b;
+int *p,*q;
+a=10;b=19;
+p=&(a+b);
+q=&max;
+} Q a)error in p=&(a+b) b)error in p=&max c)error in both d) no error 
+
+
+important suggestions:
+   1. average  preparation is enough to qualify foe interview.time is 
+enough.
+2.they are particular about academic background .
+3.interview is only on personal details.no question on technical subjects
+4.they may change paper sets also.
+5.in outside recruitment they are asking more questions on CAD. 
+ but not in campus.
+   in iitd they interviewed  5students out of 21 .selected 1,waiting list 1.
+6.cut off cgpa:7.5
+
+
+
+Optimize the below 1,2,3,4 questions for time:
+
+1)
+int i;
+if i=0 then i:=1;
+if i=1 then i:=0;
+
+2)
+int i;
+if i=0 then i:=1;
+if i=1 then i:=0;
+(given that i can take only two values (1,0))
+
+3)
+int i;
+if i=0 then i:=1;
+else if i=1 then i:=0;
+(given that i can take only two values (1,0))
+
+4)
+int m,j,i,n;
+for i:=1 to n do
+m:=m+j*n
+
+5) Expand the following
+ a) ISDN
+ b) CASE
+ c) CSMA/CD
+ d) OOPS
+ e) MIMD
+
+6) In the following questions, answer A,B,C,D depending on when 
+the errors are  detected?
+  A if no error is detected
+  B if semantic and syntactic checking
+  C if during Code genration & Symbol allocation
+  D run time
+
+a) Array overbound
+b) Undeclared identifier
+c) stack underflow
+d) Accessing an illegal memory location
+
+7) How many page faults will occur for below sequence of pages when LRU
+page replacement algorithm is used ( The memory can only have 3pages):
+
+1,2,3,4,2,1,5,2,4 (something like that) 
+
+
+
+8) If a CPU has 20 address lines but MMU does'nt use two of them.
+   OS occupies 20K. No virtual memory is supported. What is the 
+   maximum memory available for a user program?
+
+9) For a binary tree with n nodes, How many nodes are there which
+  has got both a parent and a child?
+
+10) Understand the funda of incrementing a variable using 
+    val++   and ++val . Some programs are given for error correction.
+
+11) Learn datagram . (Computer networks)
+
+12) Which of the following can be zero? (only one)
+    a)  swap space
+    b)  physical memory
+    c)  virtual memory
+
+
+13) What is a must for multitasking?
+    a) Process preemption
+    b) Paging
+    c) Virtual memory
+    d) None of the above
+
+14) A question on call by value,
+		  call by name,
+		  call by reference.
+
+f(x,y,z)
+{
+y := y+1;
+z := z+x;
+}
+main()
+{
+int a,b;
+a := 2
+b := 2;
+f(a+b,a,a);
+print a;
+}
+
+what is the value of a printed for three different calls in main.
+
+15) Using the following instructions and two registers , A&B.
+   find out A XOR B and put the result in A
+   PUSH <reg>
+   POP  <reg>
+   NOR    These instructions operates with A & B and puts the result in
+   AND     A
+
+(question basically to get XOR in terms of NOR and AND)
+
+16) True/False questions:
+   1) The page size should be the power of 2.
+   2) 
+
+
+ 
+17) 
+int i=0;
+int j=0;
+
+loop: 
+  if(i = 0)
+     i++;
+  i++;
+  j++;
+  if(j<= 25)
+    goto loop
+xxx:   
+
+
+question1 : how many times is the loop entered 
+A few questions of that sort. some count fundaes. Easy one )
+
+18)  Who handles page faults? 
+  a) OS
+  b) MMU
+  c) Hardware logic
+  d) etc etc....
+
+19)  For which of following is it not possible to write an algorithm.
+
+a) To find out 1026th prime number
+b) To write program for NP-complete problem
+c) To write program which generates true Random numbers.
+etc...
+
+20) what is the essential requirement for an real-time systems
+ 
+a) pre-emption
+b) virtual memory
+c) paging  etc...

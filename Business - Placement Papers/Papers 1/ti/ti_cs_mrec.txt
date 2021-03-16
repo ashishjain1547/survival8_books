@@ -1,0 +1,133 @@
+hi all
+i am sending you TI CSE paper 2001
+ENJOY.
+BEST OF LUCK TO ALL OF YOU.
+
+
+    about all interviews in brief they are asking
+about n/w's so prepare well.
+
+       20 tech q's    (1 hr)
+     tech:
+      multiple choice , q's are not in order
+
+      1)Reentrant os required
+          a)multitasking
+          b)multiuser
+          c)both
+          d)none
+      ans: c   (check)
+  
+      2)identify a DFA for all strings which ended
+with string '00'
+              4 dfa's have given , u can simply
+identify
+      3)dfa has given we have to find the string
+accepted by that.
+    
+      4)in a memory hierarchy, M1,M2
+         M1 access time is 2 ns ,M2 accesstime is 100
+ns . the hit ratio for
+         M1 is .97, then what's the avg access time
+       ans: 500 ns
+
+      5) Interrupts main use is for elimination of
+      a) spooling
+      b)polling
+      c)job scheduling
+      d)....
+    
+      6)A coprocessor for floating point operations
+has given. after that the execution of the
+        floating point ops has incresed by 20 times.
+if 20%  floating pt ops are there then
+         what's the sped up?
+
+      7)  two heaps of sizes m,n are given,
+     then the time needed to merge them
+     a)m
+      b)n
+     c)m+n
+     d) none
+   8)context switching is useful in
+     a) spooling
+     b) polling
+     c)interrupt handling
+     d) interrupt servicing
+
+  9)  if 2^n leaves are given in a tree then no.of
+internal nodes
+    a)2^n
+    b) 2^n -1
+    c);......
+
+10) semaphores used for
+   a)to prevent deadlocks
+   b) to sycronize critical activities
+   c)....
+ 
+   remaining q's i have forgot, but some q's are
+about c (easy)
+
+    u can do 18 q's in this section ( i.e this sec is
+that much easy)
+
+anal:
+     it's some what difficult.
+   in this sec they has given big passeges,
+analytical reasoning,some apti bits
+   i have forgot many of the q's
+   so  i am giving here few q's
+   but it's very easy to shortlist in this TI, if u
+done this sec well.
+
+1) derivative of e^sinx
+2)x=2yt y=2t^2
+    dy/dx?    (figures may not correct)
+    
+
+   x mod y=x-y[x/y]
+         =x-y{x/y}    some conditions are given
+    [x/y] means floor operation.
+    {x/y} ceal op.
+
+based on this 4 or 5 q's are given u can do the all
+the q's except
+   one q.
+   that's why  iam giving only one q from this
+ 
+3)xmod 3=2, xmod5=10 then xmod15=?
+
+
+
+
+
+
+   i can't give the remaining q's those are very
+lengthy i have forgot those.
+
+
+about TI interview:
+   
+   Ti is asking v.....very basic fundaasssss
+    for me they have asked only in c, but some other
+persi\ons they asked in ds,os,ip etc.
+
+    in c they have asked
+    if u have given a 32 bit no. u have to set m th
+bit without using any arithmetic ops
+    and u must have to write in a single expr. (hint:
+use &,<< ops)
+    they asked the same for reset.
+  
+   they have asked to print 2^0 to 2^16 with out
+using any arith. ops. (same as above)
+if u have given two seperate c files u have
+toexecute these two in one by linking how
+  u can achieve this (hint: make utility)
+
+about ds:
+     they have asked how u can print levelwise in a
+tree (   hint: bfs)
+
+

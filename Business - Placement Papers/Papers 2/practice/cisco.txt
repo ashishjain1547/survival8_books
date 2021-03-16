@@ -1,0 +1,137 @@
+this is cisco paper which was held in ISI on 5th august.
+20 questions - analytical
+40 questions - system concepts and c.
+
+i am giving some question in both sections.
+
+analytical section.
+1.12 quantative questions
+2.4 meanings
+3.4 matching(like goat::rat)
+
+1.what is the length of the largest diagonal in a cube of 1unit.
+ ans:2*sqrt(3).
+2.if 0<s*t<1 then the values of s and t many be
+ ans:s>-1 and t>-1
+3.one of the digits of a two digit number is 6,whose sum is half of there
+product and whose product of the half of the reverse order number.what is
+the number.
+ ans:63
+4.how many times 0.01 is larger than (0.0001)*(0.0001)
+ ans:10**6.
+5.a train of length 200mts is moving with a velocity of 100km/hr towards
+east.a car is comming with a velocity of 72km/hr in the opposite
+direction.how much time the car takes to cross the train.
+6.canibalism-
+7.humino::static
+  ans:human::--
+8.concrete::abstract
+  ans:matter::mind
+9.elevator-above
+10.ramesh,robert,ravi,rahul r doing newpaper business.....
+   ans:ramesh,either ravi/rahul
+
+
+
+system concepts:
+
+1.int a[5,6]
+  how much memory will be allocated
+2.char p[6];
+  char *d[10];
+  ans:d=(char*)p
+3.using LFU algorithm,how many page faults will occur of the pages r
+  1,2,1,3,4.
+  ans:1,4
+4.in which layer the bridges r used.
+  a)data link layer
+  b)session layer
+  c)physical layer
+  d)network layer
+5.#define d 10+10
+  main()
+  { printf("%d",d*d);
+  }
+6.in a complete binary tree if the number of levels r 4 then the number of
+  nodes will be,
+7.if we delete a node from a balanced binary tree,how can we retain the
+  properties of balanced binary tree.
+  ans: by rotation at the nodes.
+8.in a k-way search tree with N keys, the number of node/no. of leaves=
+9.s->A0B
+  A->BB|1
+  B->AA|0
+  how many string can be constructed with length 5.
+10.in which of the following regular expression the srting contains
+   atleast 2 concetive 1's.
+   ans:(0+10)*||(0+1)*
+11.int i,j=1;
+   for(i=0;i<10;i++);
+    { 
+      j=j+1;
+    }
+   printf("%d %d",i,j);
+   
+   ans:10 11
+12.static char *i;
+   i=malloc(sizeof(char));
+   find the error;
+   ans:malloc returns void
+13.virtual memory address capacity depends on--
+14.main()
+  { int i=1;
+    fork();
+    fork();
+    fork();
+    printf("%d",i);
+  }
+  how many times i will be printed
+  ans:8
+15.question on threads
+16.int i=0xaa
+   char *p;
+   p=(char *)i;
+   p=p>>4;
+   printf("%x",p);
+   ans:0x000000a;
+17.union
+   { char *p;
+     int i;
+     char b;
+   }
+   main()
+   { 
+       --
+    p=(char*)malloc(8*sizeof(char));
+  }
+  what is the size of union?
+18.enum{sunday=-1,monday,...saturday}
+   printf("%d %d",sizeof(wednesday),wednesday);
+19.struct x{
+      struct{
+         struct{
+            char ch;
+             } x;
+         }};
+  ans:definition wrong
+20.struct *s;
+   s=(struct *)malloc(10*sizeof(struct)+90*sizeof(int));
+   free(s);
+   ans:total memory deallocated
+21.one alogrithm is given:
+  ans:10395 
+22.func()
+   { int x=1;
+     if(x=1)
+        x=1000;
+     else
+        x=10;
+    
+     return x;
+    }
+   what is the return value?
+   ans:1000
+
+
+ 
+

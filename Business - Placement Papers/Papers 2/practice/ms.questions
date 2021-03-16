@@ -1,0 +1,77 @@
+
+These were the questions they asked me in the campus -
+
+
+1st interview
+-------------
+
+  1) Find the least common ancestor in a binary tree, given any two nodes
+  of the tree.
+
+  2)* Write code to remove duplicates in a sorted array
+
+  3) What are the different test cases for the previous program
+
+  4)* You have a 7 kg gold bar. You have to give 1kg of gold to a person 
+  working under you. But you are allowed to cut the gold bar only twice.
+  How do you do this?
+
+
+2nd interview
+-------------
+
+   1)* You have a register ( say 8 bit one). All writes to the register go 
+   through a filter, which is actually a mask. So the write happens only 
+   in the bits of the register only if the corresponding bit in the mask
+   is a 1. Otherwise, the register retains its old contents. The reads to 
+   the register are straight forward. It returns the contents of the register.
+   Now, find the contents of the Mask.
+
+   2)* Find whether a number is a power of two or not (in a single instn,
+   no loop ).
+
+   3) Write a function in C to convert a int number into a string.
+   You have to consider both the positive and negative numbers.
+   Again what are the test cases for the previous program.
+
+   4) You have a big screen array containing pixel values at each points.
+   You want to implement cut and paste functionality, of a rectangular 
+   sub-block from one place to other inside this big block.
+   How do you go about implementing such a function?
+   He wanted me to start from the prototype of such a function,
+   necessary parameters, analyse all the conditions, 
+   And how to classify into different categories, and what shud
+   be done in the final code.
+
+   5) Difference b/n semaphore, mutex and critical section.
+
+   6) Another design question. Using OO and C++ concepts.
+   Design a window interface, with tha class, member and method descriptions
+   and the interacions b/n different classes.
+   The Window interface has Menu, list box, combo box and such thins, and each
+   of them has one or more text patters, with color and fonts associated with
+   it along with other properties like size etc. Also there can be container 
+   classes, which can contain one or more of the basic classes and/or other
+   container class itself. Finally, there is different sorts of layouts that 
+   can be done as in html, ranging from simple sequential layout, or 
+   North-South-East-West layout etc.
+
+   7) Still with OO, Can the destructor be virtual? if yes, what is its use.
+
+3rd interview
+-------------
+
+   1) You have a machine which can do only multiply by 2, divide by 2 and 
+   Addition of 2 numbers. Write a detailed algorithm to multiply any two 
+   numbers, in this kind of a machine.
+
+   2)* You have a character sets containing 1 byte ( say ascii ) character and
+   2 byte ( say japanese ) character. The ascii character can be 
+   identified by the fact that it has MSB 0. The japanese character 
+   has MSB 1 and spans across 2 bytes. Now you have a string containing both
+   ascii and japanese characters, and a pointer to a character, somewhere in 
+   middle of the string is given, Write a comple code to remove the character 
+   just before the given pointer ( that character may be either japanese or
+   ascii ). You are also given the start of the string and the string is 
+   null terminated.
+

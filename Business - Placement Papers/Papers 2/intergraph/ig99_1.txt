@@ -1,0 +1,347 @@
+HELLO FRIEND, 
+   I AM HERE WITH SENDING YOU THE NEW INTERGRAPH QUESTION PAPER .
+  THIS IS A NEW PAPER . PUT THIS IN YOUR HOMEPAGE SO THAT IT WILL BE 
+  USEFUL TO OTHERS ALSO.
+ 
+
+
+
+ INTERGRAPH   :  
+
+     COMPILED AND EDITED BY V.P.CHANDRU & M.K.KAILASH.
+
+   TEST HELD ON : ANNA UNIVERSITY , CHENNAI     22/12/99
+
+   NUMBER OF PERSONS UNDER TAKEN THE TEST :60
+
+    pERSONS SELECTED FOR INTERVIEW : 14
+
+    NO OF CANDIDATES SELECTED : 3
+
+   QUESTION PAPER CONSIST OF TWO PARTS 
+
+     ANALYTICAL SKILLS  : 20 QUES, 20 MIN.
+           C SKILLS : 30 QUES, 30 MINS.
+
+ANALYTICAL :
+------------
+      1. COMPLETE THE DIAGRAM :
+
+      FOUR FIG WILL BE GIVEN , YOU HAVE TO DRAW THE FINAL ONE 
+
+    TRIANGLE FIG :
+
+
+2. DRAW VENN DIAGRAM RELATING RHOMBUS, QUADRILATERAL & POLYGON
+
+ 
+3.IN A GROUP OF 5 PERSONS A,B,C,D,E ONE OF THE PERSON IS ADVOGATE,
+   ONE IS DOCTOR, ONE BUSINESSS MAN, ONE SHOP KEEPER AND ONE IS PROFESSOR.
+THREE OF THEM  A,C,AND PROFESSOR PREFER PLAYING CRICKET TO FOOT BALL AND TWO
+OF THEM  B AND BUSINESSMAN PREFER PLAYING FOOT BALL TO CRICKET. THE SHOP
+KEEPER AND B AND A ARE FRIENDS BUT TWO OF THESE
+PREFER PLAYING FOOT BALL TO CRICKET. THE ADVOGATE IS  C'S BROTHER AND 
+BOTH PLAY SAME GAME .  THE DOCTOR AND E PLAY CRICKET.
+
+  (a) WHO IS ADVOGATE ?
+        A, B, C, D
+  (b) WHO IS SHOP KEEPER ?
+      A, B, C, D
+  (C) WHICH OF THE FOLLOWING GROUP INCLUDE PERSONS WHO LIKE PLAYING CRICKET
+BUT DOESN'T INCLUDE PROFESSOR ?
+     AB,BC,CD, NONE
+   (d)  WHO IS DOCTOR ?
+         A,B,C,D.
+
+{ SAME MODEL PROBLEM WAS ASKED IN QUES PAPER BUT PROFESSIONS WILL BE DIFFERENT
+SUCH AS HORTICULTURIST ,PHYSICST,JOURNALIST,ADVOCATE AND OTHER ONE. INSTEAD OF
+FOOTBALL AND CRICKET THEY WILL GIVE TEA AND COFFEE }
+
+
+4. THEY WILL GIVE SOME CONDITION'S AND ASKED TO FIND OUT FARTHEST CITY IN THE
+WEST (EASY ONE )?
+
+
+5. TRAVELLING SALES MAN PROBLEM .
+   SOME CONDITION WILL BE GIVEN WE HAVE TO FIND OUT THE ORDER OF STATION THE
+SALES MAN MOVES
+   ( THREE  QUES'S )
+
+6. +,-,*, /, WILL BE GIVEN  DIFFERENT MEANING 
+     EXAMPLE : TAKE + AS  * AND SO ON .
+     THEY WILL GIVE EXPRESSION AND WE HAVE TO FIND THE VALUE OF THAT.
+
+
+7. 3+5-2 =4
+    WHICH HAS TO BE INTERCHANGE TO GET THE RESULT ?
+
+
+8. WE DON'T NO EXACT PROBLEM .
+    EX : 8A3B5C7D.....
+         A WIIL BE GIVEN + SIGN.
+         B WILL BE GIVEN - SIGN.
+   FIND THE VALUE OF EXPRESSION ?
+
+
+9. FIND THE TOTAL NUMBER OF SQUARES IN 1/4 OF CHESS BOARD ?
+
+
+10.   6 FACE OF A CUBE ARE PAINTED IN A MANNER ,NO 2 ADJACENT FACE HAVE SAME
+COLOUR. THREE COLURS USED ARE RED BLUE GREEN. CUBE IS CUT IN TO 36 SMALLER
+CUBE IN SUCH A MANNER THAT 32 CUBES ARE OF ONE SIZE AND REST OF THEM BIGGER
+SIZE AND EACH BIGGER SIDE HAVE NO RED SIDE. FOLLOWING THIS 
+THREE QUES WILL BE ASKED .
+{  IN QUES PAPER COLORS WILL BE DIFFERENT }
+
+
+ 
+11.  TWO LADIES ,TWO MEN SIT IN NORTH EAST WEST SOUTH POSITION OF RECTANCULAR
+TABLE. USING  CLUES IDENTIFY THEIR POSITION ?
+
+
+12. CLOCK PROBLEM :
+    (ONE QUES )
+
+
+13. ALL MEN ARE VERTEBRATE.
+    SOME MAMMALS ARE MEN.
+    CONCLUDE.
+ 
+*******************************************************   
+
+C SKILLS :
+-----------
+
+  1. find(int x,int y)
+      { return ((x<y)?0:(x-y)):}
+      call find(a,find(a,b))   use to find
+   (a) maximum of a,b
+   (b) minimum of a,b
+   (c) positive difference of a,b
+   (d) sum of a,b
+
+2. integer needs 2bytes , maximum value of an unsigned integer is 
+   (a)  { 2 power 16 } -1
+   (b)  {2 power 15}-1
+   (c)  {2 power16} 
+   (d) {2 power 15} 
+
+3.y is of integer type then expression  
+  3*(y-8)/9   and (y-8)/9*3 yields same value if 
+    (a)must yields  same value
+(b)must yields  different value 
+(c)may or may not  yields  same value
+(d) none of the above
+
+4. 5-2-3*5-2 will give 18 if 
+   (a)- is left associative,* has precedence over -
+   (b) - is right associative,* has precedence over - 
+   (c) - is right associative,- has precedence over *
+   (d)- is left associative,- has precedence over *
+
+5. printf("%f", 9/5);
+   prints 
+  (a) 1.8,
+  (b) 1.0,
+  (c) 2.0,
+  (d) none
+.
+6. if (a=7)
+  printf(" a is 7 ");
+    else 
+   printf("a is not 7");
+   prints 
+   (a) a is 7,
+   (b) a is not 7,
+   (c) nothing,
+   (d) garbage.
+
+7. if (a>b)
+   if(b>c)
+   s1;
+else s2;
+ s2 will be executed if 
+(a) a<= b,
+(b) b>c,
+ (c) b<=c and a<=b,
+ (d) a>b and b<=c.
+
+8. main()
+  { 
+   inc(); ,inc(); , inc(); 
+  }
+ inc()
+ { static int x;
+    printf("%d", ++x);
+  }
+  prints
+ (a) 012,
+ (b) 123,
+ (c) 3 consecutive unprectiable numbers
+(d) 111.
+
+9.preprocessing  is done
+  
+(a) either before or at begining of compilation process
+(b) after compilation before execution
+(c) after loading
+(d) none of the above.
+
+10. printf("%d", sizeof(""));
+    prints 
+   (a) error
+   (b)0
+   (c) garbage
+   (d) 1.
+
+11.main()
+     { 
+         int a=5,b=2;
+       printf("%d", a+++b);
+     }
+    
+   (a) results in syntax,
+   (b) print 7,
+   (c) print 8,
+   (d) none,
+
+12. process by which one bit patten in to another by bit wise operation is 
+ (a) masking,
+ (b) pruning,
+ (c) biting,
+ (d) chopping,
+
+13.value of automatic variable that is declared but not intialized
+  will be 
+(a) 0,
+(b) -1,
+(c) unpredictable,
+(d) none,
+
+14. int v=3, *pv=&v;
+   printf(" %d %d ", v,*pv);
+  output will be 
+  (a) error
+  (b) 3 address of v,
+  (c) 3 3
+  (d) none.
+
+15. declaration
+   enum cities{bethlehem,jericho,nazareth=1,jerusalem}
+assian  value 1 to
+  (a) bethlehem
+  (b)  nazareth            
+  (c)bethlehem & nazareth
+  (d)jericho & nazareth
+
+16. #include<conion.h>
+    #include<stdio.h>
+    void main()
+    {
+     char buffer[82]={80};
+     char *result;
+  printf( "input line of text, followed by carriage return :\n");
+   result = cgets(buffer);
+ printf("text=%s\n",result);
+   }
+ (a)    printf("length=%d",buffer[1]); 
+ (b)    printf("length=%d",buffer[0]);
+ (c)    printf("length=%d",buffer[81]);
+ (d)    printf("length=%d",buffer[2]);
+
+17. consider scanf and sscanf function , which is true
+
+  (a) no standard function called sscanf
+  (b) sscanf(s,...) is equivalent to scanf(...) except that
+      input charecter are taken from string s.
+  (c) sscanf is equivalent to scanf.
+  (d) none of above.
+
+18. #include <stdio.h>
+    main()
+     {
+      char line[80];
+      scanf("%[^\n]",line);
+      printf("%s",line);
+     }
+  what scanf do ?
+  (a) compilation error . illegal format string.
+  (b) terminates reading input into variable line.
+   (c) and (d) other two options.
+
+19. problem was big so i couldn't remember . simple one.
+
+20 . ceil(-2.8) ?
+ (a) 0
+ (b) -3.0
+ (c) -2.0
+ (d)  2
+
+21. for( p=head; p!=null; p= p -> next)
+      free(p);
+
+ (a) program run smooth.
+  (b) compilation error.
+  (c) run time error.
+   (d) none of above.
+
+22. int x[3][4] ={
+                   {1,2,3},
+                   {4,5,6},
+                   {7,8,9}
+                 }
+   (a) x[2][1] = x[2][2] =x[2][3] = 0
+   (b)  value in fourth column  is zero  
+    (c) value in last row is zero
+    (d) none of above.
+
+23. problem was big so i couldn't remember . simple one.
+
+24. main ()
+   { 
+      printf("%u" , main());
+   }
+   (a) print garbage.
+    (b) execution error
+     (c) printing of starting address of function main.
+     (d) infinite loop.
+
+25 . int a, *b = &a,   **c =&b;
+ ....
+ ....
+ .....
+             a=4;
+         ** c= 5;
+
+   (a) doesnot change value of a
+   (b) assign address of c to a.
+    (c) assign value of b to a.
+   (d) assign 5 to a.
+
+26.problem was big so i couldn't remember . simple one.
+
+27.problem was big so i couldn't remember . simple one.
+
+28 . answer : swapping of values .
+
+29 . simple one.
+
+30 . i =5;
+       i= (++i)/(i++);
+       printf( "%d" , i);
+ prints ,
+   (a) 2
+   (b)  5
+   (c) 1
+    (d) 6    
+ 
+  in interview they will ask questions related to u r project and some c
+fundas.
+            ******************************** all the best*******************
+    
+
+
+
+
+____________________________________________________________________
+Get free email and a permanent address at http://www.netaddress.com/?N=1

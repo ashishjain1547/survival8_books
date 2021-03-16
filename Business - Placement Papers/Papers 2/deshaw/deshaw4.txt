@@ -1,0 +1,54 @@
+                        SECTION-A
+ 
+ you should write the programs for the following problems in C.
+ 
+ 1. swapping two variables x,y without using a temporary variable.
+ 2. a program has been given asking to find the output
+        ans. it is algorithm for finding G.C.D
+ 3. write a program for reversing the given string.
+ 4. the integers from 1 to n are stored in an array in a random
+    fashion. but one integer is missing. write a program to find the
+    missing integer.
+        ans. idea. the sum of n natural numbers is = n(n+1)/2.
+             if we subtract the above sum from the sum of all the
+             numbers in the array , the result is nothing but the
+             missing number.
+ 5. some bit type of questions has been given on pointers asking to
+    to find whether it is correct from syntax point of view. and if
+    it is correct explain what it will do.(around 15 bits).
+ 
+                        SECTION-B
+ 
+   ANSWER AS MANY AS POSSIBLE.
+ 
+ 6.& 7. two programs on pre-processor directions has been given asking
+        to find the output.
+ 8. simple question given on pointer
+    a) kernighan & richie page no. 122
+    b) schaum series  page no. 323
+    try to understand the pointer problems given here he asked to 
+explain
+    in the interview if answer it in exam.
+ 9. write a c program to find whether a stack is progressing in forward
+   or reverse direction.
+ 10. write a c program that reverses the linked list.
+ 
+  GUIDELINES:
+     the interview is very tough he is asking to do the problems in
+   front of him. he is also giving some new problems to solve before 
+him.
+   you should have a very good funda of C language.
+ 
+ 
+-----------------------------------------------------------------------
+    P . V . THATAYYA  NAIDU          
+                  M.S ( CS)           Hostel : 91-044-2351326
+       Research Scholar                      (PP: #341 Naidu)
+                   
+    341, BrahmaPutra Hostel           Infotech Lab : 91-044-2351365
+    IIT MADRAS - 600036                              ext:3529/3530
+    INDIA
+    EMAIL         :   naidu@indy.iitm.ernet.in 
+                      naidu%bronto@iitm.ernet.in
+-----------------------------------------------------------------------
+

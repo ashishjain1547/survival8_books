@@ -1,0 +1,70 @@
+
+there were 2 sections 1.Technical 2.Aptitude
+
+technical was a bit difficult than apti.
+
+in technical there were mainly questions on Datastructures, OS and
+Networks.
+
+networks questions were mainly from datalink layer and network layer.
+
+DS questions were on linkedlists,binary trees and hashing.
+
+OS questions were on paging and schduling.
+
+in apti they have asked to arrange sentences in order, questions based
+on passage and some direct
+apti.
+
+some ques i have in mind are, i am giving answers after the question
+itself:
+
+1. what is the size of IPv6 ---16 bytes
+
+2.how many possible trees are there such that both preorder and
+postorder traversal are same if there
+are n nodes in a binary tree ---0
+
+3. four ques were given on error detection and control, like CRC
+code,hamming code etc..
+
+4.which protocol is used to convert the ethernet address to IP address
+--- RARP
+
+5.which is undeterminnistic network structure among 802.3,802.4,802.5
+--802.4
+
+6. some nodes were given and they are inserted into a binary search
+tree, which is the root --- 8
+
+7. which of the two codes executes fast
+
+     for(i=0;i<100;i++)
+        for(j=0;i<100;j++)
+            a[i][j]=0;
+
+    for(i=0;i<100;i++)
+        for(j=0;j<100;j++)
+            a[j][i]=0
+
+  ans: first code
+
+8. int j=3;
+     int *p=&j;
+    printf("%d %d", *p++,++*p);
+
+   it will not increment j value as ++ is done first on p before *, so
+address gets incremented and
+garbage value will be there.
+
+9. two questions were asked on doubly linked lists, for deleting a node
+like given some piece of code
+which is correct.
+
+10. a question on interrupts in OS, what happens when a higher priority
+process requests the CPU
+when it is servicing a lower priority process.
+
+11. a question on quick sort, given some   numbers what happens after
+the first iteration.
+

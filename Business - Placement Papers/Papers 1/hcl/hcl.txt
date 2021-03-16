@@ -1,0 +1,119 @@
+HCL TECHNOLOGIES(24th july 20001,Jadavpur university)
+Setion I ( 25 ques 30 mins apttitude type)
+
+
+1. There  were four questions based on the data   .
+5.Five students  has appeared for the test on Calculus.The lowest
+possible
+score was 0, and the highest score was 100.aparna ,rahul rohit,shijit,
+and
+shana.Shahana got 8 more marks  than Aparna, Shigit got 2 more marks
+than aparna, rohit got 3/2  of rohit or 10 more than aaparna.The
+second highest
+score was 89.What were the score of each students.
+6.A+B=C+D;A+C=B+D ;2A&gt;B+D;2C&lt;B+D; Find the arrangements  of the
+letters
+like
+e.g:A&gt;B&gt;C&gt;D&gt;  etc and all.
+7.MBC=(BE)2; where M,B,C,E represent different numbers What does M
+represent.
+8.There was a question on number series.
+
+
+9.
+       20  ? 15
+                  0  18 11
+Ans(6)
+
+
+Five questions were on data sufficiencies all of them I can^Òt recall
+the ones
+can remember  I have written them.
+A) The first condition is sufficient and the second condition is not
+necessary.
+B) The second condition is sufficient and the first condition is not
+necessary
+C) Both the conditions are necessary but alone is not sufficient
+D) Both the conds. Are necessary and any one alone is sufficient
+condition.
+E) Insufficient conditions
+10.X =Y;
+a)X2-Y2=0 is the sufficient conditions
+b)X-Y =0 is the sufficient condition
+
+
+11.28 bananas  and  35 orange scost Rs 84.After a deduction of 10 % Rs
+12 can
+buy 4 bananas and 5 oranges.Find the cost of each items.
+
+
+12 The distance between two pts  is 335 kms.A car starts from a point
+A towards
+B with a speed of 65 km/hr at 8.00 am.Another car started from B
+towards A at
+9.00 am at a speed of 70km/hr.When will they meet  each other.
+a)11.00 am(ans) b)11.30am c)12.00 pm d)1.00 pm e)10.30 am
+
+
+A,B,C,D,E are travelling  in a car.Three of them are drivers.there is
+one
+couple,B is wife of D and is a Driver. A is the brother of D .Of them
+only one
+lady can drive.A drove for a while followed by A and then by E.
+
+
+24.Which among of the following pairs are brothers,
+a)AD(ans)
+b)CD
+c)EA
+d)BA
+e)ED
+
+
+25.Which is the other lady present there?
+a)B b)A c)D d)C(ans) e)E
+
+
+Four question were based on the logical reasining.given below:
+There are six inverted cups below which there are one ball each under
+each
+cup.colored by solid colours.-red,orange
+,magenta,purple,yellow,green.The
+arrangements was such that one can tell which ball is under a
+particular
+cup.The green ball was under the 5thcup,
+The purple ball at a number lower than the orange ball.the red ball
+and magenta
+ball are kept side by side.
+
+
+
+
+16.Find the arrangement of the balls
+ans:---------,-----------,-----------,-----------,green,orange
+(I don^Òt remember the other options  but the correct pattern
+consisits of
+green and orange at the last)
+
+
+17.Which ball is under the 6th cup?
+
+
+21.In a clock how many times does the hands of a clock are at right
+angle in a
+day?
+Ans(44 times)
+
+
+23.A man said to a woman ^ÓYour brother^Òs son^Òs sister is my wife^Ô
+What is
+the relation between the man and the lady?
+
+
+
+Those who qualified from section I were shortlisted to sit for the
+second test
+on techinal questions.The second test consists of two parts Section I
+consists
+of Only Operating system and the Section II consists of only Cand C++
+fundamentals

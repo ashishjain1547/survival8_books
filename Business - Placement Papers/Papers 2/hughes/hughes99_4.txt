@@ -1,0 +1,1303 @@
+
+******************Hughes paper in DCE************
+
+All ques. had four options.
+
+1- What is max. no. of hops in hypercube n/w  with n (=2 ^ p) to go from one node to another ?
+a. p
+b.      log p
+c. n ^ 2
+2- What is Kerberos ?
+ans. Authentication Protocol.
+3-In completely connected multiprocessor system with n processors 
+, links will be of the order of
+a. O(n ^ 2)
+b. O(2 ^ n)
+c. O(n/2)
+4-When quick sort gives worst performance ?
+ans. When elements are in order.
+5- o/p of  each sorting step of 8 elements was given and had to recognise which sorting algo.?
+Ans. Bubble sort (Not Sure , Check it out )
+6-In worst case ,which sort is best out of following sorts?
+a.heap
+b.selection
+c.quick   (ans.)
+d. insertion
+7-Three very simple gate circuits each having inputs A,B,C,D were 
+given and had to tell ,which two give same result ? (DeMorgan's Law was used in solving )
+Ans was (a) &(c) (o/p  of a & c was coming to be AB +CD)
+8-K-map given,had to tell simplified function
+Ans was perhaps AB+AD +AC+BCD
+
+K-Map was
+              CD`
+        AB      0       0       0       0
+                0       0       1       0
+                1       1       1       1
+                0       1       1       1
+
+9-What is Function Point ?
+Ans. S/W estimation technique
+10-p points to an integer. We don't want p to change value. In C, what declarations will we use?
+A const int *p
+b.int *p
+c.int const *p
+e. int* const p (perhaps ans.)
+11-Diff  between  2NF &3NF ?
+Ans. D (last option)
+12.Which does not use client server model ?
+a. Email
+b. Web access
+c. C. Telephone call
+d. N/w file system
+13-In a pipeline having 3 stages, each having reliability of 0.9 
+,what is overall reliability of pipeline?
+a. 0.9
+b. 0.729
+c. 0.81
+14-2level cacheis there first level cache's access time is 100ns,second 
+level cache's access time is 33ns & memory access time is 1000 ns 
+. Wh at is total memory access time ?
+ans. 140 ns
+15-In public key cryptography,Awillsend message to B
+ans. Using B's public key
+16-What does projection of a relation give?
+Ans.gives vertical partition of relation corresponding to specified columns.
+17-For disk or direct access storage, which is best ?
+a.      AVL
+b. B-tree
+c. Red tape ...
+18-There is a tree with inorder threading Node B is inserted as 
+left child of nade A. Node A already has right child . Where will the null ptr of B point ?
+ans. Parent of A (perhaps)
+19-There is a diskless workstation. Which will be the first protocol it will use ?
+a       FTP
+b. ARP
+c. HTTP
+d.  RARP
+20-Compiler keeps which of following ?
+
+ans. Symbol table
+21- 'ping' command uses which protocol ?
+ans. ICMP
+22-Merge sort uses which technique?
+Ans. Divide and Conquer
+23-Program counter is incremented in
+a. fetch (ans)
+b. decode
+c. execute
+24-what does the following program do ?
+        f(int n)
+        {
+        int c;
+        while(n)
+        {
+        n&=n-1;
+        c++;
+        }
+        print c;
+        }
+ans. Program prints the no. of set bits in no.
+25-What is this called (char *) (*(*(*A[X]) ( ) )) ( )
+ans. Array of X pointers to a function returning pointer to functions that are returning pointer to
+char (not sure )
+26- For synchronisation in distributed computing, what should not be there ?
+a. all machines are synchronised by a global clock
+b. all systems should have their own clock (perhaps ans)
+27-Java applet of a moving /waving file is running on one machine then it means
+a.Java's executable code is downloaded and running on the m/c
+b.A virtual X server is running on that m/c while the actual program is running on the web server.
+28-What is in RSA algo. ?
+a. First the session key is encrypted & then whole message is encrypted using RSA Algo.
+b. Message is encrypted using RsA algo.
+c. First Rsa algo is used &then encrypted with the session key.
+29-What is dirty read?
+a. Transaction reexecutes and gives diff. Results from the original execution
+b. Read is done when the transaction is not yet committed
+
+30-What is coupling ?
+a. It tells the strength of interconnection between two program units.
+b. It tells the strength of interconnection between twtrength of 
+interconnection between two program units.
+b. It tells the strength of interconnection between twwwtrength 
+of interconnection between two program units.
+b. It tells the strength of interconnection between twwwo program units and one program unit
+31-Any n/w on the computer can have only
+a. one domain &one IP
+b. more than one domain & more than one Ip
+c. one domain and more than one IP
+d. more than one domain & one IP
+32-Which one does not have file descriptor ?
+a. process
+b. keyboard
+c. pipe
+d. socket
+33-What does CONNECT BY means
+a.connect to a different databaser for retreival
+b.arrange in tree ordered structure
+34-In two phase commit protocol, why log is used during transmission &reception ?
+a. To retrieve the status in case of crash
+35-In which algo. Waiting time is minimun?
+Ans, SJF
+36-How many address bits are there  in Ipv6
+ans. 128 bits
+37-During run time heap is managed by
+a. a user process in kernel mode
+b. A system process manages heap for all the processes
+c. A system process  for each process
+d. A user process in user mode
+38-In which of following search is efficient?
+a. height balanced tree
+b. Weight balanced tree
+c. Binary tree
+39.A ques. on resource relocation, sharing ( I don't remember more 
+than this regarding this ques.)
+40-some ques. options were sth like
+a. transparency control
+b. Migration control
+c. Concurrency control
+41-X:In DFD, input is converted into output by passing through various functional units
+Y:DFD cannot be used in object oriented design
+a. both X& y are correct
+b. both X & Y are incorrect
+c. X correct, Y incorrect
+d. Xincorrect, Y correct
+42-Where regression testing is used ?
+a. Dynamic analysers
+b. Loaders
+43-For Java interfaces , what is true ?
+a. Functions declarations are not given'
+b. Variables are not declared
+c. Instance variables are not used
+44-In a linked list, we can delete a node in order of
+a. 1
+b. n
+c. n ^ 2
+45-If there are N people and we have to do symmetric & asymmetric 
+cryptography, how many keys would
+be used in these cases respectively?
+a. N & N ^ 2 (probably ans)
+b. N ^ 2 & N
+c. N & N
+d. N ^ 2 & N ^2
+46-The protected element of a class  can't be accessed by
+a. member functions of the same class
+b. member functions of the derived class
+c. member functions of any other class in the same program (Ans.)
+47-NFS uses same file structure as unix
+48-To solve an expression which of following trees will you use 
+?
+a. postfix
+b. infix
+
+
+
+
+> Here are some questions of Hughes software system computer part:-
+> 
+> Q. 1 void x(char* a)
+>          {
+>              (a[0])?x(a+1):1;
+> printf("%c",*(a+0));
+> return 1;
+> .........;
+> }
+> Input string 'a' is assigned as AaBbCc , what is the output?
+> Ans.-cCbBaA
+> 
+> Q2 a question on  digital gates   ANS is OR gate.
+> 
+> Q3 what is the binary representation of 41.6785
+> 
+> Q4 if the precondition for a subroutine does not hold then 
+>                         1.postcondition does not hold 
+>                         2.postcondition may or may not hold
+>                         3. ?
+>                         4. ?
+> Q5. In java 
+> 1. java strings are mutable.     And some other options on java strings
+> 
+> 
+> Q6.  Void f(char *p)
+>           {
+>          p = (char*)malloc(6);
+>          strcpy(p,"hello");
+>          }
+>  void main( )
+> {
+> char *p = "BYE";
+> f(p);
+>  printf("%s",p);
+> }
+> ANS BYE
+> Q7. A question on write through and write back algo.
+> Q8. What is concerned with transport layer.
+>    Ans  PORT.
+> Q9. A server can work with ip and ipx protocol.how the server will
+> determine to which protocol the incoming packet coresponds .
+> Q10. For which purpose dhcp is used    ANS ip address
+> Q11    global vaariable defined as ststic will serve the purpose of ---
+>           Q12 Question on NFS   ANS It uses the same semantics as unix for
+> file system
+>    Q13. Program counter is incremented typically in which uses  ANS fetch
+> Q14 NO of NULL pointers in a tree with n leaf nodes ANS N+1
+> Q15.thread take less time than process context Why? Ans. Address space is
+> same.
+> Q.16 Which algo is best for sorting 10 elements?
+> Ans. 1> binary tree 2> selection 3> bubble 4> none
+> Q.17 a question on ICV(networking)
+> a) When A sends an ICV and message, B computes ICV , checks It with given
+> ICV,and decodes Message
+> b) Similar other
+> Q.18 When server A sends a time request to server B, (time
+> synchronization), and response becomes past,  What does A do?
+> a) resets its own clock
+> b) resends time request again
+> 
+> Q.19 in public key encryption what does A do such that It is not visible
+> to others?
+> a) A uses public key part of A
+> b) A uses private key part of A
+> c) A uses public key part of B
+> d) A uses private key part of B
+> Q.20 function dependency can be described as:
+> Q.21 q. on findind cyclometric complexity of the given program
+> 1> 7 2>5 3> 4 4> 0
+> Q.22 Codd's rule related to database       
+> Q.23 path testing comes under
+> A) white box 
+> B) black box
+> Q.24 when an ip address is not in the computer adresss resolution file
+> what does It do with that packet
+> a)Ignores It
+> c) sends It to default gateway
+> d)  sends It to ethernet server
+> Q.25 execution divided in different stages then this is called ANS.
+> Pipelining
+> Q.26 in C the macros are
+> ANS. converted in to inline code during preprocessing 
+> Q.27 X: verification means doing the right things
+>           Y: validation means doing things right
+> a) both true
+> b) both false
+> c) one true one correct
+> Q.28 void insert (key, r)
+> Keytype key, data
+> {
+> if (n>=max)
+> ERROR
+> Else
+> R[n++].key=k;
+> Which is best?
+> 1> sequential search
+> Q.29 which is best for associative list searching?
+> 1) single linked list
+> 2) doubly linked list
+> 3) hash table
+> Q.30 A question based on SQL  ?
+> Q.31 which is not necessary condition for deadlock?
+> 1> mutual exclusion
+> 2> no preemption
+> 3> is ANS.
+> 4> Circular wait
+
+/=====================================
+>From Venky...
+/+++++++++++++++++++++++++++++++++++++++++
+
+
+questions.
+==> 1. a processor has two level cache.Their access time (level1 
+and level2) is 100ns and 300ns respect.Memeory access time is 1000ns$
+==> ans is 140 (b)
+==> 2.diskless server uses
+==> a rarp
+==> b arp
+==> c ftp
+==> d.telnet
+==> ans rarp
+==> 3.which one of them is not a client server
+==> e-mail
+==> telephone
+==> webserver
+==> and one more
+==> ans is e-mail or telephone.
+==> 4.Which one is used to represent operations
+==> infix
+==> postfix
+==> binarytree
+==> and one more
+==> ans binary tree 
+==> 5.one qustion was on private key and public key.The quest. was 
+if a wants to send a message to b that no one other that b should $
+==> A private key
+==> A public key
+==> B private key
+==> B public key
+==> 6.compliers maintain
+==> ans is symbol table 
+==> 
+
+/++++++++++++++++++++
+>From Diwakar...
+/+++++++++++++++++++++++
+
+1) what a java interface not have ?
+     ans - instance variables
+ 2) what is done with java code on a web-page
+    ans - downloaded and executed on ur pc
+ 3) what is the order of deleting a node from a linked list given a ptr 
+to it 
+    ans O(n)  ( since u have to traverse the list to reach the prev.
+node)
+ 3) what is RSA
+ 4) how can A send a messageto B so that B knows its from A 
+    ans A uses his private key so that B can use A's public key
+ 5) what is the best sort in worst case
+   ans heap sort
+ 6) what is the given sorting
+   ans selection ( check it )
+ 7) what can access protected memebers of a class
+   ans other classes of that program
+ 8) what protocol is used by a machine to map an ip to hardware address
+  ans arp
+ 9) what is the size of ipv6
+  ans 128 bits
+ 10) what protocol has ping 
+  ans icmp
+ 11) how many keys are needed in symmetric and asymmetric crptography?
+    ans - i dont know 
+ 12) one on a right threaded tree
+ 13) very easy k-map  
+    ans i think its b)
+ 14) very easy ckt 
+     ans choice which has option : a&c are equivalent
+ 15) what in unix doesnt have a fd
+     ans process  ( this was the first ques ).
+ 
+
+
+
+
+ Regarding Hughes
+paper they conducted two tests. Both were technical(no aptitude test). 
+First one was compulsory for everybody. In second one could opt for
+electronics or computers. In all i suppose there were 50 questions.
+I sent a request to my classmates to send me questions whatevery they
+could recall. Till now only one person has responded. I am sending those
+questions to you.
+
+And just before interview you were supposed to fill up a performa which
+they call Behavioural Test. This was to check you interpersonal skills and
+socialising capabilities.  Questions like - would you like to be elected
+leaders of organising committees, do you like peoply express their agonies
+to you, do you wish people be close to you type questions were repeated in
+one and the other form.
+
+Interview was technical as well as personal. CGPA did count - it seems.
+They selected 8 people from here. BTW what's your current CGPA and what's
+the strength of your class. Do they come for B.Tech and M.Tech separatel
+as the case here is or it's all at once.
+
+Questions :
+ 
+1.If a precondition of a sub routine fails then
+  a. post condition fails as well
+  b. Post condition may fail
+  c. post condition is declared but now defined.
+
+2. whatz the o/p of the following program
+   
+ char * a= "AabbCc";
+ void x(char *a)
+ {  
+   a[0] == 0 ? x(a+1):1;
+   printf("%c",*a);
+   return 1;  
+}
+   x(a);
+
+a. AaBbCc
+b. cCbBaA
+
+3. What is DHCP used for?
+
+4. There are 2protocols IP and IPX are running on top of Ethernet. Suppose
+a packet addressed to that ethernt card arrives, to which protocol the
+ethernet sends the packet?
+1. It checks the payload of the frame and finds out the protocol type and
+despatches it to the right protocol
+2. It fins out the protocol type that is mentioned in the ethernet frame.
+3. despatches to both the protocol
+
+5. What is the use of global static variable in C?
+
+6. In which stage of the compilation the Macro in C are converted into
+Iline code? (this is not the exact Qn a slight variation of it)
+
+7 In the IP/Ethernet network, a packet with destination address
+192.32.65.70 arrives and there is no entry for this address in the routing
+table of the m/c? what does the m/c do about the packe
+a. discards the packet.
+b. Brodacasts into the ethernet.
+c. sends to default router
+
+8. in Public key Encryption , if A wants to send a encrypted msg to B then
+A encrypts the message with 
+a. A's public key
+2. A Pvt key
+c. B's public key
+d. B's Pvt key
+
+9. consider the SQL statement "Create table New as select * from oldtable"
+a. the sql stament is a correct one
+b. New is reservd word there is an error
+c. you can't select anything while creating a table
+10. By Codd's defn for RDBMS whih one is not right?
+   options , I don't remeber
+
+11. If X and Y are two attriubutes of a relation and 1 and 2 be any two
+tuples in that relation
+Y is fuctionally dpndant on X iff (X->Y)
+
+a. if (x1 == x2) then y1==y2
+b. if (x1==y1) then x2 == y2
+someother combinations
+
+12.The normalization process 
+1.reduces the data redundancy
+2.It reduces the inconsistency that arises due to the data redundancy
+
+
+13. ((A nand A) nand (B Nand B)) = ?
+a. A+B
+
+The question was not exactly in this form. gates represented pictorilly
+
+14. whtz the purpose of flow control?
+1. to control errors
+. to control congession the receiving end
+3. to sequnce the out of sequence packets
+
+15. Whic is false about Java strings
+1. The are Null terminated
+2. Set of Chars
+3. The Condition checking == and = on a sme pair of strings gives
+different results.
+
+16. When a java Applet is downloaded what does it do?
+Don't remeber the options
+it's went something like this:
+1. checks the magic nubmer
+
+
+17. Whatz is the Cyclometic complexity of the following code
+don't remember the code exactly
+
+Some more questions...
+======================
+
+1:a machine A wants to set it's time same as a a machine B
+so it sends a packet to B and b sends reply.but the time on packet is over by the timete packet 
+reached A.A has to
+a1:set the time on packet
+b2:increment its time slowly so as to reduce deifference
+c:send packets repeatedly till it gets a packet with time less tan the current time
+d:....
+
+
+2.which of the following protocols does not find mac address given internet address
+a>arp
+b.rarp
+c....
+d...
+
+3.when an java applet get's downloaded what happens
+a.the byte verifier checks the magic number
+b...
+c...
+d...
+
+4.when A wants to send a mesg to B using Public key cryptography he uses
+a.A's public key
+b.A's private key
+c.B's public
+d.B's private
+
+
+5.how does a string in java differ from that of c/c++
+a1.java strings are mutable
+b.java strings does not have a \0
+c.
+d.
+
+6.given str="AaBbCc"and a small c program
+something like
+
+a:b:(  )
+
+the program actually reverses the string recursively
+
+
+
+
+7.some protocol  SHDC
+
+8.NFS server is similar to
+a.provides similar sevices as unix
+b.a file trans fer.....
+c.just gets the file for reading..
+d.
+
+
+9.an address 202.15.46.45 is to be located.the machine does not have 
+info about 202.0.0.0 or 202.15.0.0 0r 202.15.46.0
+so the DNS server willl now
+
+
+a.discard the packet
+b.send the mesg to a default server if available
+c.send mesg to a DNS server if available
+d......
+
+10.verification:"are u building the right product"
+   validation:"are we building the product right"
+
+a.both are wrong(ans)
+b.both are correct
+c.first wrong second correct
+d.first correct second wrong
+
+11.A:"cohesion is a desirable property"
+  B:"cohesion means the property that the entire unit is one......"
+
+a.both are correct 
+b.both are wrong
+c.first wrong second correct
+d.first correct second wrong
+
+
+12:definition of functional dependency.
+
+13:which of the following does not use extra memory
+a.....
+b.insertion sort
+c.shell sort
+d.both b and c.
+
+14:which of the following is better for ten elements
+
+a.bubble sort
+b.selection sort
+c.quick sort
+d......
+
+
+15.the memory reference time for cache is 100 ms and for memory is 1000ms
+.the probalility of a hot is .9.the average memory access time is
+a:100
+b:200(ans)
+c:500
+d:1000
+
+
+16.a question on socket numbers
+
+17there is an ordered binary tree and an index structure
+a.we can use ordbintree without ordering
+b.orb are used with ordering where as indexing canbe done without ordering
+c.indexing uses extra memory
+d......
+
+18.there is ethernet protocol and ethernetIPstack in MAC sublayer
+when an address has to be found which is used
+
+
+
+Some more questions:
+
+====================
+
+
+
+A question on multi threading!
+It has got a PC, register space kind of options.
+
+A question on NFS.
+a. doesn't allow read.
+b. it is just like Unix file system.
+c. After the file is opened, the whole file os transferred to the client
+d. there is no state information maintained.
+
+What takes maximum time in a context switch.
+a. saving registers.
+b. address space switching.
+c. flushing the TLB
+d. getting the new process inside the memory.
+
+1.If a precondition of a sub routine fails then
+  a. post condition fails as well
+  b. Post condition may fail
+  c. post condition is declared but now defined.
+
+2. whatz the o/p of the following program
+   
+ char * a= "AabBCc";
+ void x(char *a)
+ {  
+   a[0] == 0 ? x(a+1):1;
+   printf("%c",*(a+0));
+   return 1;  
+}
+   x(a);
+
+a. AaBbCc
+b. cCbBaA
+
+3. What is DHCP used for?
+Assignment of IP addresses.
+
+4. There are 2protocols IP and IPX are running on top of Ethernet. Suppose
+a packet addressed to that ethernt card arrives, to which protocol the
+ethernet sends the packet?
+1. It checks the payload of the frame and finds out the protocol type and
+despatches it to the right protocol
+2. It fins out the protocol type that is mentioned in the ethernet frame.
+3. despatches to both the protocol
+
+5. What is the use of global static variable in C?
+
+6. In which stage of the compilation the Macro in C are converted into
+Iline code? (this is not the exact Qn a slight variation of it)
+pre-processing stage.
+
+7 In the IP/Ethernet network, a packet with destination address
+192.32.65.70 arrives and there is no entry for this address in the routing
+table of the m/c? what does the m/c do about the packe
+a. discards the packet.
+b. Brodacasts into the ethernet.
+c. sends to default gateway
+d. sends to the server
+
+8. in Public key Encryption , if A wants to send a encrypted msg to B then
+A encrypts the message with 
+a. A's public key
+2. A Pvt key
+c. B's public key(Answer)
+d. B's Pvt key
+
+9. consider the SQL statement "Create table New as select * from oldtable"
+a. the sql stament is a correct one
+b. New is reservd word there is an error
+c. none
+d. new should come within quotes.
+
+10. By Codd's 14 rules for RDBMS whih one of following is not right?
+a. null values r not defined.
+
+11. If X and Y are two attriubutes of a relation and 1 and 2 be any two
+tuples in that relation
+Y is fuctionally dependant on X iff (X->Y)
+
+a. if (x1 == x2) then y1==y2
+b. if (x1==y1) then x2 == y2
+someother combinations
+
+12.The normalization process 
+1.reduces the data redundancy
+2.It reduces the inconsistency that arises due to the data redundancy
+
+
+13. ((A nand A) nand (B Nand B)) = ?
+a. A+B
+
+The question was not exactly in this form. gates represented pictorilly
+
+14. whtz the purpose of flow control?
+1. to control errors
+. to control congession the receiving end
+3. to sequnce the out of sequence packets
+
+15. Whic is false about Java strings
+1. The are Null terminated
+2. Set of Chars
+3. The Condition checking == and = on a sme pair of strings gives
+different results.
+
+16. When a java Applet is downloaded what does it do?
+Don't remeber the options
+it's went something like this:
+1. checks the magic nubmer
+
+17. Whatz is the Cyclometic complexity of the following code
+don't remember the code exactly
+
+Thaz all I rember.
+
+
+
+
+1-N  keys to be sorted using n space,which algo?
+a. insertion
+b. shell
+c. both insertion and shell (ans)
+d. quick
+
+2-Heap doesn't have following property ?
+a. smallest element is at leaf
+b. two elements cannot be the same. (ans)
+c. height of heap is logn
+d. 
+
+3-searching time is min. in 
+a. Hash
+
+4-To sort 10 values, which sort will you use ?
+a. bubble (ans)
+b. quick
+c. binary tree
+d. All the above
+
+5-A has to send message toB 
+ans. A  will use B's public key
+
+6-a ques on NAND gates (perhaps same as that in DCE)
+a figure was given like
+(A nand A ) nand (B nand B)
+ans- A or B
+
+
+7- F(char *p)
+   {
+        p=(char*)malloc(6);
+        strcpy(p,"hello");
+   }
+   main()
+   {
+      char*p;
+      p="bye";
+      f(p)
+      printf("%s", p);
+   }
+
+ans- bye
+
+8-In Asynchronous transmission 
+a) client sends a request and then waits for response....
+b. client send a request and then continues with work without expecting a response
+c. client sends a request and the continue with work and reacts 
+for the response when it comes (ans)
+d. 
+
+9-DHCP is
+a. assigning IP addresses
+
+10-Ethernet LAN has IP &IPX protocol at the network layer, a packet comes from some other host.
+a. it will not give packet to any layer
+b. it will check the data field in the frame for the protocol type and send it accordingly
+c. it will check the protocol field for the protocol type and send the frame accordingly (ans)
+
+11-verification:Are we building the right product?
+Validation:are we building the product right?
+Ans. Both are wrong.
+
+
+12- Normalisation
+
+
+13-
+char *p="AaBbCc"
+
+int x(char*p)
+{
+ p[0] ? x(a+1):1;
+ printf("%c",*a);
+ return 1;
+}
+ans cCbBaA
+
+14-in line expansion of macros happens in preprocessing stage of compiler
+
+15-when is Write through is better from write back in terms of cache.
+a. single cache less instructions (ans)
+
+16. if the compiler gives static allocation for a program then which is not possible
+a. Dynamic binding
+b. Recursion (ans)
+c. Indirect address loaction
+d. Direct address location
+
+
+17-which of the following will have minimum thread switching overhead;
+a. INET domain sockets
+b. UNIX domain sockets
+c. shared memory variables (ans)
+d.
+
+18-what is the cyclometric complexity of the following code
+
+if(x==0 or y==o)
+{
+...
+}
+else
+{
+  ....
+  while(...)
+  {
+  ..
+  ..
+  }
+}
+a. 3
+b. 4
+c. 7d Noneof these
+
+19-41.6375->convert into binary 
+
+20-binary tree has how many null pointers ptrs 
+a. n
+b. n+1 (ans)
+c. 2n
+
+
+21- No of comparisons in the worst case in Merge sort
+a. 2n
+b. 2n-1 (ans)
+c. 2n-2
+d. 2n+1
+
+22-path testing
+a. black box
+b. white box(ans)
+
+23. Which of the following is true for NFS.
+a. It is stateless. (ans)
+
+24-ICV ques
+
+25- A client wants to synchronise it clock with the server over 
+TCP but the reply packet send time that is already past then what will it do
+a. Client will immediately set its clock to the recieved time
+b. Client will ignore the reply.
+c. Client will repeatedly send the time requests till the time received is longer than its clock.
+26-How control in tCP is when
+ans congestion .....
+
+27- In order to have a assembly language procedure reentrant what will be done.
+
+28-program counter incremented in which stage. 
+a.Fetch
+
+29-ordered binary tree & hash -which is better
+
+30-time server
+
+31-why does dram need refreshing periodically.
+a. it contains flip flops
+b. its charge gets depleted due to memory read
+c. its charge gets leaked (ans)
+
+32- some insert algoritms given like
+        insert(...)
+        {
+                ..
+        }
+where is it used.
+a. binary search
+b. interpolating search
+c. sequential search 
+
+33-  In context switching which of the phases takes longer time
+a. flushing the translation lookaside buffer
+b. swapping out the process to the disk
+c. saving the registers
+d. loading the new process from the disk (ans)
+
+34- the use of static declaration for external variables
+a. localising scope (ans)
+b. 
+
+35- .If a precondition of a sub routine fails then
+  a. post condition fails as well
+  b. Post condition may fail
+  c. post condition is declared but now defined.
+  d. post condtion never fails (ans)
+
+36 9. consider the SQL statement "CREATE TABLE NEW AS SELECT * FROM EMP"
+a. the sql stament is a correct one (ans)
+b. New is reservd word there is an error
+c. you can't select anything while creating a table
+d. NEW should have been in quotes
+
+
+37-  If X and Y are two attriubutes of a relation and 1 and 2 be any two
+tuples in that relation
+Y is fuctionally dpndant on X iff (X->Y)
+a. if (x1 == x2) then y1==y2 (ans)
+b. if (x1==y1) then x2 == y2
+someother combinations
+
+38-  Whic is false about Java strings
+1. The are Null terminated (ans)
+2. Set of Chars
+3. The Condition checking == and = on a sme pair of strings gives
+different results.
+
+39- When a java Applet is downloaded what does bytecode verifier do
+a. checks the magic nubmer (ans)
+b. checks the bytecode whether it has been written properly
+c.
+
+40- given a domain name which of the following does not find the IP address
+a. /etc/hosts
+b. ARP (ans)
+b. RARP
+c. DHCP
+
+41- an packet for address 202.15.46.45 is to be sent.the machine does not have
+info about 202.0.0.0 or 202.15.0.0 0r 202.15.46.0. so what will be done
+
+a.discard the packet
+b.send the mesg to a default gateway if available (ans)
+c.send mesg to a DNS server if available
+d......
+
+42- A:"cohesion is a desirable property"
+  B:"cohesion means the property that the entire unit is one......"
+
+a.both are correct (ans)
+b.both are wrong
+c.first wrong second correct
+d.first correct second wrong
+
+43- the memory reference time for cache is 100 ms and for memory is 1000ms
+.the probalility of a hot is .9.the average memory access time is
+a:100
+b:200(ans)
+c:500
+d:1000
+
+44- what do you use when you want to have differnt phases of instruction 
+to get exedcuted in different units
+a. pipeline (ans)
+
+45-  By Codd's rules for RDBMS whih one of following is not right?
+a. null values r not defined
+b. Integrity constraints are placed in separate files (ans)
+ 
+
+
+
+
+
+Top 10 Interview Tips OF Hughes:
+================================
+
+Here are the 10 most commonly asked questions in the job interview, which will
+help you prepare yourself better for the forthcoming campus placement and also
+give you a competitive edge over others. 
+
+A well thought out answer to these questions, prepared and rehearsed in
+advance with the logical sequencing of the events will help you sail through.
+
+                   1. Tell us about yourself
+
+This is an open canvas for you giving you an opportunity to direct and lead
+your interview in the direction you want. Good idea will be to structure your
+answer in the following three broad heads:
+Family Background
+                       Educational Background (starting from schooling to
+                       professional qualifications) 
+                       Achievements
+
+In all the above subheads speak only that information which will give strength
+to your candidature. Avoid verbose description of yourself. 
+
+                   2. Why do you want to join us? 
+
+To answer this question, you must have researched the company well. Here you
+can quote some of your personal beliefs, which are in conjunction with the
+values of the company or talk about specific products and services which could
+be your professional interest too.
+
+In the event where your skill set is mapping with the requirement of the
+company, do not miss the chance to highlight the same. Specify the initiatives
+taken or work done to attain that skill set. 
+
+3. What would you like to be doing five years from now? 
+
+This question is asked to assess candidates career plan and ambition for
+growth and to see if the company will be able to provide that opportunity over
+period of time. Also to assess if your personal goals are not totally off
+tangent with what companys objectives are. It is also to check your stability
+with the organization. It is good idea to be very realistic in your answer. If
+need be take guidance from your seniors who are already in the corporate
+environment. 
+
+                   4. Do you prefer working with others or alone? 
+
+This question is usually asked to determine whether you are a team player.
+Before answering, however, be sure you know whether the job requires you to
+work alone. Then answer appropriately. 
+
+                   5. What are your biggest accomplishments
+
+You may like to begin your reply with: "Although I feel my biggest
+achievements are still ahead of me, I am proud of my involvement withI made my
+contribution as part of that team and learnt a lot in the process".  It will
+be a good idea to close your answer with also specifying what attributes and
+circumstances made you succeed. 
+
+                   6. What are your favorite subjects
+
+ It is a leading question giving direction to the panel members for possible
+areas where they can probe in further for your knowledge base and in depth
+understanding. It is advisable to select the topics that you are competent in.
+
+                   7. Why should we hire you? 
+
+Keep your answer short and to the point. You should highlight areas from your
+background that relates to the need of the organization. Recap the
+organizations description of the job, meeting it point by point with your
+skills.
+
+                   8. What are your hobbies? 
+
+This question is generally asked to assess whether you are "desktop" kind of a
+person or an "interaction orientated person". It also indicates your
+preference for team - oriented activities or projects with solo contributions. 
+It enables the organization to place you accordingly after selection. Be
+candid with your answer.
+
+                   9. What is the worst feedback you have ever got? 
+
+To answer this question you must admit and share your areas of improvement.
+Also sharing an action plan for improving oneself will indicate your ability
+to take criticism well. Your answer should be reflection of your
+open-mindedness.
+
+                   10. What is the most difficult situation you have faced? 
+
+Here you should be ready with the real life story. The question looks for
+information on two fronts: How do you define difficult? and, what was your
+handling of the situation? You should be able to clearly lay down the road map
+for solving the problem, your ability to do task management and maintain good
+interaction with your team members and other peers. It is advisable to close
+with highlighting the learning out of the incident. 
+
+Interview tips-
+==> 1.Family background.
+==> 2.Ur interest.Say only the things u know.Sometimes they can 
+ask wayward questions regarding ur project so be prepared for that.
+==> 3.U should have fair idea abut the sub. mentioned in ur resume.
+==> 4.If u don't know anything say NO.
+==> 5.Try to get stuck in the topic which u know thoroughly.Like 
+one of my friends got stuck in tcp/ip networking and he got thru.
+==> 6.In our college four groups were taking interview so some of 
+us were unlucky as the judgement varies.
+==> 7.Why do u want to join hughes.For this get the answer from their ppt.
+==> 8.If ur given a project in some other field would u work.Say 
+yes i would try to succeed in every task assigned to me.
+==> 9.They can ask u to write some algo in datastructure like bubble sort ,quick sort etc.
+==> 
+==> Mostly the technical questions varied from person to person 
+but generally was concerning their project.Unfortunately they asked m$
+==> 
+
+
+
+About hss - for us
+ the interview was basically on summer project , networking - routers /
+ congestion control in tcp etc, some os fundas .HR part was a modified
+version of the stuff on the web site -  strength/weakness,can u work in
+a gp, do u have problems asking ques to ppl, ur future plans , gre .
+ i think i didnt get it bec. i told them that i plan to do an ms.
+
+books
+1. Quantitative apt from RS agarwal
+2. Verbal and non verbal reasoning by RS AGARWAL
+
+Only aptitude test is there.
+
+
+paper contain
+ 
+3-part 
+
+1.quantitative 
+
+2.reasoning 
+
+3.again quantitative type
+
+total 20+13+12 question = 45 Q's
+-----------------------------------
+
+no negative marking and time 45 minute
+======================================
+
+
+pattern of questions
+====================
+
+1.first qestion on figure which is easy only one question in paper.(c)
+
+2.1 1 2 3 5 ......
+ans:8
+
+3.odd man out - 10 ques from(1)
+
+4. Code for ABCDE is KLMN then code for BEC is ?
+
+5. Array has N elements . To reverse it the subscript should be ?
+     hint A(N-I) , I=0,1,....
+
+6. There r 800 coins and 1 is of lesser weight . Identify it ?
+     hint : divide by 2. anad compare .. binary tree
+
+7. Question on permutation and combination like- five alphbets r there , one is
+repeating 2 times. its probability?
+
+8. Questions like . A>B, B>C.... find relation b/n others
+
+9.A programme has a complexity of n at the first stage and n^2 in the
+second stage and n^3 in the third stage.find overall complexity ?
+     Ans: n^3(highest)
+10. 5 questions on veinn diagram from book (2)
+
+11. 2 questions on relations.
+
+12. Code for MEN is 13-5-14 and TEN . Code for QUIZ is ...
+     hint : ( code for letter is its order ie for E-5.
+
+
+13:reasoing:in question 5 dish   and 3 drink is given and some codition
+is give like
+1.you will not take coffee and tea both
+2.doctor advise you not to take  some two dish given.
+and like two more condition is given
+a:which drink alwayes taken by person
+ans:orange juish.
+
+this is easy question.
+
+14:second reasoinig question is like jone in rank above david and like
+3 to 4 statment is give.
+and question is like.
+1.who is at higest rank.
+2.if merry is at rank 3 than the rank of david.
+this type question you can find in many book.
+Some more q's ( from Delhi )
+==============
+
+
+hi friends
+ there are three section . there are 44 question in all three section .the time is 45 mainutes.it$
+       
+ section I -20 question.
+ section II-11 question . it  is GRE resoning .you can easyly do these section.
+ section III-13 question
+
+there is no time limitatioin in individual section .so do  not bothere for that.
+
+
+1.  there is question  on figure .it is easy.  
+
+   ans d)  correct 2.  there are 1800 coins .one soin is defective in that .in
+how many minimum times you can find that the coin is defective.
+
+   a)11
+   b)9
+   c)7
+   d)2 
+
+
+3. there are two kind of professonal in a company software & personal.if the
+personal are 15% of the total .a party is going .in a party if 50% of the
+total professonal left and all are s/w then what is the ratio of the s/w
+professonal left to total software professonal.
+
+   ans b)  10/17 4. what is the probebility of the talking out two card one
+king and one quene of black in a card packet.
+
+ ans   d)  1/663 (ckeck)
+       
+5.1 1 2 3 5 ... 13
+ ans  8
+
+6.there are two more question of series .they are easy.
+
+7.there are two question of coding and decoding.they are also easy.
+
+8.how many word are be formed by by a 5 alphbet ward in which one word is
+twice.(I don't rembere the exact word)
+ ans   60  (correct0
+
+9.there is one question  on price rise and fall .
+ ans  1% decrese in price.
+      
+10.    1,7,17,31,--,71
+ ans 49
+ section II
+
+ in this there are easy   question on reasoning like GRE .
+
+
+
+
+hi friends
+ there are three section . there are 44 question in all three section 
+.the time is 45 mainutes.it is suffucent.
+
+ section I -20 question.
+ section II-11 question . it  is GRE resoning .you can easyly do these section.
+ section III-13 question
+
+there is no time limitatioin in individual section .so do  not bothere for that.
+
+
+1.  there is question  on figure .it is easy.
+
+   ans     d)  correct
+2.  there are 1800 coins .one soin is defective in that .in  how 
+many minimum  times you can find that the coin is defective.
+
+   a)11
+   b)9
+   c)7
+   d)2
+ 
+
+3. there are two kind of professonal in a company software & personal.if 
+the personal are 15% of the total .a party is going .in a party  if 50% of the total 
+   professonal left and all are s/w then what is the ratio  of the 
+ s/w professonal left to total software professonal.
+  
+   ans b)   10/17
+4. what is the probebility of the talking out two card   one king 
+and one quene of black in a card packet.
+
+ ans   d)  1/663 (ckeck)
+
+5.1 1 2 3 5 ... 13
+ ans  8
+
+6.there are two more question of series .they are easy.
+
+7.there are two question of coding and decoding.they are also easy.
+
+8.how many word are be formed by by a 5  alphbet ward in which one 
+word is twice.(I don't rembere the exact word)
+ ans   60  (correct0
+
+9.there is one question  on price rise and fall .
+ ans  1% decrese in price.
+
+10.    1,7,17,31,--,71
+ ans 49
+ section II 
+
+ in this there are easy   question on reasoning like GRE .
+I don't remember the passage and question.there are 11 question 
+in this

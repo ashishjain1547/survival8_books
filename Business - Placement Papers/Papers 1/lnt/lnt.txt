@@ -1,0 +1,58 @@
+        i m sending L&T questions which was asked there in our college on31st july,2001.......
+the pattern is like:
+         1) branch related ques. 50(30 min)
+          2) engg. aptitude test  60(40 min.)
+           3)  non verbal  ques. 36 (40 min)
+  mech. ques which i can recall is ...may not be as per the language stated there in paper but it would really  help there a lot.....
+       mech.
+1.what is the equivalent spring constant of two srings with k1 & k2 as sring constant connected in series? ans. k1.k2/(k1+k2)
+2.by which moulding we produce thermosetting plastics?
+3.when air is dirty what will be the injectility of the fuel .................more ?
+4.carbon deposits increase the comp. ratio.
+5.carbon increases the hardness.
+6.hot fluid passes thro the cylinder. by using two insulating material(k,2k)in which sequence may be more effective.......?   ( firstk, then 2k matl.)
+
+7.wings of the plane can be made by stretching.
+8.what will be the metal removal ratio if the balancings r done at 3000&1500 rpm..
+    ( cent. forces to be considered......ans 1:4)
+9.what is cylinder ratio? ans. arrangement of cylinders in which the centre line of crankshaft journal is per.to the plane containing the centrelines of the engine cylinders.
+10. In diesel cycle the compression ratio incereases more to expension ratio.
+11. In the shm of the ball inside a earth hole passing through the center ,velocity maximum at the  center.
+12.viscosity of liquid increases with decrese in temprerature.
+13. Piezometer measures static pressure..
+14. Which iron is used for body construction of machines, gray or white iron ?( not sure)
+15.what is core print ?
+16. pig iron is manufacture in --------blast furness
+17. what is the effect of increase arc lenght in building
+18. m 62 indicates ------ 6mm outer diameter & 2 mm pitch 
+19. what raputre failure.
+20 . 6 cylinders in a row , n0. of crancks = 1
+21. If in a steam power plant vaccum in condensor reduces what is the effect 
+22. pressure in industrial pnumatic  lines -------5 to 10 bar
+23. effect of low temp. ( -20 degree ) on carbon steel . 
+24.method of hardening of machine guidesways
+25. method of joining plastic by welding 
+26. safe method of loading on a cantileaver
+      a) UDL b) center point load c) triangular load having zero at center 
+27. BMD for UDL in cantilever 
+       Ans. parabolic
+28. Beams of uniform strenght can be made by 
+	a) varying width b) varying depth c) both d) none
+29. which of these not fusion welding process 
+	Ans: spot welding
+30. function of stroboscope is 
+	Ans: speed measurement of spur gear
+31.if  diameter  of pully is double how will the design of key way change
+32.gray cast iron used for machine parts 
+33. use of worm gear
+34.what will be the diameter  of  punched hole in punching opereation
+	a) same as punch b) punch dia + thichkness of sheet 
+35. this is figure porblem
+	described as :
+ 	there is right anguler wadge  with pully at vertex connecting 
+	two equal masses by string one on the sloping side and other
+	on the vertical side 
+	Questin is what will happen to them
+	Ans: mass will fall down
+
+

@@ -1,0 +1,418 @@
+> MBT in ISM TIME:55 MIN
+> ---------------------
+> 
+> model 1
+> THERE WAS ALTOGETHER 60 QUESTIONS.
+> THERE WAS 3 DISTINCT SETS OF PAPERS.
+> 16---QUANTATIVE
+> 10---ANALYTICAL
+> 15---REASONING
+> 9-----FLOW-CHART(2 nos.,questions on logically missing
+> statements in 
+> box)
+> 8-----COMPREHENSION(2page passage on Indian labor
+> union, Indian 
+> economic)
+> 12---DATA SUFFICIENCY
+> 
+> 
+> Q.1.-the cost of article depreciates 4/5 each year.its
+> initial cost is
+> $50000,find its cost at the end of 3rd year.
+> Ans-$2560
+> Q.2.If a**3*b**2=72 , find a+b
+> A^×5
+> Q.3.169,225,-----,361,441
+> A---289
+> Q.4.1/3th of a 10^Ò high wall painting is already
+> completed.if more 75 
+> sq. ft.
+> area is painted then it covers 3/4th of total
+> area.find the horizontal 
+> length
+> of wall.
+> A---18^Ò
+> Q.5.
+> 
+> 
+> 
+> 
+> 
+> A---15(in missing spot,result is sum of two)
+> Q.6.31,28,----,30,31
+> Q.7.37,41,----47,51
+> Q.8.23,48,84,133,----
+> A.^×197
+> Q9.130,215,300,345,----
+> Q.10.1/4,1/3,1/8,2/9,3/13^Åfind the least?
+> A.^×1/8
+> Q.11.192,221,---320,362
+> Q12.a right angled triangle is inscribed in a circle
+> of radius ^Ñr^Ò.find 
+> the
+> ratio of area of circle to triangle.
+> Q13.x**2+2*x-8=0,if x1=-4 find x2?
+> A.^×2
+> Q14.among 12 persons 6 are in A,4 are in B ,3 in
+> both.find how many in 
+> none.
+> A.---5
+> Q15.among 15 persons 7 know French,8 knows
+> Spanish,while 3 know no
+> language.find the fraction of persons who knows both
+> lang?
+> A---1/5
+> Q16.M,N,O,P are in senior while A,B,C in junior
+> group.A team consists 
+> of 3
+> with atleast 1 from each group.follo the 3 cond.
+> n O will work until A works
+> n M will work with B
+> n O will not work if P doesn^Òt
+> Please check these cond.
+> It is followed by 5 qwestions.
+> Q17.a no. ^Ñx^Òis multiplied by one less than itself is
+> 4 less than 
+> multiplied
+> by itself.find ^Ñx^Ò
+> A---4
+> Q18.in a triangle b,h are given & there is another
+> triangle whose b,h 
+> are
+> twice the first.find area ratio.
+> A---4
+> Q19.water is filled from cubiod of known dimension to
+> cylinder of known
+> radius.find the height of level in cylinder?
+> Q20.x$y=2x+y
+> 2$a=????
+> find ^Ña^Ò?
+> A---1
+> Q21.a man moves 10^Ò in street X then turns left &
+> moves 10^Ò in Y,again 
+> turns
+> left &move 10^Òin Z,then turns left &move 15^Ò,then
+> turns left &moves 10^Ò 
+> and at
+> last it turns left &move 5^Ò.where is he?
+> A---Y street
+> Q22.A is 9th from left in a row.B is 7th from right in
+> row.if both rows 
+> are
+> clubbed then B is 11th right of A.now boh
+> interchange.what is the 
+> position of
+> A/B(please check)
+> A---20
+> Q23.125/a gives rem=6
+> 89/a gives rem=4
+> find ^Ña^Ò
+> A---17
+> Q24.a reasoning on fibonacci no.
+> A.16 (0,2,2,4,6,10,---,26)
+> Q25
+> 
+> 
+> A---2
+> 
+> 
+> 
+> Q25.80% cases are solved in jan,70% in feb while 78%
+> in jan+feb.find 
+> the ratio
+> of cases solved in jan to feb?
+> A---1/4.
+> 
+> ---------------------------------------------------------
+> 
+> 
+> model 2
+> 
+> Section i -10 min
+> 1) 60 gm 30% win ^Aug to 50%. HOw my with no attain
+> 50%?
+> 12,20,24,30,45
+> 2)M Men agreed for $d gift 3 drop. How much more will
+> each have to 
+> contribute 
+> D/M-3, MD/3, 3D/m2-3m, 3d/m^2-3m,3d/3m-m^2,2m+
+> dm/3m-m^2
+> 3) Rectangle high tank 25" * 9". Water filled to 2".
+> This water
+> poured to an cyclindrical water container with dia
+> 10". How high
+> will the water be in cyclinder container.
+> 18p,p/18,18/p,9/2p,9p/2.
+> 4) Find the smallest 1/7,1/8,2/9,3/11,4/13
+> 5) 12 men, half belong to a club. 1/3 belong to B, 1/4
+> belong to 
+> both. How many within 3,4,5,6,8
+> 6) x^2+2x+8=0 then x is neither -4 or -2,-1,0,2,8
+> 7) NR and Dr of a fraction are in ration 2:3. if 6 is
+> subtracted from
+> Nr the result will be a fraction that has a value 2/3
+> of original 
+> fraction. the Nr. of original fraction is 4,6,9,18,27
+> 8) In a triangle, base -b, attribute A. Second
+> triangle with base twice
+> the altitude of 1st triangle and attitude twice the
+> base of 1st triangle. Area of 2^n1.
+> 11) 3 cannot in diff cage. Each cage 3 cavels with
+> digit nonzero
+> no., No ard has same no., and no 2 cage has 2 cards
+> with digit. 
+> total ten. total of 3 candy in 1 cage greeting
+> --------- 
+> section II - 10 min
+> 
+> 1) 5 9 7
+> 2 10 3 11 36 7 9 ? 5 
+> 4 8 8
+> 
+> 2) 4 2 
+> 6 10
+> ? 5
+> 9 7
+> 3) fig seq
+> 4) 1,3,8,19,42,89,?
+> 5) Ans E
+> 6) 7 16 12 8 16 10 9 ?
+> 7) fig seq
+> 8) 192,221,?,285,320
+> 9) 
+> 10) 21,34,?,89,144
+> 
+> Section iii
+> -----------
+> 1) 5 friends A shorter than B but taller than E. C is
+> tallest and 
+> D is little shorter than A. which one is shortest?
+> 2) 5 person A-E one horticulture,physicst,journalist,
+> industry,
+> advocate.
+> 1) a,c advocate prefer tea to coffee
+> 2) B and the journalist prefer coffee to tea
+> 3) The industry and the D and A are friends of one
+> another
+> 4) The horti is c's brother
+> 5) horti is neither friend of A as likes coffer or tea
+> 6) Physict is the friend of A but doesn't like coffee
+> 7) Advocates is not friend of A
+> 2)who is horti? A B C D E 
+> 3) who is journalist? 
+> 4) Who is physicist?
+> 5) which of the following indeeds the person who likes
+> tea 
+> and is also advocate?
+> -------
+> There is 4F, one father and son in each of smith tones
+> and brown
+> families. Each of 9 is plumber,joiner, bricklayer. GF
+> smith in
+> a joiner and no one wih surnams jones has a son or gs.
+> who is 
+> bricklayer but someone with surname Brown has a father
+> who is a
+> brick layer. No are key the occupation of father
+> grandfather son ,
+> grandson. No 2 SF father son have same occur when is
+> the occur
+> of tones who is not father?
+> 
+> 11) All lambs are lions. All lions are elephants
+> c1-> all lambs are elephants. All elephants are lamb
+> 12) All cars are not trains. All cars are 4 wheeled
+> vechicles
+> c1> all trains are not 4 wheeled. 
+> c2) some trains are 4 wheeled
+> 13) If he helps 1 will help him. but he doesn't help
+> me.
+> c1) will help him 
+> c2) i willn't help him
+> 14) All horse are donkey. No donkey is a man
+> c1) No horse is man 
+> c2) no man is horse
+> 15) electricians are mechanics. Mechanics are hard
+> awking.
+> c1) Electricity are hard working
+> c2) some hard working are electricians
+> 
+> A> throw a dice if < 4 sure 1 = 4 sure 2.74 sure 3
+> b=> if last throw was less than 4 and present throw is
+> less than
+> 4 sore fero; =4 sore 1 more than 4 score 2
+> 
+> 
+> MODEL 3
+> 
+> 
+> 1. The price of a share increased by 20% in 1981 and
+> 10% in 1982 by approx what %
+> would the price at the end of 1982 have to be decrease
+> to restore the price of the share ot its pre 1981
+> price?
+> 
+> 2.In a group of 15, 7 can speak spanish 8 can speak
+> French, and 3 can speak neither.
+> What fraction of the group can speak both?
+> 
+> 3. If it is a fre int and it reminders of 4 and 6 are
+> obtained when 89 and 125 rest are divided by a then a.
+> 
+> 4. If the result obtained by multiply a number x by a
+> number less than itself is 4 less then multiplying x
+> by itself then x.
+> 
+> 5. A jogger desires to run a certain course in 1/4
+> less time than she usually takes. By what percent must
+> she increase her average running speed to accomplish
+> the goal.
+> 
+> 6.A stize seller 5 different kinds of nuts. It is
+> possible to buy x pounds of the most experience nuts
+> for $3.2 and x pounds of the cheapest nuts for $1.40
+> then which of the toolll could be the cost of
+> purchaseing mistree contians x pounds of each 
+> $1.76,2.84,3.54,13.60,16.00.
+> 
+> 7. pen and pencil set costs $12 the same as then the
+> items are bought separately. if the pen custing $11
+> more than pencil, what is the ocst of the pencil.
+> 
+> 8. If a certain office each day the number of cases to
+> be handled is divided evenly 
+> among p workers. It 1/s of the workers are absent and
+> the cases they would have handled are divided amongh
+> the workers present. the increase in the share of each
+> of the a labourer is paid $8 per hour for an 8 hour
+> day and 1.5 times that rate
+> 
+> 10. What is the maximum number of glass that can be
+> placed rectangular on a table 48'' * 32''.
+> 
+> VI). Can i reach from A to B before 11 
+> i)the distance is 45 km . 
+> ii)A bus takes 90 minutes to 20 to m A to B and the
+> time for is 8.30 a.m.
+> 
+> 5) How much X earn in december.
+> i) earned Rs 500 on an average per month during the
+> years
+> ii)earning in the month of dec was double of the
+> avrage earns of remaining 11 month
+> 
+> 6) What is the radius of the wheel of train?
+> i) the number of revolutions made by it while
+> travelling from A to B is 1500.
+> ii) It is had travelled one more than, it would have
+> revolver 760m more time.
+> 
+> 7) Who received miimum of Rs 385 are died away m and A
+> and K 
+> i) m received 219 what A and K receive together.
+> ii) A received 3111 what m and togehrer recieved.
+> 
+> 8) How many ways can a group of photo of l and k with
+> their 3 friend.
+> 
+> 10) if a,b,c and +ve.
+> 
+> 
+> ***********************
+> **********
+> the QP is in as follows but it is not in currect
+> sequence so first see
+> the qp in the test and since there will be enough time
+> u also solve the
+> qp.
+> 
+> 1. Number of Weights needed for weighing 1 to 40 kgs?
+> 27 9 3 1 ans : 4
+> 
+> 2. Venn diagram problem venndiagram find the formulae.
+> Ans. ABC'+AB'C+A'BC 
+> 
+> 3. a+2b=6,ab=4 2/a + 1/b=? 
+> ans : 3/2
+> 
+> 4. age of 4 persons given in a relation find smallest
+> age? 
+> ans : meera
+> 
+> 5. find floating point result
+> (float)25/2, float(25/2), 25/float(2) ,25/2 
+> ans: 1 & 3
+> 
+> 6. find equivalent *(*(s+x)+y) ==> s[x][y] 
+> ans : content of s[x][y]
+> 
+> 7. find invalid statement : int a[3]
+> 1. scanf("%d",a[2]);
+> 2. scanf("%d",&a[2]);
+> 3. scanf("%d",a);
+> 4. all
+> 
+> ans : 1
+> 
+> 8.one palindrome programme was given in recursion
+> ans : t(t+1,f-1)
+> 
+> 9. main program:
+> i=foo(2) foo(int s)
+> {
+> if(!s) 
+> return s;
+> else
+> { int i=5; return i}
+> }
+> ans : 5
+> 
+> 10.Ans.
+> ordere of sequence fetch, decode,read
+> data,execute,stroe 
+> 
+> 11.
+> k=0 i=0j=1;
+> if(i<j) &&(j>0)&&(k=2) printf(k);
+> if(i<j || j>0|| k=0)
+> printf(k)
+> 
+> ans: 2 2
+> 
+> 
+> 12. radius of sphere given , find ratio of cube 's
+> surface area and cube sphere surface area 
+> ans: pi/6
+> 
+> 13. teacher in math=4 p6=3 kmistry=3 each can take 2
+> subject minimum teacher needed for school
+> ans : 5
+> 
+> 14. 3 vowels,4 consonents formulate string of 6
+> letters with a vowel in a string max no of string ?
+> ans: 5040
+> 
+> 15.binnary of .6875.
+> 0.1011
+> 
+> 16. man walks at speed of 8 km/h 300 mtrs length train
+> crosses man in 30 sec from back, find 
+> speed of train
+> ans: 44 km/hr
+> 
+> 17. chess corner
+> ans : 31
+> 
+> 18,
+> input : " this is the line."
+> 
+> main()
+> {
+> char ch;
+> int count=0;
+> while((ch = getch() != '\n')
+> {
+> while (ch == ' ')
+> ch = getch(
+> 
+> 

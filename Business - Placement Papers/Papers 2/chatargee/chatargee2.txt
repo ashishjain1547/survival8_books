@@ -1,0 +1,71 @@
+there are 3 sections 
+sec 1 : 20 questions    
+sec 2: 40 
+sec 3:15 
+30 minutes/section
+==================
+section 1+2
+
+Q1(passage)
+there are 5 medicines which are to be tested........
+   cond: 1. p is stronger than q
+	 2. r is less than s
+	 3. q....
+an: 1.p is more stronger 
+    2.statement 1234
+    3.there are atleast 4 medicines in every test less than m
+     ( all these are different correct ans for Q1. passage
+
+Q3 (passage)
+there are 6 persons k,l,m,n,o,p to give seminar 
+cond: 3 persons should give before lunch and 3 after lunch
+      l should immediately precede the seminar of m
+      there should be no gap between l and m .....
+
+ans: 1. L position is 2
+     2  m pos is 5
+     3. k pos is 4
+
+
+Q4(passage)
+ A is daughter of Y, Z is father of Y. Q is son of Z, 
+    1.if T is son of Y, then 
+	  ans: T and A brother/sister
+    2. if m is brother of T, then 
+    ans :Z is grandfather of M and  M & A are brother/sister
+    3. if Q is son of Z them
+    ans: Q & Y are brothers
+Q. if speed of ongoing train is 24 and while return is 48
+avg = ----  ans:32
+
+section 2
+
+Q. 0.23 + 0.02323 + 0.002323....  == ???
+Q.0.4 + 0.44 + 0.444 ..... = ???
+Q.1,2,2,4,8,? ans:32
+Q.55*55*55+45*45*45/55*55-55*45+45*45 ans:100
+Q.4^^61 + 4^^62 + 4^^63 + 4^^64 . this sum is divisible by which of
+the following ? ans:17
+
+Q. there are 12 fig series ( simple from RS.AGARWAL)
+
+
+section 3
+*** PROG LANG TEST
+     
+Q 1: n=11
+Q2 : count=33
+Q3 : n<=36
+
+Q. n=3
+   do while(n<=6)
+   n=n-1;
+   n=n*(n+1)
+   end
+Q if max() gives max of 3 nos, and min() min of 3 nos......
+ans : 3
+
+Q. there is a flow chart consisting n,sum, and count 
+    a condition is that : n > 10 
+    ans: sum=45, n=11;
+

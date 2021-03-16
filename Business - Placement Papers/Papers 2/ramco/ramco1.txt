@@ -1,0 +1,397 @@
+
+         (answers may not be correct please be careful)
+
+ 2. M > D > Y        ans: (a)
+ 
+ 6. 10 in 4 seconds,
+     ? in 6 minutes         = 10x6x60/4  = 900    ans: (a)
+
+ 7. a=2, b=4, c=5
+      (a+b)/c - c/(a+b) = 11/30 (ans).
+
+ 8. 100(100000000+100000000)/10000 = 2x1000000 (ans).
+
+ 9. what does the hexanumber E78 in radix 7.
+    (a) 12455  (b) 14153  (c) 14256  (d) 13541  (e) 131112   ans: (d)
+
+ 10. Q is not equal to zero   and  k = (Q x n - s)/2    find  n?
+    (a) (2 x k + s)/Q  (b) (2 x s x k)/Q   (c) (2 x k - s)/Q
+    (d) (2 x k + s x Q)/Q   (e) (k + s)/Q
+
+  (from GRE book page no:411)
+    data:
+     A causes B or C, but not both
+     F occurs only if B occurs
+     D occurs if B or C occurs
+     E occurs only if C occurs
+     J occurs only if E or F occurs
+     D causes G,H or both
+     H occurs if E occurs
+     G occurs if F occurs
+
+ 11. If A occurs which of the following must occurs
+     
+      I. F & G
+     II. E  and H
+    III. D
+
+    (a) I only   (b) II only  (c) III only  (d) I,II, & III
+    (e) I & II (or) II & III but not both             ans: (e)
+
+ 12. If B occurs which must occur
+
+    (a)  D   (b) D and G  (c) G and H  (d) F and G  (e) J   ans: (a)
+
+ 13. If J occurs which must have occured
+
+    (a) E  (b) either B or C  (c) both E & F  (d) B  (e) both B & C  ans: (b)
+
+ 14. which may occurs as a result of cause not mentioned
+
+    (1) D   (2) A   (3) F
+
+    (a) 1 only  (b) 2 only  (c) 1 & 2  (d) 2 & 3  (e) 1,2,3    ans: (c)
+
+ 15. E occurs which one cannot occurs
+
+    (a) A   (b) F   (c) D   (d) C   (e) J              ans: (b)
+
+ 11 to 15:-    -----------  e , a , b , c , b ---------------
+
+
+ 16.  to  20.  answers:    a,b,a,c,d (or  A,B,A,C,D) mostly small letters i.e
+                           not the A,B, etc. given in question, a,b, etc. are
+                           the answers of a,b,c,d,e the five choices.
+
+ 16 to 20:-    -----------  a , b , a , c , d ---------------
+
+                           
+        HCL  in Anna University they have conducted 
+ written test after the G.D. also in written test in each section you have to
+ get minimum marks i.e you have to pass in each section.  There will be
+ questions from C, C++, JAVA. about 10 questions in C++ in the written test.
+ so read well all the above i.e C, C++, JAVA and all and get through the test.
+           
+         WISH YOU GOOD LUCK. 
+
+
+
+
+
+
+
+
+ 
+
+              RAMCO  'C'     QUESTION  PAPER
+******************************************************               
+
+
+
+
+1).
+--------------------------------------------------------------
+
+main()
+{
+	char *p1="Name";
+	char *p2;
+	p2=(char *)malloc(20);
+	while(*p2++=*p1++);
+	printf("%s\n",p2);
+}
+
+
+
+Ans : An empty String 
+
+2).
+--------------------------------------------------------------
+
+main()
+{
+  	int x=20,y=35;
+	x = y++ + x++;
+	y = ++y + ++x;
+	printf("%d %d\n",x,y);
+}
+
+Ans   57   94 
+
+
+3).
+--------------------------------------------------------------
+
+
+main()
+{
+  	int x=5;
+	printf("%d %d %d\n",x,x<<2,x>>2);
+}
+
+Ans   5 20 1
+
+
+
+4).
+-----------------------------------------------------------------
+#define swap1(a,b) a=a+b;b=a-b;a=a-b;
+main()
+{
+	int x=5,y=10;
+	swap1(x,y);
+	printf("%d %d\n",x,y);
+	swap2(x,y);
+	printf("%d %d\n",x,y);
+}
+
+int swap2(int a,int b)
+{
+	int temp;
+	temp=a;
+	b=a;
+	a=temp;
+	return;
+}
+
+Ans 		 10   5
+                 10   5
+
+
+5).	
+--------------------------------------------------------------
+
+
+main()
+{
+ 	char *ptr = "Ramco Systems";
+ 	(*ptr)++;
+	printf("%s\n",ptr);
+	ptr++;
+	printf("%s\n",ptr);
+}
+ Ans      Samco Systems
+	  amco Systems
+
+6).
+--------------------------------------------------------------
+
+#include<stdio.h>
+main()
+{
+	char s1[]="Ramco";
+	char s2[]="Systems";
+	s1=s2;
+	printf("%s",s1);
+}
+
+Ans    Compilation error giving it cannot be an modifible 'lvalue'
+
+
+
+7).
+--------------------------------------------------------------
+
+#include<stdio.h>
+main()
+{
+	char *p1;
+	char *p2;
+	p1=(char *) malloc(25);
+	p2=(char *) malloc(25);
+	strcpy(p1,"Ramco");
+	strcpy(p2,"Systems");
+	strcat(p1,p2);
+	printf("%s",p1);
+}
+
+
+Ans : RamcoSystems
+
+
+
+8).
+--------------------------------------------------------------
+
+[1]. The following variable is available in file1.c
+
+ 
+static int average_float;
+
+Ans        all the functions in the file1.c can access the variable
+
+
+
+
+9).
+--------------------------------------------------------------
+
+Ans    :      [2]. extern int x;
+
+	Check the answer
+
+
+
+
+
+10).
+--------------------------------------------------------------
+[3]. Another Problem with 
+
+	# define TRUE 0
+
+	some code
+
+	while(TRUE)
+	{
+		some code 
+
+	}
+	
+
+	This won't go into the loop as TRUE is defined as 0
+	Ans    NONE OF THE ABOVE i.e   D
+
+
+
+11).
+--------------------------------------------------------------
+Ans   :  [4].   A question in structures where the memebers are dd,mm,yy.
+
+	mm:dd:yy
+	09:07:97
+
+
+
+12).
+--------------------------------------------------------------
+Ans :    [5]. Another structure question 	
+
+	1 Rajiv System Analyst
+
+
+
+13).
+--------------------------------------------------------------
+
+Answer
+
+	INFILE.DAT is copied to OUTFILE.DAT
+
+
+
+14).
+--------------------------------------------------------------
+
+ A question with argc and argv . 
+
+	Input will be
+
+	c:\TEMP.EXE Ramco Systems India
+
+	Output will be 
+
+		India: I n d i a
+		Systems: S y s t e m s
+		Ramco: R a m c o
+
+	Answer is choice d
+
+
+
+15). 
+--------------------------------------------------------------
+
+ Structure swap 
+
+	Ramco India
+	Ramco Systems Corporation
+	Ramco ... Limited .
+
+	After swapping the result will be
+
+	First two will be swapped. 
+
+	Ramco Systems Corporation
+	Ramco India
+	Ramco ... Limited .
+
+
+
+
+
+16).
+--------------------------------------------------------------
+
+int x;
+main()
+{
+	int x=0;
+	{
+		int x=10;
+		x++;
+		change_value(x);
+		x++;
+		Modify_value();
+		printf("First output: %d\n",x);
+	}
+	x++;
+	change_value(x);
+	printf("Second Output : %d\n",x);
+	Modify_value();
+	printf("Third Output : %d\n",x);
+}
+
+Modify_value()
+{
+	return (x+=10);
+}
+
+change_value()
+{
+	return(x+=1);
+}
+
+
+
+
+
+Ans   :   12     1      1
+
+
+
+
+17).
+--------------------------------------------------------------
+
+	
+
+main()
+{
+	int x=10,y=15;
+	x=x++;
+	y=++y;
+	printf("%d %d\n",x,y);
+}
+
+
+Ans  :   11    16
+
+
+
+
+
+18).
+--------------------------------------------------------------
+
+
+main()
+{
+	int a=0;
+	if(a=0) printf("Ramco Systems\n");
+	printf("Ramco Systems\n");
+}
+	
+Ans  :  Ony one time 
+		"Ramco Systems" 
+			will be printed

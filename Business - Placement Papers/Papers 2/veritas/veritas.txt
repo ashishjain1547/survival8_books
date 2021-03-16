@@ -1,0 +1,114 @@
+
+VERITAS PAPER  24th July, 2000 IN IIT BOMBAY
+============================================
+
+It was a 1 hr test.	100 marks!
+*Section 1
+	20 questions	objective, negative marking(2 correct, -1
+						incorrect)
+
+
+Questions were pretty ok. covered topics like OS,C,data structures...
+
+	*What is TLB? 	(meaning translation lookaside buffer)
+	*Which cannot be swapped from a system which uses
+	only tape as the backup store?
+		-page fault handler
+		-file system
+		-disk drive controller
+		-alll of the above.
+	*Probablity that 2 aces will appear in a set of cards when
+	picked?
+	*Which variables are put in the stack?
+		-auto
+		-static
+		-global
+	*Which causes a page fault?(or rather where a page fault can
+		occur?)
+		-MMU
+		-DMA
+		-Cache controller
+		-none of the above.
+	*Which is not the stable sorting method?
+		-quicksort
+		-bubblesort
+		-selection sort
+		-none of the above
+
+*Section 2
+----------
+	5 questions	subjective
+
+Question 1
+----------
+(5 marks each)
+
+	It had 4 questions, all on bitwise operators.
+	We had to answer value of a variable j
+	in terms of a varibale i and a constant 
+
+for(i=0,j=0;i<100;i++)
+{
+	j&=i;
+	if(!j)
+	{i&=i-1}
+}
+
+	i cannnot remember exactly, but such questions...
+	which got complicated with ex-or operators, etc....
+	
+Question 2:
+------------
+(7 marks each)
+
+	This had 2 questions which had 2 C programs
+	and u have to find whether they behave properly.
+	If u have a found a mistake then it can be rectified
+	modifying a single line of code.
+
+
+well i didn't read ques 3 and 4:(
+Question 3
+----------
+(8 marks)
+	
+Question 4
+----------
+(7 marks each)
+	a) It was deriving the program complexity
+		or the order of the pgm
+		of a program which was a C linked list
+		complicated program
+	b) was to provide solution as to how to decrease
+		the order!
+
+i will ask my friends who have passed and let u know by tomorrow
+about these questions
+
+They did give us 15 mins extra....:)
+---------------------------------------------------------------
+
+
+Q.3
+  write a code using given instruction to
+  increment the content of memory location M by 1.
+  
+  as a hint they have given that this is possible in 6 clock cycle......
+
+
+Q. No. 3.  A micropro. supports following instructions.
+ 
+ 1. add/or/exor  A,B add ato b and store result in A 1 cycle.
+ 2. not   A                        1 cycle
+ 3. mov  A,B     move A to B
+ 4.???????
+
+  A,B can be register or memory..
+  can't be immediate......
+
+  increment the content of memory location M in mimimum clock cycle(
+  i.e. 6).
+  instructions involving memory involve extra 2 cycle for load and store.
+   there r 2 register...
+
+*****************

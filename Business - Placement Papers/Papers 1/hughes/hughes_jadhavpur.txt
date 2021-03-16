@@ -1,0 +1,144 @@
+
+A*********************************************************************
+*
+HUGES PAPERS  
+JADAVPUR UNIVERSITY
+**********************************************************************
+
+Huge Papers(Most of them were from July 2000 ,some are from this
+year)
+Still I'm sending the questions
+the questions were as follows:
+Section A consists of Network communications 
+Section A:
+------------
+1.Flush of a bathroom is equivalent to which
+electronics circiut
+(a) Capacitor     (b)Integrate and dump circiut
+(c)Diode    (d)
+ans: (a)
+
+2.There were two questions on Unix programming.I don't
+remember the programme
+exactly.But the question were asked to find the o/p of
+the programe and the error of the 
+programme.
+
+3.In Internet Transprot layer which is not a protocol
+a)/etc/host
+b)TCP
+c)UDP
+d)...
+
+4.How many address bits are there in Ipv6?
+
+5.There are 2protocols IP and IPX are running on top
+of Ethernet. Suppose
+a packet addressed to that ethernt card arrives, to
+which protocol the
+ethernet sends the packet?
+1. It checks the payload of the frame and finds out
+the protocol type and
+despatches it to the right protocol
+2. It fins out the protocol type that is mentioned in
+the ethernet frame.
+3. despatches to both the protocol
+
+6.path testing
+a. black box
+b. white box(ans)
+
+7.There were questions on ICV. I don't remember the
+questions actually
+
+8.Normalisation
+
+9.One question was from Avalanche diode
+
+10.CSMA/CD is used in
+a) token ring
+b) FDDI
+d) ethernet
+Ans : d
+
+11. if even parity is used for parity generation, what
+is the
+hamming distance
+ans:2
+
+12.the code set is {00000,00111,11100,11011}
+what is the error detecting and correcting capability?
+ans:2,1
+
+13. IEEE 802.5 is
+ans: TOKEN RING
+
+14. about deadlock condition
+
+Section B:(Apttitude and reasoning most of them were
+mathematics based)
+-------------------------------------
+1.There were four guys and three girls in a park along
+with their dogs.Sangeeta is unmarried
+There are two couples.Rahul is Jaya's husband.Neelam
+is Gourav's sister.Others were Ravi and
+Shakti.Sangeeta doesn't like sitting beside rahul.Jaya
+doesn't like the dog so their dog was hold by her
+hubby.Ravi was not holdind any dog since his wife was
+holding it.Determine the sitting arrangement in the
+park.
+
+2.A man spends 1/6th of his total life in child hoos,
+1/7th as 
+youth, 1/12th as bachelor, five years after marriage a
+son was born. 
+the son died four years before his father, at an age
+of half of his   
+father's final age.ans: 84 days 
+
+3.Five persons A,B,C,D and E were traveling in a car.
+They were two ladies in the group. Of them who knew
+the car driving one was a lady. A is brother of D. B
+wife of D, drive at the beginning. E drive at the end.
+
+
+1) Which of the following is a pair of brothers.
+(Ans.: A, D)
+2) Who was the other lady in the group. (ans: C) 
+3) In the case of which the following pairs, no
+relationship can be established with one else in the
+group (ans: C, E) 
+4) How was E related to A. 
+
+4.1,4,9,_,_,_,49,64.
+
+5.One question was on the polynomials and their
+degree.I don't actuallyremember the expression.
+
+6.There were 4 more questions on the numbers
+series.Practice them from a good book.
+
+7.Find the hypotaneous of a right angle isoceles
+tringle whose area is
+50. Ans. 10*(root 2)
+
+8.(root 200) - (root 50) =?
+
+9. Factorize y**2 + 8y - 48 =0
+
+10.21, 463, 687, 238, 1134, ----
+
+11.0, 6, 24, 120, 210, ---, ---- 
+
+12.There were two sums on probability.
+13.
+
+14.Cost of article x,first discount is y% of cost,
+seconddiscount is z%
+of cost . The price of x is
+x(1-y/100)(1-z/100)(ans)
+
+
+
+
+

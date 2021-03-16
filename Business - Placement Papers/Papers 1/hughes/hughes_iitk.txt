@@ -1,0 +1,160 @@
+
+iitk paper Hughes 2001.
+
+There are 2 sections. One contains 20 question from aptitude and another has 
+30 question from technical(for both CSE and EE).I attmpted only CSE section so 
+there i m with CSE section.  
+
+Aptitude
+
+1) In a room all except 18 peoples are of more than 50 years. There are 5 
+peoples of less than 50 year age. How many peoples are in the room.
+
+ans : u can't find out from this much information.
+
+2) party consist of grandmother, father, mother, 4 sons and their wives, each 
+son has 1 son and 2 daughters. total number of females in party.
+
+ans: 14
+
+3) Avg of 5 consecutive nos. is n. If next two nos are also added to find 
+the average  then average is
+
+ans: increased by 1.
+
+4)If A & B works in the ratio 5:6, what will be the
+ratio of their 
+times in
+which they finish?
+ans: 6:5 
+
+5) boat travelling upstream speed and downstream
+(speed given). find 
+speed in
+still water
+ans: 2 hrs
+
+6)Bus speed excluding stoppage 54 kmph. with stoppage
+45 kmph. for how 
+long will it stop on the stoppage?
+ans: 10 min
+
+7) (10^n - 1) is divisible by 11 only if
+ans: n is always even
+
+8) A man travels 14 hrs 40 min. First half of the
+journey is covered by train at 60 kmph. second half at 50 
+kmph by bus. what is the total distance travelled.
+ans: 800
+
+9) av. temp from mon to wed is 37 degree C av. temp from tue to thu is 
+34 degree C. Temp of thursday is 4/5 th that of monday. what is temp of 
+thursday.
+ans: 36 degree C
+
+10) A number when multiplied by 423 was gives  65589 of which the two 5's 
+were wrong and all the other digits are correct.
+What are the correct nos?
+ans: 60489.
+
+11) A rupee coin is placed on plain paper. How many coins can be placed there such 
+that it touches the central and adjacent coins.
+ans: 6.
+
+12)one question was on numbers. one digits is mising and u have to find least value of 
+it so that it must divisible by 8.
+ans: 3.
+
+13)<n> = n(n+1)/2.
+u have to find <m> where m = <5>.
+Ans: 120.
+
+14)Sushil age is 3 times what snehal's was 6 years back.
+ 6 year ahead it'll be 5/3 times snehal's. find age of someone 
+i couldn't remeber
+
+15) 2^n + 2^(n-1)/2^(n+1) - 2^n is equal to
+ans: none of them ( 1/4).
+
+16) there is 40kg milk. 4 kg taken and and in remaning 4 kg water is mixed to make it 
+40kg again. Process is two more time. U have to tell how much is the milk is the vessel.
+ans: sorry i couldn't remeber.
+
+17) An amount of rupees can be paid to A as wages for 21 days & B for 
+28 days. If it has to be paid for both how many
+days will it last ?
+ans: 12 days
+
+Sorry guys 3 questions i couldn't remember.
+
+Technical for CSE guys.
+Again sorry as i haven't attmpted this section so i couldn't remember it completely.
+
+1)Semaphore is used with which IPC mechanism
+a) message queue
+b) shared memory
+c)d)
+
+2) MS-DOS and os/2 file allocation techinque used
+a)indexed
+b) contiguous
+c)d)
+
+3)Memroy management scheme in intel
+a)paging
+b)segmentation
+c)2level paging
+d)3 level paging
+
+4) one on left recursive grammar.productions are given.u have to remove it.
+
+5) 5 question on oracle..ooofff
+
+10) u defined some exception but haven't raised it in function.
+what will happen at compile time..
+
+11)A C function is defined in one file.
+   now in other file this file is not included.
+and function with the same name is declared extern
+and later used it.
+u have to tell the line having  error at compilation.
+
+12) IP address size in IPv6
+
+13) sliding window protocol is used in which layer
+
+14) u have to invoke base class function from derived one. How to do that.
+
+15) RS232 is called
+a)serial port
+b)parallel
+c)SCSI d)
+
+16) hard disks cylinder size,sector size etc. information is kept in
+a)RAM b) ROM c) CMOS d) EEPROM
+
+17) what processor does when interrupt arises
+a)stops execution
+b)acknowledge the interrupt
+c)d)
+
+18)NICE system call of unix
+
+19)Parse tree can be represented as
+a)linked list b)adjacency list c) both d) none
+
+20) insertion sort and heap sort compelxities.
+
+21) O(loglog n) is better then O(log n) for 
+a)smaller values of n b) larger c)  both d) none.
+
+22) DHPC is used for
+a) assigning automatic IP addresses.
+
+That's all in my memory.
+
+Ashok Bhatt
+ashokb@cse.iitk.ac.in
+  
+
+

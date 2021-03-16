@@ -1,0 +1,82 @@
+1 . a is 5 miles east of b . c is 10 miles southeast
+of b . find dis between a and c . ans is root 34 .(
+ans is correct , qs may be wrong )
+2 dis . between a, b is 60 miles , c is 50 miles
+from both . find shartest dis between c and thwe
+highway connecting a b .
+3 area of 2 squares r in the ratio 2:1
+find the ratio of there perimeter .
+4 2x+y= 2y+x
+find x-y .
+5 *(*9) , * means twice the no. minus 10 , ans 6
+6 a tank can be filled in 6 min by a pipe supplying
+5 cu ft .
+length is 4 ft , breadtn is half of length . find
+height .
+7 x/3=y/z then 9y^2=??
+8 2 no. on multiplecation gives 10 , when added
+gives 7 . what is the largest of the two no.
+ans 5
+9 36 chairs must be arranged in atleast 3 rows , min
+3 chairs in each row , all rows are parellel . find
+the no, of rows .
+10 there are 30 socks 60% are red . rest blue . min
+no of socks to be taken out to have stleast two blue .
+11. a holds 40% shares . b holds 15000 shares , c
+holds 25% more than a . how many shares do b have .
+12 75 % of distance is covered at average speed of v
+miles /hrs in t time . remaining at an average at an
+average speed of s .
+ans : vt/3s
+13 x=y=2z , x*y*z=256 , find x .
+148 english questions are from Gmat guide(dsitto)
+pg no i dont remember (something in 250s)but the
+wuestions were
+CPI(price index),
+being a realist......
+drug rehabilaiition...
+if one ate in the restraunt
+all r given in gmat guide
+
+
+tech paper
+electrical
+1 velocity of em wave . given L and C
+v= 1/root LC
+2 f(xy)=x^2+y^2+xy+y+x
+
+
+i no extremum
+ii one max no min
+iii no max no min
+iv one max one min
+3 reflection co-efficient zl+z0/zl-z0= v0 max/ v min
+ans 150
+effect of bounded conductor
+ans c inc . L dec
+4 qs. on torque
+
+torque = NBIA
+
+5 PROB OF HITTING A TARGET IS .25 . A PERSON FIRES 4
+TIMES . WHAT IS THE PROB OF HITTING 2 TIMES
+. THIS QS . IS COMMON IN ALL BRANCH PAPERS .
+6 .
+
+
+
+IT WAS A TOUGH PAPER 50 QS 1 HRS . I DONT REMEMBER
+THE REST
+electronics paper v tough besides above ques it had
+ques. on DSBSC,
+CDMA employs what tech.
+1)tdm 2)fdm 3) diverse spectral 4)none
+diff. amplifier--ckt. given find voltage gain
+see GATEpaper 4 elec.& comm.
+advantage of vsb over ssb. also ques. on vectors;
+matrices;eigen values.
+study linear control theory
+
+MECH PAPER WAS VERY TOUGH .
+THERE WERE QS ON STRENGTH OF MAT . MOSTLY ,
+SPRINGS , BENDING MOMENT , CURVED BEAMS

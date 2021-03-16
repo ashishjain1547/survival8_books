@@ -1,0 +1,114 @@
+        This is deshaw from iitg.
+
+section1)quantitative 20 min 20 bits.after 20 min you
+should return paper.
+
+section2)programming java,... 20 bits
+
+section3)A puzzle
+
+
+"""i am sending questions only""".You should prepapre
+answers.
+..............................................................
+section1)  :quantative
+............................................................
+5)a brick is 4kg.If you make the brick 1/4 then how
+much will be its weight.
+7)ans is "c"mohan 8km behind ravi"mohan speed
+6km/hr,ravi speed 4km.hr when will mohan cross ravi.
+8)a man on motorcycle is going inthe direction of
+bulltet(gun).A man fires two bullets with time gap
+"""25min""".But the man on motor cycle listens second
+shot after 27 min.then find sound velocity:motorcycle
+velocity.
+
+9)k-7 is divisible by 11   and k+3n is divisible by 11
+.find minium n answer is (a).that means n=5.
+
+10)5red ball,7 white ball in one bin,3red ,12 white in
+another bin.If one ball picked what is prob of it is
+red.answer is 37/120
+
+14)1-(0.1)*0.2=0.98 is the answer.
+
+15)0.1% in one meter answer is (a)
+
+16)ans c
+
+19)4,12,15,5,2,---  fill that gap.
+
+...............................................................................
+..............
+section 2
+...............................................................................
+..
+1)"soap" means/*i think ans is a*/
+
+2)char *(*(*a[n])())(); means ans:a is an array [n] of
+pointers to function returning pointer to functiuon
+whose return type is char pointer
+
+3)what will be in ""/etc"" answer is c(password files)
+
+4)api used to hide window
+
+5)ntfs means /*new technoly file system*/
+
+6)a bit on unix properties answer is all of the above.
+
+7)i=7;i++*i++ answer is 49(check)
+
+8)p[]="d e shaw"
+
+he made p++.so it is surely """compile time error.""""
+9)char *(*(* var)())[10] means var is a pointer to a
+function returning pointer to an array[10] of pointers
+10)
+if we pass n=10 to the following function,how many
+times it will print ""done""
+f(int n)
+for(i=1;i<=n;i++)
+f(n-i);
+print("done");
+
+i think answer is none of the above.
+
+12)
+
+i=0,j=1
+printf("%d", max(i++,j++) )
+printf("%d%d",i,j);
+
+you got this type question in so many papers.
+
+14)asked about properties of "structure","class"
+ans is a
+17)what is property of ""final class"" in java
+ans is can't inherit further.
+
+
+...............................................................................
+.................
+section 3:in this section you have only one question
+...............................................................................
+...
+
+Write any three numbers in a row.It is always possible
+to find a subset of adjucent numbers that add up to a
+multiple of 3(that is either one,two or three numbers
+that are next to each other).
+
+for example (1):          5,7,1    5+7=12(multiple of
+3)
+
+example 2:                4,4,15   15 is multiple of 3
+
+example 3:                5,11,2   5+11+2=18 is
+multiple of 3
+
+can you explain why and prove it ?what happens if you
+write a long list of numbers(say ""n"" numbers).Is it
+always possible to find a subset of adjacent numbers
+that add up to a multiple of ""n"".Can you explain why
+and prove ????     

@@ -1,0 +1,44 @@
+Here is the C section.(not in order)
+
+1. x=x^y;
+   y=x^y;
+   x=x^y;
+x=?
+
+2. In a link list we want to go from last to first element and vice
+versa.
+Which is efficient
+a. Cirular List
+b. Doubly Link List
+c. Double Ended Link List
+d. Simple List
+
+3.Hash function h(i)=i mod 5, there are 5 buckets 0,1,2,3,4. Rehashing is
+(h(i)+1)mod 5,(h(i)+2)mod 5......
+5 numbers are to be enterd, Find the number in a given bucket..
+
+4.To reconstuct a Tree which sequence is enough
+a. Inoreder sequence
+b. Preorder and Post order
+c. In, Pre, Post order are required
+d. Any one can be used
+
+5. (i)
+for(i=0;i<MAX;i++)
+for(j=0;j<MAX;j++)
+a[i][j]=0;
+
+(ii)
+for(i=0;i<MAX;i++)
+for(j=0;j<MAX;j++)
+a[j][i]=0;    
+
+Which code is faster if demand Paging used.
+
+6.convert a inorder string to post order
+
+7.int (*a[5])() what is this declaration?
+
+
+There were in all 10 questions in this. Also a section on Analog Circuits,
+Digital Circuits and Computer Architecture. Do any 2 of 4.

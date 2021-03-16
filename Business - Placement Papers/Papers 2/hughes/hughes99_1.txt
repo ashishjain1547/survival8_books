@@ -1,0 +1,227 @@
+This paper was contributed by Mr. Thejo Prakash pillai 
+I am thankful to him for this
+
+ This is HUGHES-99 paper
+**********************************
+It consist of two section part A and B or C
+For CSE student part A & B is better.
+Here i am writting some Questions from part A and B for CSE student
+Questions are not in order.
+***************************************************
+1.
+
+f(char *p)
+{
+ p[0]? f(++p):1;
+printf("%c",*p);
+}
+if call that fuction with f(Aabcd) what is the output??
+ans:dcbaA (Just reversing the string
+
+2
+ f(char *p)
+ {
+ p=(char *)malloc(sizeof(6));
+strcpy(p,"HELLO");
+}
+main()
+{
+ char *p="BYE";
+ f(p)
+printf("%s",p);
+}
+what is the o/p???
+ans:HELLO
+3
+
+To sorting array of 10 elements which sorting is best
+a)slection
+b)bubble
+c)tree sort
+d)....
+ans:a
+
+4
+
+To saving space paoint of view which sort is best
+a)selection
+b)insertion
+c)both a & b
+d)...
+check it once.U Can easy Aanswer this question(UCA)
+
+5
+Which statement is wrong on heap
+a)Any two childs should not same
+b)..
+c)..
+d)...
+ans:a
+6)
+ one more question on heap
+
+ UCA
+
+7
+read about cyclometric complexity..
+8
+
+how many  null pointer are there in N number binary tree
+ans:N+1
+
+9
+Two sorted list of size n what are the maximum comparison in merge
+ANs:2n-1
+10
+converting 41.685 to binary
+11
+
+pc is incremented while executing ---------- instruction
+ans:fetch instruction
+
+12
+
+this is  gates (NAND)problem
+It means some gate figure has given with all NAND gate we have write
+equavalent gate
+ans:OR gate
+
+13
+x:validating :Are we producing product right
+y:verification:Are we producing right right
+a)X is wrong statement
+b)y is "
+c)x and Y "
+d)x & y is right statement
+
+14
+
+ NFS some queston in NSF.
+ see distibuted operation System book
+                    by  tenaun bamab
+15.
+IP & IPX is implemented in trasport layer.......
+mama all our friends can answer this question .Here i am unable to recall
+that question.If u a have any doubts on Ip & IPX contact HARI because he
+did his project is B.Tech in that protocals
+
+UCA
+16
+
+comparison between hashtable and binary tree
+ans:a
+UCA
+
+17
+client server is working in asyn mode then how communication will take place
+bt client and server.
+
+UCA
+18
+once context  swithing occures then ------------will take place
+a)saving register
+b)saving stack
+c)....
+d).....
+UCA
+
+19
+If precondition is failed what u say about postcondition?
+Note:Read about preconditon and postcondition
+20
+whiling download java applete then web broswer do the folling
+a)checking the class structure..
+b)...c)....d).....
+Read about this
+21
+Strings in Java
+a)Mutable
+b)variable length string
+c)...
+d)....
+ans:b
+22
+in Internet Transprot layer which is not a protocol
+a)/etc/host
+b)TCP
+c)UDP
+d)...
+UCA
+23
+
+Which is not specified in CODD's rules
+a)....
+b)....
+c)...
+d).....
+
+It is from DBMS question
+Refer NAVATHI BOOK chapter -9 appendx topic is CODDE's rules
+24
+
+what is the use of Normalization
+a)....b)....c)...d)...
+Any one can answer
+25
+
+Futional dependecy x->y is shows that
+a)if x1=x2 then y1=y2
+b)...c)...d)...
+ans:a
+26
+
+one question on IP addsress 243.65.77.8 some thing
+a)...b)..c)..d)...
+every one can answer
+27
+
+If A  sends a message to B with encryption then key is
+a)A public key
+b)B public key
+c)A private key
+d)B private key
+ans:b (Check it once)
+28
+
+In a class only declaration of the function  is there but defintion is not
+there then what is that function
+ans:virtual function
+
+29
+what is not necessary condition in dead lock
+ans:a
+30
+One question from multible inheritance...
+a)..b)..c)...d)......
+31)
+ICV protocal
+i don't know about this mama .Till now i didn't heard that protocol
+mama..just know what is that then u can answer this question
+
+32
+
+one question from catches like write-through protocal etc
+33
+catche access time is 100ns ,memory access time is 1000ns and hit ratio
+is 0.9 then what is average memery access time
+a)100ns
+b)200ns
+c)400ns
+d)500ns
+ans:b
+***********************************************************************
+Hai friends,
+        Here am sending 32 question remainings are some C questions and easy
+i didn't remeber correctly,sorry.If do 30 question u can select easly.Then
+remainning things are depend on ur interview.
+        HUGHES is not bother about ur GREE english etc it what Indepth at any field
+of CSE.
+      I wishing that atleast 4 or persons will be slected in HUGHES from our
+collge(N.B.K.R.S.T).
+    If u have any doubts at any aspect please ask me. I am praying GOD every our
+will settle in good position with 10 or 15 days.
+   After our selection is competed we allwe meet in one place before our job
+appointment
+bye....
+with love
+kissr, Nayudupet.

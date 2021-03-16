@@ -1,0 +1,278 @@
+
+>*******************************************************************************
+>			TCS C PAPER-1998
+>*******************************************************************************
+>
+>1. fn(int n,int p,int r)
+>	{
+>	static int a=p;
+>	switch(n);
+>	{
+>	case4: a+ = a*r;
+>	case3: a+ = a*r;
+>	case2: a+ = a*r;
+>	case1: a+ = a*r;
+>	}
+>	}
+>	The aboue programme calculates
+>	a.Compound interest for 1 to 4 years
+>	b.Amount of Compound interest for 4 years
+>	c.Simple interest for 1 year
+>	d.Simple interest for 4 year
+>	
+>2. int a[50], *pa;
+>	pa = &a[0];
+>	In order to access 5th element, find the incorrect one
+>	a.pa[5]
+>	b.a[5]
+>	c. *(*(pa+5))
+>	d.*(a+5)
+>
+>3. Regarding the variables select incorrect one
+>	Ans. Auto variables select incorrect one
+>
+>4. Write onest equivalent to the following two
+>	x + sqrt(a);
+>	return(x);
+>	Choose one of the alternatives
+>	a.printf("%d",sqrt(a));
+>	b.return(sqrt(a));
+>	c.printf("sqrt(a)");
+>	b.return(a*a*a);
+>
+>5. Which of the following is not an infinite loop
+>	a.while(i){....}
+>	b.do{......} while(i);
+>	c.for(ii)
+>	d.#define TRUE 0
+>	  while(TRUE){....};
+>
+>6. What does the following function print ?
+>	func(int i)
+>	{ if (i%2)
+>	   return 0;
+>	else
+>	  return 1;
+>	}
+>	main()
+>	{
+>	int i=3;
+>	i=func(i);
+>	i=func(i);
+>	printf("%d",i);
+>	}
+>	a.2	b.3	c.1	d.0
+>
+>7.to10.th bit: Choose one of the alternatives for the following
+>	a.float		b.int		c.char		d.string
+>	7.'9'
+>	8."1e02"
+>	9.10e03
+>	10.15
+>
+>11. Consider the following structure
+>	struc num_name{int no;
+>			char name[25];}
+>	struc num_name n1[]={{12,"find"},{15,"matrix"},{8,"pick"}};
+>	.........
+>	.........
+>	.........
+>	printf("%d%d",n1[2],no,(*(n1+2)),no+1);
+>	What does the above st. do ?
+>	a. 8,9		b. 8,8		c. 9,9		d. 8,unpredictable value
+>
+>12. for(i=0; i!=10; i+=2)
+>	printf(".....");
+>	How many time will it execute ?
+>	a.10	b.0	c.5	d.not even once
+>
+>13. 20 bytes are allocated to a string s
+>	s="ENIRANC B"
+>	l = strlen(s);
+>	then i = ?
+>	a.20	b.22	c.21	d.8
+>
+>14. y=5;
+>	if ( x == 10)
+>	else  if ( x == 9)
+>	else  y=3;
+>	then y = ?
+>	a.8	b.7	c.5	d.0
+>
+>15. Which is incorrect ?
+>	a.a+=b;
+>	b.a*=b;
+>	c.a>=b;
+>	d.a**=b;
+>
+>16. operator for  
+>	a. not available	b. **		c. ^	d. %
+>
+>17. cond1? cond2 ? cond3 ? : exp2 : exp2 : exp3 :exp4
+>	the equvalent set of statements to the above is 
+>	a.    b.     c.   d.
+>
+>18. valuue stored in a variable of type double is 
+>	a. can be less athan int or float or long
+>	b. always > int
+>	c. always < long
+>	d. always > float
+>
+>19. Thetre are 100 functions and first 50 are in file 1.c and rest
+>	in file 2.c then they must be declared in file 1.c as 
+>	a. auto  
+>	b. global 
+>	c. static 
+>	d. external
+>
+>20. struct out {
+>		struct in{ char c;int d;}s1,*p1;
+>		}a1, *pa1;
+>
+>	pa1 = &a1;
+>	a1.p1 = &s1;
+>	
+>	Which is incorrect?
+>	a. a1.p1->c  
+>	b. pa1->p1->c  
+>	c. a1->p1  
+>	d. a1.s1.c
+>
+>21. if a=z then value a <<1 is ?
+>	a. 3 	b.4 	c.2 	d.1
+>
+>22. #define prod(a,b) a*b
+>	x = 2; y = 2;
+>	prod(x+2,y+1) = ?
+>	a. 6 	b.12 	c. 7 	d.16
+>
+>23. int sum = 1;
+>	switch (2)
+>	{
+>	 case 2:  sum sum+2;
+>	 case 3: sum*=2; break;
+>	defdault: sum = 0;
+>	}
+>	which is the value of sum ?
+>	a. 2 	b. 6 	c. 1 	d. 0
+>24. Which one of the following is invalid?
+>	a.if(a==1) b. if(a != 3)
+>	c. if(a<b) then  d. if(a<0)
+>
+>25. int x = 5, *p;
+>	p = &x;
+>	printf("%d",++ *p); what is the output?
+>	a. 2 	b. 6 	c.1 	d. 0
+>
+>26. unsigned int i = 10;
+>	while (i>=0) {---------;  i--}
+>	How many times the loop is executed?
+>	a.10 b.9 c. infinite d.11
+>
+>27. pick the odd man out 
+>	a. malloc 
+>	b. calloc 
+>	c. realloc 
+>	d. free
+>
+>28. pick the odd man out
+>	a. c = fgetc(stdin)
+>	b. c= getch();
+>	c. -----
+>	d. gets(s);
+>
+>29. Which is incorrect regarding a recursive function
+>	a. does not return a value at all 
+>	b. calls itself 
+>	c. equals to a loop
+>	d. has a termination condition
+>
+>30. Write an expressionfor " either x lies in the 
+>	range of 10 to 5o or y = 0"
+>	...........
+>
+>31. x = 7; y= 0;
+>	if(x ==6) y =7;
+>	else y = 1;
+>
+>	what is the vcalue of y?
+>
+>32. Choose the incorrect one
+>	auto variables within a function are 
+>	a. global 
+>	b. local  
+>	c. its type must be declared before using 
+>	d. -----
+>
+>33. The delimitor for statements is 
+>	a. semicolon 
+>	b. colon 
+>	c. ---   
+>	d. ---
+>
+>34. which of the following is invalid?
+>	a. int a;  
+>	b. int c = 10;  
+>	c. float a int b = 3.5  
+>	d.---------
+>
+>35. The format specified for hexadecimal no is 
+>	a. %d  	b. %c  	c. %x  	d. %a  
+>
+>36. A compaound statements choose incorrect one
+>	a. a set of simple st.s
+>	b. demarcated by {}
+>	c. ------------
+>	d. ------------
+>
+>37.  main function in a C program is 
+>	a. the first function 
+>	b. the  second function
+>	c. the last function 
+>	d. any where in the program
+>
+>38. Consider the following statement 
+>	res= a>b.? a>c? :a:c:b>c?:b:c
+>	if a = 3, b=-5, c=2 then res = ?
+>
+>	a. 3 	b.-5 	c. 2 	d. 0
+>
+>39. Which of the following is invalid?
+>	a. trpedef struct {-----}a1;
+>	b. typedef struct new{---;---;}data;
+>	c. typedef struct {---;----;}data[10]
+>	d. #typedef struct {----;----}a2;
+>
+>40. HOw many times will the while loop be executed?
+>	a = 0;
+>	while(a<5);
+>	a++:
+>	a. 1  	b. 5  	c. 4  	d. indefinite
+>
+>41. consider the following expantion
+>	int a;
+>	a = 5/9*(4t-32)
+>	if t = 61 what is the value of a ?
+>	a. ---------
+>	b. ---------
+>	c. ---------
+>	d. ---------
+>
+>42. among the following which one will come out of loop when exp2 
+becomes
+>	false
+>	a. ---------
+>	b. ---------
+>	c. ---------
+>	d. ---------
+>
+>43. *a[5] indicates
+>	a. array of pointers
+>	b.  	c.  	d.
+>
+>41. one of the following is false related to comment line
+>	a. \*
+>
+>NOTE: Cobal paper same as previous one. C paper having the 50 
+questions.
+>----

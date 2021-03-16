@@ -1,0 +1,74 @@
+S
+>       ======
+>
+>
+>  // This is another paper, we don't have this paper as such, I am
+>giving
+>  // over all idea of paper with some question...
+>
+>  // There r 5 sections; 5 questions in section1, 5 in section 2
+>  // 8 marks in english (section 3); section 4 TRue or False type
+>
+>/*********************************************
+>  Section1:
+>
+>    5 questions.. (Mutiple choices)
+>
+>   i.e select any one of the  following for 5 questions;;
+>
+>   A) only 1 is sufficent
+>   B) only 2 is sufficent
+>   C) both nessary
+>   D) both are insufficent
+>   E) either is sufficent
+>
+>
+>  1. .......... (Don't know)
+>
+>  2. one composition contains...  5/4 L  6/14 L....
+>
+>    (Ans. both r insufficent)
+>
+>  3. x fabric....  6.50 per meter , 25% wholesale...
+>
+>   (Ans: both r required)
+>
+>  4 & 5 don't know....
+>
+>/**************************************/
+>
+>Section 2  (Analitical...)
+>
+>   1. Average 3years 45,000, 1st 1.5 times, 2nd 2.5 times..
+>
+>     (Calculate in this way...   (x+1.5x+2.5x)/3 = 45000  i.e 5x/3 =
+>45000 )
+>      then calculate required value...)
+>
+>   2. Three vehecle speed ratio 1:2:3 & time ratio 3:2:1...
+>      Distance ratio ??
+>
+>     (Ans: 3:4:3..  check once)
+>
+>   3. some km/hr problem...
+>
+>     (Ans: 150 km/hr)
+>
+>   4 & 5 don't know....
+>
+>/***********************************/
+>
+>  Section 3 (English - 8 marks.. mutiple choice..)
+>
+>   Don't know...
+>
+>/******************************/
+>
+>  Section 4  (True or Flase type..)
+>
+>   1. Square contains all angles , one object does not contain angles;
+>
+>    1.1 True
+>    1.2 False
+>    1.3 True
+>

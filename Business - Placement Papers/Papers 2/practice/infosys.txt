@@ -1,0 +1,141 @@
+INFOSYS  IISC 
+
+questions are not in order
+
+
+
+1:there is a robery and four persons are suspected out of them one is actual 
+thief,
+these are the senteces said by each one of them!
+A says D had done
+B says A had done
+C says i dddnt done
+D  B lied when he said that i am thief
+
+
+out of these only one man is true remaining are false  
+ans C is thef,D is true!
+maks 3
+
+
+2  how many four digit numbers divisible by four  can be formed  using
+
+  1,2,3,4;repetions are not allowed!
+ans 6;
+marks 4
+3  a vender solds two things at same cost 12 RS with one item at 25%profit
+and other at 20%loss,by this transaction he made profit or loss by how much
+ans loss,60paise
+
+
+marks 3
+
+
+4 two friends A,B are running up  hill and then to get down!
+   length if road is 440 yards A on his return journy met B goin up at 
+   20 yards from top,A has finished the rase .5 minuit earlier than 
+   B,then how much time A had taken to complete the rase.
+   
+   ans 6.3 minuits
+   marks 4
+   
+5 barons question diagnostic test question 8-12,5 men and 5 women went for 
+  foot ball match.........
+  
+marks 8
+
+6 write a five digit number ,
+which will be having two prime numbers,
+ and some two more conditions,like 1st digit greater than 2nd etc
+ its easy(remember one is not a prime number,most people don mistake taking 1
+ as prime number)
+ 
+ ans 71842
+ 
+ 5 marks
+ 
+7  two employs were there 
+   employ one says to employ two your work ezxperience twice as me
+   emp2 exactly
+   emp1 but two years before you said that your work experience is 
+   thrice as me 
+   emp2 yes its also true 
+   what are their work experience
+   ans 4,8 
+   marks 3
+   
+8   ther are four persons A,B,C,D and for languages english ,french ,german 
+    italian,
+    conditions
+    1 only one language is spoken by more than two men
+    2 A dont know english
+    3 a man can speak either french or german but not both
+    4 all man cannot spek in a group(no common language)
+    5 A can mediate when B and C want to speak with each other
+    6 each men  can speak two languages 
+    ans 
+    A      french italian
+    B      english french
+    C      german  italian
+    D      german  italian
+    
+     
+     marks 7
+     
+ 9   there are 3 women ,they having three jewells,named diamond emerald ,ruby
+          
+  3 women A,B,C
+  3 thiefs D,E,F
+  each thef had taken one jewel from each of the women
+  following conditions     
+ one who had taken diamond is the bachelor and most dangerous
+ D 's brother in law E who is less dangerous than the thief who had
+ --------------------------------------------------------------------
+  stolen emerald 
+  --------------
+ (this is the key from this e had stolen ruby)
+ D did nt stolen from B
+ one more condition is there
+ 
+ marks 7
+  
+ 10 ther were five persons out of which two persons heir went white
+   and three persons hair is black
+   conditions 
+   if A 's hir is white then B'hair is white
+   A,s hair is not blakck if C's hair is not black 
+   two more conditions
+   but we can easily solve it from first codition 
+   ans is Aand B's hair is white
+   marks 5
+   
+   
+   
+   essay
+     in this age of super computer computer will repalce man!
+     
+     what is contribution of industry towards humn growth
+     
+     
+     interview questions!
+        
+     1 two time glases 7,4 how you measure 9
+     2  four persons have to cross the bridge  they are having one torch ligt
+        four persons take 1,2,5,10 minuits respectively ,
+        when two persons are going the will take the time of the slowest person
+        whats the time taken to cross allof them
+                      
+        ans 17minuits
+    3   a non uniform rope burns for one hour how you will measure
+         half an hour
+         ans lit it from both sides!
+         
+         
+  by this paper is over ,i think its advantageous if you will do barons well
+  BEST OF LUCK!
+        
+         
+         
+         
+         
+   

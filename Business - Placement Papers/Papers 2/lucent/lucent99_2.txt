@@ -1,0 +1,73 @@
+lucnet - 99
+          ----------------------------
+          LUCENT TECHNOLOGIES SOFTWARE
+          ----------------------------
+Following are the some sample questions:
+
+Genaral:
+--------
+1.6*12*15 is the volume of some material.How many cubes can be inserted
+  into that? Ans.40
+2.Two pipes can fill a tank in 10 1nd 12 hours while third pipe will
+  make the tank empty in 20 hours.If all three pipes operate simultaneously,
+  in how many hours the tank will be filled ? Ans.7hours 30 minutes.
+3.Diameter of a beaker is 7cm. Mambler(some instrument) dia is 1.4cm.
+  How many mamblers has to be put to increase the water level by 5.6cm.
+4.Cost of an item is x. It's value increases by p% and decreases by p%
+  Now the new value is 1 rupee, what is the actual value.
+  Ans.(1000)/(1000-p*p).
+5.A right circular cylinder and a cone are there.Base radius of cone is 
+  equal to radius of cylinder.What is the ratio of height to slant side.
+6.Distance between two poles is 50 meters.A train goes by 48 kmph in one
+  minute.How many poles will be crossed by the train.
+7.A pole seen from a certain distance at an angle of 15 degrees and 
+  100 meters ahead by 30 degrees. What is th height of pole.
+8.15 people--each has to pay Rs.20..
+  20 people--each has to pay Rs.18..
+  for 40 people--how much has to pay ?
+9.if p=2q then q=r*r,
+  if p-odd then q is even,
+  whether we decide r is even or odd ?
+  choices:a)first condition is sufficient
+          b)second condition is sufficient
+          c)both are sufficient
+          d)both are not sufficient
+10.What is the value of m given that
+   i) m is devided by 2
+   ii) m is devided by 5
+Ans: none of these
+11.If he sells 40 magoes, he will get the selling price of 4 mangoes
+   extra, What is his % increse in profit ? Ans: 25%
+12.100 glasses are there. A servant has to supply glasses to a person
+   If he supplies the glasses without any damage he will get 3 paise
+   otherwise he will loose 3 paise.At the end of supplying 100 glasses
+   if he gets 270 paise, how many glasses were supplied safely.Ans: 95
+
+*** Some questions on reasoning 
+
+Electronics.
+------------
+1.Fastest logic ..Ans: ECL
+
+2.202.141.65.62 type of IP address belong to which class. Ans:class B
+
+3.Mod K ring counter requres how many number of flipflops.Ans:K
+
+4.ftp is in application layer.
+
+5.Problem related to Ternary operations. Ans:3
+
+6.Problem related to macro # define square x x*x. Ans:11
+
+7.Problem related to 5 pointers..refer Page.123 of C prog.,by Keringan
+  and Ritchie.
+
+8.Ideal op-amp CMRR. Ans: infinity.
+
+9.13-bit DAC MSB resistance 2kohms.
+             LSB resistance ?
+  Ans: 2k * 2 to the power of 12.
+
+*** Few question related to C++
+
+

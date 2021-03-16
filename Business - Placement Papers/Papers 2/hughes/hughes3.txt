@@ -1,0 +1,105 @@
+Hughes paper:
+total 50 questions (1 hour).
+Paper is like GAte CS .
+
+section A : compulsory for CS and Comm students.
+section B : for CS only
+section C : for comm only.
+
+
+questions :
+
+1. given a digital ckt with nand gates. what is o/p   Ans. nor gate
+2. given an logical expr. x,y,z. simplify   ans. xz
+3. It is recommended to use which type of variables in a recursive module.
+	Ans. static variables.
+4. which one of following is not memory management model?
+
+	given buddy system, monitors, paging, swapping  Ans. monitors
+5. what m/c is used to recognize context free grammar ? Ans. pushdown automata
+6. Which type of grammar can be recognized by finite state m/c Ans. right linear
+   grammar.
+
+7. proc() {
+
+	static i=10;
+	printf("%d",i);
+	}
+
+	If this proc() is called second time, what is the o/p   Ans. 11
+
+8. int arr[] = {1,2,3,4}
+   int *ptr=arr;
+
+   *(arr+3) = *++ptr + *ptr++;
+
+   Final contents of arr[]  Ans. {1,2,3,4}
+
+9. TCP/IP hdr  checksum : what method is used ?
+	Ans. one's complement of sum of one's complement.
+
+10. CSMA/Cd is used in which lan   Ans. ethernet
+
+11. 8085 pgm : LXI sp, 2021,
+			LXI b, 1234   (??)
+
+			push  b
+
+			contents of  stack after pushing ?
+
+12. One question on synchronous transmission :
+
+	ans. Timing info is embedded in data itself
+13. What for start bit is used in RS232 transmission.
+
+14. One solution for deadlock prevention for dining philosopher's problem
+
+	Ans. Allow one person to take first left stick and then right stick
+		and remaining persons in reverse order.
+
+15. 4bit seq no in sliding window protocol with selective repeat.
+	what is the max no. of acks that can be held at transmitter 
+	ans. 8
+16. given a height balanced tree. If we add one more node , how
+    many nodes gets unbalanced ? Ans. 3
+
+17. Given a arbitrary pointer  to an element in a singly linked list?
+    what is the time complexity for its deletion . Ans. O(n)
+18. what is the diff b/n c and c++
+
+	a. dynamic scoping
+	b. nested switching
+	c. declaration of variables in any code block
+	d. separation of compilation and linking
+
+	Ans. c (??)
+19. which one is false ?
+
+	a. 0<x<y, n power x = O(n power y)
+	b. root of log(n) = O(log logn)
+	c. O(logn/100) = O(100 logn)
+	d. 2n not = O(n power k);
+
+	Ans. b or a. (??)
+20. S->S+S; s->s*s; s->a
+
+ 	how many parse trees possible : a+a*a+a   Ans. 5
+21. 4-1 demultiplexer is to be implemented using a memory chip.
+    how many address lines and word length required Ans. 4, 1
+
+22.  Vector intr mechanism.  in 8085.
+
+	Ans. fixed locations in memory when an intr comes.
+23. ARP is used for : Ans. IP to MAC addr conversion.
+24.  given 100 to 999 nos. Probability of picking a no. with out
+     digit 7.   Ans. 18/25.
+25. Ten film rolls. 3 defective, prob. of picking up 2 defective
+    rolls with out replacement Ans. 6/90
+26. The purpose of hashing is :
+	Ans. O(1) complexity
+
+27. Given adjacency matrix for a directed graph with n vertices
+    and e edges. How much time will it take to find out indegree
+    of a vertex Ans. O(n)
+28. No. of nodes of degree 2 in a binary tree with n leaf nodes.
+    Ans. n-1

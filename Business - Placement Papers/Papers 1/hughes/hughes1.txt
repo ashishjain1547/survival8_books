@@ -1,0 +1,125 @@
+i am sending u hughes paper all the best 
+ 
+huges: 
+ 
+all these are multiple choice questions. 
+we didn't remember the exact questions but we can understand the  
+questions 
+by seeing this. 
+ 
+1) best noise performance 
+   ans:: QPSK 
+ 
+2)PLL is used for 
+  ans:: FM demodulation 
+ 
+3)fastest A/D converter 
+  ans:: flash type 
+ 
+4)digital mode 
+  ans:: PCM 
+ 
+5)code used for both correction and detection 
+  ans:: convolutional 
+ 
+6)ans:: XY are correct 
+ 
+7)No. of externally initiated operations in microprocessor 
+  ans:: 4 
+ 
+8)TCP is slower than UDP as 
+  ans::TCP process service numbers add to overhead 
+ 
+9)C program on strings 
+  ans:: hell 
+ 
+10)#define max(a,b) (a<b?b,a) 
+   i=2; 
+   j=3; 
+   k=max(i++,j++) 
+   ptintf i,j,k; 
+ 
+   ans::make it urself 
+ 
+11)unix kernal i node specifies 
+   a) file name   2)file size   3)start of file  d)all the above 
+ 
+   ans::may be (d) 
+ 
+12)process of using extended memory 
+   ans:: swaping 
+ 
+13)integer size in C 
+   ans:: check it out 
+ 
+14)no. of half adders needed to implement a full adder 
+   ans::2 
+ 
+15)No of FF's needed in a 8-bit register with SISO,to i/p and o/p an  
+8-bit number 
+   ans::9 
+ 
+16)One question on  
+   --> given clock freq = 5MHz 
+   --> No of T-states   = 12 
+    
+17)session login application 
+   ans::RPC 
+ 
+18)Tunnel diode has 
+   ans:: -ve resistance. 
+ 
+19)Smith chart user for finding 
+   ans:: VSWR of Transmission line. 
+ 
+20)In PC, packet Tx is by 
+   ans:: little indian 
+ 
+21)Normal mode of PROM 
+   ans:: Write mode 
+ 
+22)One question on multithreding 
+ 
+23)One circuit diagram on differential amplifier-problem. 
+ 
+24)One question on TCP/IP 
+ 
+______________________________________________________________________ 
+             Some Aptitude Question 
+______________________________________________________________________ 
+ 
+1)up stream ---- 20km --- 2hrs 
+  down stream -- 20km --- 1hrs 
+  still water -- 30km --- ???? 
+ 
+  ans:: 1 hr 
+ 
+2)avg temp from 
+  mon-thu ---> 36 degrees 
+  tue-thu ---> 37 degrees 
+  on thu  ---> 4/5 th of monday's 
+  what is thursday's temparature 
+ 
+  ans::36 degrees 
+ 
+3)problem on work and time. 
+ 
+4)bus with out stops 54kmph 
+      with stops 45kmph 
+  for 1hr, does the bus stops 
+ 
+  and:: find it out 
+ 
+5)10^n - 1 divisible by 11 
+  ans:: n is even 
+ 
+6)1/(1.2) + 1/(2.3)+........+1/(n(n+1)) 
+  ans:: less than 1 
+ 
+7)2 dice sum is 7, probability...... 
+  ans:: 1/6 
+ 
+8)x<y, y>z fin relation between x and z 
+  ans:: cant find 
+  
+  

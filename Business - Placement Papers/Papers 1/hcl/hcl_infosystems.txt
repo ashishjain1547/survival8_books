@@ -1,0 +1,1088 @@
+HCL TECHNOLOGIES
+---------------
+Ist section of the Question is as such in the
+placement papers.com
+
+Section II - C Programming 
+
+1. Which of the following about the following two
+declaration is true
+i ) int *F()
+ii) int (*F)()
+
+Choice :
+a) Both are identical
+b) The first is a correct declaration and the second
+is wrong
+c) The first declaraion is a function returning a
+pointer to an integer and the
+second is a pointer to function returning int
+d) Both are different ways of declarin pointer to a
+function
+
+Answer : c
+
+2. What are the values printed by the following
+program?
+
+#define dprint(expr) printf(#expr "=%d\n",expr)
+
+main()
+{
+int x=7;
+int y=3;
+dprintf(x/y);
+}
+
+Choice:
+a) #2 = 2 b) expr=2 c) x/y=2 d) none
+
+Answer: c
+
+3. Which of the following is true of the following
+program
+
+main()
+{
+char *c;
+int *p;
+c =(char *)malloc(100);
+ip=(int *)c;
+free(ip);
+}
+
+
+ans: The code functions properly releasing all the
+memory allocated
+
+
+4.output of the following.
+
+main()
+{
+int i;
+char *p;
+i=0X89;
+p=(char *)i;
+p++;
+printf("%x\n",p);
+}
+ans:0X8A
+
+5.
+which of the following is not a ANSI C language
+keyword?
+
+ans:Function.
+
+6. When an array is passed as parameter to a function,
+which of the following
+statement is correct
+
+choice:
+a) The function can change values in the original
+array
+b) In C parameters are passed by value. The funciton
+cannot change the original
+value in the array
+c) It results in compilation error when the function
+tries to access the
+elements in the array
+d) Results in a run time error when the funtion tries
+to access the elements in
+the array
+
+Answer: a
+
+7. The type of the controlling statement of a switch
+statement cannot be of the
+type
+
+a) int b) char c) short d)float e) none
+
+Answer : d
+
+
+8.What is the value of the statement (3^6) + (a^a)?
+
+a) 3 b) 5 c) 6 d) a+18 e) None
+
+Answer : b
+
+9. What is the value assigned to the variable X if b
+is 7 ?
+X = b>8 ? b <<3 : b>4 ? b>>1:b;
+
+a) 7 b) 28 c) 3 d) 14 e) None
+ans: c
+
+10. Which is the output produced by the following
+program
+main()
+{
+int n=2;
+printf("%d %d\n", ++n, n*n);
+}
+
+a) 3,6 b) 3,4 c) 2,4 d) cannot determine
+
+Answer : b
+
+11. What is th output of the following program?
+int x= 0x65;
+main()
+{
+char x;
+printf("%d\n",x)
+}
+
+a) compilation error b) 'A' c) 65 d) unidentified
+
+12. What is the output of the following program
+main()
+{
+int a=10;
+int b=6;
+
+if(a=3)
+b++;
+printf("%d %d\n",a,b++);
+}
+
+a) 10,6 b)10,7 c) 3,6 d) 3,7 e) none
+
+Answer : d
+
+13. What can be said of the following program?
+main()
+{
+enum Months {JAN =1,FEB,MAR,APR};
+Months X = JAN;
+if(X==1)
+{
+printf("Jan is the first month");
+}
+}
+
+a) Does not print anything
+b) Prints : Jan is the first month
+c) Generates compilation error
+d) Results in runtime error
+
+Answer: b
+
+14. What is the output of the following program?
+main()
+{
+char *src = "Hello World";
+char dst[100];
+strcpy(src,dst);
+printf("%s",dst);
+}
+strcpy(char *dst,char *src)
+{
+while(*src) *dst++ = *src++;
+}
+
+a) "Hello World" b)"Hello" c)"World" d) NULL e)
+unidentified
+
+Answer: may be d
+
+15. What is the output of the following program?
+
+main()
+{
+int l=6;
+switch(l)
+{ default : l+=2;
+case 4: l=4;
+case 5: l++;
+break;
+}
+printf("%d",l);
+}
+a)8 b)6 c)5 d)4 e)none
+
+Answer : c
+
+16. What is the output of the following program?
+main()
+{
+int x=20;
+int y=10;
+swap(x,y);
+printf("%d %d",y,x+2);
+}
+swap(int x,int y)
+{
+int temp;
+temp =x;
+x=y;
+y=temp;
+}
+
+a)10,20 b) 20,12 c) 22,10 d)10,22 e)none
+
+Answer:d
+
+17. What is the output of the following problem ?
+#define INC(X) X++
+main()
+{
+int X=4;
+printf("%d",INC(X++));
+}
+
+a)4 b)5 c)6 d)compilation error e) runtime error
+
+Answer : d
+
+
+18. what can be said of the following
+
+struct Node {
+char *word;
+int count;
+struct Node left;
+struct Node right;
+}
+
+a) Incorrect definition
+b) structures cannot refer to other structure
+c) Structures can refer to themselves. Hence the
+statement is OK
+d) Structures can refer to maximum of one other
+structure
+
+Answer :c
+
+19. What is the size of the following union.
+Assume that the size of int =2, size of float =4 and
+size of char =1.
+Union Tag{
+int a;
+flaot b;
+char c;
+};
+
+a)2 b)4 c)1 d) 7
+
+may be b
+
+20) What is the output of the following program? (.
+has been used to indicate a
+space)
+main()
+{
+char s[]="Hello,.world";
+printf(%15.10s",s);
+}
+
+a)Hello,.World...
+b)....Hello,.Wor
+c)Hello,.Wor....
+d)None of the above
+
+
+
+
+may be c
+
+9)
+(1) The combined length of the longer two pieces of
+rope is 12 metres.
+(2) The combined length of the shorter two pieces of
+rope is 11 metres.
+
+(A) (B) (C) (D) (E)
+
+10) A certain company paid bonuses of Rs. 125 to each
+of its executive emplyees
+and Rs 75 to each of its nonexecutive employees. If
+100 of the employees were
+nonexecutive, how many were executive?
+1) The company has a total of 120 employees
+2) The total amount that the company paid in bonuses
+to its employees was
+Rs.10,000
+
+(A) (B) (C) (D) (E)
+
+11. What fraction of his salary did Mr. Johnson put
+into savings last week ?
+
+1) Last week Mr.Johnson put Rs 17 into savings.
+2) Last week Mr.Johnson put 5% of his salary into
+savings.
+
+(A) (B) (C) (D) (E)
+
+12. Each M-type memory unit will increase the base
+memory capacity of a certain
+computer by 3 megabytes. What is the base memory
+capacity, in megabytes, of the
+computer ?
+
+1) 2 M-type memory units will increase the computer's
+base memory capacity by
+300%
+
+2) The memory capacity of the computer after 2-M type
+memory units are added to
+the base memory capacity, is 1.6 times the memory
+capacity of the computer after
+1 M-type unit is added to the base memory capacity.
+
+(A) (B) (C) (D) (E)
+
+13. What fractional part of the total surface area of
+cube C is red?
+
+1) Each of 3 faces of C is exactly 1/2 red
+2) Each of 3 faces of C is entirely white
+
+(A) (B) (C) (D) (E)
+
+
+SECTION C
+
+Instructions ALL NUMBER USED ARE REAL NUMBERS
+FOLLOWING
+EACH QUESTIONS ARE FIVE POSSIBLE ANSWERS LABELED
+A).B).C).D)&E).TICK THE BEST CHOICE.
+
+14. How many of the integers between 25 and 45 are
+even ?
+(A)21 (B)20 (C)11 (D)10 (E)9
+
+Answer:d
+
+15. If taxi fares were Rs 1.00 for the first 1/5 mile
+and Rs 0.20 for each 1/5
+miles thereafter. The taxi fare for a 3-mile ride was
+
+(A)Rs 1.56 (B)Rs 2.40 (C)RS 3.00 (D)Rs 3.80 (E)Rs 4.20
+
+Answer :d
+
+16. A computer routine was developed to generate two
+numbers (x,y) the first
+being a random number between 0 and 100 inclusive, and
+the second being less
+than or equal to the square root of the first. Each of
+the following pair
+satisfies the routine EXCEPT
+
+(A) (99.10) (B) (85.9) (C) (50.7) (D) (1.1) (E) (1.0)
+
+Answer : A
+
+17. A warehouse had a square floor with area 10,000
+sq.meters. A rectangular
+addition was built along one entire side of the
+warehouse that increased the
+floor by one-half as much as the original floor. How
+many meters did the
+addition extend beyond the original buildings ?
+
+(A)10 (B)20 (C)50 (D)200 (E)500
+
+Answer: c
+
+18. A digital wristwatch was set accurately at 8.30
+a.m and then lost 2 seconds
+every 5 minutes. What time was indicated on the watch
+at 6.30 p.m of the same
+day if the watch operated continuously that time ?
+
+(A)5:56 B)5:58 (C)6.00 (D)6.23 (E)6.26
+
+Answer :E
+
+19) A 5 litre jug contains 4 litres of a salt water
+solution that is 15 percent
+salt. If 1.5 litres of the solution spills out of the
+jug, and the jug is then
+filled to capacity with water, approximately what
+percent of the resulting
+solution in the jug is salt?
+
+(A)7.5% (B)9.5% (C) 10.5% (D)12% (E)15%
+
+Answer :A
+
+20) A plane travelled K miles in the first 96 miles of
+flight time. If it
+completed the remaining 300 miles of the trip in 1
+minute, what was its average
+speed in miles per hour for the entire trip ?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Answer :(300+k)/97 * 60
+
+21) A merchant sells an item at a 20 percent discount.
+but still makes a gross
+profit of 20 percent of the cost. What percent of cost
+would be gross profit on
+the item have been if it had been sold without the
+discount?
+
+(A)20% (B)40% (C)50% (D)60% (E)66.6%
+
+Answer :c
+
+22) A millionaire bought a job lot of hats 1/4 of
+which were brown. The
+millionaire sold 2/3 of the hats including 4/5 of the
+brown hats. What fraction
+of the unsold hats were brown.
+
+(A)1/60 (B)1/15 (C)3/20 (D)3/5 (E)3/4
+
+Answer :c
+
+23) How many integers n greater than and less than 100
+are there such that, if
+the digits of n are reversed, the resulting integer is
+n+9 ?
+
+(A)5 (B)6 (C)7 (D)8 (E)9
+
+Answer :D
+
+24) An investor purchased a shares of stock at a
+certain price. If the stock
+increased in price Rs 0.25 per share and the total
+increase for the x shares was
+Rs 12.50, how many shares of stock had been purchased
+?
+
+(A)25 (B)50 (C)75 (D)100 (E)125
+
+Answer :B
+
+25) At a special sale, 5 tickets can be purchased for
+the price of 3 tickets. If
+5 tickets are purchased at the sale, the amount saved
+will be what percent of
+the original price of the 5 tickets?
+
+(A)20% (B)33.3% (C)40% (D)60% (E)66.6%
+
+Answer :c
+
+26) Working independently, Tina can do a certain job
+in 12 hours. Working
+independently, Ann can do the same job in 9 hours. If
+Tina works independently
+at the job for 8 hours and then Ann works
+independently, how many hours will it
+take Ann to complete the remainder of the jobs?
+
+(A)2/3 (B)3/4 (C)1 (D)2 (E)3
+
+Answer :E
+
+27) A decorator bought a bolt of d
+m number of red
+chips in any one stack ?
+
+(A)7 (B)6 (C)5 (D)4 (E)3
+
+Answer :C
+
+
+
+
+
+SECTION III - ANALYSIS PROGRAM SEGMENTS
+---------------------------------------
+
+1) Here is the structure declaration of a doubly
+linked list
+
+struct dlink {
+int nodeid;
+struct dlink *next;
+struct dlink *prev;
+} dlink_t;
+
+A pointer of the head of the linked list is maintained
+as a global variable,
+whose definition is
+dlink_t *head;
+
+The funtion remove_element(dlink_t *rp), needs to
+remove the node pointed to
+the rp and adjust the head.
+
+The first node's prev and the last node's next are
+NULL.
+
+remove_element(dlink_t *rp)
+{
+rp->prev->next = rp->next;
+rp->next->prev = rp->prev;
+if( head == rp)
+head = rp->next;
+
+Which of the following statement is true about the
+function remove_element
+
+A) It work when head is the same as rp
+B) It does not work when rp is the last element on the
+list
+c) It sets the head of the list correctly
+D) It works in all cases
+
+Answer :B
+
+2) Consider the following function written in c:
+
+#define NULL 0
+
+char *
+index(sp,c)
+register char *sp,c;
+{
+do {
+if(*sp == c)
+return (sp);
+} while (*sp++);
+return NULL;
+}
+
+The first argument sp, is a pointer to a C string. The
+second
+argument, c, is a character. This function scarches
+for the character
+c, in the string. If it is found a pointer to that
+location is returned
+else NULL is returned.
+This function works
+a) Always
+b) Always, but fails when the first byte contais the
+character c
+c) works when c is a non NULL character only
+d) Works only when the character c is found in the
+string
+answer: a
+
+03) What is printed when this program is executed
+main()
+{
+printf ("%d\n",f(7));
+}
+f(X)
+{
+if (x<= 4)
+return x;
+return f(--x);
+}
+
+a) 4
+b) 5
+c) 6
+d) 7
+answer: a
+
+04) On a machine where pointers are 4 bytes long, what
+happens when the
+following code is executed.
+main()
+{
+int x=0,*p=0;
+x++; p++;
+printf ("%d and %d\n",x,p);
+}
+
+a) 1 and 1 is printed
+b) 1 and 4 is printed
+c) 4 and 4 is printed
+d) causes an exception
+
+05) Which of the following is the correct code for
+strcpy, that is
+used to copy the contents from src to dest?
+
+a) strcpy (char *dst,char *src)
+{
+while (*src)
+*dst++ = *src++;
+}
+b) strcpy (char *dst,char *src)
+{
+while(*dst++ = *src++)
+}
+c) strcpy (char *dst,char *src)
+{
+while(*src)
+{ *dst = *src;
+dst++; src++;
+}
+}
+d) strcpy(char *dst, char *src)
+{
+while(*++dst = *++src);
+}
+answer:b
+
+6) Consider the following program
+
+main()
+{
+int i=20,*j=&i;
+f1(j);
+*j+=10;
+f2(j);
+printf("%d and %d",i,*j);
+}
+f1(k)
+int *k;
+{
+*k +=15;
+}
+
+f2(x)
+int *x;
+{
+int m=*x,*n=&m;
+*n += 10;
+}
+
+The values printed by the program will be
+a) 20 and 55
+b) 20 and 45
+c) 45 and 45
+d) 45 and 55
+e) 35 and 35
+
+
+7) what is printed when the following program is
+compiled and executed?
+
+
+int
+func (int x)
+{
+if (x<=0)
+return(1);
+return func(x -1) +x;
+}
+main()
+{
+printf("%d\n",func(5));
+}
+
+a) 12
+b) 16
+c) 15
+d) 11
+
+08) COnsider the following of c code in two files
+which will be linked together
+and executed .
+
+a.c
+___
+int i;
+main()
+{
+i = 30;
+f1();
+printf("%d\n",i)
+}
+
+b.c
+___
+static int f1()
+{
+i+=10;
+}
+
+which of the following is true ?
+a) a.c will fail in compilation phase because f1() is
+not declared
+b) b.c will fail in compilation because the variable i
+is not declared
+c) will print 30
+d) will print 40
+e) a & b
+
+answer: e
+
+9) Consider the following prg
+void funca (int *k)
+{
+*k += 20
+}
+void funcb (int *x)
+{
+int m=*x,*n = &m;
+*n+=10;
+}
+main()
+{
+int var = 25,*varp=&var;
+funca(varp);
+*varp += 10;
+funcb(varp);
+printf ("%d and %d\n",var,*varp);
+}
+The values printed when the above prg is complied and
+executed
+are:
+a) 20 and 55
+b) 20 and 45
+c) 45 and 55
+d) 55 and 55
+e) 35 and 35
+
+answer: d
+
+10) consider the following program:
+# include <stream.h>
+class x {
+public:
+int a;
+x();
+};
+x::x() { a=10; cout<<a; }
+class b:public x {
+public:
+b();
+};
+b::b() { a=20; cout<<a; }
+main ()
+{ b temp;
+}
+what will be the output of this prg?
+a) 10
+b) 20
+c) 2010
+d) 1020
+
+answer: b
+
+Section IV - General Aptitude Section
+1) In a murder case there are four suspects P,Q,R,S.
+Each of them
+makes a statement. They are
+p: "I had gone to the theatre with S at the time of
+the murder".
+q: "I was playing cards with P at the time of the
+murder".
+r: "Q didn't commit the murder".
+s: "R is not the murderer".
+
+Assuming the only one of the above statement is false
+and that one of
+them is the murderer, who is the murderer?
+a) P
+b) Q
+c) R
+d) Cann't be concluded
+e) S
+
+answer: E
+
+2) Mohan earned twice as much as Deep. Yogesh earned
+rs.3/- more than
+half as much as deep. If the amounts earned by
+Mohan,Deep,Yogesh
+are M,D,Y respectively, Which of the following is the
+correct ordering
+of these amounts?
+a) M < D < Y
+b) M < Y < D
+c) D < M < Y
+d) It cann't be determined from the information given
+e) D < Y < M
+
+
+03) Statistics indicate that men drivers are involved
+in more
+accidents than women drivers. Hence it may be
+concluded that
+a) sufficiently information is not there to conclude
+anything
+b) Men are actually better drivers but drive more
+frequently
+c) Women Certainly drive more cautiously than Men
+d) Men chauvinists are wrong about women's abilties.
+e) Statistics sometimes present a wrong picture of
+things
+
+
+04) What does the hex number E78 correspond to in
+radix 7 ?
+a) 12455
+b) 14153
+c) 14256
+d) 13541
+e) 13112
+
+answer:d
+
+5)Given that A,B,C,D,E each represent one of the
+digits between 1 and
+9 and that the following multiplication holds:
+A B C D E
+X 4
+--------------
+E D C B A
+--------------
+
+what digit does E represent ?
+
+a) 4
+b) 6
+c) 8
+d) 7
+
+Answer: c
+
+6) HCL prototyping machine can make 10 copies every 4
+seconds. At this
+rate, How many copies can the machine make in 6 min.?
+
+a) 900
+b) 600
+c) 360
+d) 240
+e) 150
+
+answer: a
+
+7) if a=2,b=4,c=5 then
+a+b c
+----- - ---- =
+c a+b
+
+a) 1
+b) 11/30
+c) 0
+d) -11/30
+e) -1
+
+answer: b
+
+8) 10^2(10^8+10^8) =
+--------------
+10^4
+
+a) 2(10)^4
+b) 2(10)^6
+c) 10^8
+d) 2(10)^8
+e) 10^10
+
+answer: b
+
+9) Worker W produces n units in 5 hours. Workers V and
+W, workers
+independently but at the same time, produce n units in
+2 hours.
+how long would it take V alone to produce n units?
+a) 1 hr 26 min
+b) 1 hr 53 min
+c) 2 hr 30 min
+d) 3 hr 30 min
+e) 3 hr 20 min
+
+ans: d
+
+10) if q <> 0 and k = qr -s, then what is r in terms
+of k,q,s?
+
+a) 2k+s
+----
+q
+b) 2sk
+----
+q
+c) 2(k-s)
+-----
+q
+d) 2k+sq
+-----
+q
+e) 2(k+s)
+------
+q
+
+answer: e
+
+11-15 is the reasoning Questions:
+Occurs and Causes available in placement papers.com
+
+Six knights - P,Q,R,S,T and U - assemble for a long
+journey in two
+travelling parties. For security, each travelling
+party consists
+of at least two knights. The two parties travel by
+separate routes,
+northern and southern. After one month, the routes of
+the northern
+and southern groups converge for a brief time and at
+that point the
+knights can, if they wish, rearrange their travelling
+parties before
+continuing, again in two parties along separate
+northern and southern
+routes. Throughout the entire trip, the composition of
+travelling
+parties must be in accord with the following
+conditions
+
+P and R are deadly enemies and, although they may meet
+briefly,
+can never travel together.
+p must travel in the same party with s
+Q cann't travel by the southern route
+U cann't change routes
+
+16) If one of the two parties of knights consists of P
+and U and
+two other knights and travels by the southern route,
+the other members
+of this party besides P and U must be
+a) Q and S
+b) Q and T
+c) R and S
+d) R and T
+e) S and T
+
+answer: e
+
+17) If each of the two parties of knights consists of
+exactly three
+members, which of the following is not a possible
+travelling party
+and route?
+a) P,S,U by the northern route
+b) P,S,T by the northern route
+c) P,S,T by the southern route
+d) P,S,U by the southern route
+e) Q,R,T by the southern route
+
+ans: b
+
+18) If one of the two parties of knights consists of U
+and two other
+knights and travels by the northern route, the other
+memnbers of this party
+besides U must be
+a) P and S
+b) P and T
+c) Q and R
+d) Q and T
+e) R and T
+
+answer: c
+
+19) If each of the two parties of knights consists of
+exactly three
+members of different parties, and R travels by the
+northern route,
+then T must travel by the
+a) southern route with P and S
+b) southern route with Q and R
+c) southern route with R and U
+d) northern route with Q and R
+e) northern route with R and U
+
+answer: a
+
+20) If, when the two parties of knights encounter one
+another after
+a month, exactly one knight changes from one
+travelling party to the
+other travelling party, that knight must be
+a) P
+b) Q
+c) R
+d) S
+e) T
+
+answer: e
+
+ALL THE BEST
+--
+
+Subject:  HCL TECH interview qp
+   ------------------------------------
+HCL Technology Interview 2001 in Thiagarajar college
+of engineering mku
+-----------------------------------------------------------------------
+Technical interview is held for 30 min to 1 hr 20min
+depending upon
+the stuff. Concentrated areas are
+1) OS Concepts
+2) C Programming skill
+3) OOPs concepts
+4) Basics of Networking
+5) Data structures
+Only basic QP like
+1) What is fragmentation? How do overcome?
+2) What is semaphore?
+3) What are the IPC Mechanism available? Illustrate
+with example
+4) What is structure and union in c? write the code
+and explain
+how they are storing in the memory?
+5) They will ask to write one c program ?
+6) Explain the data struture (code) for the data
+structures
+i) Double linklist
+ii) Minimum spanning tree
+iii) BFS and DFS
+iv) AVL tree
+v) Reverse the linklist
+7) Difference between malloc and calloc?
+8) write a prg in macro in c?
+9) Write a simple MFC program to create a window?
+(They aaked me
+write a prg to create a window)
+10) Tell about the existing scheduling algorithm?
+11) what are all E.F.Codd rule?
+12) what is bit slice processor?
+13) what is a deadlock? explain it?
+14) what is virtual memory?
+15) what is circuit switching and packet switching
+16) What is the significance of friend keyword in C++?
+17) Different types of inheritance?
+18) do u want to ask anything from us?
+HR interview
+------------
+This ranges from 20 min to 45 min. They expecting ur
+i) Focussing towards the technology
+ii) Adaptability
+iii) Family Background
+iv) Team spirit
+
+i) Tell abt yourself?
+ii) what are all ur hobbies?
+iii)why did u prefer your area of interest?
+iv) why did u wanna be in HCL?
+v) why did u choose MCA?
+vi) howz interview is going on?
+vii) Some general technical qp from ur area of
+interest?
+viii) how'll u react if u r assigned in the non area
+of interest?
+(adaptability)
+ix) how're getting information abt the company?
+(weightage is given to communciating with the seniors)
+x) In which project do u want to work in HCL?
+xi) do u want to ask anything from us?
+
+There'll be no HR interview for some shortlisted
+candidates.
+70+ and no current arrear is the criteria.
+The shortlisted student should have more than 73%.

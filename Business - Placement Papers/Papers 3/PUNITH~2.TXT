@@ -1,0 +1,67 @@
+here are a few things that were recollected by a guy
+from RVCE..........
+ punith 6
+ 
+1.  Problem on ages of father, son and grandson.
+ 
+2.  There are 20 flag posts equally spaced.  A runner
+takes 14 secs to reach the 14th flag post.  Find the
+time taken from the start to cross all the flag posts.
+(The magnitudes are not exact)
+ 
+3.  There are 6 playing cards among which 2 are kings
+for sure, but their positions are not known.  What is
+the probability that,
+<i> at least 1 king is obtained from 2 cards
+<ii> 2 kings are obtained from 2 cards
+ 
+4.  This problem is an analytical one.  There are 4
+people A, B, C, D.  There are 4 subjects W, X, Y, Z. 
+A is sure that B has won the prize in X.  B is sure
+that C has won the prize in X & Y.  C is sure that D
+has not won a prize in W and D is sure that A has won
+a prize in Z. (The relationships are not exact).
+When the prizes were given out, it was found that, of
+the 4 students, 2 were correct in their assumptions. 
+Who won which prize?
+ 
+5.  Another similar problem involving an athletic meet
+and who won which medal.
+ 
+6.  A division was performed and the steps are shown. 
+All the numbers involved are replaced by'_'s.  Find
+the solution if it contains three 5s. (Data need not
+be exact)
+ 
+7.  Again an analytical problem.  There are 3 clans in
+an island - The Arcs who never lie, the Dons who
+always lie and the Slons who lie alternately with the
+truth.  Once a tourist meets 2 guides who stress that
+the other is a Slon.  They proceed on a tour and see a
+sports meet.  The first guide says that the prizes
+have been won in the order Don, Arc, Slon.  The other
+says that, the order is Slon, Don, Arc. (the order
+need not be exact).  To which clan did each of the
+guides and the players belong?
+ 
+8.  A problem involving, time.  A watch gains 1/2 a
+minute in the morning, and 1/6th in the night.  After
+some days the watch, has the right time.  When is it
+going to be, if the change in time started from 29th
+April.  (Data need not be exact).
+ 
+9.  Problem on relationships.  There are 4 guys each
+doing a unique profession.  Couple of guys know each
+other while the others don't.  Who does what
+profession?  (Not the exact problem)
+ 
+10.  Again involving realtionships.  There are 4
+tribes A, B, C, D.  There are restrictions regarding
+the woman of one tribe marrying the man of another. 
+The daughter gets the race of the mother while the son
+gets the race of the father.  Based on this there were
+4 sub questions like which combo is possible or can
+this marriage lead to a descendent of this tribe and
+so on.
+
+Ajay

@@ -1,0 +1,129 @@
+----------------------------------------------------------------------------
+
+                                                     >^M
+>          THIS IS TI 1999 jadavpur for ECE students.for cs another paper is ^M
+>given^M
+>^M
+>1.two transistors are connected Vbe is 0.7volts .this is simple ckt.one ^M
+>transistor is diode equivalent. & asked the o/p across the 2 nd transistor.^M
+>2.simple k map ans is Bbar.^M
+>3.^M
+>^M
+>                               Emitter^M
+>---R-------transistorbase| --^M
+>                          | ---^M
+>                                   collector^M
+>             in above capacitor is connected parallel with resistance ^M
+>r.capacitor is not shown^M
+>             in fig.capacitor is used for in this ckt:^M
+>^M
+>^M
+>             ans:a.speedupb.active bypass  c.decoupling^M
+>   4.^M
+>^M
+>   -----R------I----------o/p^M
+>           |___R____ |^M
+>                             in above r is resistence.I is cmos inverter.^M
+>                             then ckt is used for:^M
+>^M
+>^M
+>                             a.schmitt trigger b.latch  c.inverter  ^M
+>d.amplifier^M
+>^M
+>^M
+>      5.simple amplifier ckt  openloop gain of amplifier is 4.V in ^M
+>=1v.asked for V x?^M
+>      amplifdier + is connected to base. - is connected to i/p in between ^M
+>5k is connected.^M
+>      from o/p feedback connected to - of amplifier with 15k.this is ckt.^M
+>^M
+>^M
+>      6.resistence inductot cap are serially connected to ac voltage 5 ^M
+>volts.voltage across^M
+>      inductor is given.R I C values are given & asked for^M
+>      voltages across resistence & capacitor.^M
+>      7.^M
+>              ___  R_____^M
+>             |            |^M
+>      ---R------OPAMP ----------^M
+
+                 >             |---^M
+>             R1        R1 is for wjhat i mean what is the purpose of R1.^M
+>             |^M
+>^M
+>             ground^M
+>^M
+>^M
+>     8.asked for Vo at the o/p.it is like simple cmos realization that is n ^M
+>block is above^M
+>     & p block is below.Vdd is 3 volts at supply.V threshold 5 volts.^M
+>     9.2 d ffs are connected in asyncro manner .clock 10 MEGAHZ.gate delay ^M
+>is 1 nanosec.^M
+>     A B are the two given D FFs.asked for AB output is:^M
+>^M
+>^M
+>     a.updown^M
+>     b.up c. updown glitching like that (take care abt glitching word)^M
+>^M
+>     10.^M
+>^M
+>^M
+>     ----------------| subtractor|---------o/p^M
+>         |___HPF____|^M
+
+                         >^M
+>                     the ckt is LPF ,HPF or APF ?^M
+>^M
+>   11.in a queue at the no of elements removed is proportional to no of ^M
+>elements in^M
+>   the queue.then no of elements in the queue:^M
+>   a.increases decreases exp or linearly(so these are the 4 options given ^M
+>choose 1 option)^M
+>   12.with 2 i/p AND gates u have to form a 8 i/p AND gate.which is the ^M
+>fastest in the^M
+>   following implementations.^M
+>   ans we think ((AB)(CD))((EF)(GH))^M
+>   13.with howmany 2:1 MUX u can for   8:1 MUX.answer is 7.^M
+>   14. there are n states then ffs used are log n.^M
+>   15.cube each side has r units resistence then the resistence across ^M
+>diagonal of cube.^M
+>   16.op amp connections asked for o/p^M
+>   the answer is (1+1/n)(v2-v1).check it out.practise this type of model.^M
+>   17.^M
+>       _____________ supply^M
+>   ---|__           ___|^M
+>  Ii     >________ |___    Tranistot^M
+>                       > _______Vo^M
+>                       > _______Vo^M
+>                        |^M
+>                        |^M
+>                        R       |^M
+>                        |       |  Io^M
+>                        ground.^M
+>^M
+>^M
+>^M
+>^M
+>    asked for Io/Ii=? transistor gain is beta.^M
+>^M
+>^M
+>    a.(1+beta)square b.1+beta  c. beta^M
+>^M
+>^M
+>    18.y=kxsquare. this is transfer function of a block with i/p x & o/p ^M
+>y.if i/p is^M
+>    sum of a & b then o/p is :--^M
+>^M
+>    a. AM b.FM  c. PM^M
+>    19.^M
+>                 ------MULTIPLIER--- |^M
+
+                       >                |                    |^M
+>        _____R__|__OPAMP______________________Vo^M
+>                 ---^M
+>                 |^M
+>                ground.^M
+>                v in = -Ez then o/p Vo =?^M
+>                answer is squareroot of -Ez.multiplier i/ps are a & b then ^M
+>its o/p^M
+>                is a.b;^M

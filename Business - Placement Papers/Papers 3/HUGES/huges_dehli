@@ -1,0 +1,53 @@
+
+Hughes,Delhi:
+-------
+
+> > (A)Aptitude :25 Qns, 20 Minutes
+> > 
+> >   1. 2 x 4 analytical GRE type qns
+> >   2. 2-3 Reasoning qns (GRE type)
+> >   3. Probability of getting a sum of 7 when two dices are thrown together
+> >   4. Rest quantitative questions
+> > 
+> >  (B) Technical: 50 Qns, 45 Minutes
+> >   
+> >   1. 3 qns on operating systems. I qn on dijkestra algorithm
+> > 
+> >   2. Using which pin it's possible to address 16 bit addresses even though there
+> >      are only 8 address bits in 8085? Ans: ALE
+> >   3. Voltage gain for an amplifier is 100 while it is operating at 10 volts.
+> >      What is the O/P voltage wen i/p is 1 volt
+> >   4. Quality factor indicates a0 Quality of inductor b) quality of capacitor
+> >      c) both
+> >   5. Qns related to bridges, routers and generators, which OSI layer they 
+> >   corresspond to. (Refer to stevens 4th chapter)
+> >   6.OPAmp's I/P ciurrent, O/p current and CMRR is given, what is the voltage 
+> >   gain
+> >   7. 2-3 qns on scope of static variables in C. Qn to view o/p odf a C static 
+> >      var
+> >   8. Qn to print a value of a pointer
+> >   9.resistance increases with temperature in a) Metal b) semiconductor
+> >   10. A qn to find the physical address from a given virtual address, virtual
+> >       to physical address table was provided
+> >   11. 16 bit mantissa and 8 bit exponent can present what maximum value?
+> >   12. 4 bit window size in sliding window protocol, how many acknowledements can be held?
+> >   13. Security functionality is provided by which layer of OSI
+> >   14. Frequency spectrums for AM, FM and PM (figure given, u'veto tell which
+> >       Kind of modulation it belongs to)
+> >   15. Among AM and FM which is better and why?
+> >   16.LASt stage of TTL NAND gate is called: Ans: Totem Pole Amplifier
+> >   17. SR to JK flip flop conversion. Ans: S=JQ', R=KQ
+> >   18. LSB of  a shift register is connected to its MSB, what is formed: Ans:
+> >       RING Counter
+> >   19. 2-3 Qns based on Demorgan's laws (identiies: (A+b)' = A'b', etc)
+> >   20. 2 qns on Logic gates (O/p of logic gates)
+> >   21. Diff in IRET and RET statements of 8086
+> >   22. How many address bytes are required to address an array of memory chips
+> >       (4 * 6), each chip having 4 memory bits and 8k registers.
+> >    23. Diff. in memory mapped and I/P O/P mapped Input/Output (Refer a book on Microprocessor)
+> >    24. Qn on pipeline architecture
+> >    25 QN on LAPB protocol
+> > 
+> >
+> 
+

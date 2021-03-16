@@ -1,0 +1,638 @@
+
+	         -----------------------------
+		 INFOSYS TECHNOLOGIES LIMITED.
+		 -----------------------------
+		 Question Paper
+		 --------------
+                   Part 1.
+		   ------
+       (1) 9 cards are there. u have to arrange them in a 3*3 matrix.
+       cards are of 4 colors.they are red,yellow,blue,green.
+       conditions for arrangement: one red card must be in first row
+       or second row.2 green cards should be in 3rd column.Yellow 
+       cards must be in the 3 corners only. Two blue cards must be in 
+       the 2nd row. Atleast one green card in each row.
+       Solution:
+       Yello     Red        Gren
+       Blu       Blu        Gren
+       Yello     Gren       Yello
+       2. 4 cards are placed on a table, each card has two colors. U 
+       don't know the color of the back side of eachcard.4 persons A
+       B C and D are sitting on the table before the cards. They can 
+       see Red, Green Red and blue .Out of the 4 poeple 2 always lie.
+       They see the color on the reverse side and give the following 
+       comment
+       A: Yello/green
+       B: Neither Blue/nor Green
+       c: Blue/Yello
+       D: Blue/ Yello
+       find out the color on the other side of the 4 cards.
+
+       3.Red and brown tribes [FROM BARRONS GRE] Conditions to 
+       get married with each other.
+
+       4. Venn diagram regarding Rich, muscular, soft-skinned, 
+       employed, etc.,( Refer BARRONS GRE GUIDE) 
+	
+------------------------------------------------------------------------
+			 PART 2.
+			 -------
+         1. SAKUNTALA DEVI'S PUZZLE BOOK : PUZZLES TO PUZZLE YOU.
+	    problem no: 3. ( Brothers and Sisters)
+            A family I know has several children. Each boy in this 
+	    family has as many sisters as brothers but each girl has 
+	    twice as many brothers as sisters. How many brothers 
+	    and sisters are there?
+            ans: 4 boys and 3 girls.
+         2. No. of animals is 11 more than the no. of birds. If the
+	    no. of birds were the no. of animals and no. of animals 
+	    were the no. of birds( ie., interchanging no.s of animals
+	    and birds.), the total no. of legs get reduced by one fifth
+	    (1/5). How many no. of birds and animals were there?
+            ans: birds:11,animals:22
+	 3. In a soap company  a soap is manufactured with 11 parts.
+	    For making one soap you will get 1 part as scrap. At the 
+	    end of the day u have 251 such scraps. From that how many
+	    soaps can be manufactured? ans: 22 + 2+ 1 = 25.
+         4.        2 * *            |   
+		   3 * *            | No. 7 does not occur in this 
+             ----------------       | 
+		   5 * *            | multiplication.
+                 * 4 *              |
+               * * 3                | Find the product.  
+             ----------------       |
+	       * * * * *            |
+             ----------------       |
+            --------------------------------------------------
+	    ans   2 8 1
+		  3 2 2ticularly exciting part of your business    appears to be _________ .&quot;
+   
+3.&quot;I know enough to know this is an exciting place to work. It appears
+   to be fit for my career goals.&quot;
+   
+7. What is a weakness?
+   
+1. I get really frustrated with my co-workers when they whine about    everything.
+   
+2. I don't &quot;toot my own horn&quot;. I like to go in and get the job done
+and I don't dwell on who gets credit.
+   
+3. I don't think I have a weakness.
+   
+8. How would you characterize your work style?
+   
+1. I am a very driven person. I make a list of what needs to be done
+and then tackle  the items until I've completed the job.
+   
+2. I show up whenever I'm scheduled to work.
+   
+3.I haven't held a job yet so I don't know what my work style will be.
+   
+9. What are your strengths?
+   
+1.&quot;I am good at giving constructive criticism to my coworkers. This
+   honesty is something I'm very proud of and have found essential
+to    having open working relationships.&quot;
+   
+2.&quot;I consider myself to be very consistent. I have proven myself
+to be    someone who can be counted upon to do what is expected.&quot;
+   
+3.&quot;I would have to chose between two skills. I am very proud of my
+   determination and ability to get things done. At the same time,
+B
+I am    very proud of my analytical abilities and problem solving skills.
+These skills combine to give me a unique ability to solve problems
+and then implement the solutions.&quot;
+   
+ 10. How would co-workers describe you?
+   
+1.&quot;They perceive me as a leader. The people who have worked with
+me learned great deal and accomplished in many cases more than they    thought possible.&quot;
+   
+2.&quot;My employees would tell you they got direction when they needed
+and  the room to work when it was appropriate. I believe a measure
+of a good manager is how much he is able to get done through others.&quot;
+   
+3.&quot;They perceive me as someone who cared about them personally and
+had high expectations. I get a great deal of satisfaction from helping
+   others do their best. My former employees wouDevi
+	   Puzzle books. I wish all of you the best.
+	   Send me the mail immediately after the written test will
+	   be over. thank you.
+						     -Sarma. B. Y.
+
+
+
+
+
+
+<hr>
+=============================================================
+                 INFOSYS PAPER 1997.
+		 PAPER CODE Q/C.
+------------------------------------------------------------------------
+1a)   BE * BE = ACB
+     A,B,C,E   ARE NON ZERO NUMBERS FIND B,E.
+     ANS)  B=1   E=9
+2)   A,B,C,D,E  ARE HAVING NUMERICAL VALUES. THERE ARE SOME CONDITIONS
+GIVEN
+   a)  A=C  &lt;===&gt;  B!=E
+   b) DIFFERENCE BETWEEN A AND C AS SAME AS DIFFERENCE BETWEEN C AND B 
+      AS SAME AS DIFFERENCE BETWEEN A AND D
+   c)  C&lt;A  AND  C&gt;D 
+  THEN FIND A,B,C,D,E
+3)   THERE ARE SIX CARDS IN WHICH IT HAS TWO KING CARDS. ALL CARDS ARE 
+TURNED DOWN AND TWO CARDS ARE OPENED
+  a) WHAT IS THE POSSOBILITY TO GET AT LEAST ONE KING.
+  b) WHAT IS THE POSSIBILITY TO GET TWO KINGS.
+4) A PERSON WENT TO A SHOP AND ASKED FOR CHANGE FOR 1.15PAISE.
+BUT HE SAID THAT HE COULD NOT ONLY GIVE CHANGE FOR ONE RUPEE.
+BUT ALSO FOR 50P,25P,10P  AND 5P. WHAT WERE THE COINS HE HAD 
+   ans) 1--&gt;50   4---&gt;10P      1---&gt;25P
+5)  THERE ARE 3 NURSES AND THEY WORK ALTOGETHER ONLY ONCE IN A WEEK.
+NO NURSE  IS CALLED TO WORK FOR 3 CONSECUTIVE DAYS.
+  NURSE 1 IS OFF ON TUESEDAY,THURSDAY AND SUNDAY.
+  NURSE 2 IS OFF ON SATURDAY.
+  NURSE 3 IS OFF ON THURSDAY,SUNDAY.
+  NO TWO NURSES ARE OFF MORE THAN ONCE A WEEK.
+    FIND THE DAY ON WHICH ALL THE 3 NURSES WERE ON WORK.
+6)  THERE ARE 5 PERSONS A,B,C,D,E AND EACH IS WEARING A BLOCK OR WHITE 
+CAP ON HIS HEAD. A PERSON CAN SEE THE CAPS OF THE REMAINING 4 BUT CAN'T
+SEE HIS OWN CAP. A PERSON WEARING WHITE SAYS TRUE AND WHO WEARS BLOCK 
+SAYS FALSE.
+  i) A SAYS I SEE 3 WHITES AND 1 BLOCK
+ ii) B SAYS I SEE 4 BLOCKS
+iii) E SAYS I SEE 4 WHITES
+iiii) C SAYS I SEE 3 BLOCKS AND 1 WHITE.
+    NOW FIND THE CAPS WEARED BY A,B,C,D AND E
+7) THERE ARE TWO WOMEN, KAVITHA AND SHAMILI AND TWO MALES SHYAM, ARAVIND
+WHO ARE MUSICIANS. OUT OF THESE FOUR ONE IS A PIANIST, ONE FLUTIST,
+VIOLINIST AND DRUMMER.
+    i) ACROSS ARAVIND BEATS PIANIST
+   ii) ACROSS SHYAM IS NOT A FLUTIST
+  iii) KAVITHA'S LEFT IS A PIANIST
+ iiii) SHAMILI'S LEFT IS NOT A DRUMMER
+ V)    FLUTIST AND DRUMMER ARE MARRIED.
+8) 1/3 ED OF THE CONTENTS OF A CONTAINER EVAPORATED ON THE 1 ST DAY.
+   3/4 TH OF THE REMAINING CONTENTS OF THE CONTAINER EVAPORATED THE 
+   SECOND DAY. WHAT PART OF THE CONTENTS OF THE CONTAINER ARE LEFT AT
+   THE END OF THE SECOND DAY.
+9) A MAN COVERED 28 STEPS IN 30 SECONDS BUT HE DECIDED TO MOVE FAST AND 
+COVERED 34 STEPS IN 18 SECONDS. HOW MANY STEPS ARE THERE ON THE 
+ESCALATOR WHEN STATIONARY.
+10)  ALL FAIR SKINNED, RICH, HANDSOME, MUSCULAR, LEAN AND EMPLOYED ARE 
+TALL MEN
+ 1) ALL LEAN MEN ARE MUSCULAR.
+ 2) NO FAIRSKINNED PERSON WHO IS NOT RICH IS HANDSOME.
+ 3) SOME MUSCULAR MEN ARE HANDSOME.
+ 4) ALL HANDSOME ARE FAIRSKINNED.
+ 5) NO PERSON WHO IS NEITHER FAIR SKINNED NOR MUSCULAR IS ENPLYED.
+ 6)  we unable to recall this condition  and  question also incomplete.
+------------------------------------------------------------------------
+
+
+
+
+<hr>
+========================================= INFOSYS
+===================================================
+ There are 5 q papers  with them. this is only one of those.
+&gt; &gt; All otheres were more or less of the same model but different
+&gt; &gt; qs. This is just to give U an idea.
+&gt; &gt;
+&gt; &gt;     The questions are not in order.
+&gt; &gt;
+&gt; &gt; 1)A,B,C,D,E related.4 of them made these statements each.
+&gt; &gt;   i)C is my son in law's brother.
+&gt; &gt;  ii)B is my father's brother.
+&gt; &gt;  iii)E is my mother in law.
+&gt; &gt;  iv)A is my brother's wife.
+&gt; &gt;  who made these statements?(person mentioned is one of A,B,C,D,E)(10 mar
+      ks).
+&gt; &gt; 2)e means belong.
+&gt; &gt;   All members of E e D.
+&gt; &gt;   All members of D e A.
+&gt; &gt;   Not all members of D e E.
+&gt; &gt;   Not all members of A e D.
+&gt; &gt;   All members of C e both A and B.some questions are asked about relatio
+       n.use venn diagram.(5 marks).
+&gt; &gt;
+&gt; &gt; 3)complete the table.
+&gt; &gt;
+&gt; &gt;     Played  won lost draw  goals  goals
+&gt; &gt;                        for    against
+&gt; &gt; A    2       2                     1
+&gt; &gt; B    2                 1    2      4
+&gt; &gt; C    2                      3      7
+&gt; &gt;
+&gt; &gt;   A,B,C are 3 hockey teams.(2 marks).
+&gt; &gt;
+&gt; &gt; 4) A says Party was held on :Thursday ,May 8th.
+&gt; &gt;    B says Party was held on :Tuesday,May 10th.
+&gt; &gt;    C says party was held on :Friday ,June 8th.
+&gt; &gt;    Given April 1 st was Tuesday.one of A,B,C says 1 correct.one says 1
+&gt; &gt;    wrong.and one was completely wrong of date,Month and day. Find the
+&gt; &gt;    Day  the party held.   (5marks).
+&gt; &gt;
+&gt; &gt; 5) A ship is away from the shore by 180 miles.A plane is travelling at
+&gt; &gt;    10 times speed of the ship.How long from the shore will they meet?
+&gt; &gt;    (2marks)
+&gt; &gt;
+&gt; &gt; 6) Every station in N railroad issue everyother station's ticket.
+&gt; &gt;    some stations are added.Now they have to issue 46 more tickets.
+&gt; &gt;    say the No.of stations after and before added.(5 marks).
+&gt; &gt;
+&gt; &gt; 7) 3 persons say these statements.
+&gt; &gt;    A says either Democratic or liberal wins the elections.
+&gt; &gt;    B says Democratic wins.C says neither democratic nor liberal wins
+&gt; &gt;    the election.of these only one is wrong.who wins the election?
+&gt; &gt;    (5 marks).
+&gt; &gt;
+&gt; &gt; 8) A clock showing 6 o'clock takes 30 secs to strike 6 times.How long
+&gt; &gt;    will it take to strike 12 at midnight?Ans.66 secs.(2marks)
+&gt; &gt;
+&gt; &gt; 9) Only boys aged &gt; 16 wear coats.
+&gt; &gt;    Boys aged &gt; 15 go to watch football.some more statements are given.
+&gt; &gt;    What can be said about those who are watching football ? (age and
+&gt; &gt;    costume)
+&gt; &gt;    (5 marks).
+&gt; &gt;
+&gt; &gt; 10) There are 3 societies A,B,C having some tractors each.
+&gt; &gt;     A Gives  B and C as many tractors as they already have.
+&gt; &gt;     After some days B gives A and C as many tractors as they have.
+&gt; &gt;     After some days C gives A and B as many tractors as they have.
+&gt; &gt;     Finally each has 24 tractors.what is the original No.of
+&gt; &gt;     tractors each had in the beginning?
+&gt; &gt;             Ans.A -39.
+&gt; &gt;                 B- 21.
+&gt; &gt;                 C- 12.(7 marks).
+&gt; &gt; 11) 4,5 statements.From that find the answer.(7 marks).
+&gt; &gt;
+&gt; &gt;
+&gt; &gt; Reference books
+&gt; &gt; 1.) Puzzles and teasers by summer's
+&gt; &gt; 2.) Shakuntala Devi. (puzzles).
+&gt; &gt;
+&gt;
+&gt;
+&gt; --
+
+
+
+
+<hr>
+===================================================
+Infosys
+--------------------------
+
+ 1.  A person was collecting end pieces of Cigerettes.  He was managed to
+collect 49 pieces.  We need 7 such pieces to make new one.  So how many
+Cigerettes he can make?  (2 marks) 
+
+ 2. A person moving from a place(camp)., towards East one mile, then
+towards North half mile, towards West 1/4 the mile, towards South 1/8th
+mile and again towards East 1/16th mile and so on.  That is the distance
+between him  and the starting point.  (3 marks) 
+
+ 3.  500 men were arranged in 10 rows and 50 columns.  They picked the
+oldest person from each row and the tallest of these persons is 'A'.  They
+replace them in their places and again picked tallest person from each
+column and the shortest of these persons is 'B'. Assume A &amp; B are
+different people. Who is the tallest person among A &amp; B?  (5 marks) 
+
+ 4.  The product of two nonzero numbers is 1,000,000,000.  What are the 
+     numbers ?  (5 marks) 
+
+ 5.  There is Mathematician.  He met his friend and asked about his children.
+     His friend told in the form of a problem that he has three children. The
+     product of their ages is 36. The addition of their ages is the door number
+     of his left side house.  Mathematician went and checked the door number
+     He told that the clues are not sufficient.  He gave another clue that
+     is his younger daughter is clearly younger.  What are their ages ? 
+     (6 marks) 
+ 6.  There is a light glows in the interval of 13 sec.  It glows first at one
+     hour 54 minutes 50 seconds and the last glow is at 3 hour 17 minute and 49
+     seconds.  How many times is that light glow, with in these two times
+     ? (2marks) 
+
+ 7.  After spending 1/3 of money and then 1/4th of what remained and
+finally 1/5th of what remained, I found that I had Rs.100/- left.  How
+much money I had at first ?  (3 marks) 
+
+ 8.  A Black Smith was given a chain torn into equal sections of 3 links
+     each and asked to fix it.  How many links(minimum) would he has to open
+     up and reforge ? (1 mark)
+
+ 9.  There are six boxes, of which some boxes contain only red balls and
+some other boxes contain only Black balls.  The number of balls in six
+differnet boxes are 5,6,12,14,23,and 29.  If he sells
+
+
+
+
+  Another Set:
+  ************
+
+ 1.  1/3rd liquid in a container evaporates in first day. In the second
+day 3/4th remaining avaporates. How much is left over at the end of second
+day ?
+
+ 2.  first person :  I am sure you are at least 40 years old and I am 5 years 
+     younger than you.
+     second person : I am 35 and you are atleast 5 years elder than me.  None
+     of these persons spoke truth. What are their ages ?
+
+ 3.  Orange cup has Orange Juice.  White cup has apple Juice.  %0 ml of
+     Orange Juice is taken and mixed with Apple Juice.  From that mixture
+     50 ml is taken and poured into Orange cup.  Now whether apple Juice
+     in Orange Cupis more or Orange Juice in White cup is more and by what
+     amount? 
+
+ 4.  Ms. Sheela goes her home by car from Station.  Her driver comes and
+     picks her up daily at 5.00 p.m.  One day Sheela arrives at Station one 
+     hour earlier and starts walking towards  home.  On the way driver
+     picked her up. By this they reached home 30 minutes earlier.  For how
+     long she was walking ? 
+
+ 5.  Some students went on a trip to Goa in holidays.  Unfortunately it 
+     rained on some days.  In a surprising manner if it rained in the
+     morning, they had a good afternoon and vice versa.  They had 11 morning
+     visits and 12 afternoon visits.  Altogether it rained for 13 days
+     during their stays.  What is the duration of Holidays ?
+
+ 6.  A survey was conducted for 100 people by Door Darshan 
+     1.  44 people watched channel I
+     2.  43  &quot;       &quot;       &quot;     II
+     3.  27  &quot;       &quot;       &quot;     III
+     4.  17  &quot;       &quot;       &quot;     I &amp; II
+     5.  14  &quot;       &quot;       &quot;     I &amp;III
+     6.  13   &quot;      &quot;       &quot;     II &amp;  III
+     7. 23 watched none.
+     How many watched I II &amp; III ?
+
+ 7.  Two Swimmers at different rate but at constant Speed were swimming.
+     They met at 18 meters from deep end.  Both swimmers took rest for 
+     4.5 seconds.  During their return they crossed at 10 meters from
+     ashlor end.  What is the length of the pool ?
+
+ 8. Mr. Raj goes to Office by Train.  First train in Main line Starts at 
+    5:02:0.  In Harbour Line it starts at 5:10:0.  Every Ten minutes there
+    is one train.  What is the probability that Raj travels in harbour line
+    at a random time of Driving      the Station?
+
+<hr>
+====================================================
+			INFOSYS
+			--------
+			
+
+
+
+1) There are two balls touching each other circumferencically.
+The radius of the big ball is 4 times the diameter of the small
+ball.The outer small ball rotates in anticlockwise direction
+circumferencically over the bigger one at the rate of 16 rev/sec.
+The bigger wheel also rotates anticlockwise at Nrev/sec. what is
+'N' for the horizontal line from the centre of small wheel always
+is horizontal.
+
+2)     1 2 3 4
+     + 3 4 5 5
+     ----------
+       4 6 8 9
+     - 2 3 4 5
+     ----------
+       2 3 4 4
+     + 1 2 5 4
+     ------------
+       3 6 9 8
+
+ Q)  Strike off any digit from each number in seven rows (need not
+ be at same place) and combine the same operations with 3 digit numbers
+ to get the same addition. After this strike off another digit from all
+ and add all the No.s to get the same 2 digit No. perform the same
+ process again with 1 digit No.s. Give the ' no.s in 7 rows at
+ each stage.
+
+3) there is a safe with a 5 digit No. The 4th digit is 4 greater than
+second digit, while 3rd digit is 3 less than 2nd digit. The 1st digit
+is thrice the last digit. There are 3 pairs whose sum is 11. Find
+the number.  Ans) 65292.
+
+4) there are 2 guards Bal and Pal walking on the side of a wall of a
+wearhouse(12m X 11m) in opposite directions. They meet at a point and
+Bal says to Pal &quot; See you again in the other side&quot;. After a few moments
+of walking Bal decides to go back for a smoke but he changes his 
+direction again to his previous one after 10 minutes of walking in
+the other(opposite) direction remembering that Pal will be waiting
+for to meet.If Bal and Pal walk 8 and 11 feet respectively, how
+much distance they would have travelled before meeting again.
+
+5)          xxx)xxxxx(xxx
+		3xx
+		-------
+		 xxx
+		 x3x
+		 ------
+		  xxx
+		  3xx
+		  ------
+
+   Q) Find the 5 digit No.
+    Hint: 5 is used atleast once in the calculation.
+6) Afly is there 1 feet below the ceiling right across a wall length
+is 30m at equal distance from both the ends. There is a spider 1 feet
+above floor right across the long wall eqidistant from both the ends.
+If the width of the room is 12m and 12m, what distance is to be 
+travelled by the spider to catch the fly? if it takes the shortest
+path.
+
+7) Ramesh sit around a round table with some other men. He has one 
+rupee more than his right person and this person in turn has 1 rupee
+more than the person to his right and so on, Ramesh decided to give
+1 rupee to his right &amp; he in turn 2 rupees to his right and 3 rupees
+to his right &amp; so on. This process went on till a person has 
+'no money' to give to his right. At this time he has 4 times the
+money to his right person. How many men are there along with Ramesh
+and what is the money with poorest fellow.
+
+
+8)Question related to probabilities of removing the red ball from a
+basket,given that two balls are removed from the basket and the other
+ball is red. The basket contains blue,red,yellow balls.
+
+9)Venkat has 1boy&amp;2daughters.The product of these children age is 72.
+The sum of their ages give the door numberof Venkat.Boy is elder of
+three.Can you tell the ages of all the three.
+
+                           ANALYTICAL
+			   ----------
+1)L:says all of my other 4 friends have money
+M:says that P said that exact one has money
+N:says that L said that precisely two have money
+O:says that M said that 3 of others have money.
+P:Land N said that they have money.
+   all are liers.Who has money&amp;who doesn't have?
+
+2)A hotel has two,the east wing and the west wing.some east wing rooms
+but not all have an ocean view(OV).All WW have a harbour view(HV).The
+charge for all rooms is identical, except as follows
+* Extra charge for all HV rooms on or above the 3rd floor
+* Extra charge for all OV rooms except those without balcony
+* Extra charge for some HV rooms on the first two floor&amp;some EW rooms
+without OV but having kitchen facilities. (GRE modrl Test 3-question
+						 1J-22)
+3)Post man has a data of name surname door no.pet name of 4 families.
+But only one is correct for each family.There are a set of statements
+&amp;questions.
+4)4 couples have a party.Depending on the set of statements,find who
+insulted whom and who is the host of the party.
+5)5 women given some of their heights(tall,medium,short)Hair( long,
+plainted),stards(Black or Brown), sari,2 medium,2-short.Tall-&gt;no
+sari.Plainted-&gt;medium.Answer the combinations.
+
+
+1) A person has to go both Northwards&amp;Southwards in search of a job.
+He decides to go by the first train he encounters.There are trains for
+every 15 min both southwards and northwards.First train towards south 
+is at 6:00 A.M. and that towards North is at 6:10 .If the person arrives
+at any random time,what is the probability that he gets into a train
+towards North.
+2) A person has his own coach&amp;whenever he goes to railway station he
+takes his coach.One day he was supposed to reach the railway station
+at 5 O'clock.But he finished his work early and reached at 3 O'clock.
+Then he rung up his residence and asked to send the coach immediately.
+He came to know that the coach has left just now to tje railway station.
+He thought that the coach has left just now to the railway station.He
+thought that he should not waste his time and started moving towards
+his residence at the speed of 3mi/hr.On the way,he gets the coach and
+reaches home at 6 o'clock.How far is his residence from railway
+station.
+
+3)Radha,Geeta&amp;Revathi went for a picnic.After a few days they forgot the
+date,day and month on which they went to picnic.Radha said that it was 
+onThursday,May 8 and Geeta said that it was Thursday May 10.Revathi
+said Friday Jun 8.Now one of them told all things wrongly,others one
+thing wrong and the last two things wrongly.If April 1st is tuesday
+what is the right day,date and month?
+
+
+
+
+
+
+  
+
+ 		
+
+<hr>
+==================================================================
+                       INFOSYS 1997.           TIME 1hr.
+		       PAPER CODE Q/A.        marks 50. 
+--------------------------------------------------------------
+1)At 6'o clock clock ticks 6 times.  The time between first and
+last ticks was 30sec.  How much time it takes at 12'o clock.
+
+Ans. 66 sec.                 2 marks.
+
+2)Three friends divided some bullets equally.  After all of them
+shot 4 bullets the total no.of remaining bullets is equal to that of
+one has after division.  Find the original number divided.
+
+Ans. x          x       x
+     x-4        x-4     x-4
+     3x-12 = x
+     x= 6
+     ans is 18                  2 marks
+
+3)A ship went on a voyage after 180 miles a plane statrted with 10 times
+speed  that of the ship.  Find the distance when they meet from
+starting point.
+
+Ans.  180 + (x/10) = x
+       x = 20
+       ans is 180+20=200miles.             2 marks
+
+4) Fill the empty slots.
+  Three FOOTBALL teams are there. Given below the list of maches.
+
+        played  won     lost    draw    Goals for       Goals against
+A        2       2       *0      *0        *7                 1         
+B        2       *0      *1       1        2                    4
+C        2       *0      *1      *1        3                   7
+
+the slots with stars are answers.   4 marks
+BC drew with  2-2
+A won on B by 2-0
+a won on C by 5-1
+( YOU HAVE TO FILL THE BLANKS AT APPROPRIATE STAR SYMBOLS.)`
+5) There are 3 societies a,b,c.  a lent tractors to b and c as many
+as they had.  After some time b gave as many tractors to a and c
+as many as they have.  After sometime c did the same thing.
+At the end of this transaction each one of them had 24.
+Find the tractors each orginally had.
+
+Ans a had 39, b had 21, c had 12,          4 marks
+
+6) There N stations on a railroad. After adding x stations 46 additional
+tickets have to be printed. Find N and X.
+
+Ans. let N(N-1) = t;
+         (N+x)(N+x-1)       = t+46;
+         trail and error method   x=2  and N=11   4 marks
+
+7)Given that April 1 is tuesday. a,b,c are 3 persons told that their
+farewell party was on
+  a  - may 8, thursday
+  b  - may 10,tuesday
+  c  - june 8, friday
+Out of a,b,c one is only correct one of the regarding month,day,date.
+Other told two correct and the third person told all wrong.What is
+correct date,month,day.                 5 marks
+(ans may be MAY 10 SUNDAY. check once again)
+8)There are 4 parties.  df,gs,dl(depositloss),ew ran for a contest.
+Anup,Sujit,John made the following statements regarding results.
+Anup said either df or ew will definitely win
+sujit said he is confident that df will not win
+John said he is confident that neither ew nor dl will win
+the result has come.  only one of the above three has made a correct
+statement.  Who has made the correct statement and who has won
+the contest.                    5 marks.
+  (ans DL )
+9)Five people a,b,c,d,e are related to each other.  Four of them make
+one true statement each as follows.
+i) b is my father's brother.       (ans. d said this)
+ii)e is my mother-in-law.          (     b          )
+iii)c is my son-in-law's brother.  (     e  )
+iv)a is my brother's wife.          (c)
+
+                                        10 marks.
+
+10) All members of d are also members of a
+    All   ''       e   ''                d
+    all    ''      c    ''               both a and b
+    not all ''     a  are members of d
+    not all ''     d   ''            e
+Some questions on these conditions.(5questions 5 marks)
+11)
+   boys are allowed to watch football at c.v.Raman auditorium subjected to
+   conditions.
+   i)the boy over age 16 can wear overcoat
+   ii)no boy over age  15 can wear cap
+   iii)to watch the football either he has to wear overcoat or cap
+        or both
+   iv) a boy with an umberella or above 16 or both cannot wear sweater.
+   v)  boys must either not watch football or wear sweater.
+
+   What is the appearence of the boy who is watching football.
+   Try to solve this question................
+
+
+YOU HAVE TO DO SOME ROUGH WORK FOR EACH QUESTION . IT WILL
+  CARRY SOME GRACE MARKS.
+
+
+
+
+
+

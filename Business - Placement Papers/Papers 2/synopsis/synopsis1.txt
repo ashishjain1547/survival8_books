@@ -1,0 +1,81 @@
+1. The grammer for A, B, S is given below.
+S->Ax|By
+A->Ax|y
+B->x|y
+possible ans is xy|xy 
+2. In n*n matrix , there non zero numbers in diagonal and either side
+of the diagonal. If represented in one dimensional array, assign the
+values which are non zeros.
+find relation with i,j iteration and linear arry
+like a[2*(i-1)+j] this 
+the matrix will be
+x x 0 0 0 0 --------
+x x x 0 0 0 0 -----
+0 x x x 0 0 0  ------
+0 0 x x x 0 0  -------
+0 0 0 x x x 0 0 ----
+| | | | | | | | |
+| | | | | | | | | 
+remumber n*n matrix
+3. In-order of the letters is given as below:
+If written in pre-order like given below:
+write the post-order:
+4. fun(n)
+   {
+    if(n<=2)
+    return (1);
+    else 
+     return ((fun(n-1)*fun(n-2));
+     }
+find the order of complexity of the programme.
+possible answer ---- N(2^n)
+5. 
+
+
+6. If a and b are given. write the results of the programme 
+given below. 
+  a=a XOR b;
+  b=a XOR b;
+  a= a XOR b;
+answer is  swaping of a and b
+ so b,a is answer
+7.
+8.for a given CMOS the voltage is halved
+ freqency doubled
+ capacitance halved
+what is the present CMOS power
+ans (b)----   dynamic power is 1/2 *C*f*V^2
+9.if a row daminated two dimentional arry in the following which one is advantage
+and why?
+a) for(i=0;i<1000;i++)
+     for(j=0;j<1000;j++)
+           temp=temp+a[i][j];
+b) for(j=0;j<1000;j++)
+    for(i=0;i<1000;i++)
+         temp=temp+a[i][j]
+I donot know ans
+10. what is area of a Hexagon with side as 1unit
+ans is 3*(sqrt(3))/2
+11. If traverse in a chess board right and down from one corner to  another corner
+ how many possible ways will be there
+ans is C(16,8) or (16!/(8!*8!))
+12. Tick the below which can biparate (graph theory)
+1)tree 2)forest of trees 3) evencycle graph 4) oddcycle graph 
+ans is 1,2,3
+13.The fig shown in below is a SRAM (1K* 4 bits) ,how many of this SRAMS are
+reqired to design 16K of one byte 
+ans is  32 SRAMS and one 4 to 16 decoder
+14. suppose two persons entering into one room in the morning 5 to 6 A.M. 
+what is the probability they will enter in 10 minits gap.
+ I donot know this answer
+15. In a binary tree what is the hight and lowest no of levels for N nodes.
+ans is  highest is N and lowest is log(N+1) base 2  
+16.represent 3 and -3 in base -2 form taking two states (0,1) only
+i do not know the ans 
+OTHER 5 QUESTIONS FROM SORTING TECHNICS SO PLEASE GO THROUGH SORTING TECHNICS .
+OTHE 5 QUESTIONS FROM FLIP-FLOP DELAYS EXAMPLE
+1. THERE IS ONE LOOKAHEAD ADDER IS THERE ONLY TWO STAGES IT GIVES CARRY AHEAD WHAT IS
+ THE TOTAL DELY IF IT IS 8 BIT ADDER.
+2. WHAT IS PROPAGATION DELAY TIME FOR RING COUNTER.
+B
+3OB. WHAT IS MAX FREQENCY FOR SOME COUNTER SO PLESE CHECK COUNTES AND FLIP-FLOPS

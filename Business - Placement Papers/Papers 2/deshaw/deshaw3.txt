@@ -1,0 +1,266 @@
+
+THIS IS THE PAPER IN IIT KHARAGPUR
+
+	DESHAW 97
+PART 1						TIME:20 MIN
+* 20 QUESTIONS , EACH QUESTION CARRIES 2 MARKS
+
+1. A SOLID ICE OF 11 X 8 X2 INCHES IS MADE INTO ROD OF DIA  4 INCH. WHAT
+IS THE LENGE OF ROD?
+
+ANS: 3.5 INCH
+
+2. THERE WERE 750 PEOPLE WHEN THE FIRST SONG WAS SUNG. AFTER EACH
+SONG 50 PEOPLE ARE LEAVING THE HALL. HOWMANY SONGS ARE SUNG TO MAKE
+THEM ZERO?
+
+ANS:16
+
+3. A PERSON IS CLIMBING OF 60 MTS . FOR EVERY MINUTE HE IS  CLIMBING 6 MTS
+AND SLIPPING 4 MTS . AFTER HOWMANY MINUTES HE MAY REACH THE TOP?
+
+ANS: (60-6)/2 +1  :28
+
+4. HOWMANY ZEROS ARE THERE IN THE PRODUCT OF THE INTEGER FROM 1TO 100?
+
+ANS: 24( NOT GIVEN)
+
+	1 TO 10   -2  ZEROS
+	21 TO 30  -3  ZEROS  : BECAUSE  25 = 5*5
+					22 *5
+					24 *5
+
+5. A CAN DO WORK IN 2 HOURS B CAN DO A WORK IN 3 HOURS WHAT IS THE 
+SHORTEST TIME TYEY CAN FINISH THE WORK?
+
+ANS: 1HOUR 12 MIN.
+
+6..SALARY IS INCREASED BY 1200 ,TAX IS DECREASED FROM 12% TO 10% BUT PAYING
+SAME AMOUNT  AS TAX . WHAT IS THE PREVISIOUS SALARY?
+
+ANS:6000
+
+7. THE LEAST NO. WHICH IS WHEN DEVIDED BY 4,6,7  LEAVES A REMAINDER OF 2 ?
+
+ANS: 86
+
+8. A MAN DRIVING THE CAR AT TWICE THE SPEED OF AUTO ONEDAY HE WAS DRIVEN 
+CAR FOR 10 MIN. AND CAR IS FAILED. HE LEFT THE CAR AND TOOK AUTO TO GOTO 
+THE OFFICE . HE SPENT 30 MIN. IN THE AUTO. WHAT WILL BE THE TIME TAKE BY 
+CAR TO GO OFFICE?
+
+ANS:25 MIN
+
+9. A REPORT HS 20 WHEETS, EACH OF 55 LINES AND EACH SU;CH A LINE CONSISTS
+OF 65 CHARACTERS. IF THE REPORT HAS TO BE RETYPED WITH EACH SHEET HAVING 65 
+LINES AND EACH LINE HAVE 75 CHARACTERS, THE PERCENTAGE OF  REDUCTION OF
+NO OF SHEETS IS CLOSEST IS TO?
+	
+
+ANS: 25%
+
+ 
+
+10. OUT OF 100 FAMILIES IN NEIGHBOUR HOOD , 55 OWN RADIO, 75 OWN T.V
+AND 25 OWN VCR. ONLY 10 FAMILIES HAVE ALLOF THESE, AND EACH VCR OWNER
+HAS TV . IF 25 FAMILIES HAVE THE RADIO ONLY, THE NO. OF FAMILIES HAVE
+ONLY TV ARE?
+
+ANS: 30
+
+
+
+
+APTITUDE: ( QUESTIONS 16 T019)
+
+KYA KYA IS AN ISLAND IN THE SOUTH PACIFI . THE INHABITANTS OF KYA KYA
+ALWAYS ANSWER ANY QUESTION WITH TWO SENTENCES, ONE OR WHICH IS ALWAYS
+TRUE AND OTHER IS ALWAYS FALSE.
+
+1. YOU ARE WALKING ON THE ROAD AND COME TO A FORK. YOU ASK ,THE INHABITANTS
+RAM.LAXMAN, AND LILA AS" WHICH ROAD WILL TAKE ME TO THE VILAGE?
+
+RAM SAYS: I NEVER SPEAK TO STRANGERS. IAM NEW TO THIS PLACE
+LAXMAN SAYS: IAM MARRIED TO.LILA. TAKE THE LEFT ROAD
+LILA SAYS: IAM MARRIED TO RAM. HE IS NOT NEW TO THIS PLACE
+
+ANS:  LEFT ROAD TAKE YU TO THE VILLAGE
+
+2. YOU FIND THAT YOUR BOAT IS STOLLEN. U QUESTIONED THREE INHABITANTS OT 
+ ISLANDS AND THEIR REPLIES ARE
+
+JOHN   : I DIDNOT DO IT. MATHEW DIDNOT DO IT
+MATHEW :  I DIDNOT DO IT. KRISHNA DIDNOT DO IT
+KRISHNA: I DID NOT DO IT; I DONOT KNOW WHO DID IT
+
+ANS: MATHEW STOLEN THE BOAT
+
+3. YOU WANT TO SPEAK TO THE CHIEF OF VILLAGE , U ASK THREE FELLOWS AMAR
+BOBBY, CHARLES AND BOBBY IS WEARING RED SHIRT
+
+AMAR    : IAM NOT BOBBY`S SON ; THE CHIEF WEARS RED SHIRT
+BOBBY   : IAM AMARS FATHER ; CHARLES IS THE CHIEF
+CHARLES : THE CHIEF IS ONE AMONG US; IAM THE CHIEF
+
+ANS: BOBBY IS THE CHIEF
+
+4. THERE IS ONLY OPNE POLOT IN THE VILLAGE(ISLAND). YOU INTERVIEWED THREEM MAN 
+KOISK ,LORRY AND MISHRA
+U ALSO NOTICE THAT KOISK IS WEARING CAP.
+
+M SAYS : LARRY IS FATHER IN THE PILOT .LARRY IS NOT THE PRIESTS SON
+KOISK  : IAM THE PRIEST ON THEIS ISLAND ONLY PRISTS CAN WEAR THE CAPS
+LARRY  : IAM THE PRIEST SON . KOISK IS NOT THE PREST
+
+ANS : KOISK IS THE PILOT
+
+
+
+
+
+
+THIS PAPER HAS GIVEN IN IIT DELHI , SO GO THROUGH THIS IT WILL GIVE 
+ROUGH IDEA;
+
+
+1.   typedef struct{
+	char *;
+	nodeptr next;
+	} * nodeptr;
+what does nodeptr stand for?
+
+2. supposing thaty each integer occupies 4 bytes and each charactrer 
+1 byte , what is the output of the following programme?
+
+#include<stdio.h>
+main()
+{
+ int a[] ={ 1,2,3,4,5,6,7};
+char c[] = {' a','x','h','o','k'};
+printf("%d\t %d ", (&a[3]-&a[0]),(&c[3]-&c[0]));
+}
+ans : 3  3
+
+3. what is the output of the program?
+
+#include<stdio.h>
+main()
+{
+struct s1 {int i; };
+struct s2 {int i; };
+struct s1 st1;
+struct s2 st2;
+st1.i =5;
+st2 = st1;
+printf(" %d " , st2.i);
+}
+
+ans: nothing  (error)
+expl: diff struct variables should not assigned using "=" operator.
+
+
+
+4.what is the output of the program?
+
+#include<stdio.h>
+main()
+{
+int i,j;
+int mat[3][3] ={1,2,3,4,5,6,7,8,9};
+for (i=2;i>=0;i--)
+ for ( j=2;j>=0;j--)
+printf("%d" , *(*(mat+j)+i));
+}
+
+ans : 9 6 3 8 5 2 7 4 1
+
+5.
+
+fun(n);
+}
+int fun( int n)
+{
+int i;
+for(i=0;i<=n;i++)
+fun(n-i);
+printf(" well done");
+
+}
+ howmany times is the printf statement executed for n=10?
+
+
+ans: zero
+expl: Befire reaching to printf statement it will goes to infinite loop.
+
+
+6.what is the output of the program?
+
+main()
+{
+struct emp{
+	char emp[];
+	int empno;
+	float sal;
+};
+struct emp member = { "TIGER"};
+printf(" %d %f", member.empno,member.sal);
+
+
+ans: error. In struct variable emp[], we have to give array size.
+ If array size given
+ans is 0, 0.00
+
+
+
+7. output of the program?
+
+	# define infiniteloop while(1)
+	main()
+	{
+	infiniteloop;
+	printf("DONE");
+}
+
+ans: none
+expl: infiniteloop in main ends with ";" . so loop will not reach end;
+and the DONE also will not print.
+
+8.  output of the program?
+	
+main()
+{
+int a=2, b=3;
+printf(" %d ", a+++b);
+}
+
+ans:5
+expl: here it evaluates as a++ + b. 
+
+9. output of the program?
+
+#define prn(a) printf("%d",a)
+#define print(a,b,c) prn(a), prn(b), prn(c)
+#define max(a,b)  (a<b)? b:a
+
+main()
+{
+int x=1, y=2;
+print(max(x++,y),x,y);
+print(max(x++,y),x,y);
+}
+
+
+ans: 3 4 2
+
+10. which of the following is the correct declaration for the function main() ?
+
+ans: main( int , char *[])
+
+11. if ptr is defined as
+
+	int *ptr[][100];
+	which of the following correctly allocates memory for ptr?
+
+ans: ptr = (int *)(malloc(100* sizeof(int));
+
+FEW MORE PROGRAMS HERE BUT NOT AVAILABLE:

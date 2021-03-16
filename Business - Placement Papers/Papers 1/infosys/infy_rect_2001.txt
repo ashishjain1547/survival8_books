@@ -1,0 +1,92 @@
+infosys paper.  6/7/2001. time :60 minutes
+
+
+
+1.a girl bringing eggs from shop in a basket. it fell
+down and all eggs broken. she did not remember. how
+many eggs in basket.but when counted at shop if they
+counted 2's,3's,4's and 5's  remainders are 1,2,3,4.
+then find the number of eggs in basket. (ans 59).
+(marks 3)
+2. three persons names tommy,bacott, roy are there.one
+of them is thief.police caught them asked them who
+stole some thing.then each person said" those two
+stole it, i didn,t take it". then later police found
+that tommy is lying . then who is the thief.
+(ans:  tommy) (marks 3)
+3. some account, cashier, clerk problem.
+given conditions.ans
+accountant: nelson
+cashier:miller
+clerk:lewis
+(marks 3)
+4. how many 4's are there in  400 to 499.
+(ans:120)
+(marks 3)
+5. some time finding problem
+i didn,t rember correctly.ans 22horus(may be)
+(marks 5)
+6.a cyclist and train daily meet at station. one day
+cyclist late by 20 minutes. then train crossing him
+berore station by 5 miles. cyclist speed is 12 kmph.
+then find the speed of the train.
+ans 60 kmph
+(marks 5)
+7.three persons participated in a race. in that
+soreran is the winner. he always tells truth. another
+is neoran who tells always false. another medioran
+tells truth and falls alerternately not necessarily in
+order. the follwing statements are made by them.
+(marks 6)
+A:1 c is not crowd at A at last run , suchthat he
+    can    loose game
+   2. c is always tells truth
+   3. c is winner
+
+B:1. B won the race
+  2. c is not the norean
+
+C:1. B won the race
+  2. c isnot crowd  A at last run to causn him loose
+match.
+find the whom made the statements a , b,c.
+(marks 6)
+8. eleven friend are went to cinema thearte. they
+eleven seats in a row. first a can sit in any seats of
+the eleven seats. then adjoining to a b is sit. then
+adjoing to b c is sit. in this all friends can sit how
+many ways. (ans 11*2power 9 chek answr )
+(marks 6)
+9. four persons are there. their names are max 8
+syallable are less than eight. in their four names.
+two names have no vowel sounds. and one have one vowel
+sound ,another have two vowel sound.
+given some conditions. basing on that we have found
+that no of vowels and sysallbele in that names.
+(marks 8)
+10. a,b,c,d,e are students. they can speak some
+languges. that condings are given . ( you can easily
+undr stood that )
+last condition in that  is one speaks five lanaguges,
+one four, one two , one three. then given some
+questiongs (marks 8)
+
+and 1.c
+    2.d
+    3.c
+    4.d
+
+
+essay writing:(15 minutes)
+
+  which is greater intellectual capital or financial
+capital
+        or
+
+information technology -to arrest corruption
+
+if you  have any new papers oracle ittiam texas huges
+please send. if get from kmrs or any body next lettr i
+will give my campus schedule. they put elegibility for
+
+

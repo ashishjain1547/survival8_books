@@ -1,0 +1,57 @@
+BFL  PAPER  (COMPUTER AWARENESS TEXT) (45QUESTIONS  ,+1,-1/4,45MIN)
+(ITH IN BRACKETS  ANSWERS)
+1.In scanf   h  is used for (short int)
+2.process is (program in execution)
+3.thread is (detachable unit of executable code)
+4.advantage of Win NT over Win 95 (robust &amp;secure)
+5.memory managemant in Win95 (paging &amp;segmentation)
+6.SQL indicates (all above)
+7.polymorphism(function &amp; operator overloading)
+8.inheritance is(all properties of existing class are derived)
+9.FTP(transfer a file  b/w stations with user authentification)
+10.TCP in transport  layer (connection oriented)
+11.gateway is used (to connect incompatible networks)
+12.linked list is implemented by (referential structures)
+13.multitask win95 (preemptive or  non preemptive   check)
+14.functional dependency (  answer  C)
+15.semaphore is (synchronization of multiple processes
+16.precedence order from high to low (  ( )  ++  /  )
+17.preorder of  A*(B+C)/D-G  (*+ABC/-DG)
+18.B-tree (failure nodes at same level)
+19.dense index (index record appers for every search -key in file)
+20.answer for one questions (   (*p).value =5  )
+21.merge sort  time complexity (  O(n log n)   )
+22.program on swaping   (   10,5  )    given values  are not changed  
+23.routers used   (in network layer )
+24.packets are formed ( in network layer )
+25.heap  ( priority queue )
+26.copy  constructor ( constant reference )
+27.while following sorting algorithem has average sorting behavior (heap
+sort )
+28.in binary search tree  which traversal is used for getting ascending
+order values (inorder )
+29.device drivers is used ( tool for a i/o devices)  i am not sure 
+30. irrevalent  to unix  command ( getty)
+31.fork in unix (system call used to create process)
+32.make (creation of more than one file )
+33.in unix .profile contains ( start up program)
+34.in unix  echo is used for ( answer C)
+35.in unix  'ls 'stores contents in(  inode block)
+REFER  GRE ( 12 TH EDITION)(QUANTITATIVE  20 Q ,+1,-1/4)
+QUANTITATIVE :-
+MODEL TEST 1. SECTION 3,PAGE 435 :- QUESTIONS(Q )  17 TO 20,26 29
+MODELTEST 1,SECTION 4,PAGE 441:-  Q  26,28,29
+MODEL TEST 2,SECTION 3,PAGE 483:- Q 18,19,20,29,30
+MODEL TEST 2,SECTION 4,PAGE  489 :- Q 16,30
+MODEL TEST 2,SECTION 7,PAGE 501 :- Q 16
+     ANALYTICAL ABILITY  ( 20 Q, +1,-1/4)  QUANTUM+ANALYTICAL 45MIN
+1. PAGE 397 Q 7-11( THE OFFICE STAFF OF THE XYZ CORPORATION)
+2PAGE 397 Q 14-17 ( AFTER MONTHS OF TALENT SEARCHING FOR AN 
+ADMINISTRATIVE
+ASSISTANT
+3.PAGE 400 Q 29-31(A CERTAIN CITY A  SERVED BY SIX SUBWAY LINES)
+4.MODEL TEST1,SECTON5,PAGE443,Q13-16(IN A CETTAIN SOCIETY THERE ATE TWO
+MARRIAGE GROPES RED , BROWN)
+5.MODELTEST3,SECTION6,PAGE544,Q 1-4(ALL G'S ARE H'S ,ALL G'S ARE J'S OR
+K'S)
+

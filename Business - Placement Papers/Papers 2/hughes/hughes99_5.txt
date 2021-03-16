@@ -1,0 +1,287 @@
+There were two papers one was aptitude ( 36 questions) and other was 
+technical(20 questions)
+
+1: given an expression tree and asked us to write the in fix of that expression
+
+four choices
+
+
+2:
+  global variables in different files are
+
+a:at compiletime
+b) loading time
+c) linking time
+d)execution time
+
+3)size of(int)
+a) always 2 bytes
+b) depends on compiler that is being used
+c) always 32 bits
+d) can't tell
+
+4)which one will over flow given two programs
+2
+prog 1:                                 prog2:
+
+main()                                  main()
+{                                       {
+int fact;                                       int fact=0
+long int x;                             for(i=1;i<=n;i++)
+fact=factoral(x);                               fact=fact*i;
+
+}                                       }
+
+
+int factorial(long int x)
+{
+
+if(x>1) return(x*factorial(x-1);
+}
+
+a) program 1;
+b) program 2;
+c) both 1 &2
+d) none
+
+}
+
+5) variables of fuction call are allocated in
+a) registers and stack
+b) registers and heap
+c) stack and  heap
+d)
+
+6)
+
+    avg and worst case time of sorted binary tree
+
+
+7) data structure used for proority queue
+   a) linked list b) double linkedd list c)array d) tree
+
+8)
+
+ main(){
+char str[5]="hello";
+if(str==NULL) printf("string null");
+else printf("string not null");
+}
+what is out put of the program?
+a) string is null b) string is not null c) error in program d) it executes but p
+rint nothing
+
+
+
+9)there are 0ne 5 pipe line and another 12 pipe line sates are there and flushed
+ time taken to execute five instructions
+
+a) 10,17
+b) 9,16
+c)25,144
+d)
+
+
+10)
+
+for hashing which is best on terms of buckets
+a)100 b)50 c)21 d)32  ans 32
+
+11)
+
+
+void f(int value){
+for (i=0;i<16;i++){
+if(value &0x8000>>1) printf("1")
+else printf("0");
+}
+}
+what is printed?
+a) bineray value of argument b)bcd value c) hex value d) octal value
+
+12)
+
+
+void f(int *p){
+static val=100;
+val=&p;
+}
+main(){
+int a=10;
+printf("%d ",a);
+f(&a);
+printf("%d ",a);
+}
+what will be out put?
+a)10,10
+
+13)
+
+struck a{
+int x;
+float y;
+char c[10];
+}
+union b{
+int x;
+float y;
+char c[10];
+}
+which is true?
+a) size of(a)!=sizeof(b);
+b)
+c)
+d)
+
+14)
+
+
+# define f(a,b) a+b
+#defiune g(c,d) c*d
+
+find valueof f(4,g(5,6))
+a)26 b)51 c) d)
+
+15)
+
+find avg access time of cache
+a)tc*h+(1-h)*tm b)tcH+tmH
+
+c)    d)   tc is time to access cache tm is time to access when miss occure
+
+16)
+
+main()
+{
+char a[10]="hello";
+strcpy(a,'\0');
+printf("%s",a);
+}
+out put of the program?
+a) string is null b) string is not null  c) program error d)
+
+17)
+
+simplyfy k map
+
+1 x x 0
+1 x 0 1
+
+18)
+
+int f(int a)
+{
+a=+b;
+
+//some stuff
+
+
+}
+
+main()
+{
+x=fn(a);
+y=&fn;
+what are x & y types
+a) x is int y is pointer to afunction which takes integer value
+
+
+
+19)  char a[5][15];
+int b[5][15];
+address of a 0x1000 and b is 0x2000 find address of a[3][4] and b[3][4]
+assume char is 8 bits and int is 32 bits
+
+a) b) c) d)
+
+there are 20 questions all in techinical paper and 36 questions in appititude te
+st
+
+in appititude thay have given all diagrams and asked to find what comes next
+
+thay are quite easy and i hope if u practice r.s aggraval u can do it easily
+
+for tecnical thay have given 1 hr for 20 questions and for not technical thay ha
+ve given only 40 min
+and 36 questions
+
+this is the paper i have right now
+
+1. main()
+   {
+    fork();
+fork();
+fork();
+printf("\n hello");
+}
+
+How many times print command is executed?
+
+2.main()
+{
+ int i,*j;
+  i=5;
+j=&i;
+printf("\ni= %d",i);
+ f(j);
+
+printf("\n i= %d",i);
+}
+
+void f(int*j)
+{
+int k=10;
+  j= &k;
+}  
+
+output is
+a 5 10
+b 10 5
+c 5 5
+d none
+
+3.
+  some question on pipeline like you have to findout the total time 
+by which execution is completed for a pipeline of 5 stages.
+
+4.
+
+  main()
+{
+   int *s = "\0";
+
+   if(strcmp(s,NULL)== 0)
+     printf("\n s is null")p
+    else
+     printf("\n s is not null");
+}
+
+5. 
+  some syntax which returns a pointer to function
+
+6.  size of integer is
+    a. 2 bytes
+    b 4 bytes
+    c. machine dependant
+    d compiler dependent.
+
+7.max and avg. height of sorted binary tree
+
+a. logn n
+b n logn
+
+8.
+  some question. like the number was shifted everytime by one and bitwise and with 10000000.
+  one was supposed to find what the code was doing.
+  I feel the answer was most probably finding decimal value.
+
+9. int a[5][4]
+   int is 2 bytes base address for array is 4000(Hexa)
+   what will be addr for a[3][4]?
+   int is 4 bytes same question.
+
+10.
+  implementation of priority queue
+  a. tree
+   b linked list 
+    c doubly linked list.

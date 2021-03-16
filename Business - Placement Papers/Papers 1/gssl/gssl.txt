@@ -1,0 +1,309 @@
+Geometrics Sample Test Home
+ 
+
+
+SECTION 1- APTITUDE SECTION
+
+Directions for questions 1-3: Complete the sequence given below
+
+1. 5, 5, 13, 13, 21, 21, __
+
+Ans: 29
+
+
+2. 0, 7, 26, 63, 124, __
+
+Ans: 215 ( hint: n3-1 )
+
+
+3. 1, 3, 5, 7, __
+
+Ans: 9 
+
+
+4. If a person walks at 4/5th of his usual speed he reaches 40min late. If  he 
+walks at his usual speed for how much time does he travel ?
+
+
+5. Two trains A&B start at opposite points 120km apart at 60kmph. A fly 
+starting along with train A at 120kmph reaches B then returns back to touch A 
+and continues the two and fro movement. By the time two trains meet how much 
+distance would the fly have travelled?
+
+
+6. In a class 80% have passed in english, 70% passed Hindi, 10% didn't pass 
+either. If 144 students passed both the subjects. What is the total strength of 
+the class?
+
+
+7. Find the least number which when divided by 7 gives the reminder 6, when 
+divided by 6 gives reminder 5, when divided by 5 gives reminder 4 and so on ?
+
+
+8. If a man stands in front of sun what is the first letter of the direction 
+which is left to him ?
+
+
+9. (a)A square is to circle as cube is to
+    (b)Success is to failure as joy is to 
+
+
+10. (a)Give the synonyms of the following words
+(i) Joy
+(ii) Inert
+(iii) Jolly
+
+(b) Give the opposites of the following words
+(i) genuine
+(ii) command
+(iii) essential
+
+
+11.Find the odd man out in the following sets
+(i) Tiger, Elephant, King Cobra, Dolphin
+(ii) Oasis, Lake, Pool, Valcano
+(iii) Bengali, Karnataka, Mumbai, Kashmir
+(iv) Lapidary, Lancet, Scapel, Surgeon
+(v) Requiem, Dirge, Elegy, Paean
+
+
+12. I bought a cycle 2days before my birthday and I broke it 3 days after my 
+birthday. The day I broke it is Mar2,1956?
+
+Directions: The following questions are to be answered on the basis of the 
+above given statement 
+
+i) When is my birthday?
+Hint: Keep in mind that 1956 was a leap year.
+(ii) What is my age on Mar 4th, 1980?
+(iii) My nephew is born exactly 20years after me. If I turned 20 in 1960, what 
+is the nephews age on Feb 28th 1988 ?
+
+
+13. Monday Aug25, 96 :
+Hostess: "Mr A, you forgot your umbrella during the party on last friday. I 
+expected you to collect it on your visit on wednesday as I plan to leave on 
+this Friday."
+
+Directions: The following questions are to be answered on the basis of the 
+above given statement 
+
+(i) when A missed umbrella?
+(ii)When A is supposed to collect it?
+(iii)When K leaves?
+
+
+14.What is my father's sons son to my son?
+
+Ans. Cousin brother
+
+
+15. On cutting a solid parabola what would be generated 
+
+Ans: Cone
+
+
+16. What is Eulers formula?
+
+Ans: F+V-E =2; where
+F => faces; V => vertices; E => number of edges 
+
+
+17. What is Newton Raphson method used for? 
+
+Ans: To find the root of f(x) = 0;
+
+
+18. How many tangents can be drawn on three circles if they don't lie within 
+each other ?
+
+
+19. xy - x + 2y = 6 equation is shifted to form equation xy=c what is c ?
+
+
+20.When x is real what is the least value of (x2-6x+5)/(x2+2x+1)
+
+
+21.When an object like cube or sphere is seen along x, y, z axis we get the 
+same.Apart from these suggest another object which has similar characteristics 
+as that mentioned above?
+
+Ans: Triangular prism
+
+
+22. When an object is seen from the front side we can see two concentric 
+squares and top view also without any hidden lines. Draw the side view.
+
+
+23. In common parlance, A=> B means what
+
+Ans: if A is true B has to be true
+
+
+23. If A is not invertible and BA = I is not possible, what is implied by this?
+
+Ans: Determinant is Zero.
+
+
+24. What is a free body diagram used for
+
+
+25. A die is thrown twice what is the probability that you get same number
+
+
+26. The sum of two numbers is 55. What is the larger number?
+
+
+
+
+SECTION 2-TECHNICAL SECTION
+
+
+1. Convert 251 in base 10 to octal(base 8)?
+
+
+2. How much information can be stored in 1 byte of a IBM pc compatible?
+
+
+3.What is the language used for Artificial Intelligence 
+
+Ans: lisp
+
+
+4. Swap two variables without using temporary variable
+
+Ans: a= a+b; b= a-b; a= a-b:
+
+
+5.Which is not the operating system ?
+
+Ans: BIOS
+
+
+6. What is the optimum number of operations for 2x3 + 3x2 + 5x + 5?
+
+
+7. In the fortran language which of the following is true. 
+(i) fortran uses call by value
+(ii) fortran is object oriented
+(iii) fortran allows use of function overloading
+
+Ans. (i)
+
+
+8. When a program is compiled what does it produce?
+
+Ans: Source code is converted to object code
+
+
+9. What is the difference between function overloading and function overriding?
+
+
+10. What is the character set used in JAVA 2.0 ?
+
+Ans: Unicode
+
+ 
+
+SECTION 3 - C TEST 
+
+1. What is the mistake in the following program segment ?
+
+f()
+{
+int a;
+void c;
+f2(&c,&a);}
+
+
+2. a=0;
+    b=(a=0)?2:3;
+
+a) What will be the value of b and why ?
+b) If in first statement a=0 is replaced by a = -1,  b= ?
+c) If in second statement a=0 is replaced by a = -1, b=?
+
+
+3. char *a[2];
+int const *p;
+int *const p;
+struct new { int a;int b; *var[5] (struct new)}
+
+Describe the statements in the above given construct ?
+
+
+4. f()
+   { 
+      int a=2;
+      f1(a++);
+   }
+f1(int c)
+{
+printf("%d", c);
+}
+
+What is the value of c ?
+
+
+5. f1()
+    {
+       f(3);
+    }
+f(int t)
+{
+switch(t);
+{
+case 2: c=3;
+case 3: c=4;
+case 4: c=5;
+case 5: c=6;
+default: c=0;
+}
+
+What is the value of c?
+
+
+6. What is the fallacy in the following program segment ?
+
+int *f1()
+{
+int a=5;
+return &a;
+}
+f()
+int *b=f1()
+int c=*b;
+}
+
+
+7. Give the C language equivalents of the following
+a)Function returning an int pointer
+b)Function pointer returning an int pointer
+c)Function pointer returning an array of integers
+d)Array of function pointer returning an array of integers
+
+8. Find the fallacy in the following program segment?
+
+int a;
+short b;
+b=a;
+
+
+9. Define function ? Explain arguments in functions ?
+
+
+10. How does C pass variables to a function ?
+
+
+11. Explain the following program segment.
+f(){
+int *b;
+*b=2;
+}
+
+
+12. Explain binary trees and their use ?
+
+
+13. Draw the diagram showing the function stack, illustrating the variables 
+that were pushed on the stack at the point when function f2 has been introduced 

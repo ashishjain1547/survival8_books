@@ -1,0 +1,453 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Mozilla/4.61 [en] (X11; I; Linux 2.2.12-20 i686) [Netscape]">
+</head>
+<body text="#000000" bgcolor="#C7C3C7" link="#0000EF" vlink="#000000" alink="#FF0000">
+<script language="JAVASCRIPT">
+<!--
+if (navigator.onLine){
+document.write("<!-- Spidersoft WebZIP Ad Banner Insert -->");
+document.write("<TABLE width=100% border=0 cellpadding=0 cellspacing=0>");
+document.write("<TR>");
+document.write("<TD>");
+document.write("<ILAYER id=ad1 visibility=hidden height=60></ILAYER>");
+document.write("<NOLAYER>");
+document.write("<IFRAME SRC='http://www.spidersoft.com/ads/bwz468_60.htm' width=100% height=60 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></IFRAME>");
+document.write("</NOLAYER>");
+document.write("</TD>");
+document.write("</TR>");
+document.write("</TABLE>");
+document.write("<!-- End of Spidersoft WebZIP Ad Banner Insert-->");
+}
+ //-->
+</script>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b><u><font color="#006600"><font size=+1>TEST YOUR C SKILLS</font></font></u></b>
+<br>&nbsp;
+<p><b><font color="#993300">&nbsp;<font size=+1>1.Why doesn't this code:</font></font></b>
+<p><b><font color="#993300"><font size=+1>a[i] = i++;</font></font></b>
+<p><b><font color="#993300"><font size=+1>work?</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>The subexpression i++ causes
+a side effect--it modifies i's value--which leads to undefined behavior
+since i is also referenced elsewhere in the same expression. (Note that
+although the language in K&amp;R suggests that the behavior of this expression
+is unspecified, the C Standard makes the stronger statement that it is
+undefined</font></font></b>
+<br>
+<hr>
+<br><b><font color="#993300"><font size=+1>2.So given</font></font></b>
+<p><b><font color="#993300"><font size=+1>a[i] = i++;</font></font></b>
+<p><b><font color="#993300"><font size=+1>we don't know which cell of a[]
+gets written to, but i does get incremented by one.</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>No. Once an expression or program
+becomes undefined, all aspects of it become undefined.</font></font></b>
+<br>
+<hr>
+<br><b><font color="#993300"><font size=+1>3.What is this infamous null
+pointer, anyway?</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>The language definition states
+that for each pointer type, there is a special value--the ``null pointer''--which
+is distinguishable from all other pointer values and which is ``guaranteed
+to compare unequal to a pointer to any object or function.'' That is, the
+address-of operator &amp; will never yield a null pointer, nor will a successful
+call to malloc. (malloc does return a null pointer when it fails, and this
+is a typical use of null pointers: as a ``special'' pointer value with
+some other meaning, usually ``not allocated'' or ``not pointing anywhere
+yet.'')</font></font></b>
+<p><b><font color="#000066"><font size=+1>A null pointer is conceptually
+different from an uninitialized pointer. A null pointer is known not to
+point to any object or function; an uninitialized pointer might point anywhere.</font></font></b>
+<br>
+<hr>
+<br><b><font color="#993300"><font size=+1>4. I think something's wrong
+with my compiler: I just noticed that sizeof('a') is 2, not 1 (i.e. not
+sizeof(char)).</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>Perhaps surprisingly, character
+constants in C are of type int, so sizeof('a') is sizeof(int) (though it's
+different in C++).</font></font></b>
+<br>
+<hr>
+<center><b><font size=+1>A Good One</font></b></center>
+
+<p><b><font color="#666600"><font size=+1>5. How can I print a '%' character
+in a printf format string? I tried \%, but it didn't work.</font></font></b>
+<br>&nbsp;
+<p><b><font color="#3333FF"><font size=+1>Simply double the percent sign:
+%% .</font></font></b>
+<p><b><font color="#3333FF"><font size=+1>\% can't work, because the backslash
+\ is the compiler's escape character, while here our problem is that the
+% is printf's escape character.</font></font></b>
+<p>
+<hr>
+<br><b><font color="#993300"><font size=+1>6. Under my compiler, the code</font></font></b>
+<p><b><font color="#993300"><font size=+1>int i = 7;</font></font></b>
+<br><b><font color="#993300"><font size=+1>printf("%d\n", i++ * i++);</font></font></b>
+<p><b><font color="#993300"><font size=+1>prints 49. Regardless of the
+order of evaluation, shouldn't it print 56?</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>Although the postincrement and
+postdecrement operators ++ and -- perform their operations after yielding
+the former value, the implication of ``after'' is often misunderstood.
+It is not guaranteed that an increment or decrement is performed immediately
+after giving up the previous value and before any other part of the expression
+is evaluated. It is merely guaranteed that the update will be performed
+sometime before the expression is considered&nbsp; "finished'' . In the
+example, the compiler chose to multiply the previous value by itself and
+to perform both increments afterwards.</font></font></b>
+<p><b><font color="#000066"><font size=+1>The behavior of code which contains
+multiple, ambiguous side effects has always been undefined. (Loosely speaking,
+by ``multiple, ambiguous side effects'' we mean any combination of ++,
+--, =, +=, -=, etc. in a single expression which causes the same object
+either to be modified twice or modified en inspected. Don't even try to
+find out how your compiler implements such things (contrary to the ill-advised
+exercises in many C textbooks); as K&amp;R wisely point out, ``if&nbsp;
+ou don't know how they are done on various machines, that innocence may
+help to protect you.''</font></font></b>
+<br>
+<hr>
+<p><b><font color="#993300"><font size=+1>7.What's a ``sequence point''?</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>A sequence point is the point
+(at the end of a full expression, or at the ||, &amp;&amp;, ?:, or comma
+operators, or just before a function call) at which the dust has settled
+and all side effects are guaranteed to be complete. The ANSI/ISO C Standard
+states that&nbsp;&nbsp; Between the previous and next sequence point an
+object shall have its stored value modified at most once by the evaluation
+of an&nbsp;&nbsp; expression. Furthermore, the prior value shall be accessed
+only to determine the&nbsp; value to be stored.</font></font></b>
+<p><b><font color="#000066"><font size=+1>The second sentence can be difficult
+to understand. It says that if an object is written to within a full expression,
+any and all accesses to it within the same expression must be for the purposes
+of computing the value to be written. This rule effectively constrains
+legal expressions to those in which the accesses demonstrably precede the
+modification.</font></font></b>
+<br>
+<hr>
+<center><b><font color="#000000"><font size=+1>A Good One</font></font></b></center>
+<b><font color="#666600"><font size=+1>8. Are pointers really faster than
+arrays? How much do function calls slow things down? Is ++i faster than
+i = i + 1?</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#3333FF"><font size=+1>Precise answers to these and
+many similar questions depend of course on the processor and compiler in
+use. If you simply must know, you'll have to time</font></font></b>
+<br><b><font color="#3333FF"><font size=+1>test programs carefully. (Often
+the differences are so slight that hundreds of thousands of iterations
+are required even to see them. Check the compiler's</font></font></b>
+<br><b><font color="#3333FF"><font size=+1>assembly language output, if
+available, to see if two purported alternatives aren't compiled identically.)</font></font></b>
+<p><b><font color="#3333FF"><font size=+1>It is ``usually'' faster to march
+through large arrays with pointers rather than array subscripts, but for
+some processors the reverse is true.</font></font></b>
+<p><b><font color="#3333FF"><font size=+1>Function calls, though obviously
+incrementally slower than in-line code, contribute so much to modularity
+and code clarity that there is rarely good reason to</font></font></b>
+<br><b><font color="#3333FF"><font size=+1>avoid them.</font></font></b>
+<p><b><font color="#3333FF"><font size=+1>Before rearranging expressions
+such as i = i + 1, remember that you are dealing with a compiler, not a
+keystroke-programmable calculator. Any decent</font></font></b>
+<br><b><font color="#3333FF"><font size=+1>compiler will generate identical
+code for ++i, i += 1, and i = i + 1. The reasons for using ++i or i +=
+1 over i = i + 1 have to do with style, not</font></font></b>
+<br><b><font color="#3333FF"><font size=+1>efficiency.</font></font></b>
+<br>
+<hr>
+<br><b><font color="#993300"><font size=+1>9. Why doesn't the code</font></font></b>
+<p><b><font color="#993300"><font size=+1>int a = 1000, b = 1000;</font></font></b>
+<br><b><font color="#993300"><font size=+1>long int c = a * b;</font></font></b>
+<p><b><font color="#993300"><font size=+1>work?</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>Under C's integral promotion
+rules, the multiplication is carried out using int arithmetic, and the
+result may overflow or be truncated before being promoted</font></font></b>
+<br><b><font color="#000066"><font size=+1>and assigned to the long int
+left-hand side. Use an explicit cast to force long arithmetic:</font></font></b>
+<p><b><font color="#000066"><font size=+1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+long int c = (long int)a * b;</font></font></b>
+<p><b><font color="#000066"><font size=+1>Note that (long int)(a * b) would
+not have the desired effect.</font></font></b>
+<p><b><font color="#000066"><font size=+1>A similar problem can arise when
+two integers are divided, with the result assigned to a floating-point
+variable.</font></font></b>
+<br>
+<hr>
+<p><b><font color="#993300"><font size=+1>10. I have a complicated expression
+which I have to assign to one of two variables, depending on a condition.
+Can I use code like this?</font></font></b>
+<p><b><font color="#993300"><font size=+1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+((condition) ? a : b) = complicated_expression;</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>No. The ?: operator, like most
+operators, yields a value, and you can't assign to a value. (In other words,
+?: does not yield an lvalue.) If you really want to,</font></font></b>
+<br><b><font color="#000066"><font size=+1>you can try something like</font></font></b>
+<p><b><font color="#000066"><font size=+1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+*((condition) ? &amp;a : &amp;b) = complicated_expression;</font></font></b>
+<p><b><font color="#000066"><font size=+1>although this is admittedly not
+as pretty.</font></font></b>
+<br>
+<hr>
+<p><b><font color="#993300"><font size=+1>11. Does *p++ increment p, or
+what it points to?</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>Unary operators like *, ++, and
+-- all associate (group) from right to left. Therefore, *p++ increments
+p (and returns the value pointed to by p before the</font></font></b>
+<br><b><font color="#000066"><font size=+1>increment). To increment the
+value pointed to by p, use (*p)++ (or perhaps ++*p, if the order of the
+side effect doesn't matter).</font></font></b>
+<p>
+<hr>
+<center><b><font color="#000000"><font size=+1>A Good One</font></font></b></center>
+<b><font color="#666600"><font size=+1>12. How can I implement a variable
+field width with printf? That is, instead of %8d, I want the width to be
+specified at run time.</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#3333FF"><font size=+1>printf("%*d", width, n) will
+do just what you want.</font></font></b>
+<br>
+<hr>
+<center><b><font color="#000000"><font size=+1>A Good One</font></font></b></center>
+<b><font color="#666600"><font size=+1>13. How can I specify a variable
+width in a scanf format string?</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#3333FF"><font size=+1>You can't; an asterisk in a scanf
+format string means to suppress assignment. You may be able to use ANSI
+stringizing and string concatenation to</font></font></b>
+<br><b><font color="#3333FF"><font size=+1>accomplish about the same thing,
+or to construct a scanf format string on-the-fly.</font></font></b>
+<br>
+<hr>
+<br><b><font color="#993300"><font size=+1>14. Can I declare main as void,
+to shut off these annoying ``main returns no value'' messages?</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>No. main must be declared as
+returning an int, and as taking either zero or two arguments, of the appropriate
+types. If you're calling exit() but still getting</font></font></b>
+<br><b><font color="#000066"><font size=+1>warnings, you may have to insert
+a redundant return statement (or use some kind of ``not reached'' directive,
+if available).</font></font></b>
+<p><b><font color="#000066"><font size=+1>Declaring a function as void
+does not merely shut off or rearrange warnings: it may also result in a
+different function call/return sequence, incompatible with</font></font></b>
+<br><b><font color="#000066"><font size=+1>what the caller (in main's case,
+the C run-time startup code) expects.</font></font></b>
+<p><b><font color="#000066"><font size=+1>(Note that this discussion of
+main pertains only to ``hosted'' implementations; none of it applies to
+``freestanding'' implementations, which may not even</font></font></b>
+<br><b><font color="#000066"><font size=+1>have main. However, freestanding
+implementations are comparatively rare, and if you're using one, you probably
+know it. If you've never heard of the</font></font></b>
+<br><b><font color="#000066"><font size=+1>distinction, you're probably
+using a hosted implementation, and the above rules apply.)</font></font></b>
+<br>
+<hr>
+<br><b><font color="#993300"><font size=+1>15. The book I've been using,
+C Programing for the Compleat Idiot, always uses void main().</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>Perhaps its author counts himself
+among the target audience. Many books unaccountably use void main() in
+examples. They're wrong.</font></font></b>
+<p>
+<hr>
+<br><b><font color="#993300"><font size=+1>16. I have a char * pointer
+that happens to point to some ints, and I want to step it over them. Why
+doesn't</font></font></b>
+<p><b><font color="#993300"><font size=+1>((int *)p)++;</font></font></b>
+<p><b><font color="#993300"><font size=+1>work?</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>In C, a cast operator does not
+mean ``pretend these bits have a different type, and treat them accordingly'';
+it is a conversion operator, and by definition it</font></font></b>
+<br><b><font color="#000066"><font size=+1>yields an rvalue, which cannot
+be assigned to, or incremented with ++. (It is an anomaly in pcc-derived
+compilers, and an extension in gcc, that expressions</font></font></b>
+<br><b><font color="#000066"><font size=+1>such as the above are ever accepted.)
+Say what you mean: use</font></font></b>
+<p><b><font color="#000066"><font size=+1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+p = (char *)((int *)p + 1);</font></font></b>
+<p><b><font color="#000066"><font size=+1>or (since p is a char *) simply</font></font></b>
+<p><b><font color="#000066"><font size=+1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+p += sizeof(int);</font></font></b>
+<p><b><font color="#000066"><font size=+1>Whenever possible, you should
+choose appropriate pointer types in the first place, instead of trying
+to treat one type as another.</font></font></b>
+<p>
+<hr>
+<br><b><font color="#993300"><font size=+1>17. If NULL and 0 are equivalent
+as null pointer constants, which should I use?</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>Many programmers believe that
+NULL should be used in all pointer contexts, as a reminder that the value
+is to be thought of as a pointer. Others feel that the</font></font></b>
+<br><b><font color="#000066"><font size=+1>confusion surrounding NULL and
+0 is only compounded by hiding 0 behind a macro, and prefer to use unadorned
+0 instead. There is no one right answer. (See</font></font></b>
+<br><b><font color="#000066"><font size=+1>also questions 9.2 and 17.10.)
+C programmers must understand that NULL and 0 are interchangeable in pointer
+contexts, and that an uncast 0 is perfectly</font></font></b>
+<br><b><font color="#000066"><font size=+1>acceptable. Any usage of NULL
+(as opposed to 0) should be considered a gentle reminder that a pointer
+is involved; programmers should not depend on it</font></font></b>
+<br><b><font color="#000066"><font size=+1>(either for their own understanding
+or the compiler's) for distinguishing pointer 0's from integer 0's.</font></font></b>
+<p><b><font color="#000066"><font size=+1>NULL should not be used when
+another kind of 0 is required, even though it might work, because doing
+so sends the wrong stylistic message. (Furthermore,</font></font></b>
+<br><b><font color="#000066"><font size=+1>ANSI allows the definition of
+NULL to be ((void *)0), which will not work at all in non-pointer contexts.)
+In particular, do not use NULL when the ASCII null</font></font></b>
+<br><b><font color="#000066"><font size=+1>character (NUL) is desired.
+Provide your own definition</font></font></b>
+<p><b><font color="#000066"><font size=+1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#define NUL '\0'</font></font></b>
+<p><b><font color="#000066"><font size=+1>if you must.</font></font></b>
+<p>
+<hr>
+<br><b><font color="#993300"><font size=+1>18.This is strange. NULL is
+guaranteed to be 0, but the null pointer is not?</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>When the term ``null'' or ``NULL''
+is casually used, one of several things may be meant:</font></font></b>
+<p><b><font color="#000066"><font size=+1>&nbsp;&nbsp;&nbsp; 1.1. The internal
+(or run-time) representation of a null pointer, which may or may not be
+all-bits-0 and which may be different for different pointer</font></font></b>
+<br><b><font color="#000066"><font size=+1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+types. The actual values should be of concern only to compiler writers.
+Authors of C programs never see them, since they use...</font></font></b>
+<br><b><font color="#000066"><font size=+1>&nbsp;&nbsp;&nbsp; 2.2. The
+null pointer constant, which is a constant integer 0 . It is often hidden
+behind...</font></font></b>
+<br><b><font color="#000066"><font size=+1>&nbsp;&nbsp;&nbsp; 3.3. The
+NULL macro, which is #defined to be 0 or ((void *)0) . Finally, as red
+herrings, we have...</font></font></b>
+<br><b><font color="#000066"><font size=+1>&nbsp;&nbsp;&nbsp; 4.4. The
+ASCII null character (NUL), which does have all bits zero, but has no necessary
+relation to the null pointer except in name; and...</font></font></b>
+<br><b><font color="#000066"><font size=+1>&nbsp;&nbsp;&nbsp; 5.5. The
+``null string,'' which is another name for the empty string (""). Using
+the term ``null string'' can be confusing in C, because an empty string</font></font></b>
+<br><b><font size=+1><font color="#000066">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+involves a null ('\0') character, but not a null pointer, which brings
+us full circle.</font><font color="#3333FF">..</font></font></b>
+<p>
+<hr>
+<br><b><font color="#993300"><font size=+1>19. Is char a[3] = "abc"; legal?
+What does it mean?</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>It is legal in ANSI C (and perhaps
+in a few pre-ANSI systems), though useful only in rare circumstances. It
+declares an array of size three, initialized with</font></font></b>
+<br><b><font color="#000066"><font size=+1>the three characters 'a', 'b',
+and 'c', without the usual terminating '\0' character. The array is therefore
+not a true C string and cannot be used with</font></font></b>
+<br><b><font color="#000066"><font size=+1>strcpy, printf %s, etc.</font></font></b>
+<p><b><font color="#000066"><font size=+1>Most of the time, you should
+let the compiler count the initializers when initializing arrays (in the
+case of the initializer "abc", of course, the computed size</font></font></b>
+<br><b><font color="#000066"><font size=+1>will be 4).</font></font></b>
+<br>
+<hr>
+<br><b><font color="#993300"><font size=+1>20. What's the difference between
+calloc and malloc? Is it safe to take advantage of calloc's zero-filling?
+Does free work on memory allocated with calloc, or do you need a cfree?</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<br>&nbsp;
+<p><b><font color="#000066"><font size=+1>calloc(m, n) is essentially equivalent
+to</font></font></b>
+<p><b><font color="#000066"><font size=+1>p = malloc(m * n);</font></font></b>
+<br><b><font color="#000066"><font size=+1>memset(p, 0, m * n);</font></font></b>
+<p><b><font color="#000066"><font size=+1>The zero fill is all-bits-zero,
+and does not therefore guarantee useful null pointer values (see section
+5 of this list) or floating-point zero values. free is</font></font></b>
+<br><b><font color="#000066"><font size=+1>properly used to free the memory
+allocated by calloc.</font></font></b>
+<br>
+<hr>
+<br><b><font color="#993300"><font size=+1>21. What's the difference between
+const char *p and char * const p?</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>char const *p declares a pointer
+to a constant character (you can't change the character); char * const
+p declares a constant pointer to a (variable)</font></font></b>
+<br><b><font color="#000066"><font size=+1>character (i.e. you can't change
+the pointer).</font></font></b>
+<br>
+<hr>
+<br><b><font color="#993300"><font size=+1>22. What should malloc(0) do?
+Return a null pointer or a pointer to 0 bytes?</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>The ANSI/ISO Standard says that
+it may do either; the behavior is implementation-defined</font></font></b>
+<br>
+<hr>
+<br><b><font color="#993300"><font size=+1>23. What's wrong with this code?</font></font></b>
+<p><b><font color="#993300"><font size=+1>char c;</font></font></b>
+<br><b><font color="#993300"><font size=+1>while((c = getchar()) != EOF)
+...</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>For one thing, the variable to
+hold getchar's return value must be an int. getchar can return all possible
+character values, as well as EOF. By passing</font></font></b>
+<br><b><font color="#000066"><font size=+1>getchar's return value through
+a char, either a normal character might be misinterpreted as EOF, or the
+EOF might be altered (particularly if type char is</font></font></b>
+<br><b><font color="#000066"><font size=+1>unsigned) and so never seen.</font></font></b>
+<br>
+<hr>
+<br><b><font color="#993300"><font size=+1>24. How can I convert numbers
+to strings (the opposite of atoi)? Is there an itoa function?</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>Just use sprintf. (Don't worry
+that sprintf may be overkill, potentially wasting run time or code space;
+it works well in practice.)</font></font></b>
+<br><b><font color="#000066"><font size=+1>You can obviously use sprintf
+to convert long or floating-point numbers to strings as well (using %ld
+or %f).</font></font></b>
+<br>
+<hr>
+<br><b><font color="#993300"><font size=+1>25. How can I get random integers
+in a certain range?</font></font></b>
+<p><b><font color="#FF0000"><font size=+1>Answer</font></font></b>
+<p><b><font color="#000066"><font size=+1>The obvious way,</font></font></b>
+<p><b><font color="#000066"><font size=+1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+rand() % N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+/* POOR */</font></font></b>
+<p><b><font color="#000066"><font size=+1>(which tries to return numbers
+from 0 to N-1) is poor, because the low-order bits of many random number
+generators are distressingly non-random.</font></font></b>
+<br><b><font color="#000066"><font size=+1>A better method
+is something like</font></font></b>
+<p><b><font color="#000066"><font size=+1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(int)((double)rand() / ((double)RAND_MAX + 1) * N)</font></font></b>
+<p><b><font color="#000066"><font size=+1>If you're worried about using
+floating point, you could use</font></font></b>
+<p><b><font color="#000066"><font size=+1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+rand() / (RAND_MAX / N + 1)</font></font></b>
+<p><b><font color="#000066"><font size=+1>Both methods obviously require
+knowing RAND_MAX (which ANSI #defines in &lt;stdlib.h>), and assume that
+N is much less than RAND_MAX.</font></font></b>
+<p><b><font color="#000066"><font size=+1>(Note, by the way, that RAND_MAX
+is a constant telling you what the fixed range of the C library rand function
+is. You cannot set RAND_MAX to some other</font></font></b>
+<br><b><font color="#000066"><font size=+1>value, and there is no way of
+requesting that rand return numbers in some other range.)</font></font></b>
+<p><b><font color="#000066"><font size=+1>If you're starting with a random
+number generator which returns floating-point values between 0 and 1, all
+you have to do to get integers from 0 to N-1 is</font></font></b>
+<br><b><font color="#000066"><font size=+1>multiply the output of that
+generator by N.</font></font></b>
+<p><b><font size=+1><blink><font color="#006600">For full source of questions
+visit</font></blink><font color="#000066">&nbsp; <a href="http://www.eskimo.com/~scs/C-faq/questions.html">http://www.eskimo.com/~scs/C-faq/questions.html</a></font></font></b>
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+</body>
+</html>

@@ -1,0 +1,149 @@
+
+  JUNO ONLINE SERVICES VISITED IITK ON 10TH AUG, the written test
+consists of 3
+sections. aptitude, c skill_set, and the last section one algorithm. i
+have
+listed the sections in reverse order..
+
+  in the interview they asked some C funda, Kernighan & Ritche will 
+help. also
+some Communication Networks related questions for EE guys..
+ 
+
+section C:
+
+  sometimes in cryptography when using RSA algorithm, it is required to
+
+store 'big integers'(more than alloted space for integers), suggest a
+
+suitable method by which big integers can be stored , also device an
+
+algorithm for adding of such numbers..
+
+section B:
+
+(Q) i=j=0;
+       k=l=1;
+       i=( j==(k=0));
+      printf("%d%d%d",i,j,k);
+    
+      what is the 0/p ?
+              Ans:  1    0     0
+
+(Q)  x=printf("%d",x=22);
+      what is the value of x ?
+        Ans:  x value become 2 , because it returns the number of
+
+character it printed.
+
+(Q) some struct..
+
+    *str++ -> P  (p is a pointer)
+          there was some structure i didn't remined it.
+    Q: it points what?
+       Ans:  it points to pointer and then increments str.
+
+(Q)int a=b=10;
+     main( )
+      {
+      int a=15;
+      a++;
+      b++;
+      }
+   printf("%d%d",a,b);
+what is the output.
+Ans:   a=10
+             b=11
+
+(Q) printf("%d%f",10,10);
+
+`      Ans: misbehaviour of output because  corresponding to %d ,10
+
+will get print, but corres. to %f ,10 will not get print because it is
+
+int and there may be either a garbage value or any statement.
+
+(Q) # define  HELLO  "world";
+        char *s= "HELLO" ;
+        printf("%s",s)
+ 
+          what is the output?
+           Ans:  HELLO
+
+(Q)
+
+    main()
+    { extern i=2;
+      do{ 
+          auto int i=4;
+          printf("%d",i);
+          }while(i--);
+
+       printf("%d",i);
+     }
+
+    what will be printed?
+
+    Ans. 444-1
+
+  (Q)
+      some function and three variables r given f1,f2,f3
+
+      ans .. 3581321 (fibonacci sequence)
+
+  (Q)
+       given 4 functions which implements string length..
+
+       find the correct form.. ans (b).
+
+  (q).
+
+       two for loops given,
+ 
+          for(i=0;i<n;i++)
+
+          for(i=0;i<n;++i)
+
+        ans. both r same...
+
+
+   (q)
+          union
+          { int a;
+            float b;
+          }z;
+
+          z.a=2;
+          z.b=12.0;
+          printf("%d %f",z.a,z.b);
+
+          what will be printed?
+
+          ans.. garbage value, 12
+          
+
+  Section A:
+
+(q).out of 52 well shuffled cards if 4 cards r taken one after the
+
+other what is the    probability of all cards belong to the same suit.
+
+(Q).second derivative of log(sinx)w.r.t. x
+
+(Q).if two persons have a probability of death witjin 1 year of p,q
+
+respectively.what is the probability that only one will be alive at the
+
+end of the year?
+
+(Q) max sinx(1+cosx))=?
+
+(Q) .two lines of a ||gram r 2i+4j-5k and 2i+2j+3k then what is the
+
+unit vector ||to the diagonal vector.
+
+some simple problems on probabailty, simple trigonometry, on work
+
+done(like A can do a piece of work in n days.., B.., A and B..), i'll
+
+get the exact figures..

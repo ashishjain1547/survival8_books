@@ -1,0 +1,73 @@
+
+    I am sending u the Wipro paper which was held on 2/8/99 at
+ISI,Cal.
+
+There are 20 questions . Each 3 marks. -1 for wrong answer.
+		
+1)How many NAND gates are required to implement an OR-gate?
+ans  3
+
+2)There is one Karnaugh map. asked to write the Boolean expresion.
+ans is   xyz'+xy'z+x'yz
+
+3)They have given one   D-flip flops circuit and asked to find the
+function.
+ans is shift Register.
+
+4)There are 16 address lines and the page size is .5Mbytes .Then How many
+pages are there in Virtual memory.
+ans is 128
+
+5) There are 3 Interupts .the processor takes 5ns to serve the request.
+Interupt 11 takes 24.5ns   High Priority
+	 12 takes   
+	 13 takes 20ns    Low Priority
+
+   What is the time range to complete the Interupt 13.
+   ans is 29.5    to 93.5
+   (check this answer)
+
+6) One question on 8085 address lines.
+ ans : 8 lines    bidirection
+
+7)    One question on automata .Given the graph and asked to finnd the
+regular expression
+ans:	(aab+ba) (bab)*
+
+8) Another  question on automata.   a|ba* indicates
+Ans: the strings which contains   either one "a"  or   a " b" followed by
+zero or more "a"s.
+
+9) One question on LR pass of compiler.
+
+10) Binary equialent of 10.625
+ans:1010.101 
+
+11)In which addressing mode Effective address  is computed by adding a
+constant to a register.
+ans: Indexed mode
+
+12)Files (sequential) f1,f2,f3,f4,f5,f6   are having 100,200,70,40,250,50
+Bytes respectively.if u use elevator algorithm first going up,then the
+files r accessed as(start from 50)
+ans: f6,f3,f1,f2,f5,f4
+     (question is like this,i haven't remembered the data).
+
+13)one question on baurd rate.
+
+14)given a tree,we have to write the preorder traversal.
+
+15)using linear probing for hashing with mod 7,if we have the data as ....
+(he gave 7 numbers and asked where the 6th number will go). 
+
+16-20)    on c language   mainly on pointers.
+
+
+
+This is the entire paper. The cut off mark is 25. They selected 16 for
+Interiew and selected 7.
+They are asking O.sys ,Networks, data structures   and giving c problems
+on pointers(How to reverse a linked list  ..etc).
+
+	Wish u all the best.
+

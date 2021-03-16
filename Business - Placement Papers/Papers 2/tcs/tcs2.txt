@@ -1,0 +1,988 @@
+Subject: C and COBOL (fwd)
+
+  this is the TCS C paper.it actually contains 50 questions.but i am 
+ 
+sending only 43 questions.though 46 questions are available only these are 
+
+visible.so it is i am sending 43 only.the set code is 'D'.
+
+
+1.The C language terminator is 
+  a.semicolon  
+  b.colon
+  c.period
+  d.exclamation mark
+2.What is false about the following
+  A compound statement is 
+  a.A set of simple statments
+  b.Demarcated on either side by curly brackets
+  c.Can be used in place of simple statement
+  d.A C function is not a compound statement.
+3.What is true about the following
+  C Functions
+  a.Need not return any value
+  b.Should always return an integer
+  c.Should always return a float
+  d.Should always return more than one value.
+4.Main must be written as
+  a.the first function in the program
+  b.Second function in the program
+  c.Last function in the program
+  d.any where in the program
+5.Which of the following about automatic variables within a function 
+  is correct ?
+  a.its type must be declared before using the variable
+  b.they are local
+  c.they are not initialised to zero
+  d.they are global.
+6.Write one statement equalent to the following two statements
+  x=sqr(a);
+  return(x);
+  Choose from one of the alternatives
+  a.return(sqr(a));
+  b.printf("sqr(a)");
+  c.return(a*a*a);
+  d.printf("%d",sqr(a));
+7.Which of the following about the C comments is incorrect ?
+  a.commentscan go over multiple lines
+  b.comments can start any where in the line
+  c.a line can contain comments with out any language statements
+  d.comments can occur within comments  
+8.What is the value of y in the following code?
+   x=7;y=0;
+   if(x=6)
+    y=7;
+   else 
+    y=1;
+  a.7
+  b.0
+  c.1
+  d.6
+9.Read the function conv() given below
+  conv(int t)
+   {
+    int u;
+    u=5/9 * (t-32);
+    return(u0;
+   }
+  What 
+  a.15
+  b.0
+  c.16.1
+  d.29
+10.which of the following represents true statement
+   either x is inthe range of 10 and 50 or y is zero
+   a.x>=10 && x<=50 || y==0;
+   b.
+   c.
+   d.
+11.Which of the following is not an infinite loop ?
+   a.while(1){
+     ....
+     }
+   b.for(;;){
+     ...
+     }
+   c.x=0;
+     do{
+     /*x unaltered within theloop*/
+     ...
+     }while(x==0);
+   d.# define TRUE 0
+     ...
+     while(TRUE){
+     ....
+     }
+12.what does the following function print?
+   func(int i)
+   {
+   if(i%2)return 0;
+   eale return 1;
+   }
+   main()
+   {
+   int =3;
+   i=func(i);
+   i=func(i);
+   printf("%d",i);}
+   a.3
+   b.1
+   c.0
+   d.2
+13.how does the C compiler interpret the following two statements
+   p=p+x;
+   q=q+y;
+   a.p=p+x;
+     q=q+y
+   b.p=p+xq=q+y                      
+   c.p=p+xq;
+     q=q+y          
+   d.p=p+x/q=q+y
+   
+   For questions 14,15,16,17 use the following alternatives
+   
+   a.int
+   b.char
+   c.string
+   d.float
+14.'9'
+15."1 e 02"
+16.10e05
+17. 15
+
+18.read the folllowing code
+   # define MAX 100
+   # define MIN 100
+   ....
+   ....
+   if(x>MAX)
+     x=1;
+   else if(x<MIN)
+     x=-1;
+     x=50;
+   if the initial value of x=200,what is the vlaue after executing this code?
+   a.200
+   b.1
+   c.-1
+   d.50
+19.a memory of 20 bytes is allocated to a string declared as char *s
+   then the following two statements are executed:
+   s="Etrance"
+   l=strlen(s);
+   what is the value of l ?
+   a.20
+   b.8
+   c.9
+   d.21
+20.given the piece of code
+   int a[50];
+   int *pa;
+   pa=a;
+   to access the 6th element of the array which of the following is incorrect?
+   a.*(a+5)
+   b.a[5]
+   c.pa[5]
+   d.*(*pa + 5)
+21.consider the following structure:
+   struct num nam{
+                int no;
+                char name[25];
+                };
+   struct num nam n1[]={{12,"Fred"},{15,"Martin"},{8,"Peter"},{11,Nicholas"}};
+   .....
+   .....
+   printf("%d%d",n1[2],no,(*(n1 +  2),no) + 1);
+   What does the above statement print?
+   a.8,9
+   b.9,9
+   c.8,8
+   d.8,unpredictable value
+22.identify the in correct expression
+   a.a=b=3=4;
+   b.a=b=c=d=0;
+   float a=int b=3.5;
+   d.int a;
+     float b;
+     a=b=3.5;
+23.regarding the scope of the varibles;identify the incorrect statement:
+   a.automatic variables are automatically initialised to 0
+   b.static variables are are automatically initialised to 0
+   c.the address of a register variable is not accessiable
+   d.static variables cannot be initialised with any expression
+24.cond 1?cond 2?cond 3?:exp 1:exp 2:exp 3:exp 4;
+   is equivalent to which of the following?
+   a.if cond 1
+     exp 1;
+     else if cond 2
+     exp 2;
+     else if cond 3
+     exp 3;
+     else
+     exp 4;
+   b.if cond 1
+      if cond 2
+       if cond 3
+          exp 1;
+        else 
+           exp 2;
+        else 
+           exp 3;
+        else 
+           exp 4;
+   c.if cond 1 && cond 2 && cond 3
+     exp 1 |exp 2|exp 3|exp 4; 
+   d.if cond 3
+        exp 1;
+     else if cond 2
+	exp 2;
+     else if cond 3
+	exp 3;
+     else
+	exp 4;
+25.the operator for exponencation is
+   a.**
+   b.^
+   c.%
+   d.not available
+26.which of the following is invalid
+   a.a+=b
+   b.a*=b
+   c.a>>=b
+   d.a**=b
+27.what is y value of the code if input x=10
+   y=5;
+   if (x==10)
+   else if(x==9)
+   elae y=8;
+   a.9
+   b.8
+   c.6
+   d.7
+28.what does the following code do?
+   fn(int n,int p,int r)
+   {
+   static int a=p;
+    switch(n){
+ 	case 4:a+=a*r;
+	case 3:a+=a*r;
+	case 2:a+=a*r;
+	case 1:a+=a*r;
+   }
+   }
+   a.computes simple interest for one year
+   b.computes amount on compound interest for 1 to 4 years
+   c.computes simple interest for four year     
+   d.computes compound interst for 1 year
+29.a=0;
+   while(a<5)
+   printf("%d\n",a++);
+   how many times does the loop occurs?
+   a.infinite
+   b.5
+   c.4
+   d.6
+30.how many times does the loop iterated ?
+   for (i=0;i=10;i+=2)
+    printf("Hi\n");
+   a.10
+   b.2
+   c.5
+   d.....
+31.what is incorrect among teh following
+   A recursive functiion
+   a.calls itself
+   b.is equivalent to a loop
+   c.has a termination cond
+   d.does not have a return value at all
+32.which of the following go out of the loopo if expn 2 becoming false
+   a.while(expn 1){...if(expn 2)continue;}
+   b.while(!expn 1){if(expn 2)continue;...}
+   c.do{..if(expn 1)continue;..}while(expn 2);
+   d.while(!expn 2){if(expn 1)continue;..}
+33.consider the following program
+B
+    main()
+ OB   {unsigned int i=10;
+     while(i>=0){
+     printf("%u",i)
+     i--;
+    }
+   }
+   how many times the loop wxecuted
+   a.10
+   b.9
+   c.11
+   d.infinite
+34.pick out the add one out
+   a.malloc()
+   b.calloc()
+   c.free()
+   d.realloc()
+35.consider the following program
+   main()
+   {
+    int a[5]={1,3,6,7,0};
+    int *b;
+    b=&a[2];
+   }
+   the value of b[-1] is
+   a.1
+   b.3
+   c.-6
+   d.none
+36.# define prod(a,b)=a*b
+   main()
+   {
+    int x=2;
+    int y=3;
+    printf("%d",prod(x+2,y-10)); }
+   
+   the output of the program is 
+   a.8
+   b.6
+   c.7
+   d.none
+37.consider the following program sigment
+   int n,sum=1;
+   switch(n) {
+   case 2:sum=sum+2;
+   case 3:sum*=2;
+          break;
+   default:sum=0;}         
+   if n=2, what is the value of sum
+   a.0
+   b.6
+   c.3
+   d.none
+38.identify the incorrect one
+   1.if(c=1)
+   2.if(c!=3)
+   3.if(a<b)then
+   4.if(c==1)
+   a.1 only
+   b.1&3
+   c.3 only
+   d.all
+39.teh format specified for hexa decimal is
+   a.%d
+   b.%o
+   c.%x
+   d.%u
+40.find the output of the following program
+   main()
+   {
+    int x=5, *p;
+    p=&x;
+    printf("%d",++*p);
+    }
+   a.5
+   b.6
+   c.0
+   d.none
+41.consider the following C code
+   main()
+   {
+    int i=3,x;
+    while(i>0)
+    {
+      x=func(i);
+      i--;
+    }
+    int func(int n)
+    {
+     static sum=0;
+     sum=sum+n;
+     return(sum);
+    }
+   the final value of x is
+   a.6
+   b.8
+   c.1
+   d.3
+43.int *a[5] refers to
+   a.array of pointers
+   b.pointer to an array
+   c.pointerto a pointer  
+   d......
+46.which of the following statements is incorrect
+   a.typedef struct new{
+			int n1;
+			char n2;
+			} DATA;
+   b.typedef struct {
+		     int n3;
+		     char *n4;	  
+                     }ICE;
+   c.typedef union {
+		    int n5;
+                    float n6;
+		    } UDT;
+   d.#typedef union {
+		     int n7;
+		     float n8;
+		    } TUDAT;   	
+
+********************************************************************************            
+         Only These Are The Questions Avilable For C Paper.
+ 
+********************************************************************************
+  ANSWERS:	
+-----------
+
+  1-5    D,C,D,C,C
+  
+  6-10   D,C,C,A,D
+
+  11-15  D,C,A,A,A
+
+  16-20  B,C,D,C,A
+ 
+  21-25  C,D,B,D,A
+
+  26-30  C,B,B,A,D
+
+  31-35  B,C,C,C,B
+ 
+  36-40  A,B,A,B,B
+
+  41-45  A,D,D,D,A
+
+  46-50  B,C,C,A,A  
+
+
+This the COBOL paper.
+
+01.consider the following piece of code
+    
+   01 GROSS-PAY
+      05  BASIC-PAY  PIC 9(5)
+      05  ALLOWENCES PIC 9(3)
+   if BASIC-PAY has a value 1000 and ALLOWENCES has a value of 250,what will be 
+   displayed by the statement 
+          DISPLAY GROSS-PAY
+   a.1250
+   b.01000250
+   c.01250
+   d.1.250
+02.consider two data items
+  
+   77 W-A PIC  9(3)V99   VALUE  23.75
+   77 W-B PIC  ZZ9V99    VLAUE 123.45
+   after the statement
+     MOVE W-A  TO W-B
+   what will be W-B's value?
+   a.123.75
+   b.b23.75 (where b indicates space)
+   c.023.75
+   d.invalid move
+03.what is the result of the following?
+   
+   DIVIDE  A INTO  B  GIVING C.
+
+   a.C=A/B
+   b.the reminder of B/A is stored in C
+   c.C=B/A
+   d.the reminder of A/B is stored in C
+04.consider the statement (incomplete)
+   IF(A NUMERIC)
+     DISPLAY A
+   the variable A can be
+   a.NUMERIC
+   b.ALPHABETIC
+   c.ALPHANUMERIC
+   d.NUMERIC OR ALPHANUMERIC
+05.which of the following can be used as a check protection symbol
+   a.Z
+   b.S
+   c.*
+   d.+
+06.what if any ,is the syntex error in the following piece of code
+   01 B   PIC A(7)
+   02 C   PIC 9(4)
+   ........
+   IF(B NUMERIC)
+    ADD 10 TO C
+   a.the condition in the if statement is wrong
+   b.noting is wrong
+   c.because C is initialised.ADD 10 TO C is wrong
+   d.both B and C shoud have same size.
+07.study the following code
+   01 A1
+     05 B    PIC 99
+     05 C    PIC X(4)
+   01 A2
+     05 B    PIC 99V99
+     05 C    PIC A(4)
+   pick out the valid statement from the following
+   a.A1 and A2 can not have sub-ordinates
+   b.A1 and A2 can have the same sub-ordinates but must have same PIC clause
+   c.there is nothing wrong
+   d.A1 and A2 can have same sub-ordinates provided they are not at 01 level
+08.study the following
+   01 A    PIC 99V0 VALUE 5
+   01 B    PIC 9V9  VALUE 6
+   01 C    PIC 99V9 VALUE 2.5
+   01 D    PIC 99   VALUE 3
+   COMPUTE A ROUNDED B C = A+B*C/D
+    ON SIZE ERROR PERFORM PRINT-ERROR
+   the comments of A.B.C after execution of the above statement are
+   a.A=10  B=0   C=10
+   b.A=10  B=9.9 C=9.9
+   c.A=10  B=0   C=9.9
+   d.A=10  B=6   C=10 
+09.how many times PARA-A is performed :
+   PERFORM PARA-A VARYING TIMES-COUNTER FROM 1 BY 1
+     UNTIL TIMES-COUNTER >0
+   PARA-A 
+    MOVE P TO Q
+    MOVE H TO TIMES COUNTER
+   a.10
+   b.1
+   c.11
+   d.0
+10.consider the following piece of code
+   01 GROUP-ITEM
+    05  AMOUNT-1   PIC 99V9     USAGE COMP VALUE 50
+    05  AMOUNT-2   PIC 9(4)V99  USAGE COMP
+    MOVE ZERO TO GROUP-ITEM
+    ADD 50 TO AMOUNT-1
+   what will be the content of AMOUNT-1?
+   a.50
+   b.100
+   c.0
+   d.unpredictable
+11.consider the following progrm statements
+   MOVE 0 TO SW.NO.OF.REC
+   PERFORM PRI-OUT UNTIL SW=1
+   DISPALY NO.OF.REC
+   STOP RUN
+   PRE-OUT
+    READ IN-FILE AT END
+    MOVE 1 TO SW
+    WRITE OUO-REC FROM IN-REC
+    ADD 1 TO NO.OF REC
+   if the IN-FILE contains 1000 records what value will be displayedafter the 
+   PERFORM is over?assume that N0.OF.REC has PIC 9(4)
+   a.1000
+   b.1001
+   c.1
+   d.none of the above since there is a syntex error
+12.study the data discriptions and answer the questions given below
+     i)01 ORDER RECORD
+          05 OUT-HEADER  PIC  X(50)
+          05 ITEM-COUNT  PIC  99
+          05 OUT-ITEM    PIC  X(20) OCCURS 1 TO 20 DEPENDING ON ITEM-COUNT
+    ii)01 NAME-AND-ADDRESS
+          05  N-AND-A-LINE OCCURES 5
+          05  LINE-LENGTH  PIC P9
+          05  N-AND-A-CHAR PIC X OCCURS 1 TO 20 DEPENDING ON LINE-LENGTH
+   iii)01 SALES-LIST
+          05 SALESMAN-COUNT  PIC  99
+          05 SALES           PIC  9(6) OCCURS 1 TO 100 DEPENDING ON
+                      SALESMAN-COUNT
+    iv)01 ORDER-RECORD
+          05  NO-OF-BRANDS   PIC  99
+          05  BRAND-PURCHASED OCCURS 1 TO 15 DEPENDING ON NO-OF-BRANDS
+   which of the following is true?
+   a.i) and iii) are valid
+   b.i) and iv) are valid
+   c.i) and iii) are not valid
+   d.all are valid
+13.C1 C2 C3 are three conditions whose TRUTH values are as folloes.
+     C1-TRUE    C2-FALSE   C3-TRUE
+     A,B,C are defined as given below
+     A:C1 AND(NOT C2) OR C3
+     B.(NOT C1) OR (NOT C2 AND NOT C3)
+     C.(C1 OR C2)AND C3
+     D.C1 AND C2 OR C3
+   given the above information which of the following statements are valid?
+   a.only A,B and C are TRUE
+   b.only A,C and D are TRUE
+   c.A,B,C and D are TRUE
+   d.only C and D are TRUE
+14.consider the following
+     FD FILE-1
+     01 REC-1    PIC X(80)
+     ......
+     WORKING-STORAGE SECTION
+     01 W-REC    PIC X(90)
+     ........
+     PROCEDURE DIVISION
+     FIRST-PARA
+     .......
+       READ FILE-1 INTO W-REC AT END MOVE 1 TO EOF-FLAG
+   which of the following is true with respect to the above?
+   a.REC-1 will contain nothing and W-REC will contain the contains of the 
+     record read
+   b.REC-1 and W-REC contain the same data
+   c.syntex is invalid and error will occur
+   d.REC-1 and W-REC must be of same size
+15.PERFORM ACCUMULATE-TOTALS
+    VARYING A FROM 1 BY 2 UNTIL A >2
+    AFTER B FROM1 BY 1 UNTIL B>2
+    AFTER C FROM 2 BY -1 UNTIL C<2
+   the paragraph ACCUMULATE-TOTALS would be exicuted
+   a.18 times
+   b.4 times
+   c.8 times
+   d.24 times
+16.there is a file whose ORGANISATION is INDEXED.you want to read the records 
+   from the file in RANDOM fashion as well as sequentially.then which of the 
+   access mode would you specify?
+   a.SEQUENTIAL
+   b.RANDOM
+   c.DYNAMIC
+   D.ACCESS MODE has nothing to do with it
+17.consider the following PROCEDURE DIVISION entry
+     OPEN EXTEND IN-FILE
+   identify the correct statement
+   a.organization of IN-FILE is sequential and records can be added in the 
+     beginning
+   b.organization of IN-FILE is sequential and records can be added in the 
+     end
+   c.organization of IN-FILE is indexed and records can be added in the 
+     beginning
+   d.organization of IN-FILE is indexed and records can be added in the end
+18.what is the size of W-REC in the following
+     01 W-REC
+	05 A       PIC 9(4)V99
+	05 B READLINES A
+	     10 C PIC XX
+	     10 D PIC S9(4)
+	05 E OCCURS  7   PIC ZZ.ZZ
+	05 F OCCURS  5
+	     10 G PIC ZZ.ZZZ99
+	     10 H OCCURS 3
+ 		  15 J  PIC  9(3)
+		  15 K  PIC  V99
+   a.177
+   b.161
+   c.180
+   d.none of yhe above
+19.consider the following two IF statements:
+	IF X AND NOT Y MOVE A TO B
+	IF Z=1 OR 9 MOVE A TO B
+   select one of the following data divusion entries which gives identical 
+   results for both the above IF statements
+   a.01  Z   PIC 9
+	 88 X VALUE 1.9
+	 88 Y VALUE 0.2 THRU 8
+   b.01  Z   PIC 9
+	 88 X VALUE 0.2 THRU 8
+	 Y VALUE 1.9
+   c.01  Z   PIC 9
+	 88 X VALUE 1.9
+	 88 NOT-Y VALUE 0.2 THRU 1.9
+   d.none of yhe above
+20.consider the following two statements 
+	MOVE 10 TO N
+	PERFORM PARA-X N TIMES
+	STOP RUN
+      PARA-X
+	MOVE 5 TO N
+   how many times PARA-X willbe exicuted?
+   a.10
+   b.5
+   c.infinate
+   d.execution error
+21.given the following:
+	77 A	PIC	9V9	VALUE 9.5
+	77 B	PIC	9	VALUE 9.
+	77 C 	PIC	V9	VALUE 0.8
+	77 D	PIC	9	
+	77 E	PIC	9	
+	77 F	PIC	9V999
+   what are the contenta of D E nad F after teh following statements are 
+   executed:
+   	COMPUTE F ROUNDED=A+C/B
+	MULTIPLY A BY C GIVING E
+	ADD B C A GIVING D ROUNDED
+   a.F=9.589  E=8   D=1
+   b.F=9.589  E=8   D=9
+   c.F=9.589  E=7   D=9
+   d.F=9.589  E=7   D=1 
+
+22. Consider the follwoing IF condition:
+
+IF A LESS 1200 IF B GREATER 25 MOVE 47 TOC
+   ELSE MOVE 57 TO C
+   IF A GREATER 249 MOVE 67 TO C
+   ELSE NEXT SENTENCE ELSE IF B LESS 67 
+        MOVE 27 TO C
+        
+        	What will be the value of C, when A is 137 and b is 25
+        	(a) 27
+        	(b) 57
+        	(c) 67
+        	(d) none
+        	
+23. Consider the following:
+
+	77 W-NUM		PIC  9     VALUE 0
+	------
+	       MOVE 1 TO W-NUM
+	       PERFORM PARA-X UNTIL W-NUM > 9.
+	------
+	PARA-X
+		ADD 1 TO W-NUM
+		
+	How many times PARA-X is executed ?
+	(a) 10
+	(b) 9
+	(c) 11
+	(d) Infinite loop
+	
+24. Consider the following code:
+
+	77 A	PIC   99V99	VALUE 55.35
+	77 B	PIC   99V999	VALUE 32.754
+	
+	ADD B TO A ON SIZE ERROR DISPLAY "ERROR!!!"
+	
+	What will be the result ?
+	(a) A=88.10,  B=32.754
+	(b) A=87.00   B=32.754
+	(c) A=87.10   B=32.754
+	(d) ERROR!!! will be DISPLAYed on the screen.
+	
+25. Consider the following:
+	
+	77 	A	PIC	9(10)
+	77	B	PIC	9(10)
+	77	C	PIC	9(19)
+		
+	MULTIPLY AB  BY B GIVING C
+	
+	Which of the following is true ?
+	
+	(a) The execution of the above may result in size error.		
+	(b) The execution of the above will result in size error.
+	(c) The definition of C is invalid resulting in compilation error.
+	(d) No error will be thee and the program would proceed correctly.
+	
+26. A paragraph PARA-X is to be executed when none oof the data names
+    A, B and C have value of 1. Which of the following will achieve this ?
+	
+	(a) IF A NOT = 1 OR B NOT = 1 OR C NOT = 1 PERFORM PARA-X
+	(B) IF NOT A= 1 AND B= 1 AND C = 1 PERFORM PARA-X
+	(C) IF A NOT =1 IF NOT B = 1 OR C= 1 PERFORM PARA-X
+	(C) IF A NOT = 1 AND B NOT = 1 AND C NOT = 1 PERFORM PARA-X
+
+	
+
+27. Study the five expressions and the class to which they belong:
+	S.N.   Expression                Class
+	1      "SPACES"                  Figurative constant
+	2.     "Depreciation Schedule    Non-numeric literal
+	3.     "12%"                     Non-numeric literal
+	4.     INTEREST-DUE              Non-numeric literal
+	5.     ZEROES                    Figurative constant
+    Which of the following statement is true?
+        (a) 1 and 3 are incorrect
+	(b) 1 and 4 are incorrect
+	(c) 3 and 4 are incorrect
+	(d) All are correct
+
+28. Identify the invalid dataname from the following:
+    	(a) SAVINGS-ACCOUNT
+	(b) ANNUAL-ALLOCATION-FOR-OVERHEAD
+	(c) SAMOUNT250
+	(d) 12DEMAND
+
+29. Study the DATA DIVISION entries and the three PROCEDURE DIVISION entries
+    given below:
+	01 END-OF-FILE-SWITCH  PIC XXX.
+	   88 NO-MORE-RECS     VALUE "YES".
+	   88 MORE-RECS        VALUE "NO".
+	(i)   READ SAMPLE-FILE AT END MOVE "YES" TO NO-MORE-RECS.
+	(ii)  IF NO-MORE-RECS = "YES" GO TO LAST-PARA.
+	(iii) IF NO-MORE-RECS GO TO LAST-PARA.
+    Which are wrong?
+	(a) (i) and (ii)
+	(b) (ii) and (iii)
+	(c) (i) and (iii)
+	(d) all
+
+30. The following entries appear in the WORKING-STORAGE SECTION:
+	01 DATE-TODAY.
+	   05 YY  PIC XX VALUE "90".
+	   05 MM  PIC XX VALUE "12".
+	   05 DD  PIC XX VALUE :31".
+	01 DATE-EDIT  PIC XX/XX/XX.
+	MOVE DATE-TODAY TO DATE-EDIT.
+	(a) 901231
+	(b) 90/12/31
+	(c) 31/12/90
+	(d) 311290
+
+31. How many bytes will be allocated for the following record description 
+    entries?
+	01 REC-A.
+	   05 A PIC S9(4).
+	   05 B PIC XXXBXXX.
+	   05 C PIC ____9.99.
+	   05 D PIC S9(5) COMP-3.
+	   05 E PIC 9(3) COMP.
+	(a) 29
+	(b) 26
+	(c) 25
+	(d) 28
+
+32. What is wrong with the following data declaration?
+ 	01 W-DATE   PIC X(6).
+	   05 DD PIC 99.
+	   05 MM PIC 99.
+	   05 YY PIC 99.
+	(a) Nothing is wrong.
+	(b) Under W-DATE all level 05 items are having a PIC 99 but level
+            01 has PIC X(6).
+	(c) PIC can't be specified for a group item.
+	(d) DD, MM, and YY are invalid datanames.
+
+33. What is the output generated by the following code?
+	01 GRP-I.
+	   05 SUBFLD1 PIC XX VALUE "AB".
+	   05 FILTER PIC X(6) VALUE SPACES.
+	01 GRP-2 REDEFINED GRP-1.
+	   05 SUB-FLD2 PIC XX.
+	   05 SUB-FLD3 PIC XX.
+	   05 FILTER PIC X(4).
+	IF SUB-FLD1 NOT = SPACES
+		DISPLAY "SUBFLD1"
+		MOVE "ABBCCD" TO GRP-1
+		IF SUB-FLD3 = SPACES
+ 			DISPLAY "SPACES"
+		ELSE
+			DISPLAY "SUBFLD3"
+			DISPLAY "END"
+		ELSE
+		 	DISPLAY "SPACES"
+			DISPLAY "END".
+	(a) SUBFLD1
+	    SUBFLD3
+	    END
+	(b) SPACES
+	    END
+	(c) SUBFLD1
+	    END
+	(d) SUBFLD1
+	    SPACES
+
+34. 88 level entry is used for
+	(a) data items in WORKING-STORAGE SECTION
+	(b) items with RENAMES clause
+	(c) condition-names
+	(d) None of the above
+
+35. ZEROES and SPACES are _______ constants
+	(a) Figurative
+	(b) Numeric
+	(c) Non-numeric
+	(d) Alphabete
+
+36. COMPUTE X = A * B - C * D  and
+    COMPUTE X = (A * B) - (C * D)
+	(a) Are not the same
+	(b) Are same
+	(c) Syntactically wrong
+	(d) Will yield a run time error
+
+37. OCCURS clause is used in the DATA DIVISION  on data names at
+	(a) 01 level
+	(b) 77 level
+	(c) 88 level
+	(d) any level from 02 to 49
+
+38. Consider the following COBOL entries:
+	05 X PIC 99 VALUE 10.
+	SUBTRACT 20 FROM X.
+    The resultant value of X wil be
+	(a) 10
+	(b) 00
+	(c) compile-time error
+	(d) none of these
+
+39. Consider the following COBOL entries
+	05 X PIC 99 VALUE 10.
+	ADD 40 X TO X.
+	COMPUTE X = 3 * X - 40.
+    The result in X is
+	(a) 10
+	(b) 40
+	(c) Compile or Run time error
+	(d) none of these
+
+40. given the following piece of code:
+	CALL SUB-PGM USING A, B, C.
+	CALL SUB-PGM USING A, C, C.
+	(a) Both CALL statements will always produce same result.
+	(d) Both CALL statements may produce different result.
+	(c) Compile-time error because SUB-PGM is a dataname.
+	(d) Compile-time error because A, B, C are used twice.
+
+41. The hierarchy of the execution of logical operators is
+	(a) NOT AND OR
+	(b) AND OR NOT
+	(c) OR AND NOT
+	(d) OR NOT AND
+
+42. The order of precedence of arithmetic operators in an expression can be
+    overridden with the use of
+	(a) []
+	(b) ()
+	(c) {}
+	(d) Any of the above
+
+Consider the following passage for answering questions 43 to 47.
+
+A program is written to accept an answer to the query "enough fo the Day?"
+If the respons is "N" then the program accepts quantity purchased and rate
+of the item and displays the amount to be collected. Then the above query
+is again displayed and the loop continues.  At the end of the day, when
+the response to the above query is "Y", the day collections are displayed.
+
+The program checks that the quantity purchased is between 25 and 125 and the 
+rate of the item is between 10.00 and 75.00.  If any of these two conditions
+are violated, the program displays an appropriate message and asks for next
+input.  The amounts are displayed with proper editing.  The program is written
+assuming that there can be  a maximum of 1000 transactions a day.
+
+43. How many variables would you declare for the above problem?
+ 	(a) 3
+	(b) 4
+	(c) 5
+	(d) 7
+
+44. What should be the PICTURE clause of the variable used to calculate
+    end of the day collections?
+	(a) 9(9)v99
+	(b) 9(8)v99
+	(c) 995)v99
+	(d) Information given is insufficient to arrive at the answer
+
+45. What should be the PICTURE clause of the variable used to calculate 
+    to be collected.
+	(a) 9(9)v99
+	(b) 9(8)v99
+	(c) 9(5)v99
+	(d) Information given is insufficient to arrive at the answer
+
+46. Assuming that the above program is being executed in a Department
+    Stores in MADRAS  which of the following PICTURE clause will be 
+    suitable for DISPLAYing the end of the day collections?
+   	(a) Z(5)V99
+	(b) Z(5).99
+	(c) ZZ,ZZ,ZZ,ZZ9.99
+	(d) Information given is insufficient to arrive at the answer
+
+47. How many _____ statements do you think will be there in the program?
+	(a) 3
+	(b) 4
+	(c) 5
+	(d) Information given is insufficient to arrive at the answer
+
+48. Which of the following paragraphs is compulsory in every COBOL program?
+	(a) SPECIAL-NAMES
+	(b) PROGRAM-ID
+	(c) FILE-CONTROL
+	(d) OBJECT-COMPUTER
+
+49. Which of the following files can be OPENed in all the 4 modes?  The four
+    modes are INPUT, I-O, OUTPUT and EXTEND.
+	(a) INDEXED
+	(b) RELATIVE 
+	(c) SEQUENTIAL 
+	(d) All of the above
+
+50. Which of the following EDITind and PICTURE  symbols is to be used if a
+    minus(-) is to appear before the value if the value is -ve and a plus(+)
+    is to appear before the value if the value is +ve?
+	(a) +
+	(b) -
+	(c) + OR
+	(d) It is not possible
+
+solutions
+
+b,b,c,c,c,a,d,a,b,a,c,c,b,b,b,c,b,d,a,a,c,b,d,a,d,d,b,c,d,b,a,c,a,c,a,b,d,
+a,c,b,a,b,b,b,c,c,a,b,c,a

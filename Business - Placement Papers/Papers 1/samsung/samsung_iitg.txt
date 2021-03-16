@@ -1,0 +1,215 @@
+SAMSUNG had visited iit-guwahati on 8th aug.
+it had 60 questions 60 min.
+Section 1 : 30 aptitude Section 2 : 30 Technical
+
+section 1 :
+First 7 questions on Passage. Try to avoid answering
+them.
+8. No. of trailing zeros in 100! = 22 (check)..
+9.No. numbers <= 100 which are not divisible by 2,3,5
+: a) 24 b)26 c)29 ans.(check) d) none
+10.if a + b + c = 0, then (a^2 + b^2 + c^2)/(ac^2 -
+ab) = ? A)0 b) 1 c)-2 d)-2 check ans a)
+11.some salary problem. 1/4th of salary for rent,
+1/5th of salary for transport remaing deposit.
+he deposited rs 50/- then monthly salary ??? ans.
+1000/- check..
+12.some time & work problem.
+      a & b can do in 8 days
+      b & c can do in 12 days
+      a & c can do in 24 days.
+then b can alone do in ??? days
+13.some diagrams were given see gre barron book find
+shaded area
+    one square was given in that one 4 circles
+inserted. find the area left by ciclrs in the square
+ans : 16(4-pi)...
+14.Train problem.. find length of train... ans ) 75
+15.1mile g cents and m cents extra cost. for 100 miles
+cost ?????
+16.there is W kg rice in bag. a rat eats r kg of rice
+each day. After 25 days what percent of rice was eaten
+by rat ??? ans) 2500r/w (check)
+17.COSMOPOLITAN word was given. some letters from that
+word picked. formed word : option
+18.A-->B 75% distance travelled at v kmph in T hrs.
+remaing distance at S kmph. how much time was taken to
+cover remaing distance???
+19.some word problem... ORGANISATION...
+
+section : Technical.........
+1.Ipv6 ---> 16 bytes.
+2.multi cast addressing range...
+3.subnet was given how many computer can be connected
+??? 255.255.255.242 ??
+4.RS232C binary 0 ----> +4v (+ve)..
+5.socket programming ---> select (not related to
+socket system calls)
+6.HDLc ---> a) GO back n b) Go back n-1 c)select
+repeat n d)none of the above..
+7.piggy backing ---> acknowledgements..
+8.ATM --> basic question.
+9.Max no. of outstanding acknowledgements...
+10.int a;
+   static int a;
+   int fun() { return a;}
+   static int fun() { return a; }
+which of the above 2 statements can't exist in the
+same file...
+11.some program
+
+main()
+{
+      extern int i;
+       print i;
+}
+ans ) linker error..
+12.Advantage of digital over analog signal ??
+13.study digital modulation techniques..
+     int j=3;
+     int *p=&j;
+    printf("%d %d", *p++,++*p);
+
+   it will not increment j value as ++ is done first
+on p before *, so address gets incremented and
+garbage value will be there
+14.Which is non-deterministic structure a)ethernet
+b)802.4 c) 802.5 d)none ans)ethernet check..
+15.3 bits on size of structures...
+16.Linux ---> memory model  a) small b)hughe c) flat
+d)none. see..
+17.Which one does not involve direct recursion..
+   a) backtracking
+   b) divide and conquer
+   c) dynamic programming
+   d) none of the above..
+18. sort time complexity based on
+   a) No of comparisions
+   b) no of swaps.
+   c) no of copies.
+   d) all of the above (check)...>a ans:( )(e)
+> none of these
+>
+> 7.A and B are two stations 330km apart.A train
+> starts from A at 8pm.and
+> travels toward B at 60kmph.another train starts from
+> B at 9pm. And
+> travels towards A at 75 kmph.at what time do they
+> meet?(a) 11am(b) 12pm
+> (c) 11.30am ans:(a )(d) 11.45am
+>
+> 8.if you have a sixth sense, it may help you to
+> solve this one
+> 6 396 2376 1425.6 8.5536 ?(a) 4.5536(b) 2.5536(c)
+> .513216 ans:(d )(d)
+> .00513216
+>
+> 9.20 ? 150 18 11(a) 2(b) 4(c) 6 (d) 8 ans:(c )(e)
+> none of these
+>
+> >> The one in our paper was 100 365 24 60 _?
+>     Ans 60
+>
+> 10.if (BE)^2=MPB and the letters B,E,Pand M stands
+> for distinct
+> digits,then M equals:(a) 1(b) 6(c) 3 ans:(c )(d)
+> 9(e) 5
+>
+> DATA SUFFICIENCY
+> Direction:Read the following instructions carefully
+> and answer
+> questions 11-15 given below:
+>
+> Each question below is followed by two numbered
+> facts. You have to
+> determine whether the data given in the statement is
+> sufficient for
+> answering the question. Choose one of the following
+> choices best fitting
+> the
+> question and mark A,B,C,D or E as explained below.
+> (A) if statement 1 alone is sufficient to answer the
+> question, but
+> statement 2 is not sufficient.
+> (B) If statement 2 alone is sufficient to answer the
+> question, but
+> statement 1 is not sufficient.
+> (C) If both statements together are needed to answer
+> the question, but
+> neither statement alone is sufficient.
+> (D) If either statement by itself is sufficient to
+> answer the question.
+> (E) If enough facts are not available to answer the
+> question.
+>
+> 11. Is X =Y?
+> (1) X-Y=X^2-Y^2 ans:( )(2) X and Y are greater than
+> 1.
+>
+> 12. Is CAB a code word in language Q?(1) ABC is the
+> base word.
+> (2) If c immediately follows B, then C can be moved
+> to the front of the
+> code word to generate another word?ans:( )
+>
+> 13. A dress was initially listed at a price that
+> would have given the
+> store a profit of 20 percent of the wholesale cost.
+> What was the
+> wholesale cost of the dress?
+> (1) After reducing the asking price by 10 percent,
+> the dress sold for a
+> net profit of 10 dollars.(2) The dress sold for 50
+> dollars. ans:( )
+>
+> 14. If X and Y do not equal 0, is X/Y an integer?(1)
+> X is prime
+> (2) Y is even ans:( )
+>
+> 15. What is the price of a banana?
+> (a) 14 banana and 35 oranges cost Rs. 84
+> (b) with a 50% discount on banana, Rs. 12 can buy 4
+> bananas and 5 oranges.
+> ans:( )Analytical Reasoning
+>
+> In a game, exactly six inverted cups stand side by
+> side in a straight
+> line, and each has exactly one ball hidden under it.
+> The cups are
+> numbered consecutively 1 through 6. Each of the
+> balls is painted a single
+> solid color. The colors of the ball green, magenta,
+> orange, purple, red
+> and yellow. The balls have been hidden under the
+> cups in a manner that
+> conforms to the following conditions:
+> The purple ball must be hidden under a lower-
+> numbered cup than the
+> orange ball. The red ball must be hidden under a cup
+> immediately adjacent
+> to the cup under which the magenta ball his hidden
+> The green ball must be hidden under cup 5.
+> 16. Which of the following could be the colors of
+> the balls under the
+> cups, in order from 1 through 6?(a) Green, yellow,
+> magenta, red, purple,
+> orange
+> (b) Magenta, green, purple, red, orange, yellow
+> (c) magenta, red, purple, yellow, green, orange
+> (d) orange, yellow, red, magenta, green, purple
+> (e) red, purple, magenta, yellow, green, orangeans:(
+> )
+> 17. A ball of which of the following colors could be
+> under cup6?(a) Green
+> (b) Magenta(c) purple(d) red (e) yellow ans:( )
+> 18. If the purple ball is under cup4, the orange
+> ball must be under(a)
+> 1(b) 2
+> (c) 3(d) 5(e) 6 ans:( )19. Which of the following
+> must be true ?
+> (a) The green ball is under a lower - numbered cup
+> than the yellow ball.
+> (b) The orange ball is under a lower - numbered cup
+> than the green ball.
+> (c) The purple ball is under a lower - numbered cup
+> than the red ball.

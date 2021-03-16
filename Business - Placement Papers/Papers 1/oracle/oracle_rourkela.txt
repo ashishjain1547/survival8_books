@@ -1,0 +1,660 @@
+ORACLE PAPER  (  R.E.C. ROURKELA  )
+
+
+FOR CSE AND MCA QUESTIONS CONSISTED OF TWO PARTS
+
+1>non-tech (35 min )
+2>tech ( 30 min )
+ 
+else for other branches only non-tech part.
+
+NON-TECH
+========
+A>
+
+
+
+ORACLE APTITUDE TEST
+
+Questions 1-3 are based on the following:
+
+In a group there are five persons A,B,C,D and E. There
+is a sitarist, a 
+professor and a sports person in thegroup. E is the
+husband of a member 
+of the group.This couple is the only married couple in
+the group. B is 
+the brother of C. B is neither a professor nor a
+sports person. None of 
+the women is either a sitarist or a sports person. A
+and D are 
+unmarried and neither of them is a sitarist or a
+professsor or a sports person.
+
+1. Which of the following people is E's wife?
+
+1]A 2]B 3]C 4]D
+
+2. Who is a sports person?
+
+1]A 2]E 3]B 4]C
+
+3. Who is a sitarist?
+
+1]B 2]A 3]C 4]D
+
+4. In a factory, 'a' men work 'b' hours a day and
+produce 'c' articles 
+each day. If 'd' men are released, how many hours a
+day will the 
+remaining men have to work to produce 'c'articles each
+day?
+
+1]ab/d 2]ab/b 3]a-d/b 4]ab/a-d
+
+5. A county cricket team has won 10 matches and lost
+4. If these 
+matches represent 70% of the matches to be played, how
+many more matches 
+should the team win so as to have a record of 75%
+iwns?
+
+1]5 2]6 3]4 4]3
+
+For questions 6-10, read the passage and answer the
+questions that 
+follow:
+
+At a time when impressive breakthroughs in technology
+are providing new 
+and better products and services, when improved
+communications are 
+transforming thw world into a global village, and when
+democracies are 
+sprouting in former communist lands, we are
+simultaneously witnessing 
+events that makie us questioin whether so much
+progress is indeed 
+"progress".
+For example, we see reports of widespread bribery by
+Italina and 
+Japanese government officials, exorbitant salaries for
+executives in North 
+America, extensive environmental pollution in eastern
+Europe, and other 
+instances of immoral or morally questionable conduct
+in our 
+organizations. In many otherwise prospeous and afluent
+cities, we see an increase 
+in the numbers of homeless people. Even those who are
+fortunate enough 
+to have a job find that work is not only not an
+opportunity for growth, 
+but a source of anxiety and insecurity.
+In the popular media as well as in academic journals,
+we see great 
+interest in the proposition that business and other
+organizations leaders 
+need to become more responsible not just ot their
+stock jolders but also 
+to other stake holders- consumers, employees,
+suppliers,government, and 
+locla communites.
+Put simply, the quality of life and perhaps the
+survivial of society 
+depend on the moral caliber of its members. This moral
+caliber, however, 
+is largely determined by people in leadership
+positions. The way 
+leaders function in their positions of influence
+directly contributes to 
+strengthening pr weakening the moral fiber or society.
+The lives of Buddha, 
+Mohammed, Lao-Tzu, Gandhi and Socrates attest to their
+salutary 
+influence in their own way as well as for all time.
+A human being functions not just through the physical
+body but also 
+through the use of the intellect and the will. The
+intellect penetrates 
+those deep levels of reality that are spiritual in
+nature but that the 
+physical senses and processes cannot access. It does
+this through 
+abstract concepts and ideas that help to make sense of
+and give meaning to the 
+acts in the light of spiritual knowledge. It helps us
+to make moral 
+choices in living a spiritually guided life.
+How do we describe the concept of spirituality and its
+place in that 
+domain? Spirituality is difficult to define in a
+manner that is 
+universally acceptablke because religious beliefs and
+rites differ widely age to 
+age and from one society to another. However, if we
+analyze the 
+spiritual experience per se and its behavioral
+manifestations among 
+individuals of different religious backgrounds, there
+is much accord on the 
+understanding and appreciation of the essence of
+spirit at three levels: 
+cognitive, affective, and outward behavior.
+At a cognitive level,spiritual experience represents a
+realization 
+that,a t the core of human existence, there is set of
+virtues and vices. 
+Virtues - prudence, justice, fortitude, and
+temperance- are good habits 
+that enable us to stirve toward relizng our full
+potential. Ideally, the 
+goal of human life is to live these values and
+overcome the vices.
+At an affective or emotional level, the spiritual
+experience represents 
+a complete trust and dependence on such virtues. In
+its most sublime, 
+the spiritual experience represents a complete
+identification with these 
+values,or with an individual embodying these values,
+tha aim being to 
+achieve some forme of enduring blissful state of
+existence.
+How is the spiritual experience expressed in outward
+behavior? What are 
+the sources of the norms andd principles within the
+spiritual domain? 
+Response to such questions generally come from
+prescriptions of moral 
+observance of the laws. It is not a question of an act
+being legal or 
+illegal, but whether the act is good or evil. A
+morally good act is 
+necessarily an expression of a spirtual act.
+The ability to distinguish between morally good and
+evil acts is 
+critical to the formation of character. Knowing
+ehtical principles alone is 
+of little value unless we make an effort to habitually
+incorporate these 
+principles in our behaviour.
+In the final analysis, the reward of the spiritual
+experience is that 
+it enables each individual to grow and fully realize
+the tremendous 
+potential unique to that person. If a good moral
+character is of the 
+essence of every human being, thern with much greater
+reason does it become 
+so of leaders who, in the words of Stanford management
+professor Harold 
+Leavitt, by their "vision, values, and determination,
+add soul to the 
+organization".
+
+6. The author does not consider the progress made as
+'progress' as 
+there is
+
+1]widespread corruption. 2]environmental pollution.
+3]widespread poverty. 4]all of the above.
+
+7. The author draws the analogy of Buddha and Gandhi
+to emphasize that
+
+1]organizational leaders need to be more responsible.
+2]a society is known by its leader(s).
+3]the quality of a society is determined by the
+quality of its 
+leader(s).
+4]survival of the leader is determined by its society.
+
+8. According to the passage
+
+1]academic journals advocate progress in society.
+2]there is extensive environmental pollution in Japan.
+3]affluent cities witness the greatest number of
+homeless people.
+4]breakthroughs in technology have transformed the
+world into a global 
+village.
+
+9. If a person follows certain values as principles,
+then he is 
+appreciating the essence of spirit at the
+
+1]cognitive level. 2]emotional level.
+3]social level. 4]both 2&3.
+
+10. The author is likely to agree with all of the
+following except
+
+1]knowledge of ethical values will lead to the full
+realization fo 
+one's potential.
+2]spiritual acceptance of values by the individuals of
+the society will 
+lead to its progress.
+3]a morally good act is an expression of spirituality.
+4]man functions through both body and mind.
+
+11. Derek and Saily together have $300. After giving
+Saily $40, Derek 
+finds that he has 1/4 tha amount that Saily has. How
+much money does 
+Derek have now?
+
+1]$60 2]$100 3]$80 4]$40
+
+12.Jason purchased 60 shares of Trump corporation sat
+$40 and later 
+bought 40 more at $36. At what price should he
+purchase 50 additional 
+shares so that the average cost of the shares is $35?
+
+1]$26.40 2]$20.50 3]$28.20 4]$29.00
+
+13. Mike loves hiking. He starts from point A and
+walks 4 miles due 
+east to point B. from there he walks 3 miles south to
+point C. From point 
+C he walks 8 miles east to point D and from there he
+walks 6 miles west 
+to point E. What is the shortest distance between
+point A and point E?
+
+1]8 miles 2]5 miles 3]7 miles 4]6.7 miles
+
+Questions 14-15 are based on the following:
+
+The inhabitants of Kya-Kya island always answer any
+question with two 
+sentences; one of which is true and the other is
+false.
+
+14. You are looking for Venkat's house and you meet
+three people- 
+Anand, Ravi and Som. You ask them "Which is Venkat's
+house?"
+
+Anand says:Venkat's house is No.9, I am his neighbour.
+Ravi says:Anand is not my neighbour.Anand and Som live
+in the same 
+house.
+Som says:Venkat's house is not No.9. Anand is Ravi's
+neighbour.
+There are only two houses and four people in Kya-Kya.
+Two people live 
+in each house.
+
+From the above you can decide that
+
+1]Venakt stays in house No.9 
+2]Venkat does not stay in house No.9
+3]Venakt does not stay in Kya-Kya.
+4]Ravi and Som stay together.
+
+15. Who stays with Anand?
+
+1]Ravi 2]Venkat 3]Som 4]Can't say.
+
+
+Questions 16-17 are based on the following:
+
+The average life expectancy for the United States
+population as a whole 
+is 73.9 years, but children born in Hawaii will live
+an average of 77 
+years, and those born in Louisiana,71.7 years. If a
+newly wed couple 
+from Louisiana were to begin their family in Hawaii,
+their children would 
+live longer than if the couple began their family to
+Louisiana.
+
+16. Which of the following, if true, would most
+seriously weaken the 
+conclusion drawn in the passage?
+
+1]Insurance company statisticians do not believe that
+moving to Hawaii 
+will significantly lengthen the average Louisianian's
+life.
+2]The governor of Louisiana has falsely alleged that
+statistics of his 
+state are inaccurate.
+3]The longevity attributed to Hawaii's current
+population is attributed 
+mostly to genetically determined factors.
+4]Thirty percent of all Louisianians can expect to
+live longer than 77 
+years.
+
+17. Which of the following, if true, would most
+significantly 
+strengthen the conclusion drawn in the passage?
+
+1]As population density increases in Hawaii,life
+expectancy figures for 
+the state are likely to be revised downward.
+2]Environmental factors tending to favor longevity are
+abundant in 
+Hawaii and less numerous in Louisiana.
+3]Over the last decade, average life expectancy has
+risen at a higher 
+rate for Louisianians than for Hawaiians.
+4]Twnty-five percent of all Louisianians who move to
+Hawaii live longer 
+than 22 years.
+
+
+For questions 18-21,read the following paragraph:
+
+Nursery "Hara Bara" plans to undertake a project of
+planting 100 
+sunflower plants daily for the next 100
+weeks.Further,15% of the remaining 
+plants die within 4 weeks of plantations.If a plant
+survives till the end 
+of 4th week it becomes available for sale, and the
+company sells it 
+iommediately at the beginning of the next week at a
+fixed price of Rs.35 
+per plant.
+
+18. Total number of plants sold by the end of 10 weeks
+is
+
+1]4760 2]2730 3]4550 4]2856
+
+19. Total revenue generated by the nursery(in Rs.000s)
+from the project 
+is
+
+1]1666.0 2]1592.5 3]1246.0 4]None of these.
+
+20. Revenue generated by the nursery by the end of
+50th week is what 
+proportion of total revenue generated by the project?
+
+1]48.2% 2]46% 3]50% 4]53%
+
+21. A pesticide available in the market reduces the
+number of plants 
+dying within 4 weeks of plantation by 25%. If each
+bottle of pesticide 
+costs Rs.770 and lasts for seven days and the nursery
+starts using it 
+only on the plants planted after the 50th week, the
+net income (in 
+Rs.'000s) from the project (net of pesticide expenses)
+is:
+
+1]1592.5 2]1725.5 3]2106.5 4]None of these.
+
+22. Forty percent of the members of a singles club are
+men. Eighty 
+percent of he single men and 90 percent of the single
+women own 
+automobiles. A car is found in the parking lot. What
+is the probability that hte 
+car belongs to a woman?
+
+1]0.8352 2]0.6279 3]0.4869 4]0.5535
+
+23. Three boxes, identical in appearance, each have
+two drawers. The 
+first box contains a gold coin in each drawer. The
+second contains a 
+silver coin in each drawer. But the third contains a
+gold coin in one and a 
+silve coin in the other. A box is chosen, one of its
+drawers opened and 
+a gold coin found. What is the probability that the
+other contains a 
+silver coin?
+
+1]1/2 2]1/3 3]1/6 4]1/4
+
+Questions 24-25 are based on the following:
+
+The fewer restricitons there are on the advertising of
+legal services, 
+the more lawyers there are who advertise their
+services, and the 
+lawyers who advertise a specific service usually
+charge less for that service 
+than lawyers who do not advertise. Therefroe, if the
+state removes any 
+of its current restrictions, such as the ones against
+advertisements 
+that do not specify fee arrangements, overall consumer
+legal costs will 
+be lower than if the state retains its current
+restrictions.
+
+24. If the statements are true, which of the following
+must be true?
+
+1]Some lawyers, who now advertise will charge more for
+specific 
+services if they do not have to specify fee
+arrangements in the 
+advertisements.
+2]More consumers will use legal services if there are
+fewer 
+restrictions on the advertising of legal services.
+3]If the restriction against advertisements that do
+not specify fee 
+arrangements is removed more lawyers will advertise
+their services.
+4]If more lawyers advertise, lawyers who do not
+advertise will also 
+charge less than they currently charge for those
+services.
+
+25. Which of the following. if true, would most
+seriously weaken the 
+argument concerning overall consumer legal costs?
+
+1]The state has recently removed some other
+restrictions that had 
+limited the advertising of legal services.
+2]The state is unlikely to remove all of the
+restrictions that apply 
+solely to the advertising of legal services.
+3]Most lawyers who now specify fee arrangements in
+their advertisements 
+would continue to do so even if the specifications
+were not required.
+4]Most lawyers who advertise specific services do not
+lower their fee 
+for those services when they begin to advertise.
+
+26.In a certain election only 2/5th of the voters
+promised to vote for 
+P and the rest for Q. However on the day of elections,
+15 voters went 
+back on their promise to P and voted for Q. Similarly
+25 voters went 
+back on their promise to Q and voted for P, P lost the
+election by two 
+votes. The number of votes in the election is 
+
+1]90 2]110 3]130 4]None of these. 
+
+27. A bath has two taps and a waste pipe. One of the
+taps on the 
+ownwould fill the bath in ten minutes, the other would
+take a quarter of an 
+hour, the waste pipe can empty a full bath in exactly
+seven and half 
+minutes. Now if we start with an empty bath with both
+taps fully on, when 
+(if ever) will the bath be full if the waste pipe is
+left open?
+
+1]15 min 2]44 min 3]22.5 min 4] 30 min
+
+Questions 28-30 are based on the following
+From exactly seven people- R,S,T,U,X,Y and Z- a group
+of exactly four 
+must be selected in accordance with the following
+conditions:
+If R is selected, T must also be selected.
+If S is selected, U must also be selected.
+If X and Y are both selected, T cannot be selected.
+
+28. If X and Y are both selected together, which of
+the following must 
+also be selected?
+1]R 2]S 3]U 4]Z
+
+29. If S and Z are both selected, each of the
+following could also be 
+selected except:
+1]R 2]T 3]U 4]X
+
+30.If U is not selected, which of the following can
+be, not does not 
+have to be, selected?
+1]R 2]S 3]T 4]X 
+
+
+
+
+
+
+
+
+
+
+B>WRITE ESSAY ON E-COMMERCE IN INDIA "OPPURTUNITIES
+AND PITFALLS"
+
+
+TECH 
+============
+************
+SECTION 1:->  16 QUESTIONS, EACH OF 1 MARKS(MOSTLY
+FROM O.S. AND FEW                    
+FROM SQL)
+SECTION 2:->   7 QUESTIONS,EACH OF 2 MARKS ( 1 FROM C
+AND OTHERS FROM
+                  C AND C++)
+SECTION 3:->  WRITE A PROGRAM IN C/C++ TO SORT A
+DOUBLY LINKED LIST,
+               INSERT AN ELEMENT TO IT AND DELETE AN
+ELEMENT FROM IT.
+
+
+SECTION   I
+===============
+
+
+1. WHAT IS FOREIGN KEY .
+2. HOW IT WILL BE SPELLED AS 
+    double  (*(*(*(*f))[10])) () 
+3.WHAT IS CURSOR IN SQL 
+
+4. PROCESS           BURST TIME
+    P1			24
+    P2			3
+    P3			3
+    IN NON-PREEMPTIVE JOB SCHEDULING ,USING FIFO,
+     FIND OUT AVERAGE TIME.
+
+5.   PROCESS       AVAILABLE TIME    BURST TIME
+      P1		0		7
+      P2		2		4
+      P3		1		4
+      P4		4		5
+      IN NON-PREEMPTIVE JOB SCHEDULING ,USING SJF ,
+      FIND OUT AVERAGE WAITING TIME.	
+6.    1,2,3,4,5,2,3,4,3     (NOTE SEQUENCE ARE NOT IN
+EXACT ORDER)
+      FIND OUT NO. OF PAGE FAULT IN LRU USING DEMAND
+PAGING.
+
+7.    1,2,3,4,5,2,3,4,3     (NOTE SEQUENCE ARE NOT IN
+EXACT ORDER)
+      FIND OUT NO. OF PAGE FAULT IN FIFO  USING PURE
+DEMAND PAGING. 
+
+8.    4*3+(6*3-12)
+      IF THIS INFIX NOTATION IS CONVERTED IN POSTFIX
+NOTATION USING
+      SOME ALGORITHM THEN IN THAT MAXIMUM LENGTH OF
+THE STACK WILL BE?
+
+9.    WHAT IS CRITICAL REGION 
+ 
+10.   PRIMARY KEY SATIFIES ALL EXCEPT 
+     a)____   b)______   c)_____   d) can represent
+null values
+
+11.      (((())()))()    (sequence is not exactly the
+same )
+       FIND OUT THE MAXIMUM LENGTH OF STACK ,TO FIND
+OUT THE NO. OF
+        PARENTHESIS IN ABOVE
+
+12.    p(element)
+       p(mutex)
+      -------
+       ------
+     V (mutex)
+     P(ELEMENT)
+     
+   IF P AND V SEMAPHORE ARE INTERCHANGED , THEN WHAT
+WILL BE THE          
+OUTPUT.
+
+
+
+   4 MORE QUESTION WHERE THERE WHICH I DO NOT REMEMBER
+
+
+SECTION II
+===========
+**********
+
+
+QUESTION OF THIS PART WHERE TOUGH AND LARGE AS WELL
+
+1.  PRINT (INT *A,INT *B,INT *C,INT *D)
+    -----------------------------
+  ANS.  ARRAY OUT OF BOUNDS.
+
+
+6.  CLASS OUTER
+      {
+        CLASS INNER
+          {
+            -----
+	    ------
+	  }
+      }
+  
+
+   (SOMETHING LIKE THAT)
+    ANS. 1 & 2  ( ERROR IN THE GIVEN LINE NUMBER )
+
+2.  CLASS ABSTRACT CLASS
+     {
+      PUBLIC:
+           VIRTUAL ABSTRACTCLASS()=0;   //LINE 1
+           VIRTUAL ~ABSSSTRACTCLASS()=0;//LINE 2
+     }
+
+      ABSTRACT CLASS:: ABSTRACTCLASS()={}//LINE 3
+	
+      ABSTRACT CLASS::~ABSTRACTCLASS()={}  //LINE 4
+
+ QUESTION WAS GIVEN TO FIND OUT THE ERROR IN LINE NO.
+		
+
+      
+
+REST I DO NOT REMEMBER 

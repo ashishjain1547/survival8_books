@@ -1,0 +1,471 @@
+Tata Consultancy Services Sample Test#1
+
+
+NOTE:EACH OF THE QUESTIONS GIVEN BELOW APPEAR AS MULTIPLE CHOICE QUESTIONS IN THE ACTUAL
+PAPER.
+
+VERBAL SECTION
+
+Directions for questions 1-15:Find the synonyms of the following words
+
+1. Merry
+
+Ans. Gay,Happy
+
+
+2. Alienate
+
+Ans. Estrange 
+
+
+3. Solicit
+
+Ans. To request 
+
+
+4.Heap
+
+Ans. To pile 
+
+
+5.Cargo
+
+Ans. Freight 
+
+
+6.Momentary
+
+Ans. Transient 
+
+
+7. Volume
+
+Ans.Quantity 
+
+
+8.Veer
+
+Ans.Diverge 
+
+
+9.Dispel
+
+Ans.Dissipate 
+
+
+10.Admonish
+
+Ans.Cautious 
+
+
+11.Meager
+
+Ans.Scanty 
+
+
+12.Latitude
+
+Ans.Scope 
+
+
+13.Latent
+
+Ans.Potential 
+
+
+14.Covet
+
+Ans.Crave 
+
+
+15.Discretion
+
+Ans. Prudence 
+
+ 
+
+QUANTITATIVE SECTION
+
+1. If two pencils cost 8 cents, then how much do 5 pencils cost?
+
+Ans. 20 cents
+
+
+2. Some work is done by two people in 24 minutes. One of them can do this work alone in 40 minutes. How much time does the
+second person take to do the same work ?
+
+Ans. 60 minutes 
+
+
+3. A car is filled with four and half gallons of fuel for a round trip.If the amount of fuel taken while going is 1/4 more than the
+amount taken for coming, what is the amount of fuel consumed while coming back?
+
+Ans.2 gallons
+
+
+4. The lowest temperature in the night in a city A is 1/3 more than 1/2 the highest during the day. Sum of the lowest temperature
+and the highest temperature is 100 degrees. Then what is the low temp? 
+
+Ans.40 degrees 
+
+
+5. Javagal, who decided to go to weekened trip should not exceed 8 hours driving in a day. The average speed of forward journey is
+40 miles/hr.Due to traffic on sundays, the return journey's average speed is 30 m/h. How far he can select a picnic spot?
+
+a) 120 miles
+b) between 120 and 140 miles 
+c) 160 miles 
+
+Ans. 120 miles 
+
+
+6. A salesperson by mistake multiplied a number and got the answer as 3, instead of dividing the number by 3.What is the answer
+he should have actually got? 
+
+Ans. 3
+
+
+7. A building with height D shadow upto G. What is the height of a neighbouring building with a shadow of C feet.
+
+Ans. (C*D)/G
+
+
+8. A person was fined for exceeding the speed limit by 10 mph. Another person was also fined for exceeding the same speed limit
+by twice the same. If the second person was travelling at a speed of 35 mph, find the speed limit.
+
+Ans. 15 mph 
+
+
+9. A bus started from bustand at 8.00am, and after staying for 30 minutes at a destination, it returned back to the busstand. The
+destination is 27 miles from the busstand. The speed of the bus is 18mph. During the return journey bus travels with 50% faster
+speed.At what time does it return to the busstand? 
+
+Ans. 11.00am 
+
+
+10. In a mixture, R is 2 parts and S is 1 part. In order to make S to 25% of the mixture, how much of R is to be added? 
+
+Ans.One part of R 
+
+
+11. Wind flows 160 miles in 330 min, for travelling 80 miles how much time does it require? 
+
+Ans. 2 hrs 45 mins
+
+
+12. With a 4/5 full tank a vehicle can travel 12 miles, how far can it travel with a 1/3 full tank 
+
+Ans. 5 miles 
+
+
+13. There are two trees in a lawn. One grows at a rate 3/5 of the other in 4 years. If the total growth of trees is 8 ft. What is the
+height of the smaller tree after 2 years 
+
+Ans. 1 1/2 feet
+
+
+14. Refer to the figure below.A ship started from P and moves at a speed of I miles per hour and another ship starts from L and
+moving with H miles per hour simultaneously.Where do the two ships meet? 
+
+||---g---||---h---||---i---||---j---||---k---||---l---||
+
+PG H I J K L are the various stops in between denoted by || . The values g, h, i, j, k, l denote the distance between the ports.
+
+Ans. Between I and J, closer to J
+
+
+15. If A is travelling at 72 km per hour on a highway. B is travelling at a speed of 25 meters per second on a highway. What is the
+difference in their speeds in m/sec.
+
+Ans. 1 m/sec
+
+ 
+
+CRITICAL REASONING SECTION
+
+The critical reasoning section consists of some passages followed by 4 to 7 questions per passage. The questions are such that
+they require ability to read fast and comprehend. The questions asked in this section have three choices TRUE, FALSE, CAN'T
+SAY. Some examples of questions are given below. Please note that these passages are not the exact passages asked. The
+passages used a good deal of difficult words which have been removed in this reproduction. Also the passages appearing in the
+actual paper are much lengthier.
+
+Directions: Answer the questions given below the passage or statement as true, false or can't say.
+
+PASSAGE A: My father has no brothers. He has three sisters who has two childs each.
+
+Answer 1-5 based on the passage A
+
+1.My grandfather has two sons .
+
+Ans. False   
+
+
+2. Three of my aunts have two sons
+
+Ans. Can't say
+
+
+3. My father is only child to his father
+
+Ans. False
+
+
+4. I have six cousins from my mother side
+
+Ans. Can't say
+
+
+5. I have one uncle
+
+Ans. Can't say(uncle can be from the mother's side as well)
+
+ 
+
+PASSAGE B: Ether injected into gallablader to dissolve colestrol based gallstones. This type one day treatment is enough for
+gallstones not for calcium stones. This method is alternative to surgery for millions of people who are suffering from this disease. 
+
+Answer questions 6-9 based on passage B
+
+6.Calcium stones can be cured in oneday 
+
+Ans. False
+
+
+ 7. Hundreds of people contains calcium stones
+
+Ans. Can't say
+
+
+8. Surgery is the only treatment to calcium stones
+
+Ans. True
+
+
+9. Ether will be injected into the gallbleder to cure the cholestrol based gall stones
+
+Ans. True
+
+ 
+
+PASSAGE C: Hacking is illegal entry into another computer. This happens mostly because of lack of knowledge of computer
+networking. With networks one machine can access to another machine.Hacking go about without knowing that each network is
+accredited to use network facility. 
+
+Answer questions 10-12 based on passage B
+
+10. Hackers never break the code of the company which they work for
+
+Ans. Can't say
+
+
+11. Hacking is the only vulnerability of the computers for the usage  of the data
+
+Ans. False
+
+
+12.Hacking is done mostly due to the lack of computer knowledge 
+
+Ans. False  
+
+ 
+
+PASSAGE C: Alphine tunnels are closed tunnels.In the past 30 yrs not even a single accident has been recorded for there is one
+accident in the rail road system. Even in case of a fire accident it is possible to shift the passengers into adjacent wagons and even
+the live fire can be detected and extinguished with in the duration of 30 min. 
+
+Answer questions 13-16 based on passage C
+
+13. No accident can occur in the closed tunnels
+
+Ans. True
+
+
+14. Fire is allowed to live for 30 min
+
+Ans. False
+
+
+16. All the care that travel in the tunnels will be carried by rail shutters.
+
+Ans.True 
+
+ 
+
+PASSAGE D: In the past helicopters were forced to ground or crash because of the formation of the ice on the rotors and
+engines. A new electronic device has been developed which can detect the watercontent in the atmosphere and warns the pilot if
+the temperature is below freezing temperature about the formation of the ice on the rotors and wings. 
+
+Answer questions 17-20 based on passage D
+
+17.The electronic device can avoid formation of the ice on the wings 
+
+Ans.False
+
+
+18. There will be the malfunction of rotor & engine because of formation of ice
+
+Ans.True
+
+
+19. The helicopters were to be crashed or grounded
+
+Ans.True
+
+
+20. There is only one device that warn about the formation of ice
+
+Ans.True 
+
+ 
+
+PASSAGE E:In the survey conducted in mumbai out of 63 newly married house wives not a single house wife felt that the
+husbands should take equal part in the household work as they felt they loose their power over their husbands. Inspite of their
+careers they opt to do the kitchen work themselves after coming back to home. the wives get half as much leisure time as the
+husbands get at the week ends. 
+
+Answer questions 21-23 based on passage E
+
+21.Housewives want the husbands to take part equally in the household
+
+Ans.False
+
+
+22. Wives have half as much leisure time as the husbands have
+
+Ans. False
+
+
+23. 39% of the men will work equally in the house in cleaning and washing 
+
+Ans. False 
+
+ 
+
+PASSAGE F:Copernicus is the intelligent. In the days of copernicus the transport and technology development was less & it took
+place weeks to comunicate a message at that time,wherein we can send it through satellite with in no time.Even with this fast
+developments it has become difficult to understand each other.
+
+Answer questions 24-27 based on passage F
+
+24. People were not intelligent during Copernicus days 
+
+Ans.False
+
+
+25. Transport facilities are very much improved in noe a days 
+
+Ans.Can't say
+
+
+26. Even with the fast developments of the techonology we can't live happily.
+
+Ans. Can't say
+
+
+27. We can understand the people very much with the development of communication
+
+Ans. False. 
+
+ 
+
+ PASSAGE G:Senior managers warned the workers that because of the intfoductors of japanese industry in the car market. There
+is the threat to the workers.They also said that there will be the reduction in the purchase of the sales of car in public.the interest
+rates of the car will be increased with the loss in demand. 
+
+Answer questions 28-31 based on passage G
+
+28. Japanese workers are taking over the jobs of indian industry.
+
+Ans.False
+
+
+29.Managers said car interests will go down after seeing the raise in interest rates.
+
+Ans.True
+
+
+30. Japanese investments are ceasing to end in the car industry.
+
+Ans. False
+
+
+31. People are very interested to buy the cars.
+
+Ans.False 
+
+ 
+
+PASSAGE H:In the totalitariturican days,the words have very much devalued.In the present day,they are becoming domestic that
+is the words will be much more devalued. In that days, the words will be very much effected in political area.but at present,the
+words came very cheap .We can say they come free at cost. 
+
+Answer questions 32-34 based on passage H
+
+32.Totalitarian society words are devalued.
+
+Ans.False
+
+
+33. Totalitarians will have to come much about words
+
+Ans.True
+
+
+34. The art totalitatian society the words are used for the political speeches.
+
+Ans. False
+
+ 
+
+PASSAGE I:There should be copyright for all arts. The reele has came that all the arts has come under one copy right
+society,they were use the money that come from the arts for the developments . There may be a lot of money will come from the
+Tagore works. We have to ask the benifiters from Tagore work to help for the development of his works. 
+
+Answer questions 35-39 based on passage I
+
+35. Tagore works are came under this copy right rule.
+
+Ans. False
+
+
+36. People are free to go to the public because of the copy right rule.
+
+Ans.Can't say
+
+
+38. People gives to theater and collect the money for development.
+
+Ans.Can't say
+
+
+39. We have  ask the Tagore resedents to help for the developments of art.
+
+Ans.Can't say
+
+ 
+
+PYSCHOMETERIC TEST
+
+You don't need to fret much about this test. This test consists of 150 questions and is just a pyshcology test which should be
+answered confidently and doesn't require any preparation.One must try being consistent while answering as the same questions
+are repeatedly asked in different forms.Also one must answer all questions.Questions are of yes,no or can't say kind.
+
+1. Will you be interested in social activities. 
+
+2. While going upstairs do you move two steps at a time. 
+
+3. Can you make friends with people of the same sex or with opposite sex also
+
+4. Your friends consider you as a leader in your group 
+
+5. People think that your'e serious minded. 
+
+6. There are times you feel dull without any reason.
+
+7. You host several parties
+
+8. When relatives come to your house do you entertain them. 
+
+9. You can work for long hours without tireness. 
+
+10. In your company you want to lead the organisation.

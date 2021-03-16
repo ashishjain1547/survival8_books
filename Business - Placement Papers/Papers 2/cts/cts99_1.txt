@@ -1,0 +1,165 @@
+CTS '99
+Pondicherry
+
+SECTION I - 8 questions.
+Series.
+
+1.   Interchange of letters in a word and the adjacent letters are also to
+be changed.  given letters series like [also few condotions]
+  AAABBB=
+  ABABAB=
+LET QUESTION IS ABBAAB
+        If we apply 25 on this it means we have to interchange the letters
+at positions 2 and 5, and we have to change the adjacent letters 2 and 5
+from A to B and B to A.  
+That is   q's A B B A A B
+  after Step 1 i.e interchange 2 and 5. 
+
+  now change adjacent elements of 2 and 5...finally answer becomes
+Ans:    B A A B B A
+ 
+//Hint:  As per question papers 5 questions above like  but numbers
+change.
+
+REMAINING 3 QUESTIONS:
+ 6. To  get AAABBD  from BBBAAA  what ot apply:-
+  a) 25   b) 34   c)25 & 34  d) none
+
+
+SECTION II
+1.  Given the function f(n  a  b c ) = ac if n=1
+        f(n a b c) = f( n-1  a b  c) + f( 1 a  b  c) + f( n-1  b a c )
+                        if n >  1
+        f( 2) = ?
+Ans:  f( 2 a c b ) = ab + ac + bc.
+
+2. similar question in functions.
+3. [ based on function in 1.]   f( 4 a b c )  the number of terms is...?
+Ans:  f( 4 a b c ) =  f( 3 a c b ) + f( 1 a b c ) + f( 3 b a c )  etc.
+           = 5ab + 5ac + 5bc.
+4. f( 5 a b c ) = ?
+
+SECTION III
+Permutations and Combinations.
+8 questions.
+
+1. r = number of flags;
+   n = number of poles;
+   Any number of flags can be accommodated on any single pole.
+
+  i)  r=5,n=5 The no. of ways the flags can be arranged ?
+ ii) to iv) are based on this.
+
+6.  r= 5 n = 3 . If first pole has 2 flags ,third pole has 1 flag        
+   how many ways the remaining can be arranged?
+7.& 8. same as above.
+
+SECTION IV
+Question consising of figures consist of 4 small squares and every square
+having an arrow pointing in one Direction.
+
+GRE test of reasoning.
+hint: What is the next sequence if we tilt the figure by 90 degrees like
+that( clockwise  and mirror images ? ).
+
+SECTION V
+In this section first part of compound word is given. Select meaning of
+the second part from the choice given:
+        1. Swan
+        2. Swans
+        3. Fool
+        4. Fools
+        5. Stare
+        6. Lady
+  For all above 4 choices are given.....
+Eg. Swan
+  a) category  b) music   c) ---   d) none
+Ans: Swansong is compound word. But song is not given as option. so 
+     b) music is answer.
+
+TS 99 PAPER .  
+*This paper contains 40 questions and time is 60mts.*/
+
+CTS -REC'99(TRICHY)
+
+SECTION-1:
+
+Find the sequence:
+(       d is always NONE        )
+
+1. BC  CE  EG  GK ?
+        a)KN    b)KU    c)KM    d)
+2. AA  AB  BC  CE?
+        a)EG    b)EH    c)EI    d)
+3. AB  EF  JK  QR ?
+        a)YZ    b)ZA    c)AB    d)
+4.ACD  EGL  IKT  MOB?
+        a)QST   b)QSZ   c)QSY   d)
+5.AC CG GO OE?
+        a)EJ    b)EI    c)EL    d)
+6.AE BH CM DU?
+        a)EH     b)EZ    c) EB  d)
+7. AD DP PL LV
+        a)VS     b)VK   c)VI    d)
+8. SE QU EN TI?
+        a)CN    b)BM    c)AI or AZ    d)
+
+SECTION-II:
+
+FIND THE VALUES FOR FOLLOWING PROBLEM:
+        F(X)= 2X-1 + f(X-1) if X NOT EQUAL TO ZERO
+                            if f(X=0)=0
+9. f(5) VALUE
+        a)15  b)24  c)22  d)NONE
+10.f(f(2))
+
+11.f(16)- f(15)
+
+12.f(16)+f(15)-480
+
+13.f(f(x))=81 THEN VALUE OF X=
+
+14.f(X)=4f(X-1) THEN VALUE OF X=
+
+15.f(X)= f(X-1)+f(X-2) FOR X>1 THEN X=
+
+16.f(X)-f(X-1)=f(X-8) FOR X>5 THEN X=
+SECTION -III:
+
+###In the follwing questins we r giving 'aword' which may not have any
+meaning.Find differnet possible words or palandrams for the word as per que.
+I. for the following find no of distinct words that can be formed.
+17. TYGHHTT
+A).420 B)1540 C)840 D)NONE
+18. TYGHHTY
+19. TYGHHTT
+20. TYGHHTT
+21. TYGHASD
+22. TYGHHTY
+II Find NO OF POSSIBLE PALANDRAMS for following
+23. TYGHHTY
+24. TYHHHTYH.
+/*dEAR FRIENDS DON,T CONFUSE WITH THE WORDS REPEATED.Iam sure.Words are
+same.They might have changed the questionsfor20,21,22.Concentrate on that 
+respect*/
+25 to 32 are figures.Uhave to analyse them.He will give five figs.One is not 
+correct
+SECTION IV:
+        It having complete of figs.(26 -32)
+SECTION -V:
+
+For following first find out the anagram and then note the corresponding 
+meaning.
+33.TABLET(anagram means first u arrange the letters in correct order like
+         (TABLET===BATTLE .  so ans is   FIGHT i.e. B)
+34.RUGGED
+35.GORE.
+36.STASSI.
+For all above choices are.
+A) resentment B)Fight c)Help d) Monster
+37. ENFOLD
+38. LAMB
+39. RECEDE.
+40. PLEASE.
+For above 4  choices are same
+A)cuddle B)sleeping c)proclamination d)ointment.

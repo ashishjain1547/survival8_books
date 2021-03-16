@@ -1,0 +1,56 @@
+Hi all,
+     A small correction in question 2, what is the probability that only
+four of the letters are placed in the correct envelopes.
+
+    One more correction this time in question 6, initially there is a
+conversation between sally and sam, sally asks sam "Is your house number
+a
+perfect square?" he answers, then she asks "Is it >50?", he answers
+again.
+Then she thinks that now she knows Sam's house number, being unaware of
+the
+fact that Sam has answered only the second question truthfully.
+
+    Here is question 8
+Three teams A,B,C play 3 games(A Vs B,A Vs C,B Vs C). The partial details
+of
+the results are given here:
+Team  Games  W    L    T   Goals Scored for    Goals Scored against
+A          2        _     _    1                 0
+1
+B          2         1    _    _                 1
+2
+C          2        _     _    _                 _
+_
+
+Conditions:
+In each game the winning team is gets two points and the losing team gets
+no
+points. In case a game is tied then each team gets 1 point. So the total
+no.
+of points is equal to the total no.of games played by all the three teams
+that is 6. And it is also evident that total no.of goals scored for by
+the
+three teams is equal to the total no.of goals scored against by the three
+teams.
+Now find out the scores of all the three matches.(A - B, A-C, B - C)
+                             A        B        C
+Ans:  1st game       0        1
+         2nd              0                    0
+         3rd                         0          2
+
+The 5th question is:
+A pound of tea contains twice the amount of caffine that a pound of
+coffee
+contains. 40 cups of coffee can be prepared using a pound of coffee. 160
+cups of tea can be prepared using a pound of tea. A 12-ounce can of cola
+contains one fourth the amount of caffine a cup of coffee contains.
+A) What amount of caffine a cup of tea contains compared to a cup of
+coffee?
+B} What amount of caffine a cup of tea contains in comparision with a
+12-ounce can of cola?
+
+The 3rd question is:
+At What time after midnight is the no.of minutes since midnight is 9
+times
+the no.of minutes before noon?

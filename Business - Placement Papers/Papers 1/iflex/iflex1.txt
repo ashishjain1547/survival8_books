@@ -1,0 +1,213 @@
+
+QUESTIONS  FROM  I-FLEX 
+I-FLEX 2001(JADAVPUR UNIVERSITY)
+There were 3 sections
+aptitude(40 questions  30 mins)
+**********************************************************************
+*********************
+1.ABCDEF.....................XYZ.
+If the letters are written in the reverse order which will be the 5th
+letter to the right of the 11th letter from left.
+2.p+q:    p is sister of q
+p-q:    p is father of q
+p*q:    p is brother of q
+
+k is aunt of n
+(i)K+L-M*N    (ii)K-L+M*N    (iii)K*L-M+N    (iv)K-L*M+N
+
+3.In a certain code SINDHU is written as VIEOJT then what is SURESH?
+4.JAR----GET----EIV-----COX----___?
+6.If + indicate %
+     -  indicate X
+      X indicate -
+    % indicate+
+then (480+20X20)-16%12=?
+
+10.T's score (T) compute by multipling Z's scor(Z) by 10 & adding 50
+to the product.Z's score(Z) is obtained by subtracting mean score (S)
+& dividing the diff . by standard diviation(SD).Which of the
+following indicate T's scaore.
+(1) S @ M $ SD +10 & 50    (2)S @ M $10 $ &50
+(4)[SD @ M(45*10)]&50    (3)[(S @ M) $ SD]&10*50
+(5)none
+
+34.If the square root of the avg. of square of 3 consequtive  odd
+numbers begining with N as the 1st odd number can be written as  ?
+
+35. 20&5*(1$3)=?
+questions 36-40 were x-udd on the a flow chart given .i don't
+remmember the flow chart.
+
+27.B is the brother of B,How is A related to B?
+(I) Dis A' father
+(II) A is C's younger sister
+
+28.How many matiz cars are there in the dealers godown that has only
+T and H cars in addition to M(Matiz)
+(I)of the total 120 cars 50% are T+H,
+(II) no.of H cars is 1/3rd of the T cars are thrice as many as T cars
+which is 20
+
+29.In x=2, if x is a positive integer,
+(I) square of x is equal to x+2.
+(II) x-2=0
+
+30.Manoj is older than Vijay & Shaileshes is older than Vaishali,
+whoamong them is tha youngest
+(I)Manoj older than Vijay
+(II)Vaishali is younger than Shaileshes
+
+for 31-35
+------------
+A*B------------>A+B
+A@B----------->A-B
+A&B------------>AxB
+A$B------------->A/B
+SQ A-------------> A2
+SQRT A--------&#61664;&#61654;A             
+31. 5 dozen pens coat 360/- What will be the cost of 75 pens
+
+32. % of loss isn any transactions is computed byfinding out the sum
+of different cost price (CP)by the sale price(SP),dividing the
+difference by cost price and then multiplying the quotient by 100
+which of the following indicates the % loss
+(i)CP +SP&100 $ CP    (II)CP&100 @ SP $ CP
+(iii)SP &CP &CP &100    (iv)(CP @ SP)$ CP & 100
+(v) none.
+----------------------------------------------------------------------
+-------
+section 2:(Maths 30 questions  20 mins)
+
+1. &#61654;*/3= 243/*                 *=?
+
+2.25% profit  on the cost price after giving 20% discount on lable
+price.If the discount is off
+Find the % of profit.
+
+3.The length of the rectangle plot is double of its breadth.If the
+cost of fencing of the plot =3600/-  @ 60/- per metre what is the
+length.
+
+4.length of a train is 100m.It took 7.5 sec to cross a platform of
+lengths 75 m .How long will it take cross another train of 120 m
+length.coming from opposite direction.
+
+5.    nX23%=230,        nX4/23=?
+
+6.  p+p/3=60,     4p/5=?
+
+9.Telegram charges X for 1st 15 words and Y for each addition
+words.Cost of of Z telegram=?(z>15)
+
+10.  Find x ?
+
+                                          4x+36                    y
+
+
+
+   
+solve the series:
+
+11.        0  2  10  30  68  ?  12  96
+12.        11   13   17   23    31   ?   53
+13.         2    3    10    15    26    ?    50      63
+14.        1     8    27    64     125     ?    343
+15.     100     80    62    ?    32    20
+
+Study the followinfg table of Export of sugar by 5 factories and ans
+the questions.
+
+Sugar fact.                Export of sugar in lakh tones during the
+year
+
+                                  1995           
+1996                 1997             1998         1999
+
+Madhuram(M)            18.00            21.40               
+17.80         23.30           16.80
+Sweety(S)                 29.00                 32.60       32.40   
+32.80    33.60
+Low -cal(LC)    29.80    31.40    33.60    33.80    35.60
+Tasty(T)    15.20    16.80    14.80    15.80    17.20
+Sharkara(SR)    42.00.    45.20    46.20    44.40    47.80
+
+
+16. Which fact. Shows a continous growth in sugar export every year?
+i.)M         ii)S       iii)LC       iv)T        v)SR
+
+17. what is the avg. export of tasty sugar fact for the year period?
+
+18.What is the avg. of the exports of all the five fact in the year
+1998?
+
+19. Which fact shi\owed the highest increase in the 1998 over its own
+export in 1995?
+
+20.Which fact shows 10 percent increase in sugar export in 1997 over
+its own in 1995?
+
+21. The total annual sugar export by all the five fact was the
+highest during the year?
+
+22. Approx. what percent was the total annual sugar export in 1995
+less than in 1998?
+i)16    ii)11     iii)14    iv)20    v)8
+
+23.In how many years was the sugar export by the fact M less than its
+avg sugar export for the given 5 year period?
+i)nil    ii)2        iii)3       iv)4       v)none of these
+
+24. In how many years was the sugar export by the highest sugar
+exporting factory its avg export for the given 5 years period?
+i)nil           ii)1                 iii)2                 iv)
+3           v)none of these
+
+
+
+
+
+25.If the factory which has the least share in export during the
+given period shows 20%increase in the year 2000 over the export in
+1999 what will be its export in 2000
+i)3.64      ii)20.64          iii)19.24     iv)21.54       v)none of
+these
+
+
+26-30 were base on a graph.We couldn't provide u with the graph but r
+providing with the question that follow it
+
+26. What is the avg of enrolment for I>T packages for the period?
+i)50          ii)49     iii)43     iv)41(ans)      v)none of these
+
+27.In one of the courses whaere consistent increase in enrollment is
+seen, which year had 20%increase over its preceeding year?
+1)1996(ans)    2)1997    3)1`998    4)1999    5)2000
+
+29.By approx. what percent was the total enrolment for distinctive
+Sofware for the entire period more than that for the computer
+Hardware?
+1)18    2)14(ans)        3)11    4)8        5)6
+
+**********************************************************************
+********************************Sections 3(English 20 questions  15
+mins)
+Sentence corrections(Find the errors):
+1)My career would have been /completely ruined had you/not have come
+foreward/In time with a helping hand
+
+2)I took out the spare shirt/and was disappointed when I discovered
+that/that shirt was also torn.
+
+3) Before he let us go/he made us to promice not to tell any one at
+any cost/what we have seen.
+
+4)A new employ in the job/always mistakes/but he is to be pardoned/as
+some-times he profits by them.
+
+The rest of the questions were based on a paragraph followed by a set
+questions.
+SORRY I COULDN'T PROVIDE U WITH ALL THE QUESTIONS.BUT I TRIED TO
+PROVIDE U WITH THE MAX.OF QUESTIONS .SO BEST OF LUCK
+
+
+

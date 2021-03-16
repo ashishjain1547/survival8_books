@@ -1,0 +1,161 @@
+
+--
+
+ cognizent
+>> >
+>> >PAPER
+>> >
+>> >1. A says " the horse is not black".
+>> >   B says " the horse is either brown or grey."
+>> >   c says " the hoese is brown"
+>> >   At least one is telling truth and atleast one is lying. tell 
+>> the
+> 
+>> colour 
+>> >of horse.
+>> >
+>> >
+>> >Answer : grey
+>> >
+>> >
+>> >2. A son and father goes for boating in river upstream . After 
+>> rowing
+> 
+>> for 1 
+>> >mile son notices the hat of his fathe falling in the river. 
+>> After 5
+> 
+>> min. he 
+>> >tells his father that his hat has fallen. So they turn around 
+>> and are
+> 
+>> able 
+>> >to pick the hat at the point from where they began boating 
+>> after 5
+> 
+>> min.
+>> >Tell the speed of river.
+>> >
+>> >Ans...6 miles/hr
+>> >
+>> >
+>> >3  A+B+C+D=D+E+F+G=G+H+I=17  where each letter represent a 
+>> number from
+> 
+>> 1 to 
+>> >9. Find out what does letter D and G represent if letter A=4.   
+>>     
+> 
+>> (8 
+>> >marks)
+>> >
+>> >ans.   D=5
+>> >       G=1
+>> >
+>> >4. Argentina had football team of 22 player of which captain is 
+>> from 
+> 
+>> >Brazilian team and goalki from European team. For remainig 
+>> palayer
+> 
+>> they 
+>> >have picked 6 from argentinan and 14 from european. Now for a 
+>> team of
+> 
+>> 11 
+>> >they must have goalki and captain so out of 9 now they plan to 
+>> select
+> 
+>> 3 
+>> >from argentinian and 6 from European. Find out no. of methods 
+>> avilable
+> 
+>> for 
+>> >it (2 marks)
+>> >
+>> >Ans : 160600( check out for right no. 6C3 * 14C6)
+>> >
+>> >
+>> >5 Three thives were caught stealing sheep, mule and camel.
+>> >  A says " B had stolen sheep "
+>> >  C says " B had stolen mule"
+>> >  B says he had stolen nothing.
+>> >   the one who had stolen horse is speaking truth. the one who 
+>> had
+> 
+>> stolen 
+>> >camel is lying . Tell  who had stolen what? (5 marks)
+>> >
+>> >ans. A- camel
+>> >     B- mule
+>> >     C- horse
+>> >
+>> >6  a group of friends  goes for dinner and gets bill of Rs 2400 
+>> . Two
+> 
+>> of 
+>> >them says that they have forgotten their purse so remaining 
+>> make an
+> 
+>> extra 
+>> >contribution of Rs 100 to pay up the bill. Tell the no. of 
+>> person in
+> 
+>> that 
+>> >group. (3 marks)
+>> >
+>> >
+>> >Ans - 8 person
+>> >
+>> >
+>> >7. In acolony there are some families. Each of them have 
+>> children but 
+> 
+>> >different in numbers.Following are conditions
+>> >   a> no of adult>no of sons>no of daughters>no of families.
+>> >   b>each sister must have atleast one brother and should have 
+>> at the
+> 
+>> most 
+>> >1 sister.
+>> >   c> no of children in one family exceeds the sum of no of 
+>> children
+> 
+>> in the 
+>> >rest families.
+>> >
+>> >  Tell the no of families.(5 marks)
+>> >
+>> >
+>> >ans : 3 families
+>> >
+>> >8.There are 6 people W,H,M,C,G,F who are murderer , victim , 
+>> judge , 
+> 
+>> >police, witness, hangman. There was no eye witness only 
+>> circumtancial 
+> 
+>> >witness. The murderer was sentenced to death.
+>> >Read following statement and determine who is who.
+>> >
+>> >1. M knew both murderer and victim.
+>> >2. Judge asked C to discribe murder incident.
+>> >3. W was last to see F alive.
+>> >4. Police found G at the murder site.
+>> >5 H and W never met.
+>> >
+>> >( 8 marks)
+>> >
+>> >
+>> >
+>> >The above mentioned questions are of 37 marks rest I don't 
+>> remember
+> 
+>> >as they had no of condition. One which mentions about 
+>> hundustani music
+> 
+>> , 
+>> >Gazals ect. is tobe solved through venn diagram. Its of 8 
+>> marks. and 
+> 
+>> >another was grading 5 student which was of 5 marks.

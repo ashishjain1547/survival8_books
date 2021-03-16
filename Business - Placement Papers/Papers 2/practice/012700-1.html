@@ -1,0 +1,805 @@
+
+
+<HTML><HEAD><HTML><HEAD>
+
+
+
+  <TITLE>4GuysFromRolla.com - Microsoft Interview Questions &amp; Answers</TITLE>
+
+  <STYLE TYPE="text/css"><!-- A:link {text-decoration: none}A:visited{text-decoration:none}A:active{text-decoration:none}
+
+  a:hover{text-decoration:underline}--></STYLE>
+
+  <LINK REL="Bookmark Icon" HREF="../../../favicon.ico">  
+
+  <META NAME="title" CONTENT="4GuysFromRolla.com - Microsoft Interview Questions &amp; Answers">
+
+  <META NAME="date" CONTENT="2000-01-27">
+
+  <META NAME="description" CONTENT="These are the programming questions I was recently asked at a Microsoft interview (1/21/00). If you like interesting programming problems, read on!">
+
+  <META NAME="channel" CONTENT="Windows Internet Technology">
+
+  <META NAME="author" CONTENT="Scott Mitchell">
+
+  <META NAME="keywords" CONTENT="ASP Web technology Microsoft">
+
+  <META NAME="section" CONTENT="ASP Information">
+
+</HEAD>
+
+<BASEFONT face="arial, verdana" SIZE=2>
+
+<BODY bgcolor=white text=black link=008080 vlink=008080
+
+
+
+>
+<script language="JAVASCRIPT">
+<!--
+if (navigator.onLine){
+document.write("<!-- Spidersoft WebZIP Ad Banner Insert -->");
+document.write("<TABLE width=100% border=0 cellpadding=0 cellspacing=0>");
+document.write("<TR>");
+document.write("<TD>");
+document.write("<ILAYER id=ad1 visibility=hidden height=60></ILAYER>");
+document.write("<NOLAYER>");
+document.write("<IFRAME SRC='http://www.spidersoft.com/ads/bwz468_60.htm' width=100% height=60 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></IFRAME>");
+document.write("</NOLAYER>");
+document.write("</TD>");
+document.write("</TR>");
+document.write("</TABLE>");
+document.write("<!-- End of Spidersoft WebZIP Ad Banner Insert-->");
+}
+ //-->
+</script>
+
+<center>
+
+<table><TR><td>
+
+<a href="http://www.4guysfromrolla.com/"><img src="../../../images/newbanner.gif" border=0 alt="4GuysFromRolla.com - All this and it counts as work!" width=443 height=44></a>
+
+</td><td>
+
+<table cellpadding=0 cellspacing=0><tr><td>
+
+<a href="../../../webtech/index.html"><img src="../../../images/asp.gif" border=0 alt="ASP Articles" width=128 height=15></a>
+
+<a href="http://www.aspmessageboard.com"><img alt="Web Technology Message Board" src="../../../images/messageboard.gif" border=0 width=128 height=15></a>
+
+</td></tr><TR><td>
+
+<a href="../../../search/search.html"><img src="../../../images/search.gif" alt="Search 4Guys!" border=0 width=128 height=15></a>
+
+<a href="../../../webtech/webchat.html"><img src="../../../images/webchat.gif" border=0 alt="Web Chat" width=128 height=15></a>
+
+</td></tr><TR><td>
+
+<a href="http://www.aspfaqs.com/aspfaqs/"><img src="../../../images/aspfaqs.gif" alt="ASPFAQs.com" border=0 width=128 height=15></a>
+
+<a href="../../../feedback.html"><img src="../../../images/feedback.gif" border=0 alt="Feedback" width=128 height=15></a>
+
+</td></tr><TR><td>
+
+<img src="../../../images/allthis.gif" width=163 height=8>
+
+</td></tr></table>
+
+</td></tr></table>
+
+
+
+<BR>
+
+<TABLE width=98% bgcolor=black cellspacing=0><TR><TD>
+
+<center>
+
+<TABLE border=0 width=100% bgcolor=008080 cellpadding=10 cellspacing=0>
+
+<TR><TD width=100% colspan=2 ALIGN=center>
+
+<!-- AdSpace site=internetcom size=468x60 PagePos=10 channel=win content_site=www.4guysfromrolla.com feature=other --><a target="_blank" href="../../../event.ng/Type=click&ProfileID=2213&RunID=15051&AdID=9079&TagValues=194.222.313.604.962.1508&FamilyID=1294&GroupID=40&Redirect=http¦%2F%2Fwww.activepdf.com%2F"><img src="../../../../images.internet.com/ads/2001/03/activepdfbanner4.gif" border=0 height=60 width=468 alt=""></a>
+
+</TD></TR>
+
+<TR><TD width=20% VALIGN=TOP>
+
+
+
+   <TABLE cellspacing=0 frame=box rules=rows border=0 width=98% cellpadding=0>
+
+   <TR>
+
+   <TD ALIGN=LEFT VALIGN=TOP BGCOLOR=BLACK><IMG SRC="../../../images/lcorner.gif" width="4" height="4"></TD>
+
+   <TD bgcolor=black align=center><A HREF="../../../new/new.html"><Font color=white><B>Site Index</B></Font></A></TD>
+
+   <TD ALIGN=RIGHT VALIGN=TOP BGCOLOR=BLACK><IMG SRC="../../../images/rcorner.gif" width="4" height="4"></TD>
+
+   </TR>
+
+   <TR><TD bgcolor=white COLSPAN=3>
+
+	&nbsp;&nbsp;-<a HREF="../../../webtech/webtech.html"><font SIZE="2"><i>Recent Articles</i></font></a><br>
+
+&nbsp;&nbsp;-<a HREF="../../../webtech/index_asp.html"><font SIZE="2">All Articles</font></a> |
+
+<a HREF="../../../webtech/LearnMore/ASPPlus.html"><font SIZE="2">ASP.NET Articles</font></a><br>
+
+&nbsp;&nbsp;-<a HREF="../../../webtech/top10/top10.html"><font SIZE="2">ASP Coding Tips</font></a><br>
+
+&nbsp;&nbsp;-<a HREF="../../../webtech/faq/faqtoc.html"><font SIZE="2">ASP F.A.Q.</font></a>
+
+| <A HREF="http://www.aspfaqs.com/aspfaqs/"><font size="2">ASPFAQs.com</font></A><br>
+
+&nbsp;&nbsp;-<a HREF="http://4guysfromrolla.aspin.com"><font SIZE="2">ASP Resources</font></a> |
+
+<a HREF="http://4guysfromrolla.411asp.net"><font SIZE="2">ASP.NET Resources</font></a><br>
+
+&nbsp;&nbsp;-<a HREF="../../../webtech/LearnMore/LearnMore.html"><font SIZE="2">Related Web Technologies</font></a><br>
+
+&nbsp;&nbsp;-<a HREF="../../../search/search.html"><font SIZE="2">Search</font></a><br>
+
+&nbsp;&nbsp;-<a HREF="../../../webtech/tips/tips.html"><font SIZE="2">User Tips!</font></a><br>
+
+<br><p>
+
+<center><font size=2><u><b>Please Visit our Partners</b></u></font><br>
+
+
+
+<a href="http://63.236.73.180/misc/goto.asp?name=4nav_activepdf">
+
+  <!--ActivePDF-->
+
+  <img src="../../../images/banner/activepdfbutton1.gif" width="120" height="90" alt="Got PDF?" border=1 align="center">
+
+</a><br><hr noshade width="75%">
+
+<!--Software Artisans-->
+
+<IMG SRC="http://ads.softartisans.com/servead.asp?s=7&b=3" WIDTH=1 HEIGHT=1
+
+ALT="SoftArtisans Professional Server Controls" align="right">
+
+<table align=center border=0><tr><td><font face="Arial" size="1" color="Teal"><b>Where does it hurt?</b><br><a href="http://www.softartisans.com/saf.html"><font color="blue"><u>FileTransfers</u></font></a><br><a href="http://www.softartisans.com/excelwriter.html"><font color="blue"><u>Excel Reports & Charts</u></font></a><br><a href="http://www.softartisans.com/saf1.html"><font color="blue"><u>Transactional File Mgt.</u></font></a><br><a href="http://www.softartisans.com/saadmin.html"><font color="blue"><u>System Administration</u></font></a><br><a href="http://www.softartisans.com/saxsession.html"><font color="blue"><u>Scalability</u></font></a> or <a href="http://www.softartisans.com/aspstudiosuite.html"><font color="blue"><u>All Over</u></font></a><br>Check out SoftArtisans</font></td></tr></table>
+
+
+
+</center><br>
+
+	 
+
+  </TD></TR>
+
+   </TABLE>
+
+<BR>
+
+   <TABLE border=0 cellspacing=0 frame=box rules=rows width=98% cellpadding=0>
+
+   <TR>
+
+   <TD ALIGN=LEFT VALIGN=TOP BGCOLOR=BLACK><IMG SRC="../../../images/lcorner.gif" width="4" height="4"></TD>
+
+   <TD bgcolor=black align=center><A HREF="../../../search/search.html"><Font color=white><B>Search</B></Font></A></TD>
+
+   <TD ALIGN=RIGHT VALIGN=TOP BGCOLOR=BLACK><IMG SRC="../../../images/rcorner.gif" width="4" height="4"></TD>   
+
+   </TR>
+
+   <TR><TD bgcolor=white COLSPAN=3>
+
+<!-- SEARCH FORM -->
+
+  <FORM METHOD="POST" ACTION="http://search.internet.com/query">
+
+	<FONT SIZE=2><B><CENTER>Search the Site</CENTER></B></FONT>
+
+      <INPUT TYPE="HIDDEN" NAME="IC_Summary" VALUE="1">
+
+      <INPUT TYPE="HIDDEN" name="IC_StartNumber" value="0">
+
+      <INPUT TYPE="HIDDEN" name="IC_BatchSize" value="10">
+
+      <INPUT TYPE="HIDDEN" name="IC_RelevanceThreshold" value="50">
+
+      <INPUT TYPE="HIDDEN" NAME="IC_QueryDatabase"  VALUE="www.4guysfromrolla.com">
+
+      <INPUT TYPE="text"   NAME="IC_QueryText" VALUE="" SIZE="10">
+
+      <INPUT TYPE="SUBMIT" NAME="SUBMIT" VALUE="Search">
+
+  </FORM>
+
+<!-- END OF SEARCH FORM -->
+
+   </TD></TR>
+
+   </TABLE>
+
+<BR>
+
+   <table border="0" cellspacing="0" frame="box" rules="rows" width="98%" cellpadding=0>
+
+   <tr>
+
+   <TD ALIGN=LEFT VALIGN=TOP BGCOLOR=BLACK><IMG SRC="../../../images/lcorner.gif" width="4" height="4"></TD>
+
+   <td bgcolor="black" align="center">
+
+   <font color="white"><b>Resources</b></font>
+
+   </td>
+
+   <TD ALIGN=RIGHT VALIGN=TOP BGCOLOR=BLACK><IMG SRC="../../../images/rcorner.gif" width="4" height="4"></TD>   
+
+   </tr>
+
+   <tr><td bgcolor="white" COLSPAN=3>
+
+	<font SIZE="2">
+
+	<u><b><font SIZE="2">Sections:</font></b></u><br>
+
+&nbsp;&nbsp;-<a HREF="http://www.actionjackson.com/asp/books.asp"><font SIZE="2">Book Reviews</font></a>
+
+| <a HREF="../../../webtech/chapters/chapters.html"><font SIZE="2">Sample Chapters</font></a><br>
+
+&nbsp;&nbsp;-<a HREF="../../../webtech/amb/amb.html"><font SIZE="2">Commonly Asked MessageBoard Questions</font></a><br>	
+
+&nbsp;&nbsp;-<a href="../../../webtech/aspnews.html"><font SIZE="2">Headlines from ASPWire.com</font></a><br>
+
+&nbsp;&nbsp;-<a href="../../../webtech/111599-1.html"><font SIZE="2">JavaScript Tutorials</font></a><br>
+
+&nbsp;&nbsp;-<a HREF="../../../WebWeekly/WebWeekly.html"><font SIZE="2">Newsletter</font></a><br>	
+
+&nbsp;&nbsp;-<a HREF="../../../webtech/officialdocs.html"><font SIZE="2">Official Docs</font></a><br>
+
+&nbsp;&nbsp;-<a HREF="../../../webtech/LearnMore/Security.html"><font SIZE="2">Security</font></a><br>
+
+&nbsp;&nbsp;-<a HREF="../../../webtech/sqlguru/sqlguru.html"><font SIZE="2">Stump the SQL Guru!</font></a><br>
+
+&nbsp;&nbsp;-<a HREF="../../../webtech/hosts.html"><font SIZE="2">Web Hosts</font></a>
+
+| <a HREF="http://www.aspfaqs.com/aspfaqs/ShowFAQ.asp?FAQID=144"><font SIZE="2"><i>Free</i> Web Hosting</font></a><br>
+
+&nbsp;&nbsp;-<a HREF="http://www.aspmessageboard.com/"><font SIZE="2">Web Message Board</font></a><br>
+
+&nbsp;&nbsp;-<a HREF="../../../webtech/xml.html"><font SIZE="2">XML</font></a><br>
+
+<br>
+
+<u><b><font SIZE="2">Columnists:</font></b></u><br>
+
+&nbsp;&nbsp;-<a HREF="../../../webtech/bartsilverstein.html"><font SIZE="2">Bart Silverstein</font></a><br>
+
+&nbsp;&nbsp;-<a HREF="../../../webtech/chris.html"><font SIZE="2">Christopher Miller</font></a><br>
+
+&nbsp;&nbsp;-<a HREF="../../../webtech/ian.html"><font SIZE="2">Ian Stallings</font></a><br>
+
+&nbsp;&nbsp;-<a HREF="../../../webtech/julian.html"><font SIZE="2">Julian Sitkewich</font></a><br>
+
+&nbsp;&nbsp;-<a HREF="../../../webtech/shaffer.html"><font SIZE="2">Mike Shaffer</font></a><br>
+
+&nbsp;&nbsp;-<a HREF="../../../NannetteFromRolla/NannetteFromRolla.html"><font SIZE="2">Nannette Thacker</font></a><br>
+
+&nbsp;&nbsp;-<a HREF="../../../webtech/ryans.html"><font SIZE="2">Ryan S.</font></a><br>
+
+<br>
+
+<u><b><font SIZE="2">Information:</font></b></u><br>
+
+&nbsp;&nbsp;-<a HREF="../../../advertise.html"><font SIZE="2">Advertise</font></a><br>	
+
+&nbsp;&nbsp;-<a HREF="../../../feedback.html"><font SIZE="2">Feedback</font></a><br>
+
+&nbsp;&nbsp;-<a HREF="../../../authors.html"><font SIZE="2">Author an Article</font></a><br>
+
+<br>
+
+<a href="http://www.internet.com/partners/"><u><b><font SIZE="2" color="black">Be a Commerce Partner:</font></b></u></A><BR>
+
+&nbsp;&nbsp;-<!-- AdSpace site=internetcom size=text Position=_CA channel=CHANNEL content_site=CONTENT_SITE --><a href="../../../event.ng/Type=click&ProfileID=921&RunID=16536&AdID=7778&TagValues=199.209.222.778.981&FamilyID=1&GroupID=1&Redirect=http¦%2F%2Fwww.planetpayment.com%2Fjump_pages" target="_blank">Accept Credit Cards</a><br>
+
+&nbsp;&nbsp;-<!-- AdSpace site=internetcom size=text Position=_CB channel=CHANNEL content_site=CONTENT_SITE --><a href="../../../event.ng/Type=click&ProfileID=922&RunID=16438&AdID=8840&TagValues=199.209.222.778.982&FamilyID=1&GroupID=1&Redirect=http¦%2F%2Fwww.askit.com%2Fgo55" target="_blank">Automate your FAQs</a><br>
+
+&nbsp;&nbsp;-<!-- AdSpace site=internetcom size=text Position=_CC channel=CHANNEL content_site=CONTENT_SITE --><a href="../../../event.ng/Type=click&ProfileID=923&RunID=16517&AdID=9543&TagValues=199.209.222.778.983&FamilyID=1&GroupID=1&Redirect=http¦%2F%2Fwww.netflix.com%2Fdefault.html%3Fmqso%3D60136770" target="_blank">Rent DVDs Online</a><br>
+
+&nbsp;&nbsp;-<!-- AdSpace site=internetcom size=text Position=_CD channel=CHANNEL content_site=CONTENT_SITE --><a href="../../../event.ng/Type=click&ProfileID=924&RunID=16594&AdID=9763&TagValues=199.209.222.778.984&FamilyID=1&GroupID=1&Redirect=http¦%2F%2Fwww.mightywords.com%2Ficom_computing.jsp" target="_blank">Digital Content</a><br>
+
+&nbsp;&nbsp;-<!-- AdSpace site=internetcom size=text Position=_CE channel=CHANNEL content_site=CONTENT_SITE --><a href="../../../event.ng/Type=click&ProfileID=925&RunID=16493&AdID=3526&TagValues=199.209.222.778.985&FamilyID=1&GroupID=1&Redirect=http¦%2F%2Fwww.linuxcentral.com" target="_blank">Buy Linux Products</a><br>
+
+&nbsp;&nbsp;-<!-- AdSpace site=internetcom size=text Position=_CF channel=CHANNEL content_site=CONTENT_SITE --><a href="../../../event.ng/Type=click&ProfileID=926&RunID=16545&AdID=8370&TagValues=199.209.222.778.986&FamilyID=1&GroupID=1&Redirect=http¦%2F%2Fwww.allnettraining.com%2F" target="_blank">Training Solutions</a><br>
+
+&nbsp;&nbsp;-<!-- AdSpace site=internetcom size=text Position=_CG channel=CHANNEL content_site=CONTENT_SITE --><a href="../../../event.ng/Type=click&ProfileID=927&RunID=16473&AdID=9769&TagValues=199.209.222.778.987&FamilyID=1&GroupID=1&Redirect=http¦%2F%2Fwww.ejigsaw.com%2Fredir.jsp%253flf%3Dint%26pg%3Diai" target="_blank">FREE IT Consulting</a><br>
+
+
+
+	</font>
+
+   </td></tr>
+
+   </table>
+
+<br>
+
+   <TABLE border=0 cellspacing=0 frame=box rules=rows width=98% cellpadding=0>
+
+   <TR>
+
+   <TD ALIGN=LEFT VALIGN=TOP BGCOLOR=BLACK><IMG SRC="../../../images/lcorner.gif" width="4" height="4"></TD>
+
+   <TD bgcolor=black align=center>
+
+   <a href="../../../ASPScripts/Goto.html¿ID=23.html"><Font color=white><B>Windows Internet Technology</B></Font></a></TD>
+
+   <TD ALIGN=RIGHT VALIGN=TOP BGCOLOR=BLACK><IMG SRC="../../../images/rcorner.gif" width="4" height="4"></TD>   
+
+   </TR>
+
+   <TR><TD bgcolor=white COLSPAN=3>
+
+	<FONT SIZE=2>
+
+	Check out these Web sites for articles, tutorials, FAQs, and code on
+
+ASP and related technologies!<hr noshade width="75%">
+
+&nbsp;&nbsp;-<A HREF="../../../ASPScripts/Goto.html¿ID=26.html">15Seconds.com</A><BR>
+
+&nbsp;&nbsp;-<A HREF="../../../ASPScripts/Goto.html¿ID=24.html">ASP101.com</A><BR>
+
+&nbsp;&nbsp;-<A HREF="../../../ASPScripts/Goto.html¿ID=29.html">ASPFAQs.com</A><BR>
+
+&nbsp;&nbsp;-<A HREF="../../../ASPScripts/Goto.html¿ID=25.html">ASPMessageboard.com</A><BR>
+
+&nbsp;&nbsp;-<A HREF="../../../ASPScripts/Goto.html¿ID=28.html">ASPWatch.com</A><BR>
+
+&nbsp;&nbsp;-<A HREF="../../../ASPScripts/Goto.html¿ID=27.html">ASPWire.com</A><BR>
+
+&nbsp;&nbsp;-<A HREF="../../../ASPScripts/Goto.html¿ID=30.html">Swynk.com</A><BR>
+
+<hr noshade width="75%">
+
+<center>
+
+[<a href="../../../ASPScripts/Goto.html¿ID=23.html"><i>Complete List of Sites</i></a>]
+
+</center>
+
+	</FONT>
+
+   </TD></TR>
+
+   </TABLE>
+
+<BR>
+
+
+
+
+
+</TD><TD VALIGN=TOP>
+
+   <TABLE border=0 cellspacing=0 frame=box rules=rows width=98% CELLPADDING=3>
+
+   <TR><TD bgcolor=black>
+
+   <A HREF="../../../webtech/webtech.html"><Font color=white><B>Web Technology</B></Font></a></TD>
+
+   <td align=right bgcolor=black width=50%>
+
+     <a HREF="http://www.internet.com/"><img src="../../../images/icom.gif" alt="Internet.com - The Internet and IT Network" width="128" height="24" border="0"></a>
+
+   </TD></TR>
+
+   <TR><TD bgcolor=white colspan=2>
+
+<A HREF="../../../ASPscripts/ShareURL.html">
+
+	<IMG SRC="../../../images/email.gif" ALT="Share this Article with a Friend!" BORDER=1 ALIGN=LEFT width="32" height="32">
+
+</A>
+
+<A HREF="../../../ASPscripts/PrintPage.html¿REF=¡webtech¡012700-1.html.html">
+
+	<IMG ALIGN=RIGHT BORDER=1 SRC="../../../images/printer.gif" ALT="Print this Page!" width="34" height="34">
+
+</A>
+
+<!--content_start-->
+
+
+
+<CENTER><FONT SIZE=+2><B>
+
+Microsoft Interview Questions &amp; Answers
+
+</B></FONT></CENTER>
+
+<P><HR><P>
+
+I recently visited <A HREF="http://www.microsoft.com">Microsoft</A>'s Silicon Valley campus and interviewed 
+
+with the <A HREF="http://www.hotmail.com">Hotmail</A> group.  If you've never had a Microsoft interview,
+
+realize that they are very different than the standard interview.  You won't be asked any of those questions
+
+like, "What is your greatest weakness," or, "Where do you want to be in five years?"  Rather, a Microsoft
+
+interview typically contains a number of brain teasers and coding questions.  In fact, you can
+
+<A HREF="../../../misc/100798-1.html">read interview questions</A> from my internship interviews.
+
+<P>
+
+Here are the questions I was asked, accompanied with the answers <b>right below the question</b>!  So,
+
+once you reach the end of the question, don't read any further unless you want to immediately know the answer!
+
+Anyway, here goes:
+
+<P>
+
+<B>Question:</b> How could you determine if a linked list contains a cycle in it, and, at what node the
+
+cycle starts?
+
+<P>
+
+<B>Answer:</B> There are a number of approaches.  The approach I shared is in time N (where N is the number
+
+of nodes in your linked list).  Assume that the node definition contains a boolean flag, <CODE>bVisited</CODE>.
+
+<P>
+
+<TABLE WIDTH=95% BORDER=0>
+
+<TR><TD WIDTH=100% BGCOLOR=#CCCCCC>
+
+<CODE><PRE>
+
+struct Node
+
+{
+
+  ...
+
+  bool bVisited;
+
+};
+
+</PRE></CODE>
+
+</TD></TR>
+
+</TABLE>
+
+<P>
+
+Then, to determine whether a node has a loop, you could first set this flag to <CODE>false</CODE> for all of
+
+the nodes:
+
+<P>
+
+<TABLE WIDTH=95% BORDER=0>
+
+<TR><TD WIDTH=100% BGCOLOR=#CCCCCC>
+
+<CODE><PRE>
+
+// Detect cycle
+
+// Note: pHead points to the head of the list (assume already exists)
+
+Node *pCurrent = pHead;
+
+while (pCurrent)
+
+{
+
+  pCurrent->bVisited = false;
+
+  pCurrent = pCurrent->pNext;
+
+}
+
+</PRE></CODE>
+
+</TD></TR>
+
+</TABLE>
+
+<P>
+
+Then, to determine whether or not a cycle existed, loop through each node.  After visiting a node, set
+
+<CODE>bVisited</CODE> to <CODE>true</CODE>.  When you first visit a node, check to see if the node has already
+
+been visited (i.e., test <CODE>bVisited == true</CODE>).  If it has, you've hit the start of the cycle!
+
+<P>
+
+<TABLE WIDTH=95% BORDER=0>
+
+<TR><TD WIDTH=100% BGCOLOR=#CCCCCC>
+
+<CODE><PRE>
+
+bool bCycle = false;
+
+pCurrent = pHead;
+
+while (pCurrent && !pCycle)
+
+{
+
+  if (pCurrent->bVisited == true)
+
+    // cycle!
+
+    pCycle = true;
+
+  else
+
+  {
+
+    pCurrent->bVisited = true;
+
+    pCurrent = pCurrent->pNext;
+
+  }
+
+}  
+
+</PRE></CODE>
+
+</TD></TR>
+
+</TABLE>
+
+<P>
+
+A <I>much better</I> approach was submitted by 4Guys visitor George R., a Microsoft interviewer/employee.
+
+He recommended using the following technique, which is in time O(N) and space O(1).
+
+<P><BLOCKQUOTE>
+
+Use two pointers.
+
+<P>
+
+<TABLE WIDTH=95% BORDER=0>
+
+<TR><TD WIDTH=100% BGCOLOR=#CCCCCC>
+
+<CODE><PRE>
+
+// <B>error checking and checking for NULL at end of list omitted</B>
+
+p1 = p2 = head;
+
+
+
+do {
+
+	p1 = p1->next;
+
+	p2 = p2->next->next;
+
+} while (p1 != p2);
+
+</PRE></CODE>
+
+</TD></TR>
+
+</TABLE>
+
+<P>
+
+<CODE>p2</CODE> is moving through the list twice as fast as <CODE>p1</CODE>. If the list is circular,
+
+(i.e. a cycle exists) it will eventually get around to that sluggard, <CODE>p1</CODE>.
+
+</BLOCKQUOTE><p>Thanks George!
+
+<P>
+
+<HR><P>
+
+<B>Question:</B> How would you reverse a doubly-linked list?<P>
+
+<B>Answer:</B> This problem isn't too hard.  You just need to start at the head of the list, and iterate to the
+
+end.  At each node, swap the values of <CODE>pNext</CODE> and <CODE>pPrev</CODE>.  Finally, set
+
+<CODE>pHead</CODE> to the last node in the list.
+
+<P>
+
+<TABLE WIDTH=95% BORDER=0>
+
+<TR><TD WIDTH=100% BGCOLOR=#CCCCCC>
+
+<CODE><PRE>
+
+Node * pCurrent = pHead, *pTemp;
+
+while (pCurrent)
+
+{
+
+  pTemp = pCurrent->pNext;
+
+  pCurrent->pNext = pCurrent->pPrev;
+
+  pCurrent->pPrev = temp;
+
+  
+
+  pHead = pCurrent;
+
+
+
+  pCurrent = temp;
+
+}
+
+</PRE></CODE>
+
+</TD></TR>
+
+</TABLE>
+
+<P>
+
+<HR><P>
+
+<B>Question:</B> Assume you have an array that contains a number of strings (perhaps <CODE>char * a[100]</CODE>).
+
+Each string is a word from the dictionary.  Your task, described in high-level terms, is to devise a way to
+
+determine and display all of the anagrams within the array (two words are anagrams if they contain the same
+
+characters; for example, <CODE>tales</CODE> and <CODE>slate</CODE> are anagrams.)
+
+<P><B>Answer:</B>
+
+Begin by sorting each element in the array in alphabetical order.  So, if one element of your array was
+
+<CODE>slate</CODE>, it would be rearranged to form <CODE>aelst</CODE> (use some mechanism to know that the
+
+particular instance of <CODE>aelst</CODE> maps to <CODE>slate</CODE>).  At this point, you <CODE>slate</CODE>
+
+and <CODE>tales</CODE> would be identical: <CODE>aelst</CODE>.<P>Next, sort the entire array of
+
+these modified dictionary words.  Now, all of the anagrams are grouped together.  Finally, step through the
+
+array and display duplicate terms, mapping the sorted letters (<CODE>aelst</CODE>) back to the word
+
+(<CODE>slate</CODE> or <CODE>tales</CODE>).
+
+<P><HR><P>
+
+<B>Question:</B> Given the following prototype:
+
+<P>
+
+<TABLE WIDTH=95% BORDER=0>
+
+<TR><TD WIDTH=100% BGCOLOR=#CCCCCC>
+
+<CODE>int compact(int * p, int size);
+
+</CODE>
+
+</TD></TR>
+
+</TABLE>
+
+<P>
+
+write a function that will take a sorted array, possibly with duplicates, and compact the array, returning
+
+the new length of the array.  That is, if <CODE>p</CODE> points to an array containing: <CODE>1, 3, 7, 7, 8, 9, 9, 9, 10</CODE>,
+
+when the function returns, the contents of <CODE>p</CODE> should be:
+
+<CODE>1, 3, 7, 8, 9, 10</CODE>, with a length of 5 returned.
+
+<P><B>Answer:</B>
+
+A single loop will accomplish this.<P>
+
+<TABLE WIDTH=95% BORDER=0>
+
+<TR><TD WIDTH=100% BGCOLOR=#CCCCCC>
+
+<CODE><PRE>
+
+int compact(int * p, int size)
+
+{
+
+  int current, insert = 1;
+
+  for (current=1; current < size; current++)
+
+    if (p[current] != p[insert-1])
+
+    {
+
+      p[insert] = p[current];
+
+      current++;
+
+      insert++;
+
+    } else
+
+      current++;
+
+}
+
+</PRE></CODE>
+
+</TD></TR>
+
+</TABLE>
+
+<P>
+
+Happy Programming!
+
+<P><!--content_stop-->
+   </TD></TR>
+   </TABLE>
+</TD></TR>
+<TR><TD COLSPAN=2 WIDTH=100% ALIGN=CENTER>
+<!-- AdSpace site=internetcom size=468x60 PagePos=20 channel=win content_site=www.4guysfromrolla.com feature=other --><a target="_blank" href="../../../event.ng/Type=click&ProfileID=2213&RunID=15051&AdID=9078&TagValues=194.222.314.604.962.1508&FamilyID=1294&GroupID=40&Redirect=http¦%2F%2Fwww.activepdf.com%2F"><img src="../../../../images.internet.com/ads/2001/03/activepdfbanner2.gif" border=0 height=60 width=468 alt=""></a>
+</TD>
+</TR></TABLE>
+</TD></TR></TABLE>
+<BR><BR>
+
+<CENTER>
+<TABLE><TR><TD ALIGN=CENTER>
+<a href="http://63.236.73.180/misc/goto.asp?name=4guys_botxcache">
+<i>Powered by XCache</i>
+</a>
+<HR NOSHADE COLOR=BLACK><P>
+<FONT SIZE="2">
+<B>
+<A HREF="../../../ASPScripts/Goto.html¿ID=23.html">Windows Internet Technology</A> |
+<A HREF="../../../webtech/webtech.html">ASP Articles</A> |
+<A HREF="http://www.aspmessageboard.com/">ASPMessageboard.com</A> |
+<A HREF="http://www.aspfaqs.com/aspfaqs/">ASPFAQs.com</A> |
+<A HREF="../../../advertise.html">Advertise</A> |
+<A HREF="../../../feedback.html">Feedback</A> |
+<A HREF="../../../awards.html">Awards</A> |
+<a href="../../../authors.html">Author an Article</a>
+</B>
+<p><HR NOSHADE COLOR=BLACK><P>
+
+Copyright 2001 internet.com Corp. All Rights Reserved.<BR>
+
+<A HREF="http://www.internet.com/corporate/legal.html" CLASS="nav">Legal Notices</A>, &nbsp;<A HREF="http://www.internet.com/corporate/reprints.html#Licensing" CLASS="nav">Licensing</A>, <A HREF="http://www.internet.com/corporate/reprints.html#Reprints" CLASS="nav">Reprints</A>, &amp; <A HREF="http://www.internet.com/corporate/reprints.html#Permissions" CLASS="nav">Permissions</A>, &nbsp;<A HREF="http://www.internet.com/corporate/privacy/privacypolicy.html" CLASS="nav">Privacy Policy</A>.
+
+<BR>
+
+<A HREF="http://www.internet.com"><IMG SRC="../../../images/INTMURL.gif" ALT="http://www.internet.com/" WIDTH="161" HEIGHT="18" BORDER="0"></A>
+
+</FONT>
+
+</TD></TR></TABLE>
+
+</TD></TR></TABLE>
+</CENTER>
+
+
+</BODY></HTML>

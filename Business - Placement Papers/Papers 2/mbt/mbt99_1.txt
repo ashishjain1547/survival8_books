@@ -1,0 +1,141 @@
+Tulasi Iam Sending MBT Paper.
+Bye.
+Phani.
+>                      MBT-1999-iit-delhi
+>                        ARTHAMATIC SECTION
+>(1) if a boat is moving in upstream with v1 km/hr and in the down 
+stream
+> it is moving with v2 km/hr then what is the speed of the stream.
+> ans:  13 check the values of v1 and v2 are given
+> to find ans (v+s = v1, v-s = v2 find the boat velocity)
+> (2)     0.75 * 0.75 * 0.75 - 0.001
+>       --------------------------------
+>         0.75*0.75-0.075+0.01
+>  (3)   A can work done   in 8 days 
+>        B can work three timesfaster than the A;
+>	C can work five times faster asthe A;
+>	ans : 8/9 it is correct place blindly.
+> (4)    one answer is 200/3 % it is perfectly correct wecannot recollec
+>  the prob. so place it blindly.
+>  (5)  A car is journied a certain distance in 7 hrs in forward journey
+>  in the return journey increased speed 12km/hr takes the times 5 hrs.
+>  what is the distance        ans:210 it is perfect place blindly.
+>  (6) instead of multiplying  by 7 to a number dividing by 7 what is 
+>  the percentage of error 
+>  ans we dont know but he has gived 14 18 25 andsome answers less than
+>(7) x + 4 y 
+>  ----------    relation between x and y is x/2y = 3/2 ie x = 3y find 
+the 
+>    x -  2y     ratio ans: 7 place it blindly.
+>(8) a man buy a liquid  by 12 lts  and the mixture is of 20% liquid in 
+water 
+>then he makes it in 30% mixture  then what is the %  of liquid with 
+water.
+>(9) if a man byes 1lt of milk for 12rs and mixes with 20% of water and 
+>sels it for rs15 thgen what is percentage of gain  
+>(10) A pipe can fill a tank in 30 min B can fill in 28 min then if 3/4 
+th 
+>of tank can be filled by B pipe and after wards both are opened then 
+>how much time is required by both the pipes to fill the tank 
+completely.
+>note: the values of A and B may slitely vary be ware.
+>(11) on an item a company gave 25% discount then they get 25% profit 
+>if it gives 10% discount then what is the profit.
+>ans: 30% it is correct place blindly.
+>(12) 
+>i will send the remaining problems if i get remembered o.k this section 
+>contain 29 questions.
+>in fourth section.
+>1. All chairs laugh.
+> some birds laugh.
+>2. some green are blue 
+>no blue is white.
+>3 all scientists are fools.
+>all fools are literates.
+>only these questions see rs agarwal reasoning verbal and nonverbal book
+>new edition asthe pagenumbers i already sended to you.
+>ansers he changed slitely see.
+>From two fig 6 questions regarding the 
+swimmers,girls,tennisplayers,tall and
+>second one on politicians,graduates,parliament members, both questions
+>are same given so mugup and go to exam and place blindly i already
+>sended the page numbers in previous mail.
+>series:(1) R,M,(..),F,D,(..)
+>  ans: I,C
+>(2) (...),ayw,gec,mki,sqo   ans: usq.
+>(3)  1,3,4,8,15,27,   ans:  50
+>(4)  0,2,3,5,8,10,15,17,24,26,..     ans: 35
+>(5)   2,5,9,19,37,..      ans:75
+>these are the correct ansers place it blindly.
+>the figure series which i had already send in the earlier paper is
+>same and one extra qestion is their it is this type
+>    box type in side the box line and dot. 
+>         this type  see in the new edition rs agerwal a box is their 
+>in the answer so try for question in rs agerwal 
+> see rs agerwal for statements and assemptions questions.
+>cut off will be around 30 out of 105 Bso place only the known problems 
+so 
+>place only correct problems.
+>the above 35 questions aare enough to qualify.
+>remaining questions if know exact answers then place .
+>otherwise simply leave it.
+
+5 mtechs got selected for int.& only one from chem. got the 
+job.Interview is personal.small software technical ques.about language.
+(This is from IITM)
+MBT:
+one to one negative marking is there.it is tough to qualify unless u 
+know the paper.totally there are 105 questions. 70 min.
+three flow sheets------ 10 min.
+sections are quantitative(23),analytical(about 20)  ,series&venn 
+diagrams,logical(20) questions from a passage (about 10). time span for 
+each section is different.sit at the back so that u can turn pages if u 
+want.different colored papers are used.
+for flow sheets
+first one is relatively easy
+ 1.u  will be given conditions like
+   if a wins he gets 100 pts,if b wins he gets 50 pts etc
+ 2.there is flow sheet& there are empty cells(4) at "yes' or 'no" 
+decision points.
+ 3.for each cell 4 choices will be given which should be chosen by 
+following through initial conditions &flow sheet logic.
+4.rem. -ve marking is there. no verbal questions.
+rs aggarwals verbal& nonverbal book
+verbal---
+pg. 254   pr. 53 to56(almost same)
+246       eg.2
+pg 104 exer.3a about 5to 6 series qu.are there.so do well
+ pg.354-355       8,13,
+                   6th doubt
+4 conclusions r there in all ques.
+pg.115----qu.36
+nonverbal----pg.5
+41,54,108,145,158
+241 is doubtful
+---------------
+ans. to one quant. is 200/3 %
+ anals.....
+ 1.six persons will be there.
+ killer,victim,hangman,judge,police,vitness
+  a,b, c,d,e,f 
+u have to match
+conditions like,a is the last person to the victim alive,will be given 
+as
+clues.so we can conclude that a is the killer.
+this is an easy one .paragraph will be very big .don' worry
+5 to 6 ques.
+2.
+5 persons will be there.
+cashier, clerk,buyer,manager,floorwalker(check in info. paper for exact
+ques.)
+a,b,c,d,e will be their names.
+conditions will be given&we have to match who is who
+3 r women&2 r men in this
+sample condition,
+cashier&clerk if get married, b will be wise man
+mrs.c husband has some business prob with manager
+manager&cashier(or clerk) r classmates
+etc. will be given
+do quantitative qu. from back.....
+data graphs on turnover,gross profit &net profit will be given&
+u have to extract data from that &find out few ratios.(easy one)

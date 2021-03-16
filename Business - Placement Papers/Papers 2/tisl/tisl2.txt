@@ -1,0 +1,24 @@
+TATA_IBM few questions extra.
+1)int i=10;
+printf("%d%d%d",i,i++,++i);
+ans: compiler dependent
+2)printf("Enter two values a and b:"):
+scanf("%d%d",a,b);
+printf("%d+%d=%d",a,b,a+b);
+ans:core dumped
+3)Question on WM_SIZE
+ans:WM_SIZE
+4)when destroy window what message would disply
+ans:WM_DESTROY
+5)MS Windows 3.1 about multitasking 
+ans:nonpreemptive
+6)windows 3.1 is
+ans:application
+7) about switch switch statement
+ans:16,21
+8)question paper the first question ans is
+ans:can't be compiled
+9)about send messages and post messages
+ans: c
+10)what is the command to intiate the windows
+ans:WinMain

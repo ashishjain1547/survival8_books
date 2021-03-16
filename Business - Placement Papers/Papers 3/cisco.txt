@@ -1,0 +1,39 @@
+From sachinrai@mailcity.comSun Aug 15 02:18:25 1999
+Date: Fri, 13 Aug 200023:33:31 -0700
+From: sachin rai <sachinrai@mailcity.com>
+To: trivedi@jaiwanti.ee.iitb.ernet.in
+Subject: paper
+
+dear gaurav,
+sorry for being late.
+here are some questions from cisco(m.tech.)
+ tech.--24, apti.--20
+1.on cmos power( formula- P=CV*Vf
+2. lowest noise margin in which logic family--
+  a)TTL b)CMOS c)biCMOS d)all have same
+3.if CMOS has tr(rise time)=tf.find Wp/Wn.
+  given beta(n)=2*beta(p)
+4.gm of a transistor is proportional to 
+  a)Ic b)Vt c)1/Vt d)none
+5. if A and B are given in 2's complement find A-B
+  in decimal.
+6. set up time,hold time ,clock to Q delay time (very important)
+7.3 questions on opamp (transfer function)(2 marks each)
+8.2 questions on sequence detector (2 marks each)
+9.logic function boolean expressions(true/false)
+  (3 question-1 mark each)probabily all false
+10.in I/O mapped how do you represent memory(1 mark)
+11.the design of FSM(finite state machine) will--
+   a)increase time of design
+   b)increase delay
+   c)increase power
+   d)all of the above
+12. K-map minimization
+13.phase locked loop(PLL) 1 question
+--sachin
+
+
+
+
+Get your FREE Email at http://mailcity.lycos.com
+Get your PERSONALIZED START PAGE at http://my.lycos.com

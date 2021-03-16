@@ -1,0 +1,401 @@
+motorla--bit mesra(DSP Pasper)
+--------------------
+There was a separate test for those who opted for DSp.
+i m sending u that paper also:
+
+> Digital Signal Processing:
+
+   Correlation types , Spectral density.
+
+> Fourier Transforms, Z transforms, signal
+classification, Fourier
+> analysis, Power Spectrum analysis, Sampling up and
+down. sampling
+> bandpass signals, hilbert transform,
+
+   Design of FIR and IIR filters and their
+comparison. Interpolation and
+Decimation.
+Digital Signal Processor:
+
+> Basic implementation of FIR, IIR filters in TMS
+processor.
+> Architecture of TMS processor.
+> mini project (if any)
+>
+> Speech Processing (if this as an elective):
+>
+> Speech components and its model, CELP standard. 
+comparison of various
+> std ( compression ratio, quality and tradeoff). 
+speech coding -linear
+> prediction LSF etc.,
+>
+> Advanced DSP:
+>
+> Noise Cancellation algorithms , Echo cancellation 
+Angle of arrival (DOA)
+> estimation
+> techniques, I found that DOA is used in many
+cellular application.
+>
+> Cellular Communication:
+> Knowledge of Cellular concepts and standards, CDMA
+technology,
+> comparision AMPS,TACS ,GSM.  IS 95 std.comparison
+between TDMA,CDMA and
+> FDMA. Handoff,  Sectoring.  Paging
+>
+> Switching -
+> Digital switching,
+> ISDN - basic principles and typical application.  SS
+NO:7 protocol. X.25
+> protocol.
+
+Data Communication:Synch Vs.Asynch communication. 
+SDLC, HDLC formats. RS
+232, IEEE 488. Knolwedge of LAN and Network
+architecture. Token ring
+etc.,MODEM - basic principles and any one MODEM
+with any specific modem like V.32.
+
+> ATM - basic principle and application.
+
+> Communication:
+>
+> AM,FM,PCM all Digitial modulation  FSK,QPSK,MSK . 
+Comparison of all
+> digital modulation schemes.
+
+  Shannon's theorem. Channel Coding  , Source coding
+Error Correcting Codes.
+
+ Viterbi coding.
+
+   Various frequency ranges and ITU frequency
+standards (VHF,UHF) .
+Atmosphere layer structure (D layer K layer etc.)  
+Knowledge about Global
+Positioning system.
+
+------------------------------------------------------
+motorola -- bit mesra (non-DSp paper)
+-----------------
+The paper consisted of 20 qs on C,C++,and Data
+structures. One qs on JAVA.
+1. ((A*B)+C)*((D*E)+F) - convert this infix to postfix
+expression.
+2. struct s{
+  char a;
+  int t;
+ }
+ /* comment */
+ main()
+ {int x=3;
+  return;}
+ what's wrong with the program ?
+3.Elements 0,1,2,...(M-1) are stored in positions
+0,1,...(M-1) of the
+array A. Then A[A[i]] = ?
+4.M elements are stored in positions 1 to M of the
+array A. How will
+you
+access the elements of the array in reverse order ?
+5.Which operator cannot be overloaded in C++ ?
+6.What is the output ?
+main()
+{
+ int x,y;
+ x=0;
+ y=(x)?-1:1;
+ printf("%d",y);
+}
+7.What is quick sort's best case and worst case ?
+8.unsigned long fact(unsigned long number)
+{
+ if c_____==0
+   return _____;
+ else return _____*fact( );
+}
+Fill the blank spaces in the above program to
+calculate the
+factorial.
+9.How can the unary operator ++ be overloaded in C++
+for postfix
+operation ?
+10.A program MAX takes integers as inline arguements
+and gives the
+greatest
+ integer as output. What will be the value of argc if
+the program
+is
+ invoked as MAX 12 51 17 15 ?
+11.For a program of the order O(f(n))=2^n, what will
+be the order if
+we double
+ the number of elements to be sorted ?
+12.What is the worse case and best case behaviour of
+the sequential
+search ?
+13.Which is the false statement about publically
+derived class in C++
+?
+ (Four options were there which I don't remember)
+14.fact(int x)
+ {
+  int n;
+  n=x;
+  return fact(x-1);
+ }
+ What is the size of the stack ?
+ i) infinity ii) n iii) n*(n-1) iv) depends on
+compiler and
+processor used.
+15.How are lock and interlock operations performed
+inside Java ?
+16 - 17 Questions on Java.  What is the use of API ?
+18.What is the size of structure : struct s{
+                                 int abc; float e;
+char f;}
+ Ans : Machine dependent.
+19.struct s{int i; struct s * next;}
+ struct s* funct(struct s* h) {return
+h==0?0:(h->next==0?h:funct(h-
+>next))}
+ This is a program for singly linked list. What is
+this program
+doing ?
+
+#JavaBeans-- which of the following statement is
+wrong?
+a)JavaBeans is an applet ....
+b)JavaBeans is used to create buttons,text box ,
+etc.....
+c)JavaBeans is named after a famous comedy serial on
+Mr. Bean 
+
+# the 2 programs to be written in C were:
+1)traverse to the last node of a given singly linked
+list without using the conventional methods involving
+loops
+(Hint: Use recursion)
+2)Inorder traversal of a given Binary tree and process
+each node using a pointer to a processing function
+that is defined somewhere else.
+# Fill in the blanks questions:
+*Insertion sort , its order and no. of comaprisons
+*there was a program --an easy one-- with some blanks
+to be filled
+#f(n)=O(g(n)) means:
+ans:if there exist positive constants c and n0 such
+that f(n) <= c*g(n)  for n,n>=n0.
+#in sequencial search no.of comparision reuired for n
+numbers for successful search is A(worst case) and
+that for unsuccessful search is B.then a=? b=? 
+--------------------------------------------------------iflex
+2001
+
+
+Subject I-FLEX PAPER 
+  
+
+ 
+qn will be in three parts
+1st part- 40 qns    
+2nd part- 30 qns
+3rd part - 20 qns
+there are 5 choices in each qn- 1 2 3 4 5  
+
+here is the qn of arithmetic which are not in order.
+
+1. square root(x)/3 = 243/x        value of x ????  
+ans. 81
+
+2. qn from loss and gain  what is the net profit
+?????   ans. 25 
+percent
+
+3.if + sign is represented as /, - as *(into,not
+power do not 
+confuse) , 
+   * as - and / as + then what will be the value of
+(480+20*20)-16 
+/12 ???
+    ans. 76
+
+4. which of the following will come next in the
+series
+       IAR, GET , EIV , COX                  ans. AUZ
+
+5. B is in DOUBT in the same way H is in
+    choices.... HOPE , HOUSE , HONEST , INHIBIT   
+ans:HONEST
+    (confirm it i am not sure)
+
+6. if P+Q represents P is the sister of Q, P-Q
+represents P is the 
+father of Q and P*Q represents P is the brother 
+    of Q then which will represent K is the aunt of N
+
+        ans.  K+Q-M*N
+
+7.In a class puspa ranks 8th from top and 28th from
+bottom.
+how many students are there in the class?????
+      ans.    35
+
+8. 23 percent of a no is 230, 4/23rd of the number is
+?????? 
+ans.none of these
+
+9. sum of a number and its one third = 60, 4/5th of
+the number is 
+????? 
+ans. 36
+
+10.if A to Z is written in the reverse order which is
+the 5th letter  
+to the right of the 11th letter from the left????
+     ans . K
+
+11.In a rectangle length = twice that of breadth ,
+cost of grounding 
+is 60 rupees per meter,total cost is 3600/-  what is
+the length in 
+meter????????  ans. 20
+
+12.qn on sequences
+
+     which will come next??
+
+        11  13   17  23  31  ?  53  67         ans.
+41
+13.       8  27  64    125   ?   343    512      
+ans. 216
+14.        2   3  10   15  26 ?  50  63    ans.please
+find out
+15.        0    2 10  30  68   ?   -     -   (cannot
+recall)  
+please find out
+
+16.if simon is taller than A, A is shorter then
+gayatri, sharat is 
+taller then............     ans. gayatri
+
+17. If a 100m train crosses a platform of 75m in 7.5
+secs,
+another train of 120m coming opposite,
+     how much time it takes the first train to cross
+the second one  
+..   
+     ans. none of these
+
+18. Telegram system, 1st 15 words in x rupees,next
+per letter in y 
+rupees, 
+if z > 15 what
+      is the total cost of c???????     ans. 
+x+(z-15)*y
+
+ 19. 
+       --------------------------------
+     another st line cuts this in two angles, one is
+4x+36 degs and 
+     another is y degs , what is the value of x?????
+     ans. (144-y)/4
+
+ 20. If 6 is preceded by 8 but not followed by 9
+immediately,
+ how many.....................     ans. 2
+
+ 21.in the letter  PREDILECTION ,1st and 3rd is
+swapped,so is 2nd 
+and 
+ 4th,5th and 7th,6th and 8th what 
+   will be 8th letter from left???????     ans. L
+
+ 22.If rup ho la represents  anand is fat
+     cup wir ho represents mina is tall
+     la dup mil represents boys are fat
+      and wir lar nap represents tall and fat
+
+      what reprens mina     ??????         ans. cup
+
+23.If SINDHU is written as VIEOJT,SURESH is written
+as??????      
+ans.none of these
+
+24.if hit-----> one rupee gain and miss--------> one
+rupee loss,one 
+can 
+try 100 times,he got total 30/-,
+    how many hit??????????        ans. 65
+
+25.In a circle,   G is to the left of M , V is to the
+right of M,
+R is to the right of V ,A is to the right of R ,G is
+to the 
+      right of A and M is to the right of G, swap the
+position of G 
+and R,
+      V and A then who will be to the left of M
+
+      ans. R       
+
+26.there was a histogram qn. given the capitals of
+5companies for the 
+academic year 1995-2000,find out
+      a> which company will increase its capital
+consistently???
+      b> Average capital in the yr 1998?????
+      c> average of company 2nd?????  
+      d> which company increases its capital by 10%
+at 1998 from 
+that of 
+      1995  
+          data were 42.0 in 1995 and 46.20 in 1998
+this company is 
+the correct 
+          answer.....
+      e> what is the max. o/p in a yr,ans.. try to
+sum all the cols 
+and find the max.  
+ this were easy,i can not remeber u have to do it
+fast.
+
+27. there was a qn on flowchart,which was easy, i can
+not recall 
+exactly.
+
+28. in english u have to find out errors in 5
+fragments of a 
+sentence 
+( GRE pattrn) which were easy,
+4 qns , and fill in the blanks which were extremely
+difficult(4 qns) 
+read Barron's guide
+
+also there was a long passage which attempt at
+last,this was in qn 
+no from 16-20,if 
+it is answer of 18 is choice 2,
+    19 is 2 and that of 20 is 3
+
+********  i am sending the answer of some of the
+qns,the qn will be 
+in 
+order,do not fear
+test- 1
+    1- 5, 2- 1, 3-5, 4- 4 ,  5 - 3 , 6 - 1 , 8 - 5 ,
+9 - 5 , 10 - 4 
+, 
+    11 - 2 , 12 - 1 , 15 - 5 , 16 - 1 , 18 - 3 , 19 -
+3 , 20 - 5 
+   26- 1 , 17 - 4 , 28 - 5 , 29 - 3 , 30 - 3  ( qn no
+- choice)
+
+test -3
+   1 - 3 , 2  - 4 , 3 - 2 , 4 - 2 , 5 -  2 , 6 - 1 ,
+7 - 2 , 8 -1 , 
+   18 - 2 , 19 - 2 , 20 - 3
+

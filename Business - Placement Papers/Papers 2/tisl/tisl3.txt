@@ -1,0 +1,31 @@
+1.const char * 
+char * const
+What is the differnce between the above tow?.
+2.In Unix inter process communication take place using?.
+3.What are the files in /etc directory?.
+4.About i-node numbers
+5.Max relaxable permisssion value with out giving write permission
+to others?.
+6.About ln(linking) 
+7. A  question on until
+ until (who |grep mary)
+ do
+ sleep(60)
+ done
+
+8.Linking across directories?.
+9.process id for kernell process
+10.very first process created by kernell
+11.function to repaint a window immediately?.
+12.Function entry for DLL in win3.1
+13.win 3.1 is a 
+14.win 3.1 supports which type of multi tasking?.
+15.Message displayed when a window is destroyed
+6.About fork()?
+17.About send message and post message
+18.Message to limit the size of window
+9.System call executable binary file intoa process
+20.About GDI object?.
+21.API used to hide window
+  22.Initialize contents  of a dialog?.
+

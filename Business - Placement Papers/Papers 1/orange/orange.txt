@@ -1,0 +1,220 @@
+> I'msending u sometipsregarding ORANGE:---
+> 
+> 1- Written test. Very easy if u have studied
+> Communication and analog electronics papers.
+> 
+> 2- written test contains only tech.qs., all
+> objective.
+> 50 qs,30 minute. so notime prob.
+> 3-Dont do quanti or other papers 4 written. study
+> only
+> Communication and Analog papers( included in th
+> esyll.of Electronics branch).
+> 
+> 4- They perhaps prefer Electronics.
+> 5- tech.interview mainly. but prepare 4 personal
+> also.
+> 
+> 
+1.Range of TIL logic supply or digital supply 
+
+a.0-5 V b.-12-+12 V c.2-8 V 
+
+
+
+2.power diodes are basically
+
+a.silicon b.Ge c.none d.all above 
+
+
+
+3.LED emits light when
+
+a.forward bias
+
+b.reverse 
+
+
+
+4.Solar cells are
+
+a.photconductive b.voltaic cell  
+
+
+
+5.Which trasmission is analog
+
+a.PCM b.PAM c.FM  
+
+
+
+6.Which language generates bytecodes
+
+a.C++ b.JAVA c.VB d.None 
+
+
+
+7.Antenna is
+
+a.transformer b.refelector c.Ampifier  
+
+
+
+8.Conductivity in photpdiodes due to
+
+a.GaAs b.PbS c.CdS  
+
+
+
+9.Which oscilator produces 1MHz frequency
+
+a.collpits b.Rcphaseshift cWeinbridge d.None  
+
+
+
+10.Microwave consists of which band
+
+a.UHF and SHF b.VHF c.UHF,SHF & EHF d.VLF,LF,HF 
+
+
+
+11.Which is fastest switching device
+
+a.FET b.MOSFET c.BJT 
+
+
+
+12.Which kinds of devices are BJT &JFET
+
+a.JFET is unipolar and BJT uniploar
+
+a.JFET is bipolar and BJT uniploar
+
+a.JFET is unipolar and BJT biploar
+
+a.JFET is bipolar and BJT biploar 
+
+
+
+13.Lograithmic amplifiers are used in
+
+a.ADDer b.divider c,.Multiplier d.all 
+
+
+
+14.In which stage modulation is done in high power AM transmission
+
+a.Ifstage b.Buffer c.Oscilator d.RF power stage 
+
+
+
+15.FM disccrimintor converts modulated signakl to
+
+a.PM b.AM c.PCM Ans-b 
+
+
+
+16.DPCM is used to
+
+a,reduce bandwidth b.reduce thermal noise  
+
+
+
+17.I*F P is the power of carrier maxm power transmitted in am modulated wave
+
+a.P b.2P c.1.5P  
+
+
+
+18.FM bandwidth is described by
+
+a.Shennon,s eqn b.Bessel,s eqn c.Hartleiz eqn. ANS-b 
+
+
+
+19.Front to back ratio of antenna can be imoproved by
+
+a.Sacrifuying gain b.Increasing area c.Narow abndwidth 
+
+
+
+20.Quantization error can be reduced by
+
+a.Sampling rate b.Level s of sampling 
+
+
+
+21.Quantizaton eerrror occurs in
+
+a.PCM ,b.PPM c.PWM 
+
+
+
+22.FM is useed for 
+
+a.LF b.HF c.VHF d.UHF 
+
+
+
+23.In demodulaiton of PCM it is first converted to
+
+a.PPM b.PWM c.PAM .Nione 
+
+
+
+24.If the IF mixer tuned to a frequency of 1200 KHz and if IF frequency is 450 Hz.then image frequency is
+
+a.750 b.1659  
+
+
+
+25.Which of the following refers to FET
+
+a.hfe &hie
+
+b.gm &rp
+
+c.none 
+
+
+
+26.If the cross section of target is chanmging RADAR then scnas through?
+
+27.Low freq. Respnse of RC coupled amplifie r can be
+
+improved by
+
+a.lowering coupling capapcitor
+
+b.grate r biasing
+
+c.reducing load
+
+d.none 
+
+
+
+28.A dc supply voltage increases with 
+
+a.increase in load & decrese in capapcitance 
+
+
+
+29.If shift resisitor is of 4 bit how many stages
+
+a.16 b.8 c.7 d.4 
+
+
+
+30.Tracking of RADAR is done by
+
+a.duplex scanning b.duplex switching  
+
+
+
+31.Quantization is(S2/12 formul;a is)
+
+aNS-directly proportional to square of level 
+
+
+

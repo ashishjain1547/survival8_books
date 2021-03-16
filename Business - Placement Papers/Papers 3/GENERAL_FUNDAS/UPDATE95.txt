@@ -1,0 +1,432 @@
+1.
+
+Name of the company: TCS
+Date of test/interview: 4,5,6 Sept
+people attended from M.Tech.,(CS): 
+       CH.RAVIKUMAR,A.RAJAMOHAN,J.JAYAKUMAR
+About the company: Junta company 
+		   3 year bond
+		   largest S/W firm in india
+		   revenue of 560 Crores
+		   They claim to work in all fields.
+		   They are emphasising that they are not just COBOL 
+		   company they do other good things also.
+		   Place of posting can be any where.
+		   three to four months training .The training
+		   is in one of the following places .
+		   Delhi,Madras,Bombay.
+		   Pay is BAsic:6500
+			  HRA:30% of the basic
+			  Medical :31000Rs
+			  PF:10%
+			  etc.
+people screened for interview: Ch.Ravi kumar,J.Jaya kumar,A.Raja mohan
+people selected from M.Tech., (CS): 
+	 J.JAYAKUMAR
+2.
+
+Name of the company: Infosys Technologies Ltd. Bangalore
+Date of test/interview: 10,11 Sept
+people attended from M.Tech.,(CS): 9
+	 CH.RAVIKUMAR,A.RAJAMOHAN,M.RAVEENDRA BABU,M.KEDAR PRABHAKAR,
+	 SANDEEP SINGH,NAVEEN K. THYAGI,N.D.P.RAO,ARVIND KUMAR,
+	 M.RAVI KUMAR.
+About the company: Turnover 900+ million rupees
+		   1165 personnel
+		   main office in kreonics city, Ba.
+		   They work in
+		    Distribution
+		    Banking & Finance
+		    Manufacture
+		    Communications
+		    Insurance
+            85% of their turnover is in S/W exports.Apart from that
+	    they have some packages like BANCS2000
+	    They market some products also.
+	    They have ISO9000 certification
+	    They have excellent facilities in their bangalore office.
+	    They are planning to expand .
+	    avg. age is 24 yrs in the company.
+	    1 year bond and no money involved.
+	    Pay is :Rs10,577 p.m. (GROSS)
+people screened for interview: Naveen kumar Thyagi,M.Ravi kumar
+people selected: None from CS Dept.
+
+The question paper what ever we remember:
+
+1.My neighbour has seven children.Every brother has equal no. of 
+brothers and siters ,but each sister has twice as many brothers 
+as sisters?
+Ans: 4,3
+2.There are 11 more animals than birds in a pet shop.If there are
+as many birds as animals and if there are as many animals as birds
+the no. of legs is 4/5 of the original.Howmany birds and animals 
+are there?
+Ans: 22,11
+3.one soap can be made out of the scraps obtained while preparing
+11 soaps.How many soaps can be prepared out of the scrap obtained 
+out of 251 soaps.(Take all possibilities)
+Ans: 25
+4.Find out the five digit number whose first digit is three times
+that of it's fifth digit,the fourth digit is four more than the 
+second digit,the third digit is three less than the second digit,
+and there are 3 pairs of digits such that each sum is 11?
+Ans: 65292
+5.  2XX
+    3XX
+    ---
+    5XX
+   X4X
+  XX3
+  -------
+  XXXXX
+  -------
+  Find out the X's and seven is not there in the calculation.
+
+Ans: 281x332
+6.There are 5 burglars and once went to a bakery to rob it obviously
+The first guy ate 1/2 of the total bread and 1/2 of the bread.
+The second guy ate 1/2 of the remaining and 1/2 of the bread.
+The third guy ,fourth guy and fifth guy did the same.After fifth 
+guy there is no bread left out.How many bread are there?
+Ans:31
+7.The main line train starts at 5.00AM and the harbour line train
+starts at 5.02AM.Each train has the frequency of 10 minutes.If a 
+guy goes in the morning at a random time what is the probability
+of he getting main line train?
+Ans: 0.8
+8.There is 66x33m rectangular area .Ram is 11/8 times faster than
+Krishna.Both of them started walking at opposite ends and they 
+met at some point then,Ram said "See you in the other end"Then
+they continued walking.After some time Ram thought he will have tea
+so he turned back walked back 15 meters then he changed his mind
+again and continued walking .How much Krishna has travelled by 
+the time they meet?
+9.A farmer has C chickens.A sack of feed comes for 9 days.As the 
+feed cost is increasing the farmer sells some chickens and retains
+12 chicken.If he reduces the feed quantity by 10% .Then he observes
+that the feed comes for 30 days.What is C?
+Ans:36
+10.Escalator Problem.
+A person walking takes 26 steps to come down on a escalator and it
+takes 30 seconds for him for walking.The same person while running
+takes 18 second and 34 steps.How many steps are there in the escalator?
+Ans:46
+
+Anal Paper:
+1. There are nine cards arranged in three rows and three columns.
+Each row contains atleast one green card.There  are three yellow
+corners.Red is either in the first row or second row.There are
+2 greens in the 3rd column and 2 blues in the second row.What is
+the arrange ment of the cards
+Ans: Y R G
+     B B G
+     Y G Y
+2. There are eight cards.Each card has colour on both sides.There
+are 2 blue 2 red 2 green 2 yellow.
+Name of the company: Ramco Systems Ltd.
+Date of interview/test: 12/9/96 ,13/9/96.
+People attended from mtech: Naveen kumar thyagi, ch.ravikumar, n.durga prasada rao, ravindran, rajamohan.
+People attended from ms: salome jacob and Radha krishnan.
+
+About the company:
+It is a company started in 1989 by Ramco group of companies
+It has some 950 personnel working. It is a madras based company. Their's is the only product based company in india. Their product is called Ramco Marshall 
+It is based on client-server architecture and the front end for that is MS-Windows.
+Their workareas are as follows:
+Client-Server Computing
+GUI
+RDBMS
+Distributed Computing(This is jargon)
+Work Flow
+Business Objects
+EDI(Electronic Data Interchange)
+
+They have an allience with MS and Monitoring Technologies,USA.
+They believe in localising operations and Global marketing(Official way of saying we won't send you abroad)
+Pay Package:Rs.1.44 lac per annum.
+Take home is 9,400 Rs.
+People screened for interview: Salome Jacob,Naveen kumar Thyagi
+People selected from mtech: None
+People selected from ms: Salome Jacob.
+
+
+
+4.
+Name of the company: Computer vision India ltd.
+Date of the interview/test:14/9/96
+people who attended for test: M.Raveendra Babu,M.Kedar Prabhakar,Arvind Kumar,
+A.Rajamohan,ch.ravikumar,m.ravikumar,n.durgaprasada rao,j.gopala krishna
+About the company:
+
+ It is started in 1994 in india. It is a subsidary of Computer Vision,US.
+ They are mainly known as CAD/CAM Company.They have 220 people right now.
+ They have some 250 Sun Sparc workstations in pune.It is a flat organisation.
+ Flexi working hours.Among 220 personnel 17 are ph.d's and 110 are mtechs 
+ and the rest of them are mca's.
+ It is a product based company.It's products include CADDS5,Medusa,DIM3
+ Pelorus(Scalable CAD Architecture),Discover(OODevelopment Tool),Discover,
+ purify,optegra.They are interested in the following
+ Math Tech.
+ Design
+ Soft.Stage(Mainly maintainance)
+ Developing tools(mainly case tools)
+ Electronic Product Development(EPD)
+Pay Package: Rs1.65lac+free lunch+transportation
+
+ People screened for interview: M.Raveendra Babu,M.Kedar Prabhakar,M.Ravi kumar,
+ Arvind kumar,J.Gopala Krishna,N.Durga Prasada Rao
+
+ People selected: M.Raveendra Babu,M.Kedar Prabhakar,M.Ravi kumar,Arvind kumar,J.Gopala Krishna
+
+ 5.
+
+ Name of the company: Wipro Infotech,(Global R&D)
+Date of the test/interview:15/9/96
+People Attended for test from mtech: Anurag Sharma,M.Ranga Rao Choudary,
+A.Phani Bhushan
+N.V.Shaji,M.Shilpa,Ashish K. Hanwadikar,K.Venkatesh,V.Surya Narayana,
+A. Siva Shankar,K.Venu Madhav,Sandeep Singh,Ch. Ravi kumar,A.Raja mohan
+People Attended for test from ms: Anantha Raman,Shankara Raman,Rajesh kumar,
+Santosh kumar,Gayathri,Renuka,Sudha Kiran,N.Jagdish Babu,Radha krishnan,
+Dheena,Vargheese
+About the Company:
+They are working in 
+ Fault Tolerant Technology,
+ H/W & ASIC
+ Object Oriented Technology,
+ Communications&N/W
+ OS & Device Drivers
+
+ Database internals
+ Client-Server 
+ IBM mainframes
+ Telecom Software
+ Financial Applications
+
+ Their clients include AT&T,UB Networks,Tandem etc.
+ Their turnover is around Rs.50Cr and it is expected to be around
+ Rs.80 Cr. this time.Expected growth rate is around 30% for 1996-97
+Pay Package: Rs.1.57lac per annum
+take home Rs.12,000 p.m.
+People Scrrened for first interview:
+from mtech: mrrc,anurag,phani,akh,venky,shaji,surya,sans,sm
+from ms: shankr,araman,krishv,rajesh,skumar,gayatri,renuka,kiran,
+People Screened for Second interview:
+from mtech: mrrc,anurag,phani,akh,venky,shaji
+from ms:shankr,araman,rajesh,skumar,kiran,gayatri
+People Selected from mtech: M.Ranga Rao Choudary,Anurag Sharma,
+A.Phani Bhushan,Ashish K. Hanwadikar,K.Venkatesh
+People Selected from ms: K.N.Anantha Raman,Shankar Raman,B.Rajesh Kumar
+I.Santosh Kumar,Sudha Kiran,T.R.Gayatri
+
+6.
+Name of the Company: HCL_HP 
+Date of test/interview:17/9/96 & 18/9/96
+People Attended for test: 
+from mtech: Naveen kumar Thyagi,Sandeep Singh,T.C.Vengatesan
+N.Durga Prasada Rao,Ch.Ravi kumar,A.Raja mohan,Ravindran,N.V.Shaji,
+A.Siva Sankar,K.Venu Madhav
+from ms: N.Jagdish Babu,
+About the Company: 
+It started in 1976.It is located in two places Madras and Noida.It
+has two seperate tests for S/W and H/W.
+Totally informal and one guy who came here from company was wearing
+a T-Shirt and Jeans.
+Flexible Working Hours.
+NIIT is also a componant of it.
+Pay Package: Rs.1.56lac per annum
+People Screened for interview: 
+from mtech: Naveen Kumar Thyagi
+from ms: N.Jagdish Babu
+People Selected :
+from mtech: Naveen Kumar Thyagi
+from ms: N.Jagdish Babu
+
+7.
+Name of the company: Oracle
+Date of the interview/test: 19/9/96
+People who attended test: 
+from mtech: V.Surya Narayana,Sandeep Singh,Naveen Kumar Thyagi,
+	    N.V.Shaji,Ch.Ravi kumar,J.Gopala krishna,M.Shilpa,
+	    A.Raja mohan,A.Siva Sankar,K.Venu Madhav
+from ms: N.Jagdish Babu,kalyan,ganesh, ........
+About the company:
+ It is the second largest S/W firm.Hazzaar Perks.Lot of parties.
+ Screwed junta in the written by asking 70% RDBMS,which they never
+ quoted as their requirement(they quoted C,UNIX,C++) in their 
+ advertisements.They will give ATZ Grindlays Card,Somany loans,
+ Weekly booze parties etc etc 
+Pay Package: Rs.1.77lac per annum
+People Screened for interview: 
+from mtech: NONE
+from ms: N.Jagdish Babu
+
+8.
+Name of the company: InterGraph
+Date of the interview/test: 18/9/96
+People who attended test:
+from mtech: A.Raja mohan
+from ms: none
+(There is a CG cut off for writing the test)
+About the company:
+    Initially they said they require only Civil and Mech guys 
+They called CS guys with reluctance and they didn't screened 
+anyone for interview.
+
+People Screened for interview:
+from mtech: NONE
+from ms: NONE
+
+9.
+Name of the company: MOTOROLA India Electronics Ltd.
+Date of the interview/test: 20/9/96 and 21/9/96
+People who attended the interview: 
+from mtech: Anurag Sharma,K.N.GuruPrasad,A.Phani Bhushan,
+	    K.Venkatesh,N.V.Shaji,Sandeep Singh,
+	    V.Surya Narayana,K.Venu Madhav,M.Shilpa,
+            Ashish K. Hanwadikar,T.C.Vengatesan
+from ms: Dheena,SudhaKiran,ganesh
+About the Company:(The info here is the opinion expressed by the class members who attended the interview immedieately after the interview. So take note of this and it might have been affected by One of senior who is working comments or what ever it is.Take this into consideration.)
+This is the right royal screwing company you can get in indian 
+scenario.It seems they put Video Cameras to monitor the moments
+of the peopl inside the company.their e-mails will be filtered
+and you will be doing only testing.You might have to work minimum
+12 hours a day to 14hours a day.No perks or facilities.Work Environment
+is good,Salary is less compared to avg.industry standard.Company
+stamp is considered to be best.They won't give the details about
+their work .Everything is CONFIDENTIAL.In the world 
+EVERYBODY IS SUSPECT UNTIL PROVED OTHERWISE
+for them.They screwed guys in the interviews saying that you people
+will be leaving the company.How will you assure us to the contrary?
+is their paining repeated question.It seems among 15 persons
+in a team in one year itself 10 persons left.That's why i think 
+they are getting pained.Anyway,If you wanna enjoy u'r self this is
+not the company for you.If you want the stamp then yes it is the 
+company.
+PHANI adds
+(as on 10/10/96)
+That there are no cameras for watching and it seems that he got it confirmed from one of senior working there called BAGI
+Pay package: Rs.1.42lac per annum
+People Selected finally:
+from mtech: K.Venkatesh,A.Phani Bhushan
+from ms: Dheena
+
+10
+
+Name of the company: CMC, Hyderabad
+Date of test/interview: 23/9/96
+People who attended test:
+from mtech: K.VenuMadhav,CH.RaviKumar,A.Rajamohan
+from ms: NONE
+About the company:
+It works in Banking S/W,Automation(PORTS,OFFICES etc etc)
+It is one of the good Public Sector Company.The experience in this
+company is considered to be good. It is sole company which does all
+sorts of job for the Govt.Of.India.It is responsible for the Railway
+Reservations and all.So basically it is a good company.
+
+Pay Package: Rs.1.26lac per annum(Take home is around 8000 Rs.p.m)
+People screened for interview:
+from mtech: a.rajamohan
+from ms: NONE
+People Selected finally:
+from mtech:
+from ms: NONE
+
+12
+Name of the company: Honeywell India Ltd.
+Date of test/interview:25/9/96
+People who attended test:
+from mtech:Sandeep Singh,Ch.RaviKumar,N.DurgaPrasadaRao,K.VenuMadhav,
+           V.SuryaNarayana,A.SivaSankar,M.Shilpa,
+
+from ms:
+About the company:
+ It is  an MNC and is mainly in the development of InFlight S/W and has
+very good customers.First one or two years like in any other MNC one 
+will be put in testing then only any development work will be given.
+
+Pay Package;
+People screened for interview:
+from mtech: Sandeep Singh,A.Siva Sankar,A.Raja mohan
+from ms: Renuka,Ramakrishnan,Santosh
+People selected finally:
+from mtech:
+from ms:
+
+13
+Name of the company: Hughes Software Systems , Gurgaon
+People who attended test:
+from mtech:N.V.Shaji,ArvindKumar,T.C.Vengatesan,N.Durga Prasada Rao,
+	   A.Siva Sankar,V.Surya Narayana,K.Venu Madhav,A.Raja mohan,
+	   Sandeep Singh,Ch. Ravi Kumar,R.Ravindran
+from ms: Varghese.........
+About the company:
+Pay Package;Rs.1.85lac per annum
+People screened for interview:
+from mtech:N.V.Shaji,ArvindKumar,T.C.Vengatesan,N.Durga Prasada Rao,
+	   A.Siva Sankar,V.Surya Narayana,K.Venu Madhav,Sandeep Singh
+from ms:Varghese....................
+People selected finally:
+from mtech:N.V.Shaji,ArvindKumar,T.C.Vengatesan,A.Siva Sankar,V.Surya
+	   Narayana
+from ms: Varghese
+14
+Name of the company: Future S/W,Madras
+Date of test/interview:28/9/96
+People who attended test:
+from mtech:Sandeep Singh, M.Ranga Rao Choudary,R.Ravindran,N.Durga
+	   Prasada Rao,K.Venu Madhav
+from ms: Radha krishnan, Renuka
+About the company:
+Pay Package; Rs. 1.7lac per annum
+People screened for interview:
+from mtech: Sandeep Singh,M.Ranga Rao Choudary,R.Ravindran,N.Durga 
+	    Prasada Rao
+from ms: NONE
+People selected finally:
+from mtech:Sandeep Singh, M.Ranga Rao Choudary
+from ms: None
+15
+Name of the company:
+Date of test/interview:
+People who attended test:
+from mtech:
+from ms:
+About the company:
+Pay Package;
+People screened for interview:
+from mtech:
+from ms:
+People selected finally:
+from mtech:
+from ms:
+16
+Name of the company:
+Date of test/interview:
+People who attended test:
+from mtech:
+from ms:
+About the company:
+Pay Package;
+People screened for interview:
+from mtech:
+from ms:
+People selected finally:
+from mtech:
+from ms:
+17
+Name of the company:
+Date of test/interview:
+People who attended test:
+from mtech:
+from ms:
+About the company:
+Pay Package;
+People screened for interview:
+from mtech:
+from ms:
+People selected finally:
+from mtech:
+from ms:

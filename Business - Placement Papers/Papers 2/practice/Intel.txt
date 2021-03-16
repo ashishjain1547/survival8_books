@@ -1,0 +1,121 @@
+Hi,
+  This is Intel/SSS paper at IISc . They given 34 ( I think ) questions and 1
+  hr time . U can easily complete those questions within 45 min. Don't be hurry
+  . Quesions are tricky. Think and answer those. Here I am writing questions
+  what i remembered.
+
+
+ some questions are 2 marks.  
+
+
+
+   1. main()
+       {
+          if(a=b=0)
+             printf("Hello");
+           else 
+             printf("World");
+             }
+
+             what is o/p of above program ?
+   2. quick sort time complexity is better than merge sort complexity in one
+   case ?.  what is that case ? 
+
+          I think this is in best case ( please check )
+
+   3. A queastion on signal catch. Given set of signals , which are u canot
+   catch ?
+     answer is SIGSTP,SIGKILL
+   4. what is critical section ?
+      ans is the code where shared resources is accesed.
+   5. if (cond1)
+          f()
+      else 
+          if ( cond2)
+             g()
+        if cond1 is true 25 % and  cond2 is true 75 % . If above program
+        executes 10000 times how many times f() and g() exectes ?.
+          ans is f() is 2500 and g is around 5600 ( please check this)
+  6.  sample code is given ( which is nothing but bubble sort )
+       and he asked 3 questions on this with some data set .
+        hint ( to get ans) :  please check if condition  properly and write
+        down answer
+  7.qustion on broadcasting addr .he is given question to get easily confusion
+  .
+    ans to that is 255.255.255.255
+
+  8. one question in C++ public,private inheritance .
+         class A 
+         {
+           private :      f()
+           }
+         class B
+         { public : f()
+         }
+         class c: public A,B
+         {
+           g() { f()}
+           }
+           
+           which f() is invoked ?. 
+            ans is class B f().
+             please apply this technique there becoz he is given some otherway
+             i think , but ans is B's f().
+ 9.one question on ARP . 
+     On reboot  which one is check whether is IP adddr is duplicated or not ?
+       ( question is something like this ) 
+        ans is grattitu ARP
+10 . A question on virtual function.
+
+   class A 
+      {
+       public :
+          sum() { print ( "A");
+          }
+          
+          
+   class B 
+      {
+       
+       public :
+          virtual sum() { print ( "B");
+          }
+ class c : public A,B 
+      {
+       public :
+          sum() { print ( "C");
+          }
+
+main()
+{
+  A *a;
+  B *b;
+  C c;
+  a=&c
+  a->sum;
+  b=&c;
+  b->sum;
+  c.sum();
+  
+ }
+
+ I forgot exact  description but answer is ACC
+ 
+ 11. One probelm is given on LFU page replacement policy .( 2 frames sizes
+ memory and given page references . At the end what are pages in main page
+ table ?.)
+   ans is 1 4
+
+ 12 . One question on implementing Hardware Synchronization. 
+    (  ans is swap
+    please refer peterson for this SWAP instruction. )
+   
+ 13. One question on semaphores.
+ 14. one question on Regular expression
+ 15. Given set of languages and queastion is find out CFG in those.
+ 16. Productions are given in terms of S A B and string is also given aaaaa
+       and he asked production sequence .
+ 17 . which of the following doesnpt creat process .
+       ( four commands are given ls , od ..)
+         please find answer
+

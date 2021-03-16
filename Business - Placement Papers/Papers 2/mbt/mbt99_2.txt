@@ -1,0 +1,105 @@
+mumbai99:--->>>>
+-----------------------------------------------------------------------------
+
+This 
+I) Distribution of workers in a factory according to the no.of
+children they have
+Figure
+1. Total no. of workers in the factory.
+        Ans : 200
+2. Total no. of children that all the workers that have between them is 
+        Ans : 560
+3. The total no. of literate workers is
+        Ans : 105
+4. The ratio of literate & illiterate is 
+        Ans - 1:2
+5. The no. of literate workers with atleast 3 children is
+        Ans : 45
+6. The no. of illiterate workers with less than 4 children is
+        Ans : 60
+7. The rate of literate to illiterate workers who have 3 children is
+        Ans - 3:4
+II) Which of the following statement(s) is(are) not true
+
+a. Literate workers have small families than illiterate workers.
+b. Families with 2 or less than 2 children are commoner than families
+with 3 or more     children.
+c. 2 children families constitute 60% of the families of workers.
+d. More the no. of children a worker has the more illiterate he is.
+e. None the above statement is true.
+        Ans : e
+III) ---- of a mutual instrument vibrate 6,8 & 12 intervals
+respectively. If all three vibrate together what is the time
+interval before all vibrate together again?
+        LCM of NR 
+        ---------     Ans : 1/2 sec
+        HCF of DR  
+12) Certain no. of men can finish a piece of work in 10 days. If
+however there were 10 men     less  it will take 10 days more for the
+work to be finished. How many men were there     originally.
+        Ans : 110 men
+10) In simple interest what sum amounts of Rs.1120/- in 4 years and
+Rs.1200/- in 5 years.
+        Ans : Rs.800/-
+vi) Sum of money at compound interest amounts of thrice itself in 3
+years. In how many years 
+    will it take 9 times itself.
+        Ans : 6
+vii) Two trains in the same direction at 50 & 32 kmph respectively. A
+man in the slower      train observes the 15 seconds elapse before the
+faster train completely passes him.
+     What is the length of faster train ?
+        Ans : 75m
+16) How many mashes are there in a sq. m of wire gauge. Each mesh
+being 8mm long X 5mm       width
+        Ans : 25000
+17) x% of y is y% of ?
+        Ans : x
+11) The price of sugar increases by 20%, by what % house-wife should
+reduce the consumption of sugar so that expenditure on sugar can be
+same as before
+        Ans : 16.66
+? ) A man spending half of his salary for house hold expenses, 1/4th
+for rent, 1/5th for travel expenses, a man deposits the rest in a
+bank. If his monthly deposits in the bank amount 50. What is his
+monthly salary ?
+        Ans : 1000
+? ) The population of a city increases @ 4% p.a. That is an additioanl
+annual increase of 4% of the population due to this influx of job
+seekers, the % increase in population after 2 years is 
+        Ans :
+? ) The ratio of no. of boys & girls in a school is 3:2 Out of these
+?% the boys & 25% of girls  are scholarship holders. % of students who
+are not scholarship holders.?
+        Ans : 
+? ) 15 Men take 21 days of 8 hrs. each to do a piece of work. How many
+days of 6 hrs. each would do if 21 women take. If 3 women do as much
+work of 2 men.
+        Ans : 30
+?)   a cylinder ingot 6cms in diameter and 6 cms in height is  and
+spheres all of the same
+        size are made from the material obtained.what is the diameter of each
+sphere?
+        Ans :3cms
+5)      rectangular plank of sqrt(2)meters wide can be placed so that it is
+ on either side of the diagonal of a square shown below.what is the
+area of the plank?
+                Ans :7sqrt(2)
+                fig no-
+7) the difference b/w the compound interest payble  half yearly and
+the simple interest on a 
+        certain sum cont out at 10% p.a for 1 year is Rs 25 what is the sum
+        Ans:10,000
+8) what is the smallest n0 by which 2880 must be divided in order to
+make it a 
+        perfect square ?
+        Ans : c
+        a)3 b)4 c)5 d) 6 e)8
+9)a father is 30 times more than his son however he will be only
+thrice as old as the son
+        what is father's present age ?
+        Ans : 40
+10) An article sold at a profit of 20% if both the c.p & s.p were to
+be Rs.20/- the profit would be 10% more. What is the c.p of that
+article?
+        Ans : 1% loss

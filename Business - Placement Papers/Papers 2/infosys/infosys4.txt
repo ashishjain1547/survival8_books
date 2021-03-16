@@ -1,0 +1,282 @@
+From satthi@hotmail.comSat Sep 12 21:11:49 1998
+Date: Sun, 06 Sep 1998 09:52:12 PDT
+From: satish kandanuru <satthi@hotmail.com>
+To: vsr@ece, anju_ksr@mailcity.com
+Subject: hai..anju
+
+ hai anji ,
+      
+      yesterday my self & pran sent infosys paper which is not clear.
+
+        
+        now i am sending original & complete paper
+
+                                
+                                MARKS: 50
+        
+        I. ROHITH CAN CATCH EITHER THE HARBOUR LINE TRAIN OR MAIN LINE 
+TRAIN 
+           FROM HIS NEAREST RAILWAY STATION KANDALA TO REACH HIS OFFICE. 
+BOTH 
+           THE TRAINS HAVE A FREQUENCY OF 10 min. IN THE MORNING OFFICE 
+HOURS.
+           THE HARBOUR LINE TRAINS ARRIVE EVARY 10min. STARTING FROM 
+5:00a.m.   
+           AND THE MAIN LINE TRAINS ARRIVE AT EVERY 10min. STARTING FROM 
+5:02a.m
+   
+          
+          II. IN  A CERTAIN DEPARTMENT STORE THE POSITION OF 
+BUYER,CASHIER,CLERK
+   
+   , FLOORWALKAR, & MANAGER ARE HELD, THOUGH NOT NECESSARILY 
+RESPECTIVELY ,BY M$
+        
+        THE CASHIER & THE MANAGER WERE ROOMMATES IN COLLEGE.
+        THE BUYER IS BACHELOR,
+        EVANS & MISS AMES HAVE ONLY BUSINESS CONTACTS WITH EACH OTHER
+        MRS CONROY WAS GREATLY DOSAPPOINTED WHEN HER HUSBAND TOLD HER 
+THAT THE
+        MANAGER HAD REFUGE TO GIVE HIM A RAISE.
+        DAVIS IS GOING TO BE THE BEST MAN WHEN THE CLErk &  THE CASHIER 
+ARE MAR
+        RIED .
+
+        WHAT POSITION DOES EACH PERSON HELD.?
+
+
+   III.
+      TANVEER AND KUNAL WENT DOWN A DESCENDING ESCALATOR . THE ESCALATOR 
+WAS
+      GOING DOWN AT A CONTANT SPEED . KUNAL WALKED DOWN THE STEPS AND 
+HAD TO 
+      COVER 50 STEPS TO REACH THE BOTTOM.TANVEER ON THE OTHER HAND , RAN 
+DOWN
+      THE STEPS OF THE ESCALATOR AND HENCE HAD TO TAKE 75 STEPS TO REACH 
+THE 
+      BOTTOM . ACTUALLY , TANVEER TOOK 3 STEPS IN THE SAME TIME IT TOOK 
+KUNAL
+      TO TAKE 1 STEP . HOW MANY STEPS WOULD BE visible when the ecalator 
+is
+      stopped and not operating.?
+
+  
+ Iv. In A four team foot-ball tournament , all the teams played each 
+other
+       in three rounds of matches are shown in the table -A . some of 
+the   
+       results of the tournament are shown in the table _B . Using the 
+clues
+       given below, please fill -in the blank columns in the result 
+table-B
+       (goals for & goals for against ? ).
+     
+     Note : two points for win , one point for draw & zero points for 
+defeat
+            are awarded .
+      
+      CLUES :
+      1. EAST ZONE WON THE TOURNAMENT DESPITE SCORING ONE LESS GOAL THAN 
+THE
+      RUNNERS -UP.
+      2. NORTH ZONE SCORED AN ODD NUMBER OF GOALS IN THEIR FIRST ROUND 
+GAME 
+      3. SOUTH ZONE , WHO FAILED TO SCORE IN THEIR FINAL MATCH , WERE 
+BEATEN
+      BY A TWO -GOAL MARGIN IN THE FIRST ROUND.
+      4. EAST ZONE LOST THEIR MATCH AGINST WEST ZONE.
+      5. ALL FOUR TEAMS SCORED GOALS IN THE SECOND ROUND MATCHES
+      6. WEST ZONE SCORED THE SAME NUMBER OF GOALS AGAINST EAST ZONE AS 
+NORTH
+      ZONE SCORED AGINST THEM.
+      7. EAST ZONE SCORED FOUR GOALS IN ROUND TWO MATCH.
+                        Table - A ( MATCHES PLAYED )
+                ~~~~~~~~~~~~~~~~~~~~
+      Round 1       North zone vs south zone
+                    west zone vs east zone.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+       round 2      south zone vs west zone
+                    east zone vs north zone
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      Round 3       south zone vs east zone
+                    west zone  vs north zone
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      
+                           Table - B   ( RESULTS )
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~
+                    Played     won   draw   lost   golas for  goals   
+points
+                                                              against
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+$
+      East Zone      3         -      -      -        ?         3        
+4
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      North zone     3         -      -      -        ?          ?       
+4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      West zone      3         -      -      -        4          3       
+3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      South Zone     3         -      -      -        2           5      
+1
+         
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  
+    
+    V.
+       At six o'clock the wall clock struck 6 times . Checking with my 
+watch
+       , I noticed that the time between the first & last strokes was 30 
+seconds
+       . How long will the clock take to stike 12 at mid night (Ans 66 
+seconds)
+    
+      
+   VI. PLESE ANSWER THE Q'S WITH REFERENCE TO THE FACTS GIVEN BELOW ( 8 
+MARKS )
+    
+    
+      1 . THE MEMBERS OF A CERTAIN TRIBE ARE DIVIDED INTO THREE CASTES 
+-ABHOR
+
+  , DRAVID , & MAGAR CASTES
+                    
+      2. AN ABHOR WOMEN CANNOT MARRY A DRAVID MAN  
+      3. A MAGAR MAN CANNOT MARRY A DRAVID WOMEN.
+      4. A SON TAKES THE CASTE OF HIS FATHER , A DAUGHTER TAKES THE 
+CASTE OF
+      HER MOTHER .
+     5. ALL MARRIAGES EXCEPT THOSE MENTIOND ABOVE ARE PERMITTED
+      6 . THERE ARE NO CHILDREN BORN OUT OF WED LOCK.
+
+      
+    Q'S
+
+    1)  AN ABHOR WOMAN MARRIES  AND HAS THREE CHILDREN , ALL OF WHOM ARE 
+MEMBER$
+                                                              
+                I) IF SHE WERE TO BE MARRIED to a magar MAN , THEY HAVE 
+NO MALE$
+             II) IF SHE WERE TO BE MARRIED TO ABHOR MAN ,THEY MAY HAVE 
+MALE CHI$
+ 
+               III) IF HER FOURTH CHILD IS MALE , HE MAY BE A DRAVID,.
+
+
+       A) I ONLY
+       B) III ONLY
+         
+       C) I & II ONLY
+      
+          D) II & III ONLY
+       E) I , II & III
+       
+    2) IT CAN BE INFERRED FROM THE CONDITION DESCRIBED THAT A MAGAR MAN
+      
+
+    I)  CANNOT HAVE A DRAVID GRAND MOTHER
+    II) CANNOT HAVE A DRAVID MOTHER
+    III ) MAY HAVE A ABHOR MOTHER
+              A) I ONLY
+                 B) II ONLY
+                C) I  &  II ONLY
+                D) II & III ONLY
+                E) I , II & III
+      
+     
+   3) WHEN TWO DRAVIDS ARE MARRIED , IT IS IMPOSSIBLE FOR THEM TO HAVE
+
+      I) ANY FEMALE ABHOR DESCENDENTS
+      II ) AN ABHOR GREAT_ GRAND  DAUGHTER \
+       III) AN ABHOR GRAND DAUGHTER
+    
+        A)I ONLY
+        B) III ONLY
+        C) I & II ONLY
+          D) II & III ONLY
+       E) I , II & III
+                        
+   4) AN ABHOR WOMAN
+       
+    A)CAN HAVE A DRAVID GRANDSON
+    B) CANNOT HAVE A MAGAR SON
+    C) CANNOT HAVE A MAGAR GRAND SON
+    D) CAN HAVE A MAGAR DAUGHTER -IN - LAW
+    E) CANNOT HAVE A DRAVID GRAND DAUGHTER
+  
+                        
+       VII.      ( 2 MARKS )
+               IN CERTAIN COMMUNITY THERE ARE THOUSAND MARRIED COUPLES . 
+TWO
+      THIRDS OF THE HUSBANDS WHO ARE TALLER THAN THEIR WIVES ARE ALSO 
+HEAVIER
+     AND THREE QUARTERS OF THE HUSBANDS WHO ARE HEAVIER THAN THEIR WIVES 
+ARE
+     ALSO TALLER . IF THERE ARE 120 WIVES WHO ARE TALLER AND HEAVIER 
+THAN THEIR
+     HUSBANDS, HOW MANY HUSBANDS ARE TALLER AND HEAVIER THAN THEIR WIVES 
+?
+ 
+
+   VIII. BOTH THE GUPTHAS AND SINHAS HAVE TWO YOUNG SONS WHOSE AGES ARE
+        ANDER ELEVEN. THE NAMES OF THE BOYS, WHOSE AGES ROUNDEDOFF TO 
+THE
+        NEAREST YEAR ARE ALL DIFFERENT, ARE RAJESH, PRAVEEN,LALITH AND 
+PRATHAP.
+        TAKING THE AGES OF THE AGES OF THE BOYS ONLY TO THE NEAREST 
+YEAR, THE
+        FOLLOWING STATEMENTS ARE TRUE.
+                RAJESH IS THREE YEARS YOUNGER THAN HIS BROTHER IS.
+                PRAVEEN IS THE OLDEST.
+                PRATHAP IS 5YRS OLDER THAN THE YOUNGER SINHAS BOY.
+                LALITH IS HALF AS OLD AS ONE OF THE GUPTHA BOYS.
+                THE TOTAL AGES OF THE BOYS IN EACH FAMILY DIFFER BY THE 
+SAME
+                  AMOUNT TODAY AS THEY DID FIVE YEARS AGO.  --- 7 MARKS.
+        
+     
+   IX. A LONG DIVISION SUM                 ---- 7 MARKS
+                xx)xxxxxxxxx(xxxxxxx 
+                    xx
+                   ---
+                     xxx
+                      xx
+                    ----
+                      xxx
+                       xx
+                      ---
+                        xx
+                        xx
+                        --
+                         xxx
+                         xxx
+                        -----
+
+                in the complete solution there are four 5's.
+                Find the missing digits.
+    
+  
+
+  X. FOLLOWING SERVICES ARE OPERATED BY ASIAN AIRLINES BETWEEN THE TWO   
+
+           ARE LOCATED IN DIFFERENT COUNTRIES WITH DIFFERENT TIME ZONES. 
+AS IS
+           IS NORMALLY DONE, THE TIME SHOWN IS THE LOCAL TIME-  VIZ IST 
+& TST.
+                                        REGULAR FLIGHT  SUPERSONICFLIG
+                ARRIVE ALEXANDRIA       17:10 TST          15:40 TST
+                DEPART  "    "          20:50 TST           22:50 TST
+                ARRIVE RAMPUR           23:40 IST              ?   IST
+                
+                THE ARRIVAL TIME OF SUPERSONIC FLIGHT INTO RAMPUR FROM 
+ALEXANDR$
+                ARRIVAL TIME OF THE SUPER SONIC FLIGHT ASSUMING EACH 
+SERVICE-
+                REGULAR AND SUPERSONIC MAINTAINS ITS OWN CONSTANT SPEED 
+OF FLIG$
+                
+    
+                DON'T ANSWER FOR  ALL THE PUZZULES. 8 ARE THE SAFE ONE.

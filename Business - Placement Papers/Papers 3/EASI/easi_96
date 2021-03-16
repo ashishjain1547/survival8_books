@@ -1,0 +1,98 @@
+
+                EASI -96
+            ------------------
+1) printf("%d%x\n",ox2,12);
+2) int a=10;
+   int b=20;
+   a=a^b;
+   b=a^b;
+   a=a^b;
+   printf("%d%d\n",a,b);
+    3)enum     
+	{ELLIPSE,
+	TRIANGLE,
+	RECTANGLE,
+	SQUARE=100,
+	CIRCLE=5
+	}	
+        printf{"%d%d%d%d\n",TRIANGLE-RECTANGLE,SQUARE*CIRCLE-RECTANGLE};
+4) define the following...
+   a) pointer to a integer
+   b) pointer to a char
+   c) function pointer returning a pointer integer.
+5) void a(void);
+   main()
+   {
+   a();
+   }
+   void a(void)
+   {
+   char a="HELLOW";
+   char *b="HELLOW";
+   char c[10]="HELLOW";
+   printf("%s%s%s\n",a,b,c);
+   printf("%d%d%d\n",sizeof(a),sizeof(b),sizeof(c)));
+   }
+  6)  int a=15;
+	int b=16;
+	printf("%d %d \n",a&b,a/b);	(bitwise operators)
+ 7)   int a[5],*p;
+      for(p=a;p<&a[5];p++)
+	{
+	*p=p-a;
+	printf("%d\n",*p);
+        }
+8) sscanf("xyz abc ABC 345" "% *[a-z A-Z]lf",&a);
+   printf("lf",a);
+  9) Not clear
+        fprintf(- - - - -
+10) main()
+    {
+    int i=10;
+    printf("%d",i);
+    {
+    int i=20;
+    printf("%d",i);
+    }
+    printf("%d",i);
+    }
+ 11)struct class
+	{
+	int i;
+	float a;
+	string[12];
+	}
+	sizeof(class)=?
+12)   int *p;
+	i=10;
+	p=i;
+	printf("%d",*p);
+13)  fact(5)
+     int n;
+     fact(n)
+     {
+      sum=n*fact(n-1);
+     }
+NEXT FINITE ELEMENT ANALYSYS QUESTIONS
+1)
+NAME THE EQUATION AND EXPLAIN THE TERMS
+ A) M/I=F/Y=E/R.
+ B) mx..+cx.+kx=F(t)         ans: sdof mass-spring-dashpot equn.
+2) 
+WHAT ARE THE DIFFT.TYPES OF FINITE ELEMENTS.
+3)
+WHAT IS THE SIZE OF STIFFNESS MATRIX FOR A 4 NODED SHELL ELEMENT IN 3-D 
+SPACE.
+4)
+HOW MANY NODES ARE THERE FOR A BEAM ELEMENT ? WHY?
+5)
+WRITE STIFFNESS MATRIX OF TRUSS ELEMENT.
+  
+   6)WHAT ARE PLANE STRESS AND PLANE STRAIN ELEMENTS
+
+  7)WHAT IS MENT BY STRESS SMOTHENING
+  8)WHAT IS GAUSS POINT
+  9)WHAT ARE CO AND C1 PROBLEMS
+
+[OK 13Q IN C  AND 9Q IN FEM]
+THIS IS ORIGINAL FULL WIDTH PAPER

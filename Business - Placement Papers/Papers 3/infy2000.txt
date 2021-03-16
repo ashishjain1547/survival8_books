@@ -1,0 +1,1420 @@
+Infosys 2000(REC Trichy)
+------------------------
+*1) a square sheet has length twice its breadth. 4 sheets each 
+of 2 inch cut out from the corners and with the rest a box is made of 
+volume 60 cu inch. Find the original dimension of the sheet.
+
+*2)2 towns A & B. 2 friends C & D starting from the 2 towns at the 
+same time in opp direction towards each other.They meet at a point 
+where C has gone 18 miles more than D. After that C took 13.5 hrs to 
+reach B and D took 24 hrs to reach A. Find the dist betwn A & B.
+
+3)4 cards r in front of 4 people. each card having differnt colors on 
+the opp sides. there r totally 2 red, 2 green, 2 blue and 2 yellow 
+faces. the front color of the card lying before the persons r 
+respectively b,r,r,g. 
+they r saying after seeing the other face:
+1)blue or green
+2)neither green nor blue
+3)blue or yellow
+4) blue or yellow
+2 of them r telling false.
+What r the colors on the opp sides?
+
+4)Col. Roy died(param Vir chakra 1948) died when age was one thirty-
+ninth of the yr of his birth. Find the yr of his birth.
+
+5)There r 16 pairs of black socks, 16 pairs of green socks, 16 pairs of red 
+socks, 16 pairs of white socks and 16 pairs of blue socks in a 
+basket. What is the least number of socks u have to take at random to 
+be sure that there is atleast 1 matching pair.
+
+#There is a ques on teaching with 6 teachers teaching 4 sub in one sem 
+and the other 4 on the second sem. U have to find the combination.
+1:39 AM 8/24/00#Another on syllables.U can find them in the addtnl ques papers I'm 
+sending with this. Those I got from other colleges this yr.Mail u 
+later.All the best...
+Bye,
+Dipankar.
+
+The following are parts of the four info papers from all over the 
+country: fundae at the end......
+
+
+*************** the first paper ***********
+
+A men passed 1/6th of his life in childhood,1/12th in youth & 1/7th 
+as a bachelor;5 yrs after his marriage a son was born who died 4 yrs 
+before his father at half his final age.what is age of man.
+
+a,b,c,d and e 5 different quantities are given:
+-> if and only if a=c then b is not = e;
+-> a-b=b-c;
+-> a>b;
+-> a>b and c>d; write in descending order.
+
+
+SEND + MORE = MONEY,WHAT IS VALUE OF M,O,N,E?
+
+3 men a,b,c went in 3 direction and had stolen a mule,a horse and a 
+camel.they were caught by cbi.during there interrogation they said:
+a: b had stolen a horse.
+b: a and c are both lying and i had stolen nothing.
+c: a is lying and b had stolen mule.
+one who had stolen camel is lying and who has stolen horse is telling 
+truth.among a,b,c who had stolen what.
+
+
+amarpur is north of landgang and west of chutpur.basti is north of 
+amarpur and west of fulganj.dama is south and east of amarpur.landganj is 
+north of fulganj and east of dania.fulganj is north of dania and west 
+of amarpur.chutpur is south of fulganj and west of dania.
+a.which of the towns mentioned is farthest to the north west.
+b.which one must be bothnorth and east of fulganj.
+c. which one must be situated both south and west of at least one another 
+town. 
+d.which of the statements if true would make information in the numbered 
+statements more specific. (there are two lost statements here - cpc)
+->amarp is east of basti
+->chutp is east of fulg
+->basti is north of ful.
+
+there are 4 women and in quest. the condition about what they are selling 
+and there last name are given.from this u have to find what they are 
+selling and their lastname.
+
+*************** the second paper ***************
+
+
+two boys riding on the bicycle in opposite directions at 10 km/hr 
+start at same instant . a fly on one bicycle flies to another and after 
+reaching there returns to the original cyclist. it does this upto the time 
+the two cyclist meet. how much distance has the fly travelled. speed of 
+the fly is 15 km/hr and total dist between cyclists is 20 km.
+
+B jones sells 1/4th of the total paper +1, A smith sells 1/4th of 
+the remaining +1, C jones sells 1/4th of the remaining +1, B smith sells 
+1/4th of the remaining +1. upto this jones has sold 100 more papers than 
+smith. C smith sells the remaining papers . how much more have the smith 
+sold than the jones ?
+
+a clock takes 6 seconds to strike 5 , 9 sec to strike 6 . how much 
+would it take throughout a day ?
+
+an old lady have age between 50 & 70 her each son has same no of 
+brothers as his own sons. what is the age of the lady ?. age of the lady 
+is equal to the total members in the family excluding the lady .
+
+george, michael & harry each give one false and 2 true statements. 
+find their respective ages.
+1). i'm 22 years old
+2). harry is a year older than me
+3). michael is 2 years younger th 
+
+................................................................
+
+Trivandrum 2000
+
+1. There is a rectangle whose length is twice its
+breadth. 2 inch squares are cut in each corner.The
+vol. of the resulting box is 60 cu inch. Find the
+dimensions.
+
+2. A cyclist is racing in a circular track.The sum of 
+5/6 th of the people behind him and 1/5th of the
+people in front of him is equal to the total no. of
+people in the race.Find the totol no. of people in the
+race.
+
+3. A thief enters a shop and sees a pile of diamonds
+..He takes 1/2 of it and 2 more.similarly a second
+thief takes 1/2 of the remaining and 2 more. Same for
+the 3rd & fourth thieves.The fifth thief does not get
+anything.Find the total no. of diamonds.
+
+4. When I become my fathers age, my age would be 5
+times my son's present age.Also at that time my son
+would be 8 years older to my present age.The sum of my
+age & my dads age is 100.Find the ages.(this was not
+the language used in the question paper)
+
+5. There were a couple of other questions in which
+several conditions were given-(something like...)
+a)6 people in diff. floors. conditions
+given.Find which person is in which floor.
+b)several poets.several conditions.Questions
+based on the given data.
+
+6. A magic box-
+
+1 1 1 1
+1 3 5 7 
+1 5 13 25
+1 7 25 -
+
+
+7.A person travels 1/2 the distance at 30kph.Find the
+speed at which he should travel the remaining distance
+so that the avg speed is 60kph.
+
+The interview is pretty informal.They shortlisted 207
+people from our batch and took 76.Looks like they
+really want to recruit people.
+
+Good luck to u. (tip-Solve shakuntala devi puzzles.)
+
+
+
+Answers-
+1.easy...
+2.31
+3.60
+4.13,35,?
+6.63
+7. impossible to get speed of 60kph
+
+............................................................
+
+RIT - Jamshrdpur
+
+1. 1325 diagonals in a polygon, How many sides are there in that polygon?
+-- 5 marks
+
+2. How many numbers of 4 digits are possible with 10 number with at least
+a number getting repeated. -- 5 marks
+
+3. out of 8 people 5 people participate in two games. These 8 people have
+to be arranged in a straight line so that, no two player who participates
+in two games are next to each other. 6 -marks ( quite mundu one, is it
+not!!!)
+
+4. Four numbers of 4 digits are taken randomly and multiply them, then
+what is probability that last digit is 1 or 3 or 7 or 9. (I am not sure of
+these numbers, whether 1or 3 or 7 or 9 , 3 or 5 or 7 or 9, but there were
+4 number). -- 7 marks
+
+5. One third of the people ahead of me in a merry-go-round added to two
+third of the people behind me give the total number of people in
+merry-go-round. How many are there?
+
+6. One rich man distributed his property among his 5 girls and 5 boys and
+car driver like this. He gave one gold coin to driver and one fifth of the
+remaining to his eldest son again he gave one gold coin to driver and one
+fifth of the remaining to second son. So on like this for all sons.
+Remaining coins he distributed equally to his daughters. So how many gold
+coins the rich man had initially?
+
+7. One lady grew cabbage in her square patch. Next year she got a larger
+square patch and increased her production of cabbages by 211. What is the
+patch size initially.
+
+8. there were three fellows and each made three statements regarding their
+ages, out of these only two statements are correct. We have to find each
+of their ages.
+
+
+
+
+
+
+
+1)At 6'o clock clock ticks 6 times. The time between first and
+last ticks was 30sec. How much time it takes at 12'o clock.
+
+Ans. 66 sec. 2 marks.
+
+2)Three friends divided some bullets equally. After all of them
+shot 4 bullets the total no.of remaining bullets is equal to that of
+one has after division. Find the original number divided.
+
+Ans. x x x
+x-4 x-4 x-4
+3x-12 = x
+x= 6
+ans is 18 2 marks
+
+3)A ship went on a voyage after 180 miles a plane statrted with 10 times
+speed that of the ship. Find the distance when they meet from
+starting point.
+
+Ans. 180 + (x/10) = x
+x = 20
+ans is 180+20=200miles. 2 marks
+
+4) Fill the empty slots.
+Three FOOTBALL teams are there. Given below the list of maches.
+
+played won lost draw Goals for Goals against
+A 2 2 *0 *0 *7 1
+B 2 *0 *1 1 2 4
+C 2 *0 *1 *1 3 7
+
+the slots with stars are answers. 4 marks
+BC drew with 2-2
+A won on B by 2-0
+a won on C by 5-1
+( YOU HAVE TO FILL THE BLANKS AT APPROPRIATE STAR SYMBOLS.)`
+5) There are 3 societies a,b,c. a lent tractors to b and c as many
+as they had. After some time b gave as many tractors to a and c
+as many as they have. After sometime c did the same thing.
+At the end of this transaction each one of them had 24.
+Find the tractors each orginally had.
+
+Ans a had 39, b had 21, c had 12, 4 marks
+
+6) There N stations on a railroad. After adding x stations 46 additional
+tickets have to be printed. Find N and X.
+
+Ans. let N(N-1) = t;
+(N+x)(N+x-1) = t+46;
+trail and error method x=2 and N=11 4 marks
+
+7)Given that April 1 is tuesday. a,b,c are 3 persons told that their
+farewell party was on
+a - may 8, thursday
+b - may 10,tuesday
+c - june 8, friday
+Out of a,b,c one is only correct one of the regarding month,day,date.
+Other told two correct and the third person told all wrong.What is
+correct date,month,day. 5 marks
+(ans may be MAY 10 SUNDAY. check once again)
+8)There are 4 parties. df,gs,dl(depositloss),ew ran for a contest.
+Anup,Sujit,John made the following statements regarding results.
+Anup said either df or ew will definitely win
+sujit said he is confident that df will not win
+John said he is confident that neither ew nor dl will win
+the result has come. only one of the above three has made a correct
+statement. Who has made the correct statement and who has won
+the contest. 5 marks.
+(ans DL )
+9)Five people a,b,c,d,e are related to each other. Four of them make
+one true statement each as follows.
+i) b is my father's brother. (ans. d said this)
+ii)e is my mother-in-law. ( b )
+iii)c is my son-in-law's brother. ( e )
+iv)a is my brother's wife. (c)
+
+10 marks.
+
+10) All members of d are also members of a
+All '' e '' d
+all '' c '' both a and b
+not all '' a are members of d
+not all '' d '' e
+Some questions on these conditions.(5questions 5 marks)
+11)
+boys are allowed to watch football at c.v.Raman auditorium subjected to
+conditions.
+i)the boy over age 16 can wear overcoat
+ii)no boy over age 15 can wear cap
+iii)to watch the football either he has to wear overcoat or cap
+or both
+iv) a boy with an umberella or above 16 or both cannot wear sweater.
+v) boys must either not watch football or wear sweater.
+
+What is the appearence of the boy who is watching football.
+Try to solve this question................
+
+
+YOU HAVE TO DO SOME ROUGH WORK FOR EACH QUESTION . IT WILL
+CARRY SOME GRACE MARKS.
+
+
+.............................................................
+
+MREC 2000
+
+
+1.there are three persons a,b,c.and their professions are ainter,
+carpenter,plasterer(not necessary in order).the painter earns more then the 
+plasterer and a earns more than c.also b&a
+goes for movie.b&c are childhood friends.find there profession.
+
+2.one merchant decides to sell cloth at 40% profit but found that he got only 
+39% what is the length of his meter scale.
+
+3.there are two clocks set at the same time.one clock gains 2 minutes in 
+every hr. the other clock looses 1 min. every hr. find the time after which 
+the difference shown by them is 1 hr.
+
+4.a farmer has some chickens. if he sells 75 of them the stock grain will 
+last for 20 more days.
+and if he purchases 100 more chickens the stock will last for 15 days less.
+find the no. of chickens he originally had?
+
+5.fly problem(fly travelling from one cyclist to another)
+
+6.4 basketball teams acid,duet,speakit,thirket
+three persons are a,b,c.
+five are the statements,but only one of them is true.
+a --->either duet wins or thirket wins
+b --->duet does not wins.
+c --->neither acid nor----
+
+7.there are three kinds of inhabitents on an island
+1. saccha-->alway tells truth.
+2. jhutha-->always tells lies.
+3. beechka->alternately tells truth or lie.
+there are three inhabitents a,b,c.
+a-->i am saccha.
+b is jhutha.
+b-->i am saccha.
+c is not jhutha.
+c-->i am saccha.
+a is beechka.
+8.4 girls are there and belongs to four different ferms (fullar ,millar,
+jhillar,killar).
+they makes saled from four different fruits.
+apple,grapes,cherry & banana with no two having the same combination of three 
+fruits.
+------------conditions .
+
+9.------------------------
+10.two trains problem(harbour line,main line).
+
+
+ans------->
+1.a-->painter
+b-->carpenter
+c-->plasterer
+
+2.140/139
+
+3.20 hr.
+
+4.300
+
+5.
+
+6.acid
+
+7.a-->beechka.
+b-->jhoota.
+c-->saccha.
+
+.............................................................
+
+INFOSYS 2000 Jadavpur University
+
+1.All tallmen are handsome,fairskinned,lean,muscular,rich and employed
+a)all handsome persons are fairskinned
+b)some muscular are fair skinned and handsome
+c)all leans are muscular persons
+d)no fairskinned person is not handsome is rich
+e)neither fair skinned person nor muscular are employed 8 marks
+
+2.there are four questions based on above problem
+
+3.a software engineer starts from home at 3 p.m for evening walk. he walks
+at a speed of 4 kmph on level ground and then at a speed of 3 kmph on the
+uphill and then down the hill at a speed of 6 kmph to the level ground and
+then at a speed of 4 kmph to the home at 9 p.m. what is the distance on
+the way ? 4 marks
+
+4.a bag contains certain no. of files. each file is numbered with 1 
+digit to 9. suppose the person want to get the number between 1 to 2000
+how many minimum number of files should be present in the bag. 3 marks
+
+5.a+b+c+d=d+e+f+g=g+h+i=17
+if a=4 what are the values of d and g
+each letter takes only one of the digits from 1 to 9 8 marks
+
+6.six persons a,b,c,d,e and f went to soldier picture. there are six
+consecutive seats. a sits in the first sat followed by b,followed by c
+and so on. if a takes one of the six seats,then b should sit adjecent
+to a. c should sit adjecent to a,b,c and so on. how many possibilities
+are there? 
+
+7.suppose there are four grades a,b,c and d(a is the best and d is the
+worst) four persons jack,jean,paul and lucy wrote their final exama and
+made the statements like this
+a)jack:if i will get a then lucy will get d.
+b)lucy:if i will get c then jack will get d
+jack grade is better than paul grade
+c)jean:if jean doesnot get a then jack will not get a.
+d)paul:if jack get a then jean will not get b
+lucy will get c. i won't either a or b.
+if all of the above statements are true then which person will get which
+grade?
+
+8.each man dances with 3 women. each women dances with 3 men. among each
+pair of men they have exactly 2 women in common. find the no. of men and
+women.
+
+essay: Internet revolution or Role of media for young.
+
+.....................................................................
+
+infosys
+
+Que 1
+
+A clock showing 6'O clock takes 30 sec. to strike six times. How long will
+it take to strike 12 at midnight. 
+Ans. 66 seconds (2 Marks)
+
+Que.2
+
+There are 3 societies A B C having some tractors each. A gives B and C as 
+many tractors as they already have. After some days B gives A and C as 
+many tractors as they have. After some days C gives A and B as many 
+tractors as they have. Finally each has 24 tractors. What is the original 
+number of tractors each had.
+Ans. A=39 B=21 C=12 (5 Marks)
+
+Que.3 
+
+A B C D E are four persons and they have certain relations among 
+themselves. Four of them delevered four statements given below.
+1. B is my father's brother.
+2. C is my son-in-law's brother.
+3. E is my mother-in-law
+4. A is my brother's wife
+Who told these statements and what are the relation among them.
+
+Ans. B and C are two brothers. A is the wife of B and daughter of E.
+D is the either son or daughter of C. E is mother-in-law of B.
+Statement (St.) 1 spoken by D, St. 2 by E, St. 3 by B, St. 4 by C.
+(10 Marks)
+
+Que.4
+e means "belongs to"
+All members of E e D.
+All members of D e A.
+Not all members of D e E.
+Not all members of A e D.
+All members of C e both A and B.
+
+Some question are asked from these statements, you try by making Vein 
+diagram (easy one). (5 Marks)
+
+Que.5
+Complete the table
+
+A B C are three Hockey teams.
+
+goals-against played won lost draw goals-for 
+A 1 2 2 ? ? ? 
+
+B 4 2 ? ? 1 2 
+
+C 7 2 ? ? ? 3 
+
+Ans
+Played won lost draw goals-for goals-against
+A 2 2 0 0 7 1
+B 2 0 1 1 2 4
+C 2 0 1 1 3 7
+(4 Marks)
+
+Que.6
+There is a picnic party and three persons are there but names are are not 
+known to me so I am
+taking A B and C.
+A says party was held on Thursday, May, 8th.
+B says party was held on Tuesday, May, 10th.
+C says party was held on Friday, June, 8th.
+Given April 1st was Tuesday.
+One of them says one correct, one says one wrong
+and one was completely wrong of date, month and day. Find the actual month-
+date-day on which party was held.
+Ans. June-10th-Tuesday,june-8th-sunday
+
+(5 marks)
+
+Que.7
+A ship is away from the shore by 180 miles. A plane is travelling at 10 times 
+the speed of ship.
+How long from the shore they will meet.
+Ans. 200 miles. (2 Marks)
+
+Que.8
+Every station in N railroad issue every other stations ticket. 
+Some stations are added. 
+Now ther have to issue 46 more tickets. say the Number of stations before and 
+after added. 
+Ans. There are two answers possible. 11 and 13 OR 23 and 24.
+(5 Marks)
+
+Que.9
+In a election three persons told their views (but those are not rememberd). 
+At last Que. asked which party won the elecation.
+Ans. Deposit loss party. (Some times they change the names of the 
+parties. In that case answer will be Democratic party)
+(Marks 2)
+
+
+There were total 11 questions in this perticular set. Rest of them are 
+easy and you can solve them. As this set was solved by Pradeepta in 
+Calcutta last Sunday so we could tell you the details. If same set comes 
+to you it will be your Jack pot.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Que.1
+In a square shaped field as shown below.
+Take * = small squares.
+
+_________________________
+| B |
+| * * * * |
+| |
+| * * * * |
+| |
+| * * * * |
+| |
+| * * * * |
+| A | 
+|_______________________|
+
+One person has to move from A to B in different ways but condition is he 
+can move right and up only. So how many possible ways he can move.
+Ans. (m+n)! / m! n!.
+Where m = no. of vertical squares and n = no. of horizontal square in each 
+pass .
+Here m = 4 and n = 4. so answer is 70.
+(8 marks)
+
+Que.2
+
+Questions from GRE Barrons Guide 1996
+
+Que no. 25 to 28 Practice exercise Page-379
+Professor Kittredge's literature seminar ........
+
+Que.3
+Model test 1, Section 5, Que. 13 to 16, Page 407
+Two marrage groups Red and Brown.........
+
+Que.4
+Model test 3, Section 6, Que 19 to 22, Page 510.
+Hotel Mirramar has two wings East and West wing ......
+
+Que.5
+Model test 4, Section 6, Que 13 to 16, Page 558.
+All A's, B's, C's, D's, E's, F's, are Q's ...........
+
+(N.B. For Que. 2 to 5 the question pattern is the same but names may be 
+changed)
+---------------------------------------------------------
+Que.6
+In a cheque some X rupees and Y paise is written. By mistake the cashier 
+gave to the person Y rupees and X paise. Then the person donated 5 paise 
+to begger. Now the money he has twice the actual money written in the 
+cheque. What is the actural amount written in cheque.
+Ans. 31 rupees 63 paise.
+
+Que.7
+One person went 100 metres towards west and from there perpendicularly 
+100 metre towards North then 100 meter towards East then 98 metres 
+towards south then 98 m towards west then 96 m towards north then 96 m 
+towarde east and like this towards centre. if he will walk like this what 
+is the total distance he will cover.
+Ans. 4999 metres.
+
+Que.8
+There are 5 persons A B C D and E (their names may be changed). In their 
+head either black or white marks are there. The person having black mark 
+tells false and person having white mark tells true always. But each can 
+see the heads of other fours.
+A : says he sees 1 black and 3 white marks.
+B : says he sees 1 white and 3 black " .
+C : " " " 4 white marks.
+D : " " " 4 black ".
+
+Tell who is having which mark.
+Ans. B and E are having white marks. A C and D having black marks. 
+
+Que.9
+One river is there
+
+| |
+| |
+one person --|------> |
+| |
+| <------|-- second person
+| |
+| |
+
+Two persons crossing the river as shown in figure. During their move they 
+will meet each other at one point and reaching the opposite side again 
+move towards each other and meet in another point. Their speed and time 
+of meeting is given. Find the width of river.
+The Ans. was 1200 yards.
+
+Que.10
+Problem of murder mystery. 
+In a hotel some rooms are there. In one room one dead body was found. Who 
+is the murderer of that person. (Complete Que. is very lengthy and not 
+remembered by anybody here)
+Ans. Soumya
+(8 Marks)
+
+Que.11
+>From Thane to Bombay 1 hour journey. During journey one person can meet a 
+train in every 5 minutes from opposite direction. So how many trains he 
+can see in that 1 hour.
+Ans. 13
+(2 Marks)
+
+Que.12
+A carrage of 5 horses were running towards 
+
+
+
+
+
+
+some 
+other more views are there). Que. is what os the number written at the 
+bottom face.
+Ans. 3
+
+Que.14
+There are 4 persons in four sides of a table. They are pianoist and 
+musician etc. (Rest part of Que. not known).
+Ans. Shilpa
+
+
+Que.15
+B E
+x B E
+----------------
+A C B 
+
+What is the value of B and E in the multiplication table.
+
+Ans.
+
+1 9
+x 1 9
+_________________
+3 6 1
+
+
+Que.16
+
+
+- - [ - - - - - - - - - ] - - - - - - -
+- -
+-------------------------------
+- - -
+- -
+-------------------------------
+- - -
+- -
+------------------------------
+- - -
+- -
+------------------------------
+- - -
+- - -
+------------------------------
+0
+
+
+There are only 4 fives in the entire division. Fill it ? 
+
+
+Ans.
+
+3 3 [ 1 0 0 0 9 9 0 6 5 ] 3 0 3 3 3 0 5
+9 9
+-------------------------------
+1 0 9
+9 9
+-------------------------------
+1 0 9
+9 9
+------------------------------
+1 0 0
+9 9
+------------------------------
+1 6 5
+1 6 5
+------------------------------
+0
+
+(8 Marks)
+
+Que.17
+
+- - - [ - - - - - ] - - -
+3 - -
+--------------------------
+- - -
+- 3 -
+--------------------------
+- - -
+3 - -
+--------------------------
+0
+
+Ans.
+
+1 1 1 [ 3 6 9 6 3 ] 3 3 3
+3 3 3
+--------------------------
+3 6 6
+3 3 3
+--------------------------
+3 3 3
+3 3 3
+--------------------------
+0
+
+
+
+Que.18
+L : says all of my other 4 friends have money.
+M : says that P said that exact one has money.
+N : says that L said that precisely two have money.
+O : says that M said that 3 others have money.
+P : L and N said that they have money.
+
+All are liers. Tell who has money and who does't have.
+
+Ans. no ans. with us. you try to solve.
+
+Que.19
+There is a five digit number. The 4th digit is four greater than 2nd 
+digit, while 3rd digit is 3 less than 2nd digit. The first one is thrice 
+the last digit. There are three pairs whose sum is 11. Find the number.
+Ans. 65292.
+
+Que.20
+Problem on Escalator.
+(Que. from Shakuntala Devi no. 27)
+
+Ans. 46.
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+tata infosys paper set -2 
+******************************************************************************
+*
+
+> 1. AT 6 O'CLOCK A WALL CLOCK RANG 6 TIMES. IN MY WATCH THE FIRST AND THE 
+LAST
+> RING GAVE A DIFFERENCE OF 30 SECONDS. WHAT WOULD BE THE TIME TAKEN TO RING
+> AT MIDNIGHT 12 O'CLOCK?
+> 
+> ANS) 66 SECONDS 2 MARKS
+> 
+> 2. THERE WERE THREE FRIENDS. DURING THEIR JOURNEY TWO OF THEM LOST THEIR
+> CATRIDGES. SO THEY DEVIDED THE CARTRIDGES OF THE OTHER ONES EQUALLY AMONG
+> THEMSELVES. AFTER 4 ROUNDS OF FIRING BY EACH ONE THEY CALCULATED THAT THE
+> REMAINING NUMBER OF CARTRIDGES WAS EQUAL TO THE NUMBER OF CARTRIDGES THEY
+> FOUND AFTER DIVISION. WHAT WAS THE NO. OF CARTRIDGES BEFORE DIVISION?
+> 
+> 
+> ANS) 18 
+> 
+> 3.ONE SHIP COVERED A DISTANCE OF 180 KM IN SEA. AN AEROPLANE STARTED WHEN
+> SHIP COVERED 180 MILES. THE AEROPLANE SPEEDIS 10 TIMES THE SPEED OF SHIP.
+> AT WHAT DISTANCE THE AEROPLANE WOULD CROSS THE SHIP ?
+> 
+> ANS) 200 KM
+> 
+> 4. 3 FOOTBALL TEAMS A,B AND C ARE PLAYING AGAINST EACH OTHER.SUCH TEAMS
+> PLAYED TWO MATCHES. THEIR SCORES ARE GIVEN AS:
+> PLAYED WON LOST DRAWN GOALS FOR GOALS AGAINST
+> A 2 2 (0) (0) (7) (1)
+> 
+> B 2 (0) (1) 1 2 7
+> 
+> C 2 (0) (1) (1) 3 4
+> 
+> FILL IN THE BLANKS?
+> 
+> ANS) ACTUALLY IN THE QUESTION THE VALUES WITHIN BRACKETS WERE BLANKS.
+> THE ANSWERS ARE GIVEN WITHIN BRACKETS.
+> 
+> 5. THERE WERE SOME NO. OF STATIONS IN THE EASTERN RAILWAYS. A FEW NO. OF
+> STATIONS WERE ADDED TO THAT SO THAT 46 MORE NOS. OF TICKETS WERE SOLD.
+> IN EACH STATION WE CAN GET TICKETS OF ALL OTHER STATIONS. FIND OUT THE
+> NO. OF NEW STATIONS ADDED AND THE NO. OF STATIONS WHICH WERE THERE BEFORE
+> ADDITION?
+> 
+> ANS) 2 , 11 
+> 
+> 6. THERE WERE 3 FARMERS A, B AND C EACH HAVING SOME NO. OF TRACTORS WHICH
+> THEY SHARED AMONG EACH OTHER.
+> FIRST A GAVE THE OTHER TWO , THE NO. OF TRACTORS THEY EACH HAD.
+> THEN B GAVE THE OTHER TWO, THE NO. OF TRACTORS THEY EACH HAD.
+> THEN C GAVE THE OTHER TWO, THE NO. OF TRACTORS THEY EACH HAD.
+> LASTLY THEY HAD ALL EQUAL NO. OF TRACTORS, i.e. 24. FIND OUT THE NO. OF 
+TRACTORSTHEY HAD INITIALLY?
+> 
+> ANS) 39 , 21 , 12 FOR A , B AND C RESPECTIVELY.
+> 
+> 7. THERE WERE 4 POLITICAL PARTIES.
+> a) DAY FLIGHT
+> b) EAT WELL
+> c) GOOD SLEEP
+> d) DEPOSIT LOSS
+> THERE WERE 3 FRIENDS WHO MADE STATEMENTS ABOUT THE WIN OF POLITICAL PARTY
+> IN THE FORTHCOMING ELECTION AS FOLLOWS:
+> 1)EITHER DAY FLIGHT OR EAT WELL WILL WIN THE ELECTION
+> 2) DAY FLIGHT CANNOT WIN THE ELECTION
+> 3) NEITHER DEPOSIT LOSS NOR EAT WELL CAN WIN THE ELECTION
+> AMONG THE THREE FRIENDS ONE WAS RIGHT. THEN WHO WON THE ELECTION?
+> 
+> ANS) DEPOSIT LOSS
+> 
+> 8. THIS QUESTION WAS ABOUT A DATE PROBLEM ( FIND OUT THE YEAR, MONTH AND
+> DAY ) WHICH IS THERE IN THE HAND WRITTEN QUESTION PAPERS(XEROX) I HAVE
+> SENT YOU. IT IS PROBABLY THE LAST PROBLEM IN THE PAPER.
+> 
+> ANS) CAN NOT BE DETERMINED
+> 
+> 9. A LOGICAL REASONING QUESTION FROM BARRON'S GRE GUIDE.
+> HINTS: 1) BOYS HAVING AGE > 16 CAN WEAR OVERCOAT
+> 2) NO BOY < 15 CAN WEAR A CAP
+> 3) BOYS WHO WEAR CAP OR OVERCOAT OR BOTH CAN ONLY SEE THE FOOTBALL
+> MATCH
+> 4) SOME WHO WERE CARRYING UMBRELLAS WERE NOT WEARING OVERCOAT.
+> 5) SOME PEOPLE WERE WATCHING A FOOTBALL MATCH ON A SATURDAY
+> AFTERNOON.
+> WHAT CAN YOU TELL ABOUT THE AGE OF THOSE WATCHING FOOTBALL MATCH?WHAT
+> CAN YOU SAY ABOUT THERE APPAREL?
+> 
+> ANS) SEE THE MODEL TEST PAPERS OF BARRONS GUIDE.
+> 
+> 10) THERE ARE 5 MEMBERS IN A FAMILY WITH MEMBERS A, B, C, D AND E .
+> THE FOLLOWING STATEMENTS WERE MADE ONE DAY :
+> 1. B IS MY FATHER'S BROTHER
+> 2. E IS MY MOTHER IN LAW
+> 3. C IS MY BROTHER IN LAW'S BROTHER
+> 4. A IS MY BROTHER'S WIFE
+> AMONG THE FIVE WHO MADE EACH OF THE ABOVE STATEMENTS AND HOW ARE THEY
+> RELATED TO EACH OTHER? 10 MARKS(MAXIMUM MARK)
+> 
+> ANS) WE COULD NOT SOLVE THIS QUESTION . PLEASE REFER TO BARRON'S GUIDE.
+> 
+> 11. A,B,C,D AND E ARE ALL MEMBERS OF DIFFERENT SOCIETIES.
+> 1)ALL MEMBERS OF D ARE MEMBERS OF A
+> 2)ALL MEMBERS OF E ARE MEMBERS OF D
+> 3)ALL MEMBERS OF C ARE MEMBERS OF BOTH A AND B
+> 4)SOME MEMBERS OF A ARE NOT MEMBERS OF D
+> 5)SOME MEMBERS OF E ARE NOT MEMBERS OF E
+> THERE WERE 5 MULTIPLE QUESTIONS BASED ON THE ABOVE STATEMENTS WHICH I DON'T
+> REMEMBER. 5 MARKS
+> 
+> ANS) DO IT BY VENN DIAGRAM AND FIND OUT EASILY THE ANSWER.
+> 
+> 
+> 1. AT 6 O'CLOCK A WALL CLOCK RANG 6 TIMES. IN MY WATCH THE FIRST AND THE 
+LAST
+> RING GAVE A DIFFERENCE OF 30 SECONDS. WHAT WOULD BE THE TIME TAKEN TO RING
+> AT MIDNIGHT 12 O'CLOCK?
+> 
+> ANS) 66 SECONDS 2 MARKS
+> 
+> 2. THERE WERE THREE FRIENDS. DURING THEIR JOURNEY TWO OF THEM LOST THEIR
+> CATRIDGES. SO THEY DEVIDED THE CARTRIDGES OF THE OTHER ONES EQUALLY AMONG
+> THEMSELVES. AFTER 4 ROUNDS OF FIRING BY EACH ONE THEY CALCULATED THAT THE
+> REMAINING NUMBER OF CARTRIDGES WAS EQUAL TO THE NUMBER OF CARTRIDGES THEY
+> FOUND AFTER DIVISION. WHAT WAS THE NO. OF CARTRIDGES BEFORE DIVISION?
+> 
+> 
+> ANS) 18 
+> 
+> 3.ONE SHIP COVERED A DISTANCE OF 180 KM IN SEA. AN AEROPLANE STARTED WHEN
+> SHIP COVERED 180 MILES. THE AEROPLANE SPEEDIS 10 TIMES THE SPEED OF SHIP.
+> AT WHAT DISTANCE THE AEROPLANE WOULD CROSS THE SHIP ?
+> 
+> ANS) 200 KM
+> 
+> 4. 3 FOOTBALL TEAMS A,B AND C ARE PLAYING AGAINST EACH OTHER.SUCH TEAMS
+> PLAYED TWO MATCHES. THEIR SCORES ARE GIVEN AS:
+> PLAYED WON LOST DRAWN GOALS FOR GOALS AGAINST
+> A 2 2 (0) (0) (7) (1)
+> 
+> B 2 (0) (1) 1 2 7
+> 
+> C 2 (0) (1) (1) 3 4
+> 
+> FILL IN THE BLANKS?
+> 
+> ANS) ACTUALLY IN THE QUESTION THE VALUES WITHIN BRACKETS WERE BLANKS.
+> THE ANSWERS ARE GIVEN WITHIN BRACKETS.
+> 
+> 5. THERE WERE SOME NO. OF STATIONS IN THE EASTERN RAILWAYS. A FEW NO. OF
+> STATIONS WERE ADDED TO THAT SO THAT 46 MORE NOS. OF TICKETS WERE SOLD.
+> IN EACH STATION WE CAN GET TICKETS OF ALL OTHER STATIONS. FIND OUT THE
+> NO. OF NEW STATIONS ADDED AND THE NO. OF STATIONS WHICH WERE THERE BEFORE
+> ADDITION?
+> 
+> ANS) 2 , 11 
+> 
+> 6. THERE WERE 3 FARMERS A, B AND C EACH HAVING SOME NO. OF TRACTORS WHICH
+> THEY SHARED AMONG EACH OTHER.
+> FIRST A GAVE THE OTHER TWO , THE NO. OF TRACTORS THEY EACH HAD.
+> THEN B GAVE THE OTHER TWO, THE NO. OF TRACTORS THEY EACH HAD.
+> THEN C GAVE THE OTHER TWO, THE NO. OF TRACTORS THEY EACH HAD.
+> LASTLY THEY HAD ALL EQUAL NO. OF TRACTORS, i.e. 24. FIND OUT THE NO. OF 
+TRACTORSTHEY HAD INITIALLY?
+> 
+> ANS) 39 , 21 , 12 FOR A , B AND C RESPECTIVELY.
+> 
+> 7. THERE WERE 4 POLITICAL PARTIES.
+> a) DAY FLIGHT
+> b) EAT WELL
+> c) GOOD SLEEP
+> d) DEPOSIT LOSS
+> THERE WERE 3 FRIENDS WHO MADE STATEMENTS ABOUT THE WIN OF POLITICAL PARTY
+> IN THE FORTHCOMING ELECTION AS FOLLOWS:
+> 1)EITHER DAY FLIGHT OR EAT WELL WILL WIN THE ELECTION
+> 2) DAY FLIGHT CANNOT WIN THE ELECTION
+> 3) NEITHER DEPOSIT LOSS NOR EAT WELL CAN WIN THE ELECTION
+> AMONG THE THREE FRIENDS ONE WAS RIGHT. THEN WHO WON THE ELECTION?
+> 
+> ANS) DEPOSIT LOSS
+> 
+> 8. THIS QUESTION WAS ABOUT A DATE PROBLEM ( FIND OUT THE YEAR, MONTH AND
+> DAY ) WHICH IS THERE IN THE HAND WRITTEN QUESTION PAPERS(XEROX) I HAVE
+> SENT YOU. IT IS PROBABLY THE LAST PROBLEM IN THE PAPER.
+> 
+> ANS) CAN NOT BE DETERMINED
+> 
+> 9. A LOGICAL REASONING QUESTION FROM BARRON'S GRE GUIDE.
+> HINTS: 1) BOYS HAVING AGE > 16 CAN WEAR OVERCOAT
+> 2) NO BOY < 15 CAN WEAR A CAP
+> 3) BOYS WHO WEAR CAP OR OVERCOAT OR BOTH CAN ONLY SEE THE FOOTBALL
+> MATCH
+> 4) SOME WHO WERE CARRYING UMBRELLAS WERE NOT WEARING OVERCOAT.
+> 5) SOME PEOPLE WERE WATCHING A FOOTBALL MATCH ON A SATURDAY
+> AFTERNOON.
+> WHAT CAN YOU TELL ABOUT THE AGE OF THOSE WATCHING FOOTBALL MATCH?WHAT
+> CAN YOU SAY ABOUT THERE APPAREL?
+> 
+> ANS) SEE THE MODEL TEST PAPERS OF BARRONS GUIDE.
+> 
+> 10) THERE ARE 5 MEMBERS IN A FAMILY WITH MEMBERS A, B, C, D AND E .
+> THE FOLLOWING STATEMENTS WERE MADE ONE DAY :
+> 1. B IS MY FATHER'S BROTHER
+> 2. E IS MY MOTHER IN LAW
+> 3. C IS MY BROTHER IN LAW'S BROTHER
+> 4. A IS MY BROTHER'S WIFE
+> AMONG THE FIVE WHO MADE EACH OF THE ABOVE STATEMENTS AND HOW ARE THEY
+> RELATED TO EACH OTHER? 10 MARKS(MAXIMUM MARK)
+> 
+> ANS) WE COULD NOT SOLVE THIS QUESTION . PLEASE REFER TO BARRON'S GUIDE.
+> 
+> 11. A,B,C,D AND E ARE ALL MEMBERS OF DIFFERENT SOCIETIES.
+> 1)ALL MEMBERS OF D ARE MEMBERS OF A
+> 2)ALL MEMBERS OF E ARE MEMBERS OF D
+> 3)ALL MEMBERS OF C ARE MEMBERS OF BOTH A AND B
+> 4)SOME MEMBERS OF A ARE NOT MEMBERS OF D
+> 5)SOME MEMBERS OF E ARE NOT MEMBERS OF E
+> THERE WERE 5 MULTIPLE QUESTIONS BASED ON THE ABOVE STATEMENTS WHICH I DON'T
+> REMEMBER. 5 MARKS
+> 
+> ANS) DO IT BY VENN DIAGRAM AND FIND OUT EASILY THE ANSWER.
+
+
+**************************************************************
+
+INFOSYS 2000 
+Intsitute of Technology,
+BHU
+Date - 03.08.00
+
+In all there were ten questions.
+
+1. A man decides to quit smoking after he had finished 27 cigarettes that 
+were present in his pocket. For one cigarette that he smokes, he leaves one 
+third of it. he finds that using 3 butts he can make 1 cigarette. Find the no.
+of cigarettes he smokes before quitting.
+<marks - 3>
+
+2.There are 100 balls in a bag: 20 white, 20 yellow, 20 red, 20 green and 20 
+black. A man is blindfolded , then find the minimum no. of balls he must take 
+out so that there is atleast a pair of balls.
+<marks - 3>
+
+3."I spend one-sixth of my age as a youth",remarked the boss," one-twelfth in 
+a liquor shop, and one-seventh and five years in politics and matrimonials. 
+At that time Jimmy was born. Four years back Jimmy was selected as a 
+legislator when he was but half my present age." What is the age of the boss?
+<marks - 4 >
+
+4.Seven persons A,B,C,D,E,F and G have one day as a holiday in a week. No two 
+persons have the holiday on the same day. The folloiwng conditions are given:
+~ G's holiday is three days after that of B's.
+~ D's holiday is three days after the day before E's holiday.
+~ A's holiday is the day after C's
+~ F's holiday is midway between that of B's and C's on thursday.
+Find the holidays of A, B, C, D.
+<marks - 4 >
+
+5. Smith, Jones and Denver are great friends. Smith's wife has died and he 
+stays with his niece. Denver is also a widower and his daughter keeps him. 
+Jones stays with his wife. They decide among themselves that all of them 
+should stay together. On the beginning of the month each person was to give 
+Rs. 25 for the household expenses. The total monthly expenditure came out to 
+be Rs. 92. The money left was evenly divided among the members without any 
+fractions. Find the amount each person gets.
+<marks - 6 >
+
+6.A thief broke into a jewellery shop and took all the diamonds. Later his 
+conscience told him to take only half of it. However he took two more 
+diamonds. A second thief then broke into the shop and he also stole two more 
+than the half present. Similarly, the third and the fourth thief came and did 
+the same thing. When the fifth thief came to steal there were no diamonds 
+left. Find the no. of diamonds that were present initially .
+<marks - 4 >
+
+7. S E N D
++ M O R E
+--------------
+M O N E Y
+
+Find the values of S,E,N and D if each letter indicates a different digit.
+<marks - 4 >
+
+8.There are three men Drake, Cutler and Barber. Their wives are Dorthy, Beth 
+and Lousie not necessarily in the same order. Their sons are Allan, Victor 
+and Henry again need not to be in the same order.
+Drake is neither Lousie's husband nor Henry's father.
+Beth is neither Cutler's wife nor Allan's mother.
+If Allan is Drake's or Cutler's son then Lousie is Victor's mother.
+If Lousie is the wife of Cutler, then Dorthy is not Allan's mother.
+Find :
+---------------------------------------------------------------------
+MAN Drake Cutler Barber
+
+WIFE 
+
+SON
+---------------------------------------------------------------------
+<marks - 6 >
+
+9. There are three women Attractive, Delectable and Fascinating who belong to 
+three different tribes Pukka, Wotta and Summa not necessarily in the same 
+order.
+Pukka always tells truth, Wotta always lies while Summa says true and false 
+alternately( or false and true)
+They participated in a charming personality contest.
+Thereafter a conversation between the three is reported as:
+Attractive: Delectable is pukka.
+Delectable is more charming than Fascinating.
+Delectable: Attractive is pukka.
+Fascinating is Wotta.
+Fascinating: Out of all of us, the one who speaks most truth is the 
+least charming.
+Attractive is surely not the most charming among the three 
+of us.
+Find who belongs to which tribe.
+Also find the order in which they won the charming personality contest.
+<marks - 8>
+
+10. Question from Barron's gre : Practice Exercises of analytical section 
+from Que. no. 25 - 28. (Professor Kittredge's literature ----)
+<marks - 8> 
+
+
+
+Answers:
+1. 40
+2. 6
+3. 84
+4. A-Sunday, B-Tuesday, C-Saturday, D-Wednesday
+5. Rs. 2
+6. 60
+7. S=9, E=5, N=6, D=7
+8. Drake-Beth-Victor, Barber-Lousie-Allan, Cutler-Dorthy-Henry
+9. Pukka-Fascinating, Wotta-Delectable, Summa- Attractive
+Order of the charm: Delectable, Attractive, Fascinating
+10. see gre guide 
+
+Essay:
+1. Role of the government in the developing nations.
+or
+2. India as the new global powerhouse of the 21st century. If yes -why , if 
+no - why?
+
+best of luck for ur info "written"*************************************
+
+......................................................................
+IIT - Bombay
+
+1.Gary and Alfred are asked to choose two nos. from 1 to 1000. What is the
+probability that no. chosen by GARY is bigger than that of Alfred.
+
+2.Two swimmers cross a channel in opposite directions.In first lap they
+meet at 720 yards from the nearest shore.After 1 lap they rest for 10
+mins. and come back. Then they meet at 400 yards from opposite shore.
+One is faster than the other.What is the width of the channel.
+
+3. X Y Z
+X Z Y
+---------------
+Z Y X
+------------------
+X,Y,Z are different. What are they?
+
+4. Some very easy perfect balancing problem.Idea based on torque
+balancing.Very easy.U can do it.
+
+5. X^(1/3) - X^(1/9) = 60
+Find X.
+
+6.There are 3 men and 3 females. They decided to make pairs among
+themselves and marry.The total age of all the couples are same.They made
+three statements.
+1.Tom(m) is older than Jim(m) , and is brother of Dorothy(f)
+2.Viriginia(f) is oldest of the females.
+3.Age of Jim(m)+Jean(f)=Bill(m) + Dorothy(f).
+Tell who marries with whom.
+
+7.Allen & Smith have two sons each.Name of all the boys are
+Bret,David,Arthur,Carl.There are some facts given.Their ages range between
+1 and 11.
+1.Bert is oldest.
+2.David is five years older than Smith's younger son.
+3.Arthur is 3 years younger than his brother.
+4.Carl is half as old as one of Allen son.
+5.Difference between total ages of each families sons was same as it was
+five years ago.
+What are their ages and who belongs to which family(i.e. who is father
+of whom).
+
+8.Master told his grandfather that "Total of my and 3 of my distant
+cousins ages is 50 and all of them are prime nos."
+Grandfather who knew the age of the master told,"I can tell the ages of
+your cousins".
+What are the ages ?
+
+9. NBA decided that if a team looses two matches it is out of the
+tournament.There are 51 teams in total.What is maximum no. of matches that
+can be played before they can select the winner?
+
+10.3 students are there to select 3 subjects each.Available subjects are 
+maths,bio,history,chemistry.Each of them made 4 statements out of which
+only and only two are true.What there subjects.
+I exactly donot remember the statements since time was up and I
+just came from toilet.
+
+
+Answers:-
+1. 0.4995 2. 1760 yards
+3. X=4,Y=5,Z=9 4.A=60,B=100,C=85
+5. X=(64)^3 6.Tom+Jean,Bill+Virginia,Jim+Dorothy
+7.Allen Smith 8.Ages are 3,5,5
+Bert(11) David(10) Age of master is 37
+Carl(5) Arthur(7) 
+9.Total is 101.
+
+....................................................................
+
+IIT - Delhi
+
+1.a field martial got param vir chakra in 1971. /
+his age is one fifty ninth his year of birth. /
+calculate his year of birth. \/
+/
+2.there are 6561 balls out of which one is heavier /
+than the rest. find out the min. number of weighings/
+required to detect the heavier ball. \/ 
+
+3.a road was constructed and the revenues collected
+from it were to be used to pay 6% interest on some
+amount of stock but when this stock was to be paid in
+two parts the interests wer 7.5% on 40,00,000 and 5% on
+the other part . find out the total stock and the
+other part of the stock.
+
+4.out of a total of 50 football teams one who loses 3 /
+matches is out of the championship. find out the max /
+number of matches to be played to select the winner./
+\/
+5.william had started from pixie at the same time as
+peter from dixie.they met at a point where william had
+travelled 18 miles more than peter. it took william 
+13.5 hours from that point to reach dixie and it/took 
+peter 24 hours from that point to reach pixie. /
+find out the distance between pixie /
+and dixie. \/
+
+6.Four persons john,pete,art and tom are fireman ,
+breakman,engineer and conductor not in order.
+following conditions are true:
+-engineer and fireman are brothers.
+-john is elder brother to art.
+-breakman has no relatives.
+-john is pete's uncle.
+-fireman is not the uncle of conductor and the
+conductor is not the uncle of engineer.
+Find out each person's occupation and relationship
+between them.
+
+7.There were 4 ways in which a Mr.Gaurav can go from
+his hotel to the field.
+- If he goes by a horse it takes rest of 1/2 an hour
+at the coachway before reaching the field.
+- if he starts on foot at the same time as the horse
+did , the horse beat the man by 1 mile.
+-if both the horse and the man sarted at the same time
+and the horse waited at the coachway for 15 minutes .
+the man caught the horse at the coachway, and
+travelled the rest of the distance on the horse.
+-man covered the total distance on horse (i dont
+remember the time taken.)
+Distance was to be calculated.
+(4equations were to be solved . slightly difficult to
+solve).
+
+
+Answers
+1.1947.
+2. 8.
+3. 6000000.
+4. 149 matches.
+5. -
+6. 126 miles.
+7. 8 miles.
+
+....................................................................
+
+REC-Durgapur
+
+
+
+1.employe 1.-you told me ,"two years ago, you have
+worked 3 times as much 
+as me.
+employe2.-yes, isaid that now i have worked twice as
+much as you.
+how many years both of them have worked.------4&8
+2. there are 20 flag . aperson starts from firstflag
+and goes up to 12th flag in 24 
+sec . what is the total time he took to reach 20th
+flag.---------24*19/11
+3. mr X says that the 2 dial of the watch concide
+every 65 min. is the 
+or gaining the time, and by how much in a
+hour.-----60/143min.
+4.a person leaves the city at const speed. on his way
+he saw a mile-stone,a 2 digit no. 
+after going for 1 hour , he sees another , milestone
+having the same number in reverse order
+still further 1 hour he again sees the mile stone
+showing the two number but a zero in between.
+what is the velocity of x .---------------ans 45km
+per hour
+
+5.MOON
+SOON
+NOON
+-------
+JUNE FIND JUNE? ----------ANS - 9326,7326
+6. a,b,C,D HAS 4 CARDS IN FRONT OF THEM. and the
+colour of the cards on 2 faces are diffrent. 
+2 red 2green, 2 blue.
+a says- yellow or blue
+b says- niether yellow nor blue
+c says blue or yellow
+d says- blue or green
+if the open face colour is the order red,
+green,red,blue. find the hidden colour, if 2 of them
+says
+lie.-----------red green red green
+yellow blue yellow blue
+
+7.A's wife died .he is living with his niece.B is a
+widow and living with her daughter
+and C is living with hr wife.C's wife suggested that
+they should live together.each member of the 
+group should contribute 25/- and the rest should be
+distributed equally .if the monthly expense was rs
+92/- and each got whole sum of money(no
+fraction).after cutting their expenses what is amount
+each 
+will get? -----rs 2/-
+
+
+8-a man leaves home for his office in time according
+to his watch but in the office he finds that 
+he is not on time and checks his watch.he finds that
+his watch shows one hour when actually
+65 min has been passed say whether his watch loses or
+gain time and by what amount per hour?
+4 min 55sec
+
+9.three people A,B,C live in a place , their
+occupations are policeman , fireman , teacher.
+
+out of the five conditions , only two are true 
+(a) A is the neighbour of techer.
+(b) B is the neighbour of techer.
+(c) policeman and fireman are neighbour of C.
+(d) all of them are neighbour of each other.
+(e) B is the neighbour of fireman.
+FIND THEIR OCCUPATION OF A,B,C.
+ANS. A-POL 
+
+
+------------------------------------------------------
+------------------------------------------------------
+
+REC -Bhubnaeshwar 2000
+
+
+
+1. A bicycle goes 1 mile in 3 min. with the wind & returns back in 4 min. 
+against the wind.how much min. will it take to cover 1 mile if wind is not 
+blowing.
+
+2.A man passed 1/6th of his life in childhood,1/2th in youth & 1/7th as a 
+bachelor; 5 years after his marriage a son was born who died 4 years before 
+his father at half his final age.what is the age of man.
+
+3.Same as 7th problem in tirchi(alpha ,beta,gamma problem).
+
+4.A thief broke into a jwellery shop and thought of taking all the dimonds.
+but while leaving,came to his batter sance and thought of taking half him.but 
+he could not resist and took two more extra and left.a second thief came and 
+took half of the remaining and two more.then 3rd & 4th also did the same.5th 
+thief came and there was no more dimond to steal.what was the actual no. of 
+dimonds initially.
+
+5. SAND + MORE = MONEY , what ia the value of M,O,N,E?
+
+6.3 men a,b,c went in 3 direction and had stolen a mule,a horse and a camel.
+they were caught by C.B.I.during there interrogation they said,
+a-->b had stolen a horse.
+b-->a&c are both lying and i had stolen nothing.
+c-->a is lying and b had stolen a mule.
+one who had stolen camel is lying and who had stolen horse is telling truth.
+amonge a,b,c who had stolen what.
+
+7.shakuntla devi's puzzles to puzzle you no.63.
+
+8.amarpur is north of langang and west of chupur.basti is north of amarpur 
+and west of fulganj.dama is south and east of amarpur.langanj is north of 
+fulganjand east of dania.fulganj is north of dania and west of amarpur.chupur 
+is south of fulganj and west of dania.
+a.which of the towns maintioned is farthest to the north west
+b.which one must be both north and east of fulganj.
+c.which one must be situated both south and west of at least one another town.
+
+d.which of the statements if true would make information in thenumbered 
+statements more specific.
+->chupur is north of dania
+->langanj is north of dania
+->amarpur is east of basti.
+->chupur is east of fulganj
+->basti is north of fulganj.
+
+9.there are 4 women and is quest.the candition about what they are selling 
+and their last names are given.from this you have to find what they are 
+selling and their lastname
+
+.................................................................
+
+

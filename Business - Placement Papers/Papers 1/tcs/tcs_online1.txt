@@ -1,0 +1,423 @@
+
+
+	 this is recent TCS talent test paper.
+
+
+ this time tcs has given 8 sets (code A to codeH)of
+papers,in each
+set verbal part is quite different,and aptitude is
+almost similar
+with change of numericals.
+
+model is
+verbal--10 synonyms, 10 antonyms,1 comprehension,1
+selecting
+         suitable words
+reasoning--- GRE verbal reasoning type 4 paragraphs
+aptitude---- 34 questions of fillup the blanks
+
+here iam sending answers for only codeD and F papers.
+for others iam just
+sending verbal questions.
+
+	D-CODE
+
+
+
+			VERBAL
+
+SYNONYMS:
+
+1.PARLANCE = LANGUAGE OR IDIOM
+2) LIAISON  = GO BETWEEN OR SECRET LOVEAFFAIR
+3. CAJOLE = COAX OR WHEEDLE
+4. OBLITERATE
+5. EXASPERATE
+6.RAMIFICATION
+7.ALTERCATION
+8.RECAPITULATE
+9.IMPASSE
+10.SEMBLANCE = SIMILARITY
+
+ANTONYMS:
+
+1.
+EXONERATE
+2.
+SEGACITY
+3.
+COMMENSURATE
+4.
+NONCHALANT
+5.
+CRYPTIC
+6.
+RUPTURE
+7.
+REVOCABLE
+8.
+SLUMP
+9.
+TRANSLUCENT
+10.
+DANGLE
+
+QUANTITATIVE
+
+1.OENIR   -Ã  BRAVE
+  THEN  CYRNFR Ã 			ANS) PLEASE
+
+2. 2,7,24,77, ?    COMPLETE THE SEQUENCE		ANS)238
+3.CONVERT 466 BASE 10 TO  BASE 7		ANS) 1234
+4.LARGEST PRIME NUMBER THAT 8 BIT WORD PROCESSOR
+ANS) 127
+5.PARLIAMENTARIANS  first and second letters are
+interchanged and third and fourth letters are
+interchanged and so on then find the 14 th letter from
+right.
+ANS) L
+
+6. IF N= 68*12*51  THEN WHICH OF THE FOLLOWING IS NOT
+A INTEGER
+	A) N/120  B) N/72  C)N/153   D) N/244   		ANS) A
+7. WHICH OF THE FOLLOWING IS A POWER OF 3?
+   A)6245  B)9762   C)6074    D)6561    E) 6178
+    ANS )  D
+
+8. PICK OUT THE ODD MAN OUT?
+    A)MSV  B)SYBASE    C) WINDOWS NT      D) LINUX
+ANS ) B
+9. PICK THE ODD MAN OUT
+     A) JAVA     B) SMALL TALK     C) EIFFEL    D)
+LISP       ANS) D
+11.WHICH OF THE FOLLOWING DOES NOT REPRESENT A PROPER
+TRIANGLE
+       A)5,5,5    B)5,4,5   C)4,4,9   D)3,4,5
+ ANS ) C
+12.FIND THE SOLID PLANAR CUBE, IF THE FOLLOWING
+REPRESENTS VERTICES, EDGES AND FACES
+      A)12,8,6  B)6,8,12   C)4,8,12     D)8,12,6
+   ANS) D
+13. FIND THE MAX STANDARD DEVIATION?
+    A)7,0,7,0,-7,-7  B)7,-7,7,-7,7,-7    C)
+-7,-7,-7,-7,-7,-7     D) 7,7,7,7,7,7    ANS) C
+
+13. KEPLARâ??LAW:
+            IF A,B STANDS FOR PERIODS AND X,Y FOR SEMI
+MAJOR AXIS OF TWO PLAINS THEN WHICH IS TRUE?
+     A) AÂ²/XÂ³  = BÂ²/YÂ³    B) A/B = (X/Y) 3/2  C)
+AY(Y)Â½  = BX(X)Â½     D) ALL OF THE ABOVE        ANS )
+D
+
+14. A AND B DO THE WORK IN 14 DAYS. A ALONE DOES TWICE
+AS MUCH WORK AS B. FIND HOW LONG DOES A ALONE CAN DO
+THE WORK.
+      ANS ) 21 DAYS
+
+15. WHICH OF THE FOLLOWING IS A SINGULAR MATRIX?
+
+            14      6            -373    223
+     1  0              10  12
+  A=                     B=
+ C=                 D=
+              4      3            1865   -1115
+    1   2               3   4
+
+ ANS) B
+
+16. MATCH THE FOLLOWING
+I.
+SCOOTER - AUTOMOBILE       			A) SUPER SET
+II.
+OXYGEN - WATER 				B) NOT A TYPE OF
+III.
+SHOP FLOOR  STAFF- FILTERS 			C)A TYPE OF
+IV.
+BUG - REPTILES					D) PART OF
+
+ANS   (I - C),  ( II - D), (III - A), (IV - B)
+
+17. IF â??&â?? REPRESENTS DOUBLE â??%â??REPRESENT CHANGE OF
+SIGN, FIND THE VALUE OF &%&(5) - %&%(5)
+
+
+
+18.FIND THE CURVE THAT SUITS THE FOLLOWING ?
+
+X
+0.99
+10.04
+99.98
+1000
+9990
+
+Y
+0.00001
+1.02
+1.9997
+3.0
+4.004
+
+
+ANS) Y= A POWER X
+
+19.A SEQUENCE IS DEFINED RECURSIVELY AS
+     F(0) = F(1) =1
+     F(N) = F(N-1) + F(N-2) THEN FIND F(6)
+
+     ANS ) 13
+20. WHICH OF THE FOLLOWING REPRESENTS ORTHOGONAL SET
+	A)I+j  B)3i+2j    C) -7i + j       D) 2i-3j
+ans) B,D
+21. IF X[7][9]  REPRESENTS A TWO DIMENSIONAL ARRAY AND
+ALLELEMENTS ARE ARRANGED LIEARLY EACH ELEMENT OCCUPIES
+2 BYTE OF MEMORY AND X[1][1] IS STORED AT THE  ADDRESS
+3000 THEN FIND THE LOCATION OF X[5][8]
+ANS) 3088
+
+22. EVALUATE  THE FOLLOWING EXPRESSION
+M(373,11)+R(3,4)  -  T(7,7)+R(5,8)  IF M REPRESENTS
+MODULAR ARTHMATIC OPERATION, R REPRSENTS ROUND OF
+OPERATION  T REPS TRUNCATION OPERATION
+ANS)12
+
+23. THREE INDEPENDENT MECHANISMS A,B,C HAVE BEEN
+INCORPORATED FOR FUEL SAVING WITH EFFCIENCY 30,20 AND
+40 RESPECTIVELY ASSUME THEY ARE OPERATED INDEPENDENTLY
+WHAT IS THE NET EFFICIENCY ACHIEVED
+
+24. X=3.142 AND LOG 10  X= 0.4972061807
+       X=3.143  AND LOG 10  X=0.4973443810
+THEN LOG 10 3.141 = ?
+ANS â?? 0.4970679363
+
+25.TEMPERATURE AT A PLACE IS REPRESENTED BY
+-TÂ²/6+4T+12 WHERE T IS THE ELAPSED TIME FROM MID NIGHT
+FIND THE PERCENTAGE OF RISE OR FALL IN TEMPEREATURE
+BETWEEN  5PM AND 8PM.
+
+26. A PLANE MOVES FROM  A(72Â° N LATITUDE  40Â° E
+LONGITUDE ) AT 2 A.M TO B( 32Â° N LATITUDE 50Â° W LONG)
+FLYING TIME OF PLANE IS 10 Hr THEN FIND THE OCAL TIME
+AT LANDING.
+
+27. A POWER CABLE IS TO BE LAID FROM POWER PLANT ON
+BANK OF RIVER 900M WIDE TO A FACTORY THAT IS LOCATED
+3000M DOWN STREAM ON THE OTHER BANK IF THE COST OF
+LAYING CABLE UNDER WATER  IS Rs.5  PER M AND THAT OF
+OVERHEAD ON LAND IS Rs.4 PER M FIND THE POINT DOWN
+STREAM WHERE THE CABLE IS TO CUT ACROSS THE RIVER.
+28.
+ 	
+A
+0
+0
+0
+0
+1
+1
+1
+1
+
+B
+0
+0
+1
+1
+0
+0
+1
+1
+
+C
+0
+1
+0
+1
+0
+1
+0
+1
+
+(AUB)Ã?C
+0
+0
+0
+1
+0
+1
+0
+1
+
+
+THEN FIND (AUB)Ã?C IN DECIMAL FORMAT
+ANS) 21
+
+29. DATA STORAGE SPACE REQUIRED IS GIVEN BY P(N) =
+4000 (N) Â½ WHERE N IS THE NUMBER OF  DATA ELEMENTS.
+FIND THE PERCENTAGE OF CHANGE IN STORAGE IF THE NUMBER
+OF ELEMENTS IS INCREASED BY 1%
+ANS) 0.5%
+
+30. THIS PROBLEM INVOLVES VEIN DIAGRRAM THREE CIRCLES
+1.C 2.COBAL 3. JAVA
+	C Ã? COBAL = 14;  C Ã? JAVA = 16 ; JAVA Ã? COBOL  = 13;
+COBOL Ã? C Ã? JAVA = 12 ; C= 45 ; COBOL = 49 ; JAVA =
+51;
+(i)
+HOW MANY MORE OR LESS PEOPLE ARE PROFICIENT IN
+COBAL THEN PEOPLE WHO ARE PROFICIENT IN â??Câ??
+(ii)
+PERCENTAGE OF PEOPLE PROFICIENT IN JAVA AND ALSO
+PROFICIENT IN C BUT NOT IN COBOL?
+(iii)
+PERCENTAGE OF PEOPLE PROFICIENT IN ALL THREE ?
+
+*************************
+CODE F:
+ the letters typed in CAPITALS are answers.
+synonyms:
+circumspect: condition    inspect   CAUTIOUS
+reckless
+abysmal:     slight  deep   IMMEASURABLE    invisible
+illustrous:  example   celebrated   unyielding
+SUPERIOR
+prolific:    PRODUCTIVE   inderent   childish
+supporting
+diligent:    HARDWORKING  intelligent different
+sensitive
+vehement:    PASSIONATE   confess   noisy   masculine
+impetus:     connect   crucial   STIMULUS   immediate
+acronym:     bitter  opposite   ABBREVIATION   similar
+disseminate: forecast   transparent  SPREAD
+discourage
+harbinger:   naval   uncommon   FORERUNNER   cling
+
+antonyms:
+tactable:   OBJECTIONABLE    adaptable  enjoyable
+obstinate
+covert:     MANIFEST    invisible    scared      alter
+pensive:    repentant   sad    thoughtless
+CARELESS
+mitigate:   AGGRAVATE    relieve    eliminate
+enhance
+divergent:  contrary   COMINGTOGETHER  conversant
+controversy
+dogmatic:   sceptical  RESILIENT   stubborn
+suspicious
+CLUTCH:     hold     grab        RELEASE
+spread
+motley:     bulky   speckled    HOMOGENOUS
+differnt
+relinquish: persue    VANQUISH    destroy    devastate
+transient:  carrying   certain   PERMANENT    removed
+
+aptitude:
+1) which of the following does not represnt a proper
+triangle
+  2,3,4    3,4,7   2,2,2    *3,5,9
+2) odd man out
+ a) JAVA   SMALLTALK   EIFFEL   *LISP( all others are
+oops)
+ b) SMTP   WAP     *SAP   ARP    (Except sap all are
+protocols)
+3)vertices, no. of edges, no of faces are given below
+  which of these is a solid planar cube.
+  *8,12,6  6,6,6   4,8,12    6,6,12
+4)calculating standard deviation for given values.
+5) match the following.
+   brother-sister       sibbling
+   beagle-dog	        types of
+   wheat- basmati       not a type of
+   sentence-paragraph   part of
+   (the above are matched by us. it is the answer)
+6)caplar rules
+   ans : all the above
+7)what is the largest prime no. that can be stored in
+8-bit  word computer?  ans : may be 251 .
+8)moon angle is
+     at 2' o clock     8 degrees 6 minutes  43.5
+seconds
+     at 4' o clock     7 degrees 53 minutes 6.5
+seconds
+     at 3' o clock     what is the angle?
+9)one question on venn diagrams.
+10)M is modulus , R  is round off,  T is termination
+  then what is the value of the following expression?
+  M(373,7) + R(5.8) + T(7.7) -R(3.4)
+  ans: (373%7=2) +6 +7-3 =12
+   here modulus means remainder value.
+   termination means cut off the decimal value and
+take
+   only integer.
+11) write an orthogonal  equation for the given two
+equations.
+  hint by us: convert the equations into standard form
+y=mx+c;
+  orthogonal equation is m1*m2=-1
+
+
+
+CODE C:
+
+Synonyms:
+dage
+attenuated
+seathing
+icon
+fraught
+pithy
+isotropic
+hegic
+docile
+veracity
+
+Antonyms:
+exacting
+fiasco
+nascent
+latent
+sceptical
+intercept
+invoke
+arbitrary
+categonial
+protract
+
+CODE E:
+generic
+censure
+emperical
+augment
+expedient
+compliance
+indigenous
+pedigree
+divulge
+surveillance
+standing
+irradicate
+onus
+sacroscant
+augment
+spendthrift
+bolster
+
+
+CODE G:
+paradox
+parley
+sinster
+expound
+regal
+abdicate
+tender
+anolomy
+cajole
+obliterate
+exapperate
+ramification
+alterevtim
+effusive
+gregarious
+fedility

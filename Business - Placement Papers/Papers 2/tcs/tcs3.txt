@@ -1,0 +1,122 @@
+  this is vocabulary section in tcs paper!
+    with solutions
+     -----------
+  1 admonish : usurp
+  2 meager  : scanty
+  3 alineate: estrange
+  4 merry :gay
+  5 brim: boarder
+  6 obstinate:stubborn
+  7 adhesive:tenacious
+  8 tranquil :serene
+  9 solicit: urge
+    furtive : stealthy
+misery:distress
+volume:quantity
+hamper :obstruct
+ verr :diverge
+ belief:conviction
+ incentive:merit
+ inert:passive
+ concur:acquise
+ cargo:freight
+ dispel:scatter
+caprice:whim
+heap:to pile
+covet:crave
+emancipate:liberate
+instigate:incite
+latitude:scope
+ lethargy:stupor
+ divulge:discretion
+  hover:linger
+  embrace:effigy
+ baffle:frustate
+ lament:wail
+  stiffle:snithy
+  subside:wane
+confiscate:appropriate 
+ discretion:prudence
+ efface:deliberate
+latent:potential 
+
+	The technical comprises of 50 questions on C,Unix and windows.
+The interview for us is on a later date.If the questions come for you
+also,then intimate me.
+	1.const char *
+	 char * const
+		What is the differnce between the above tow?.
+	2.In Unix inter process communication take place using?.
+	3.What are the files in /etc directory?.
+	4.About i-node numbers
+	5.Max relaxable permisssion value with out giving write permission
+	to others?.
+	6.About ln(linking) 
+	7.A question on until
+		until (who |grep mary)
+			do
+			sleep(60)
+			done
+	8.Linking across directories?.
+	
+	9.process id for kernell process
+	10.very first process created by kernell
+	11.function to repaint a window immediately?.
+	12.Function entry for DLL in win3.1
+	13.win 3.1 is a 
+	14.win 3.1 supports which type of multi tasking?.
+	15.Message displayed when a window is destroyed
+	16.About fork()?
+	17.About send message and post message
+	18.Message to limit the size of window
+	19.System call executable binary file intoa process
+	20.About GDI object?.
+	21.API used to hide window
+	22.Initialize contents  of a dialog?.
+
+
+
+            APTITUDE TEST
+					20 QUESTIONS;2 MARKS EACH
+					TIME-20MINUTES
+1) ONE RECTANGULAR PLATE WITH LENGTH 8INCHES,BREADTH 11 INCHES AND
+   2 INCHES THICKNESS IS THERE.WHAT IS THE LENGTH OF THE CIRCULAR ROD
+   WITH DIAMETER 8 INCHES AND EQUAL TO VOLUME OF RECTANGULAR PLATE?
+ANS: 3.5INCHES
+2) WHAT IS THE NUMBER OF ZEROS AT THE END OF THE PRODUCT OF THE NUMBERS
+   FROM 1 TO 100
+3) in some game 139 members have participated every time one fellow
+will
+   get bye what is the number of matches to choose the champion to be
+   held?
+ans: 138
+4) one fast typist type some matter in 2hr and
+   another slow typist type the
+   same matter in 3hr. if both do combinely in how much time they
+   will finish.
+ans: 1hr 12min
+5) in 8*8 chess board what is the total number of squares
+   refer odel
+ans:204
+6) falling height is proportional to square of the time.
+   one object falls 64cm in 2sec than in 6sec from how much 
+   height the object will fall.
+7) gavaskar average in first 50 innings was 50 . after the 51st
+   innings his average was 51 how many runs he made in the 51st
+   innings
+8)2 oranges,3 bananas and  4 apples cost Rs.15 . 3 ornages 2 bananas
+ 1 apple costs Rs 10. what is the cost of 3 oranges, 3 bananas and 
+  3 apples ANs Rs 15.
+9)in 80 coins one coin is counterfiet what is minimum number of 
+  weighings to find out counterfiet coin 
+10)in a company 30% are supervisors and 40% employees are male
+   if 60% of supervisors are male. what is the probability
+   that a randomly choosen employee is a male or female?
+11)statement: all green are blue are blue, all blue are white
+   conclusion: 
+   I) some blue are green II) some white are green
+   III)some green are not white IV) all white are blue
+   a) he has given four choices like gre type
+12)all teachers are students. some students are girls.
+   this type of questions are there.
+   we cant able to reproduce them.

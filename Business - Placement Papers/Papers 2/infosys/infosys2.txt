@@ -1,0 +1,104 @@
+> The Questions are follows
+> 
+> 
+> 1. Number of null pointers in any binary tree = n+1
+> 
+> 2. max(t1,t2,...tn)   = pipelining
+> 
+> 3. 50%   -DBETXXXXXX    - density
+> 
+> 4. print (Head(T))
+>    Traverse(left(T))
+>    print (Head(T))
+>    Traverse(right(T))    - ans: none of the above
+> 
+> 5. Boolean expn Evalvate
+>    
+> 6. Common subexpn :   - ans : a + e
+> 
+> 7. LRU :  1, 2, 3.
+> 
+> 8. Tr. Delay - 10000 bits ans. 10.01
+> 
+> 9. Grammar of Number of shift / reduce operator  : ans. 4
+> 
+> 10. CPU scheduling  9,8 ?
+> 
+> 11. if even x/2
+>     else p(p(3x+1))
+> 
+>    2^k + 1:  3 . 2^(k-1)  clarify this with sans
+> 
+> 12. allocation  ans: (ii) only
+> 
+> 13.  swapping :  ans: reference only
+> 
+> 14. Compiler - related Qn.
+> 
+> 15. LAN frames - ?  related Qn.
+> 
+> 16. parameter passing (35,20)
+> 
+> 17. sliding window protocol
+>          -   BUFFER SIZE large
+> 
+> 18.  kernel mode   -  deallocate resource
+> 
+> 19.  logic circuit
+>       ans .  Minimum OR = 3
+> 
+> 20.  Combinatorics  related
+> 
+> 21. priority scheduling
+> 
+> 22. cobegin
+>       begin  x = y; x= x+1;  y= x
+>       begin x =y; z= z+1; y= z
+>     coend
+> 
+>    ans.  Number of values possi = 2
+> 
+> 23. 2 bits flip / 2 bits exchange
+>      
+>      ans : the word with one '1'
+> 
+> 24.  any addr
+>       K^+ v(a) + 2I - 2a
+>      
+>  clarify with SANS.
+> 
+> 
+> bye
+> 
+> with love
+> 
+> jayakumar
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+>    
+> 
+> /*************************************************************************/
+> 
+> My E-Mail Address
+> ----------------- 
+> 1. jayaj@hotmail.com  ( Often Using E-mail id )
+> 2. jayaj@rocketmail.com
+> 3. jayakumar@feelings.com
+> 4. jayakumarj@usa.net
+> 
+> Present Address                Permenant Address
+> ------- -------                --------- -------
+> 
+> A-704, Bluebell Apts,          JE-28, OFFICER's Colony
+> Hiranandani Gardens,           Neyveli - 607 802
+> POWAI, MUMBAI - 400 076.       TamilNadu.
+> 
+> Ph Off:4972964 - 69
+>   Extn:4615
+>          
+> /************************************************************************/

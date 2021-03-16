@@ -1,0 +1,171 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TISL
+
+part 1
+
+it consists of number series.In some institutes alphabetical series is 
+
+
+given instead of number series.Iam having number series so iam sending 
+that.Please go through tha alphabetical tests also.
+
+1. 19,24,20,25,21,26,?   ans:22
+2. 11,14,12,15,13,16,?   ans: 14
+3. 10,2,8,2,6,2,?       a:4
+4. 8,9,11,14,,18,23,?   a:29
+5. 25,25,22,22,19,19,?  a:16
+6. 14,2,12,4,10,6,?     a:8
+7. 7,16,9,15,11,14,?    a:13
+
+
+8. 40,42,39,44,38,46,?  a:37
+9. 3,18,4,24,5,30,?     a:6
+10. 18,20,22,20,28,20,? a:22
+11. 18,20,10,12,4,6?    a:0
+12. 7,6,8,5,3,7,?       a:4
+13 9,18,21,25,20,?      a:30
+14 3,3,4,8,10,36,?      a:33
+15.30,28,25,20,34,28,?  a:21
+16. 4,8,16,32,64,128,?  a:256
+17. 8,16,24,32,40,48,?  a:56
+
+18. 13,11,14,12,15,13,?         a:16
+19. 6,18,36,108,216,648,? a:1296
+20. 4,4,8,8,16,16,?     a:32
+21. 2,6,18,54,162,486,? a:1458
+22. 4,20,35,49,62,74,? a:85
+23. 10,18,15,23,20,28,? a:25
+24. 4,10,8,14,12,18,? a:16
+25 10,15,12,17,14,10,? a:16
+
+part 2 consists of non-verbel reasoning(figures).So it is impossible for 
+me to send those.(25 questions)
+
+part 3  (quantitative)
+
+1.A clerk multiplied a number by ten when it should have been divided by 
+ten.The ans he got was 100.what should the ans have been?
+a:1
+
+
+2.If rs20/- is available to pay for typing a research report & typist A 
+produces 42 pages and typist B produces 28 pages.How much should typist A 
+receive?
+a:rs12
+3.The average salary of 3 workers is 95 Rs. per week.  If one earns 
+Rs.115 and second earns Rs.65 how much is the salary of the 3rd worker.
+Ans.105.
+4.A 16 stored building has 12000 sq.feet on each floor. Company A rents 7 
+
+floors and company B rents 4 floors. What is the number of sq.feet of 
+unrented floor space. 
+Ans.60000
+5. During a given week A programer spends 1/4 of his time preparing flow 
+chart, 3/8 of his time coding and the rest of the time in debugging the 
+programs. If he works 48 hours during the week , how many hours did he 
+spend debugging the program.
+Ans. 18.
+6. A company installed 36 machines at the beginning of the year. In March 
+
+
+they installed 9 additional machines and then disconnected 18 in August. 
+How many were still installed at the end of the year. 
+Ans .27
+7. A man owns 2/3 of the market research beauro business and sells 3/4 of 
+his shares for Rs. 75000. What is the value of Business. 
+Ans.150000
+8. If 12 file cabinets require 18 feet of wall space, how many feet of 
+wall space will 30 cabinets require?
+Ans.45
+9.A computer printer produced 176,400 lines in a given day.  If the 
+
+
+printer was in operation for seven hours during the day, how many lines 
+did it print per minute?
+Ans.420
+10. From its total income, A sales company spent Rs.20,000 for 
+advertising, half of the remainder on commissions and had Rs.6000 left. 
+
+
+What was its total income?
+Ans.32000
+11. On Monday a banker processed a batch of cheques, on Tuesday she 
+processed three times as many, and on Wednesday she processed 4000 
+cheques.  In the three days, she processed 16000 cheques.  How many did 
+
+she process on Tuesday?
+Ans.9000
+12. The cost of four dozen proof machine ribbons and five dozen accouting 
+machine ribbons was Rs.160/-. If one dozen accounting machine ribbons 
+cost Rs.20/-, what is the cost of a dozen proof machine ribbons?
+Ans.Rs.15
+13. If a clerk can process 80 cheques in half an hour, how many cheques 
+can she process in a seven and one half hour day?
+Ans.1200
+14. In a library, there are two racks with 40 books per rack.  On a given 
+dya, 30 books were issued.  What fraction remained in the racks?
+Ans.5/8
+15. The average length of three tapes is 6800 feet. None of the tapes is 
+less than 6400 feet.  What is the greatest possible length of one of the 
+other tapes?
+Ans.7600
+16. A company rented a machine for Rs.700/- a month.  Five years later 
+the treasurer calculated that if the company had purchased the machine 
+
+and paid Rs.100/- monthly maintenance charge, the company would have 
+saved Rs.2000/-. What was the purchase price of the machine?
+Ans.Rs.34000
+17. Two computers each produced 48000 public utility bills in a day.  One 
+computer printed bills at the rate of 9600 an hour and the other at the 
+rate of 7800 an hour.  When the first computer finished its run, how many 
+bills did the other computer still have to print?
+Ans.9000
+18. If a salesman's average is a new order every other week, he will 
+break the office record of the year.  However, after 28 weeks, he is six 
+orders behind schedule.  In what proportion of the remaining weeks does 
+he have to obtain a new order to break the record?
+Ans.3/4
+19. On a given day, a bank had 16000 cheques returned by customers.  
+Inspection of the first 800 cheques indicated that 100 of those 800 had 
+errors and were therefore the available immediately for data processing.  
+On this basis, hwo many cheques would be available immediately for data 
+processing on that day?
+
+
+Ans.14000
+20. A company figured it needed 37.8 sq.feet of carpot for its reception 
+room.  To allow for waste, it decided to order 20% more material than 
+needed.  Fractional parts of sq.feet cannot be ordered.  At Rs.9/- a 
+sq.feet, how much would the carpet cost?
+Ans.
+a. Rs.324 b) Rs.405 c) Rs.410 d) Rs.414 e) Rs.685
+21. A tape manufacturer reduces the price of his heavy duty tape from 
+Rs.30/- to Rs.28/- a reel and the price of a regular tape from Rs.24/- to 
+Rs.23/- a reel.  A computing centre normally spends Rs.1440/- a month for 
+tapes and 3/4 of this is for heavy duty tapes.  How much will they save a 
+month under the new prices?
+Ans.Rs.87
+22. In a team of 12 persons, 1/3 are women and 2/3 are men.  To obtain a 
+team with 20% women how many men should be hired?
+Ans.8
+23. The dimensions of a certain machine are 48" X 30" X 52".  If the size 
+of the machine is increased proportionately until the sum of its 
+
+dimensions equals 156", what will be the increase in the shortest side?
+Ans. 6"
+24. In a certain company, 20% of the men and 40% of the women attended 
+the annual company picnic.  If 35% of all the employees are man, what 
+percent of all the employees went to the picnic?
+Ans.33%
+25. It cost a college Rs.0.70 a copy to produce a Programme for the 
+homecoming football game.  If Rs.15,000/- was received for advertisements 
+in the programme, how many copies at Rs.0.50 a copy must be sold to make 
+a profit of Rs.8000/- ?
+Ans. 35000
+
+Some extra questions other than you send to me are follows.
+I already send view logic paper yesterday.
+
+
+best of luck
+

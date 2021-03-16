@@ -1,0 +1,45 @@
+philips - 99
+
+
+Section 1 - Electronics and Mathematics - 20 questions
+section 2 - Computer Science
+section 3 - Aptitude 
+
+Electronics and computer science
+
+1. A circuit was given with lot of flip-flops etc and the operation of that
+circuit was asked.    
+2. 15 software functions are there.  It is known that atleast 5 of them are
+defective.  What is the probability that if three functions are chosen and
+tested, no errors are uncovered.     
+Ans : 10  *  9  * 8
+       --    --    --          
+       15    14    13             
+
+Computer Science 
+1.Java is         
+a) Multithreaded b) intrepreter c) compiler d) all of the above           
+Ans :d
+2.  The number of nodes in a k-level m-ary binary tree is :
+
+Aptitude
+A graph was given and questions regarding shortest path was asked.
+For one question shortest path was asked and the answer is none of the
+above.
+Overall the question paper was easy.
+
+I will try to mail u the entire question paper.
+
+Interview:  
+
+HR questions:      
+1.What is your strengths and weaknesses
+2.What are the values u respect   
+3.Site a reason why philips should hire u
+4.What will u do if u are asked to manage a project which will definitely
+skip its deadline.
+
+Technical (for me)
+1.What is runtime locatable code?
+2.What is volatile, register definition in C
+3.What is compiler and what its output.

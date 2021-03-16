@@ -1,0 +1,529 @@
+------------------------------------------------------------------
+                              MASCOT
+-------------------------------------------------------------------
+
+  this test contains 2 papers
+paper1=aptitude-30min-44questions
+contains 3 sections
+paper2=computer skill-30min-60questions-6sections-10questions each
+-------
+paper1
+-------
+section1
+---------
+ i do not remember the q's.simple quantitative apt. q's.
+but takes more time ,do fast.
+section2
+--------
+ 1-8 q's on bus route.    a   b   c   d    e
+                       a  x   8   15  20   7
+                       b  6   x   9   13   21 
+                       c  10  12  x   3    11
+                       d  9   1   18  x    5
+              	       e  3   4   17  14   x
+ where x is starting point.a&e are first and last stations.and b,c,d
+are intermediate stations. fig's are no. of passengers.cost of ticket
+is 0.7Rs /pass.
+between any successive stations.  based on this few q's were given.
+the fig's
+are not correct. q's like total no.of pass.in onward journey.
+Rest of q's are
+ 2 statements were given. u have to answer they are correct or not
+.littlebit
+easy.
+section3
+--------
+simple q's from r.s agarwal_quantitative apt.
+1.1/10power18 - 1/10power20 .....value?
+2.pipes-leaking-cisterns. 
+    paper2
+------------
+ 1.general awareness.2.
+1.father of computers
+2.expand HTML,DMA,FAT,LAN,WAN,FDDetc
+3.intel's first micropro...a.pentium b.pentiumproetc
+4.1024(dec)convert to hexa&octal
+5.first micro.pro.a)8085b)8088etc
+6.motorola's processor name?
+7.windows_NT expand
+8.simple programs on pascal&c
+9.diff between 8087,8086 (which is latest vers.)
+10.some basic q's on GUI.
+11.q's on IBMpc
+12.one program on finding factorial
+ --------------------------------   
+i remember only these q's. i will ask my pals about rest of q's.i 
+want to know
+when mascot is coming.they have taken 14 from here. most of them are
+mech.&ime.
+---------------------------------------------------   
+
+VERBAL
+
+1.Depreciation:  deflation, depression, devaluation, fall, slump
+
+2.Depricate : feel and express disapproval, 
+3. incentive : thing one encourages one to do (stimulus)
+
+4. Echelon : level of authority or responsibility'
+
+5.  Innovation : make changes or introduce new things
+
+6. Intermittent : externally stopping and then starting
+
+7. Detrimental: harmful
+
+8. Conciliation : make less angry or more friendly
+
+9. orthodox: conventional or traditional, superstitious
+
+10. fallible : liable to error
+
+11. volatile : ever changing
+
+12. manifest: clear and obvious
+
+13.connotation : suggest or implied meaning of expression
+
+14. Reciprocal: reverse or opposite
+
+15. Agrarian : related to agriculture
+
+16. vacillate : undecided or dilemma
+
+17.. expedient : fitting proper, desirable
+
+18. simulate : produce artificially resembling an existing one.
+
+19. access : to approah
+
+20. compensation: salary
+
+21. Truncate : shorten by cutting
+
+22. adherence : stick
+
+23. Heterogenous: non similar things
+
+24. surplus : excessive
+
+25. Assess : determine the amount or value
+
+26.Congnizance : knowledge
+
+27. retrospective : review
+
+28.naive : innocent,rustic
+
+29. equivocate : tallying on both sides, lie, mislead
+
+30. Postulate : frame a theory
+
+31. latent : dormant, secret
+
+32. fluctuation : wavering,
+
+33. eliminate : to reduce
+
+34. Affinity : strong liking
+
+35. expedite : hasten
+
+36. console : to show sympathy
+
+37. adversary : opposition
+
+3.  affable : lovable or approachable
+
+39. Decomposition : rotten
+
+40 agregious : apart from the crowd, especially bad
+
+41. conglomaration: group, collection
+
+4. aberration: deviation
+
+43. aurgury : prediction
+
+44. crediability : ability to common belief, quality of being credible
+
+45.coincident: incidentally
+
+46.Constituent : accompanying
+
+47. Differential : having or showing or making use of
+
+48. Litigation : engaging in a law suit
+
+49.Maratorium: legally or offficiallly determined period of dealy before
+fulfillment of the agreement of paying of debts.
+
+50. negotiate : discuss or bargain
+
+51. preparation : act of preparing
+
+52. Preponderant : superiority of power or quality
+
+53.  relevance : quality of being relevant
+
+54. apparatus : applianes
+55. Ignorance : blindness, in experience
+
+56. obsession: complex enthusiasm
+57. precipitate : speed,active
+
+Section III
+
+Letter Series
+
+These are too tough. Maintain time     26 questions ----- 10min
+
+
+1. A C BDEFGI   -  I  H K J L    ANS:  H
+
+2. AIZBEYCIXDI  -  GENJW     ANS;W
+
+3. ADGJMP   - RWTS    ANS; S
+
+4. ABCEFGIJK - MLONP    ANS; M   nOTE: MLONP ARE GIVEN OPTIONS
+
+5. ABFGKLPQ - TSVUW   ANS;U
+
+6 JWXUVST  -  QPSET   ANS; Q
+
+7. ARHXYTDTWST   - NPTKR   ANS; P
+
+8.FMBIPZVIEV  - IRYOU   
+
+9. NZI YCX KWF - JFVMY  ANS;V
+
+10. AASASPASPKA - RQTSU  ANS;S
+
+11. AECPS - TRUE ANS;U
+
+12. BBPRDDLNFFIK - HQJIK   ANS'H
+
+13 AZEXIVMT - RQNSO    ANS: Q
+
+14. ABDGKP  -  LIWUX    ANS:U
+
+15. BCDAEGHIFJLMN   LKNMO   ANS: K
+
+16. XWEFGVUHIJK  -  PNSRT  ANS: T
+
+17. ODJTOPQNOERT  - QOUVW   ANS;O
+
+18. PRNUUPEJRBB - HVUNE  ANS: E
+
+19.LULMGMNFNPS - ONQPS ANS:P
+
+QUESTIONS ARE NOT IN SEQUENCE. 
+
+
+NUMERICAL
+
+1.420% OF 7.79 = 32.718
+
+2 3427 / 16.53 = 202
+
+3. 10995 /95 = 115.7365
+
+4. 43+557-247 =353
+
+5. 3107*3.082= 9591
+
+6. 48.7 + 24.9 - 8.7 = 64.90
+
+7.525.0/47.8 = 11
+8. (135-30-14)*7 - 6 +2 = 3
+9.3/8 * 5.04=1.89
+
+10.697 /219 =3.18
+
+11.8/64 +64/16 = 4.14
+12.298*312/208 = 453.54
+13. 0.33 *1496 /13 = 37.98
+
+14.0.26 + 1/8 = 0.385
+
+15.66.17+1/3= 67.03
+
+16. 2.84+1/4= 3.09
+
+17. 33% OF 450 = 148.5
+
+18. 907.54 / 0,3073= 3002
+
+19.tHERE ARE two categories of persons in ratio A, b i.e.A:B = 2:3 A type
+earns 2.5 dollars/hr and B type 1 dollar/hr  total money earnedby both is 
+24dollars. then total number of persons
+
+Ans: 15
+
+20.Question not clear
+
+Slowing running - n hours - A
+
+Medium running -             B
+
+fast running -   k hours  - c
+
+Ans: nA+kC
+
+21. Tottal balls z,red balls N remaining are blak balls,then %of black
+balls equal to  Ans: z-n/z*100
+
+22. Multiplication three digits and two digits number will result the 
+
+Ans: HInt: four digit number first number must be one.
+
+23. A= C;B=2D what should be do to make the ratio same. i.e.a/b = c/d
+
+Ans: multiply A by 2
+
+24. P- Total number of compoentns
+
+Q= defective number of compoentns
+
+%of non defective equals to p-q/p*100
+
+25. Cost of article x,first discount is y% of cost, seconddiscount is z%
+of cost .  The price of x is
+
+Ans: x(1-y/100)(1-z/100)
+
+26.Prime number   a) 119 b) 115 c) 127 d) none   Ans: C
+
+27. A/B = C;C>D then 
+
+Ans:A is always greater than D
+
+28.B>Cand A<Cwhich of the following is larger
+
+Ans: (A+B)C
+
+29. H hours  - S salary; xhours - Medical leave, then salary/hr = ?
+
+Ans: s/H-x
+
+30.(1/6of 596) /(0.695) = 142
+
+31.All dogs are cats 
+
+All rats are dogs
+
+Ans:all rats are cats
+
+32.35-30+4/7-5+1  = ?    
+
+Ans: 3
+
+33.10995 + 95 = ?
+Ans: 11090
+
+34.Salary 'S' per month,1 type of tax is xRs. second type of tax is y Rs
+then % of take home.
+
+Ans: s-(x+y)/s * 100
+
+35.All physicians are browns
+
+All balancians are physicians
+
+Ans: not know.
+
+36. B>A then which expression will be highest value
+
+Ans: AB
+
+37. K,L -- Men ;X, Y ->  Ans:kX + Ly
+
+38. If A,B are same number, which one of the following doesnot satisfy
+this Ans: A*B/B**2
+
+39. X- bulbs'; y - broken; % of non broken bulbs Ans: x-y/x*100
+
+40. Adding X, Y to A equals to Ans: a (large expression)
+
+41.Salary s permonth, tax x% of the salry, r% of salary is deducted what
+is the income.
+
+Ans: s*(1-(x+R)/100
+
+42. Add three digits and two digits numbers the first digit is 
+
+Ans:1 (four digit number starting with one)
+
+43. 0.512 * large number = ?
+
+Ans:divide the given number by 2
+
+44..In 10% balls 5 are defective, % of defective 
+
+Ans:50%
+
+45.6.29% of 2.8 = 0.18
+
+46.0.398*456=181.49
+
+47.0 < x<1 which is greater
+
+a) 1/x**2   b) 1/x c) x d) x**2
+
+Ans: a
+
+48.c = a/b; a-1 = c, what is the relation between a and b
+
+Ans: b = a/a-1
+
+49.The sum of 7 consecutive odd numbers interms with 27 asfourth number
+
+Ans:189 (question not clear)
+
+Verbal time is enough. But for numerical and letter series,timeis not
+enough.  
+
+
+So here Iam giving flow chart answersin sequence.  These answers are
+perfectly in sequence,donot worry, youcan keep these answers blindly.
+
+There are 7 flow charts we know only 6 flow charts answers.
+
+Donot thinkabout these answers are correct or not , these are 100%
+correct.  We tested here.
+
+1.     D    B    A  E   C
+
+2.	D   E C E  C
+
+
+3. C  B D  B  D
+
+4. D B  D C B
+
+5. C E A D E
+6. B C D A D
+
+
+In hurry, I typed. Please cooperative.
+
+
+Model :
+
+Section 1  synonyms :  
+
+section 2 numerical ability :   26questions 8min
+
+section 3 letter series : 26 questions 10min
+
+section 4 reasoning type : 14 questions 20min
+
+setion 5 flow charts : 7 questions 35min
+
+
+Each sectionis having separate time. I could not complete letter series,
+numerical ability questions in time. Flow chartssection i kept within 5
+min afterwards I cam back. If they see I will fuck you.  So be care.
+
+
+Group discussion topics:
+
+1. Brain drain: i.e. related to why immigration to U.S; I opposed
+partially and supported partially
+
+2. Electronic media effect;  Internet, TV ,Email multimedia
+
+	G.D they won't eliminate so many people.  but you have participate
+with enthusiasm.You talk something. Interview as usual, stereoscopic
+questions.like TCS. 
+
+
+	I went upto interview, afterwards out.
+
+
+BEST OF LUCK.  If you want any help always welcome.
+
+A.V.Rao
+
+ I am adding some question which are not above. these question are
+regarding flowcharts.
+Instrctions:
+1) There are 7 flow charts & each has 5-6 blank rectangles/diamonds with
+subquestion no. in rectangle/diamond. you have to fill the blank from the
+5 options given against respective question no.
+2) You have to understand the logic & then it is very easy to fill the
+blanks.
+3) they had provided some information which you have to use for getting
+answers.
+Flow charts:
+1) there are 3 boxes of 3 balls each. you have to select the heaviest
+among all.  
+        
+         <select box 1&2>
+               |
+         <is wt.1=wt.2>--No----(is wt1 > wt.2)--No--(select box2)
+               |                       |                         |
+              Yes                    Yes                         |
+               |                        |                        |
+         select box 3            select box 1                    |
+               |                        |                        |  
+               |------------------------|------------------------|      
+               |
+        select two balls
+                |
+         is wt.ball.1 = wt.ball.2 --- No --  is wt.ball.1> wt.ball.2 -- No
+                |                                      |                |
+               Yes                                     Yes              |
+                |                                       |           ball.2
+            ball.3 is                                  ball.1 is     is
+             heaviest                                  heaviest     heavist
+
+ so there will be some blank in this flow chart and u have to fill up the 
+blanck with correct option. 
+
+
+Q2)
+    there are red and black balls. if ball is red then one point. if
+ball is black and previous ball is red then two points. For winning u  
+have to get seven points. No point for same color consecutive balls.  
+   
+        |----------- select ball
+        |               |
+        |           is ball red ---  Yes --  Is previous --No---   
+        |                              |         ball red
+        |               No           p=p+1        |
+        |               |                         No 
+        |            is previous                  |
+        |             ball black --No----------- p=p+2  --count= count+1
+        |                 |                                |      
+        |                Yes                         |---is ball left   
+        |                 |                          |       |  
+        |              No point                    Yes       No 
+        |                                            |       |
+        |                                            |        end
+        |--------------------------------------------               
+
+
+
+Q3)
+        Classify objects in class A, class B and scrap. for classfing u
+have to do  diffrent test such as weight, material etc. and Flow char for
+this ques. will be there along with some blanks.
+
+
+Q4)
+     There is production process in which action depend on temprature and
+pressure. and there are temp. and press. controls.     
+
+
+Q5)
+      find max. and min. of the  12 nos. there will array and u have to
+arrange the numbers in assending/ descending order and find out max. and
+min.
+
+Q6)
+     diffrent age group are given and also diffrent salary slabs are
+given.  so depending on the salary group as well as his group u have to
+fill the person in particular class. (ques. is not in exact form.) 
+
+one ques.  do not remember.

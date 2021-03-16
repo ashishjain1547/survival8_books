@@ -1,0 +1,155 @@
+            CV paper that is given to us on 21st Aug 1997. 
+           _______________________________________________
+	
+
+1.There are 45 questions which includes unix , c & apptitude,in 35 mts.
+
+2.People sayvthat cut of will be around 38-40 questions.All questions
+are objective type only.
+
+There wont be any technical (about software)questions in software.
+
+4.here are some of the questions,
+
+1.|x-a| = a-x solve.
+ans.x<=a
+
+2.There is a six letterword UGANDA.How many ways u can arrange the letters
+in the word in such a way that both A's are together.
+ans.120
+
+3.If two cards are taken one after another without replacing from a pack of
+cards.what will be the probability for 2 cards to be drawn?
+ans.1/13 x1/17
+
+4.51x53x.....x59
+
+ans.99!x25!/2 power 24x 49!x5!
+
+5.The ratio of boys to girls is 6:4.60% of the boys and 40% of girls take
+lunch in the canteen.What % of class takes lunch?
+ans.52%
+
+6.& 7. 2 simple problems from data sufficency(refer 1 or 2 test from ims)
+
+
+data sufficiency:
+           a) only statement a is sufficient
+           b) only statement b '
+           c) both are necessary
+           d) both are not sufficient
+  7) Anna is the tallest girl
+   a) anna is taller than all boys
+   b) one ther similarly appers you have to study it cartefully and the choose the right answer
+8) Zulus always speak truth and hulus always speak lies.There are three persons A,B,and C. A met B and says "Iam zulu or iam hutus. We don't know what he exactly said then B meets C and says to C that A is a Zulu .Then C replies " No ,A is a hutu.
+q) How many zulus are there? (ans 2)
+ who must be a Zulu ? and B (check)
+A father F has 5 sons p,q,r,s,t Not necessarily in this order. Two are of the same age The eldest and youngest cannot be twins. T is elder to r and younger to q and s has three older brothers 
+q 1) who are twins
+  2) who is the oldest and youngest
+  3)who is the one having equal number of youngers and elders
+8) There are 7 people who take a test among which M is worst. R is disqualified , P and S abtain same marks , T scores less than S and Q scores less than P , N scores higher than every one.
+N P S T Q R M ( may be correct  it)
+and some questions will come on this 
+
+UNIX & C
+	unix commands:-fork,tar,chmod,yacc,find,compress,make
+	questionukku fork thaan answer ana quetion tariyathu.
+	similarly hexa decimala larnthu octhal-0 etho matiratirukku
+	oru quetion athukku answer 23.
+
+C:-know about calloc,exit(),pointer and arrays,pointer to functions(5 th
+chapter in K & R c book.(pointer fn. arguments thro'pointer)
+some protype functions like swap,sinfunction in math.h
+
+
+
+  NOTE: Above paper we get before our test. They given all above quetions 
+and some of missing we are writing below. If any repeated skip that.
+
+-pointer arithmatic
+-what is the value of "i"?
+i=Strlen("BLUE") + strlen ("purple")/strlen("red")-strlen("green")
+ans:-1
+
+i=2
+printf("%ld%ld2%ld",i,i++,i--,i++);
+answer check care fully may be 2223 
+
+what is the output of the following statements(string)
+printf("what is /0 the output"):
+ans.what is
+
+3) some problem appears like this 
+  main()
+{ 
+  int i,a[10];
+   int *x
+   i = &a[6] - a;
+ printf("%d", i)
+;
+} 
+answers are given as 1 , 6 , not compiled , machine dependent
+answer is 6;
+4) 
+  another program apperas like this
+main()
+{ 
+   int *x , y=2;
+   int * fun(int* );
+   x = (int *) malloc(sizeof(int));
+   fun(x,&y);
+   printf("%d%d",x,y);
+}
+  
+int* fun(int *a, int *b)
+{ 
+   *a = (*b)++;
+  return;
+}
+ Program exactly i doesn,t know but the stress is on *a = (*b)++
+  but for me answers are not tallied i think the answer now is 2,3;
+ but in answers it is not given;
+ 5)
+ another programme
+  struct pt
+{ int x;
+  int y; }
+
+   struct
+  { pt ptr;
+    int xtr}lt,*lptr=&lt;
+he will give some accessing methods of data
+but the correctone is
+   lptr->ptr.x;
+7)some problem is there which says some jumps but the correct one is 
+setjump and longjump
+you study the jumps and clarify it;
+8) 
+ne problem like this
+ c prototype for math function
+ans is external double sin(double);
+8) one problem on variables apperars  answer is "file" dam shure
+  that is actually the scope of external static variabl;
+9) child procees-> fork ( this is given in c programmes)
+10) for parsing another problem ans is lex and yacc;
+11) for backups and archieves ans is tar;
+12) onebit on redirection of std error
+   ans may be $command >outfile 2>&1 check it;
+13)
+ what is 
+  int* p(char (*s)[]);
+ans there is c you read it from schaum series;
+14) what for chmod 654
+    rw-rw-r--  check it
+15)
+one small c programme that appears like this 
+   main()
+{ char *s = "hellow"
+  char *m = " how are you";
+  strcat(s,m);
+  pritnf("%s",s) ;
+} 
+  do this and note;
+
+16) you read stdin, stdout, stderr files and how to redirect that files.

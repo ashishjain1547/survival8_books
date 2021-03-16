@@ -1,0 +1,66 @@
+punith 6
+>
+
+                               INFOSYS  (IIT MADRAS)
+>>I
+>>
+>> rohit can cathc fire either the harbour line train or main line 
+;train 
+>from his nearest railway station knadala to reach his officre. Both the 
+>trains have a frequency of 10 min in the morning office hours. the 
+>harbour line trains arrive every ten min statrting from 5a.m and the 
+>main trains arrive every 10 min starting from 5.02a.m if rohit reaches 
+>the railway station random ;time in the morning to catch the first 
+>availanble train . what is the probabulity that he will catch the 
+>harbour line train . 
+>>
+>>II
+>>
+>>In certain department store the postion of the 
+>buyer,cashier,clerk,floorwalker  and managerare held. though not 
+>necesserly respectively,by miss. ames , miss. brown,mr.corroy, 
+mr.devis, 
+>and mr.evans.
+>>
+>>
+>>the casher and the manager are roommets in the college. 
+>>the buyeris  a bachelor.
+>>evans and miss.ames had onlyu bussines contacts.
+>>with each other/.
+>>mrs.conory was greatly disappointed when her husbanmd told her that 
+the 
+>manager had refuce to give him a raise.
+>>davis i s going to be a best man when the clerk ;and the casher are 
+>married.
+>>what position does each person hold?
+>>
+>>III
+>>
+>>
+>>3.Tanveer and kunal went down a descending escalater.the escalater was 
+>going down at a constant speed. kunal walked down the steps and had 
+>cover 50 steps to reach the bottom.tanveer on the other hand , ran down 
+>the steps of the escalater and take 75 steps to reach the 
+>bottom.actually,tanveer took 3 steps in the same time it took kunal to 
+>take 1 step.how many steps would be visible when the ascalater is 
+>stopped and is not operating.
+>>
+>>IV
+>>
+>>4.In four team football tournament,all the teams played each other in 
+>three rounds of matches.the three rounds of matches are shown in table 
+>A.some of the results of the tournament are shown in the tableB.using 
+>the clues below ,please fill-in the blank coulms in the result table 
+>B(goals for or against?).
+>>
+>>note :two points for win,one point for draw&zero points for defeat are 
+>awarded.
+>>clues:
+>>1.eastzone won the tournament despite scoring one goal less than the 
+>runner up.
+>>2.northzone scored an odd number of goals in their first round game.
+>>3.south zone who failed  to score in their final match, were beaten by 
+>a two goal margin inthe first round. 
+>>4. East zone lost their match against west zone. 
+>>5  All four teams scored goals inthe secone-round matches.
+>>6. West zo                                                                     

@@ -1,0 +1,68 @@
+1)minimum #of ip addresses requiered for an router
+ans)2
+2)the worst case booth complexity for 
+ans)101010101010101010
+3)disadvantage of pcm
+ans)forgot
+4)two binary 8bits are added overflow will come for
+a)ones complement
+b)twos complement
+c)ones complement with signed magnitude
+c)twos complement with signed magnitude
+5)two 8 bit nuos are multiplied and the result is stored in an rom the size
+of the rom is 
+ans)64*64 doubt
+6)how many no of 4x1 muxs are required for making an 16x1 mux
+ans)5
+7)a simple nand gate problem
+ans)simple
+8)the shannon hartley therom give the
+ans)channel capacity with no error
+9)the bandwidth for 500bps is 
+ans)1000bps   doubt
+10)a problem with lower triangular matrix
+ans)x[i]=b[i]-a[i][j]*x[i]
+11)a c program with 
+if x>y
+x=x-y
+else
+y=y-x
+ans)gcd
+12)microwave propogation along the curvature of earth is called 
+ans)ductpropogation
+13)a simple bit on recurssion
+
+14)csma/cd is used in
+ans)ethernet
+15)what is used for knowing its own ip address
+ans)rarp
+16)no signalling is needded to establish connection in 
+ans ) ip
+17)a simple problem, on newton rapshon method
+18)(A-B)U(B-A)U(AnB)=
+ANS)AUB
+19)
+if a number is choosen between 100 and 999 includeing these numberrs what is the provbabilty that the number selected does not contain a 7 is
+ans)workitout
+20)a packet trabvelling in the internet forever can be controlled by having the field 
+ans)time to live (ttl)
+21)c code with the follwing choices
+a)call with value
+b)call with address
+c)call with value result
+ans)call with value result
+22) when the following sequence is inserted in the binary search tree no of nodes int left subtree and right sub tree is
+ans )7,4
+23)simple problem in recurssion
+x(x(5))
+ans)17
+24)study about reentrant code reusable code recursive code
+25)given edges nodes and components of a graph find out its rank
+26)in a tree a parent is greater than all its children in folling
+ans)heap
+27)question on pcm signal=3khz 8levels are used
+ans)18000bps
+28)to get the numberr in ascending order the traversal used is 
+ans)inorder traversal
+29)a problem in multiprocessing ,multithreading ,multiprogramming
+ans)multithreading

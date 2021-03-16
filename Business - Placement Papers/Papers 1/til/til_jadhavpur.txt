@@ -1,0 +1,182 @@
+Tata Infotech ltd.(TIL)-2001(JADAVPUR UNIVERSITY 30 th july)
+----------------------------------------------------------------------
+--------------------
+there was two sections one was written test and the
+next part was interview no GD nothing.
+
+First part:
+(written test)
+it was completely aptitude test the paper was
+easy but speed matters much.the test had 5 parts as
+follows
+1) verbal(vocabulary test) 30 question 8 min
+some of them are
+
+
+salvage=retrieve/preserve
+,paradox=condratictory
+,paradigm=example/representative
+,abscond=to escape
+,affidavi=writen statement confirmed by oath
+delineate=potray by drawing/words
+disseminate=scatter about,spread widely
+gregarious=grow in cluster,sociable
+impassive=impertuable
+permeable=porous
+pragmatic=practical
+precarious=uncertain;
+adverse=opposite
+ample=abundant
+gigantic=huge
+hypothetical=theoretical
+accumulate=gather/collect
+efface=wipe out
+despotism
+transscribe
+penitent
+fallible
+rigmarole
+
+there were many more but i do not remember them
+right now,but the words were easy and vocab given in
+GRE Barron is too much for it.
+there were 5 options and we have to select one
+which have close resemblance to the given word.
+
+2) letters(letter series) 24 question 10 min.
+it is better to write all the letters in the
+rough sheet and number them before the time for
+that section begins, it will make solving the
+problems easy.
+thy were preety easy . don't waste time for one single prob. try to
+do as many as  possible.
+
+3) numbers 24 question 6 min
+it consist of numerical arithmetic involving
+addition ,substraction,multiplication and divison of
+decimal numbers
+don't try to solve the question all the
+questions can be either solved by making guesses or
+just leave it,it consist of questions like number
+series,percentage,blood relation.
+
+4)reasoning 24 questions 20 min
+a)A is double the age of B,C is half the age of D,
+A and D will be of same age five year hence,who is the youngest of
+all.
+b)144,100.49,36,16,4.Which is the odd number in the series?
+c)If the length of a rectangle is increased by 20%and
+the breadth is decreased by 20% .What is the % increase/decrease
+in the area?(ans =40%)
+d)If the length of the square is increased by 5%
+.what is the % increase in the area of the square?
+e)Two typist type two pages in 2 mins.How many
+typists are neede to type 18 pages in 6 mins?
+f)if the price of an item is decreased by 25% its
+sale increases by 40 % what is total loss or
+gain %.(ans 5%)
+g)A fills a tank in 20 min and B can fill the tank
+in 28 min, B works for 21 min then
+A joins him what is the time required to
+complete the rest of the job.
+h)there is a triangular field having all side
+equal on each side there are 12 trees with a
+distance of 2meter between each tree what is
+the perimeter of field.
+
+i)complete the series 1,8,27,__,125
+
+              4,9,_,25
+            
+j)if the perimeter of a square is 16m what is the
+area of the square.
+
+k)in how many ways can five persons A,B,C,D,E sit
+in a row so that A and E always sit
+together and B and D never sit together.
+
+one person can take 20 kg of luggage with him.how many lbs of luggage
+can he carry
+
+overall the questions were easy also the time was
+sufficient,so no need for panic
+
+5)last section was flowcharts
+there were 7 questions and 35 min
+each question have five cells.so there is
+enough time.
+for each question the conditions and the
+statements are given first study them carefully ,a
+flowchart will be given with some condition boxes and
+some processing box with some of them not filled we
+have to fill these incomplete cells depending upon the
+condition and statements given. they are simple also
+the time is enough so do it with cool mind .in the set
+we were given the 2nd question was a bit tough.so if u
+are finding it tough do it after completing all other.
+
+a)one of the question was depending upon the salary
+we have to classify the person in class A,B,C and this
+process was to be repeated for 100 employees
+
+b) another was given the marks of 100 student we
+have to find the rollno. of student who have got the
+highest ,the lowest andthe average marks of student in
+the class. just like the cincept of sorting.
+
+c) an item was to be divided in two types certain
+conditions were given depending upon the condition we
+have to classify the item in diffrent group if none of
+the condition was satisfied it
+if <3.5 classify as A
+  3.6-4 classify  B
+   4.1- 4.5 classify C
+  >4.5 classify    D
+was considered as waste item.
+
+
+e)Two questions were on the arrangements of ball
+i)There were two kinds of balls(black,red)There is a
+game in which u have two chances to pick two ball
+at a time.On getting a red ball u get 3 points,on
+black ball u have 1 points,If the second draw is
+same as the previous draw u don't get the points.
+This game u have to represent in flow chart.
+ii)There was another similar to this .In this u have to find out the
+drawing of the balls in some particular picks.
+
+
+**********************************************************************
+*
+overall the main thing is time managment and
+presence of mind.be cool and do the paper,each section
+have limited time after the alloted time we cannot
+switch back neither we can move ahead to next section
+if we complete a section earlier. there is no negative
+marking but don't try to color all the questions
+,don't spent too much time for any question ,for each
+section just turn the page scan the page for the
+questions u think that u can do without making much
+calculation, after completing the scanning of one page
+immediately switch to next page of same section,
+complete the entire section like this now if u have
+time switch back to previous pages do not spent more
+than a minute in any question .try to perform average
+in each section, don't leave any part almost
+untouched,here very few people were able to do much in
+number section.also there may be some upper cutoff.so
+take care of it too.
+**********************************************************************
+*
+the next section is interveiw section, technical and
+personal interveiw both were combined in one.from some
+of them they were asking there favourite subjects and
+then were asking question from it from some of us they
+asked from the project we have done .be honest and
+just represent what u are, don't pretend to be this
+and that take care while describing ur positive and
+negative points.and last BEST OF LUCK.
+---------------------------------------------------------
+
+     
+

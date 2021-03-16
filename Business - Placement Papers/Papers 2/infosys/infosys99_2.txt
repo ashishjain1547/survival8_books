@@ -1,0 +1,65 @@
+THIS IS INFOSYS 99 FROM IITBHU
+ 
+ q1) a frog jumps 3 ft comres bacfk 2ft in a day in how many day 
+it will come out of 30ft deep well (2 marks   )ns ans 28 day
+ q2) A-B=C  
+D/E=F
+ G+H=I
+ C.F=I ANS A=9,B=5,C=4,F=2.
+ Q3)when the asctual time pass 1hr wall clock ic 10 min behind it 
+when 1 hr is shown by wall clock, table clock shows 10 min ahead 
+of ih when table clock shows 1 hr the alarm closck goes 5minbehind 
+it,when alarm clock goes 1 hr wrist watch is 5 min ahead of it assuming 
+that all clocks are correcrt with actual tinme at 12 noon what will 
+be time shown by wrist watch after 6 hr
+ ans---5:47:32.5
+ (n X 60 )50/60 X 70/60 X 55/60 X 65/60
+
+ q4)a soft. engr just returned from US has eaten too mucgh fat &put 
+a lot of weight everfy sunday he starts walking 4 km/hr on level 
+ground then up at 3 km\hr then back down hill at 6km\hr then again 
+on level grounggd at 4km\hr till he reaches his destination if he 
+returned home at 9 p.m. e what distance did he covered
+ ans  24km
+ it is aslo asked in some parer fingd half of the dist covered by hoim 
+ in this case ans 12km
+ q5 ] one family promblem was there in wich varios relations are givern
+ ans is correcr  3 families
+
+ q6] one question was about cards 4 persons play yjthe game of cards 
+cards are of 4 colour yellow green blue,red fing colours of playing cards which are hiddeden 
+ ans remember the sequence yellow,yellow,green,blue,probably frob gre
+ q7]  one very easy question just solve two eq, about ages
+ i rembemer only ans boy=10yrsor girl =4 yrs or vice versa pl. check it
+ q8]ans the questions from facts 8marks
+ the member of certain tribe are divided into 3 casts abhor,dravid magar
+ 1 an abhor woman cant marry dravid nman
+ 2 a nmagar man cant marry a dravid man
+ 3 a son takes the caste of his father a dauhgter takes cast of her mother
+ 5 all marriages except those mentioned are not permirtted 6 there 
+are no childern born out of a wedlock
+ 1]aliertnates cant rem u acan previos question 
+ some ans are 
+ q]an abhor woman a alternative istrue ---can have a dra, grandson
+ q]it can be refer from conditions described that a magar man 
+ ans is 2 &3 only iii choice --cant have a dravid mother & may have abhou mother
+ q]an abhor marreies & has thr e childern allof are members aof 
+abhor acsateeich of ffoloewing is true
+ ans i & ii only --i is if c were married toa magar man
+ ii-- if c were married to abhor man,they have a male child
+
+
+ eassy topic
+ role of media ohun youth
+ & interner revolution
+ one more q] there are 2 scales of temp A & B it was given  A 14 to 133
+ B 36 to 87
+ find the temp when temp oa a is eq. to temp of b
+ ans 52.5
+ let t=mx+c c=-70 m=51/119
+ a=a.51/119 -70  ; a=52.5
+ this all came in bhu
+ TCS paper was repeat of 98 some crirtical reasoning new ques 50 t0 70
+ some new quants question i rembember some bnew q
+ ans are 1]some rect question %of widthis inscresaded like that ans is 4%
+ 2]some packet of 1 a and 2  ---- ans 114 etCn

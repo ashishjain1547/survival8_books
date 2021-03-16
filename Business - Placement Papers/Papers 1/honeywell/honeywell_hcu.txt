@@ -1,0 +1,392 @@
+
+this is new honeywell paper...at University of Hyderabad...
+                           
+			   Honey Well paper-2001
+                       ********************************
+
+   In HCU only 1 is selcted .
+
+The paper has 3 sections
+1) Technical 35 questions
+2) Analytical(aptitude) and Logical( GRE type)
+3) C test 20 questions
+
+1 and 2 sections combined time is 1 hour.
+section 3 is of 15 minutes
+
+Technial
+--------
+
+1)TRAP is a___________ interrupt?
+  asynchronous
+
+2)CPU gets into wait state after it recognises ________ signal
+READY
+
+3) if the value of a semaphore is -n(negative) then the no of
+   processes waiting on the semaphore is
+   n
+
+4) For recursiv e procedures, the following is used..
+   stack
+
+5)Complexity of hash coded search for n elements is..
+
+6)If we have to insert and delete at the both the ends of a Queue then
+the following
+is to
+be used..
+
+Dequeue.
+
+7)Time taken to search a record from an  array of 10 records in ascending
+order
+  using binary search is
+  2.9
+8) In queue the complexity of inserting into an element is..
+  O(1)
+
+9) what is the need  to change the information system ?
+  i) new technology
+  ii) new requirements
+  iii)....
+  iv).....
+10) I/O processor does the data transfer between
+   main memory and I/o devices
+
+11)why are wait states included?
+  to interface for slow peripheral devices
+   ( same question is asked twice)
+
+12)3 questions on Interrupts RST 7.5....so study the interrupts well.
+
+13)2000 LXI SP,1...
+   2003 PUSH H
+   2005 PUSH D
+   2007 CALL ...
+   200A POP
+   200B  HLT
+
+  what are the contents of the Program counter and the stack contents?
+
+14)Which register  stores the address of the next instruction to be
+executed?
+  Program counter
+
+15)which is mainly responsible to load the operating system?
+  Boot strap loader
+
+16) DOS has how many stacks?
+ 
+17)one question on Cascading Amplifier..
+
+19)  In RAM how many transistors and capacitors?
+     i) 6 trans....0 capaci
+     ii) 4trans            2 capac
+     iii) 2 trans            4 capaci
+ 
+
+20)there are some prolems on pure electronics background  ...around 5
+problems
+
+21) FIFO is
+   non- preemptive
+
+22)Some problem on Round Robin Scheduling ...
+  Time sharing
+
+23)Virtual Memory is..
+  i) easy to implement
+  ii)less in effeciency of memory utilisation
+  iii)............................
+   iv)..........................
+
+24)a question on process synchronisation...
+
+   semaphore
+
+25)In a graph, there are 7 nodes and 5 independent loops then th eno. of
+branches in
+the network?
+
+26) Microcomputer  input/ output
+
+27) In 8088,
+       i)  8 internal ..8 external
+      ii)8 internal....16 external
+      iii)16 internal...8 external
+      iv) 16 interanla...16 external
+
+28)When interrupt is received then the cpudoes the following..
+      i) it waits for the next instruction from the interrupting device
+      ii)it goes to the subroutine
+      iii)......................
+      iv)...................
+
+
+
+Analytical and logical:
+------------------------
+
+  Here the aptitude and logical questionsa are written mixed.
+
+
+1)Neena says that " Anitha's father Raman is the only son of my
+father-in-law
+Mahipal"
+      How is Anitha's siste Bindu realted to Mahipal?
+
+  None of these
+
+2)  If the provisions last for 30 days for 3000 men then if after 10 men
+are
+icludede then th eremaining provisions last for how many days?
+
+  15
+
+3) A and B earns in the ratio of 4:3 and the expenditure is in the ratio
+of 3:2
+and tey each save an amount of Rs.500, tyhen the income of B is?
+
+  1500
+
+4)If a man walks first and rides back then th etime taken is 6 hours and
+30 minutes
+. IF he rides both ways then he gains atime of 2 hours and 10 minutes
+then
+  what is the time he takes to walk both ways?
+
+  8 hours and 40 minutes
+5)If  A if the fifth from the left side and B is sixth from the right
+side and  they
+are interchanged .After that A is 13 th from the right side. What is is
+the B's
+position from th eleft?
+
+14
+
+6)In an organisation, 55% are men. 30% of the employees are  full time.
+60% of them
+are female.What is the percentage of the males  among the full time
+employees?
+ 
+  12
+
+7)A lenghty question on Geese, pigs.....
+
+8)A's in come is 50% more than  B's. by how much percentage is B's income
+less than
+A?
+
+  33 1/3%
+
+9)  In an exam 40% is the passing marks.a student got 40 marks and failed
+by 80
+marks
+   . What are the maximum marks in the exam?
+
+  300
+
+10)a group of 100 people were surveyed.72 people ate from P and 52% ate
+from Q
+    ,then which of th efollowing cannot  be the no. of people who  ate
+both at P and
+Q?
+
+   20
+
+11)There are 6 people  A,B,C,D,E,F. they are placed in 2 rows.
+   C is diagonally opposite to D
+   E is not at the either ends of a row.
+then which of th efollowing can be an arrangement?
+
+DBF
+
+12)there are the codes on English words..like  if CIRCUS can be coded as 
+KORAB then
+THIS can be codede as
+  ?
+  this is only th type of question not exact.
+  Like this  3 questions were there.
+
+for one of them BOMBYA is the answer.
+
+13) there are soe people like Alice, Dora,....and some relationships are
+theer
+between
+    them ...
+  answer is..  Dora is the mother - in - law of Alice
+
+14) there is a discount of 50%. A man buys a watch at original cost and
+the other at
+discount and if they both cost him 180/- then
+    what is th eoriginal cost of th ewatch?
+
+  120
+
+15)  3 numbers are added  with some digits missing
+
+      1234
+      6734
+      9xx1
+      -----
+     22x3
+    -----
+what is the value of x?
+   the above nos are different.the answer is  7
+
+16)  there are some logical questions like in GRE ans also some
+arrangement
+problems.
+
+     all th elogical section question questionsa are like that only./
+
+    
+    
+
+C Test..
+--------
+
+time is very less. Be fast.
+
+1)main()
+{ char a[]={'H','E','L','L','O','\0'};
+printf("%d",a);
+}
+
+Hello
+
+2)      main(){
+      cahr []="Hello World";
+      printf("%s",a+1);
+      }
+
+      ello World.
+
+3)      #define int INTEGER
+      #define INTEGER int
+      main(){
+      INTEGER i=5;
+      printf("%d",i);
+      }
+
+     what is the output?  Mostly there will be error.
+
+4)       a[5][3] can be accessed as
+      i)..
+      ii)..
+      iii)...
+      iv) all
+
+  all
+
+5)      which of th efollowing is valid?
+      void p;
+      void *P;
+      void **P;
+
+  B and C
+
+6)      int main(){
+      int *i=5;
+      i=fp(i);
+      printf("%d",*i);
+      }
+
+      int * fp(int *a){
+      *a=*a+5;
+      return a;
+      }
+
+7)      struct employee{
+      struct exprecord emprec;
+      int empid;
+      }
+
+      struct emprecord{
+      char * ename;
+      struct emprecord,pastrecord;
+      }
+what is the error?
+
+8)      union{
+      int lvalue;
+      int bvalue;
+      struct{
+      int lvalue;
+      int bvalue;
+      }both;
+      }
+
+    valid or not?
+
+9)static void f1(void){
+.......
+...       /* file 1 */
+}
+
+extern void f19void);
+int main(){
+    ...
+    f1();    /*  file 2 */
+  }
+
+vaLID OR NOT?
+
+10)      #define MAX(X,Y)  (X)?(Y)(X):(Y)
+      int main(){
+      int p=10;q=25;
+      Q=max(p+5,q+10);
+      printf("%d",q);
+      }
+ 
+11)  what is the output?
+      int main(){
+      printf(" Hello World#%d",5);
+      return 0;
+      }
+
+12)      (int *)(*f)(int *)();
+
+      what it represents?
+
+13)       int *a=(int*) malloc(sizeof(int));
+      if malloc returns 1000 then what is th evalue of a+2?
+
+     1000+sizeof (int)*2
+
+
+
+
+INterview
+-------------
+
+  there are 3 rounds of interview. 1-technical (around 45 min to 1 hour)
+  2- HR interivew(20 min)   3-Technical( around 30 minutes)
+
+mainly cocentrate the topics that u mentioned in ur RESUME.
+The questions are from the subjects that u mentioned as ur areas of
+interest.
+
+project in BTEch
+
+OS:      semaphores,sockets,Diff between Win NT and DOS, Networking and
+Distributed,
+freeing of memory
+NEtworks:DLL protocols(SLIP.PPP), security socket layer, HTTP,IP
+SE: this the compulsory questions...SDLC     
+IP: FFT
+DBMS:  foreign key, Diff b/n RDBMS/DBMS, nested SQL query
+C: stack trace,activation record,far pointer, malloc,calloc,new(C++)
+
+
+
+HR interview:
+------------
+
+  team leader qualities
+who is ur role model
+ur strong points,weak  points
+   if i give u a pen then what u ''ll do with it?
+    ( say that i 'll open it look into the design)
+

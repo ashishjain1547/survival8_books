@@ -1,0 +1,116 @@
+        GEORGE SUMMERS puzzle books are suggested.
+                 -----------------------------
+                 INFOSYS TECHNOLOGIES LIMITED.
+                 -----------------------------
+                 Question Paper
+                 --------------
+                   Part 1.
+                   ------
+       (1) 9 cards are there. u have to arrange them in a 3*3 matrix.
+       cards are of 4 colors.they are red,yellow,blue,green.
+       conditions for arrangement: one red card must be in first row
+       or second row.2 green cards should be in 3rd column.Yellow
+       cards must be in the 3 corners only. Two blue cards must be in
+       the 2nd row. Atleast one green card in each row.
+       Solution:
+       Yello     Red        Gren
+       Blu       Blu        Gren
+       Yello     Gren       Yello
+       2. 4 cards are placed on a table, each card has two colors. U
+       don't know the color of the back side of eachcard.4 persons A
+       B C and D are sitting on the table before the cards. They can
+       see Red, Green Red and blue .Out of the 4 poeple 2 always lie.
+       They see the color on the reverse side and give the following
+       comment
+       A: Yello/green
+       B: Neither Blue/nor Green
+       c: Blue/Yello
+       D: Blue/ Yello
+       find out the color on the other side of the 4 cards.
+
+       3.Red and brown tribes [FROM BARRONS GRE] Conditions to
+       get married with each other.
+
+       4. Venn diagram regarding Rich, muscular, soft-skinned,
+       employed, etc.,( Refer BARRONS GRE GUIDE)
+
+ ------------------------------------------------------------------------
+                         PART 2.
+                         -------
+         1. SAKUNTALA DEVI'S PUZZLE BOOK : PUZZLES TO PUZZLE YOU.
+            problem no: 3. ( Brothers and Sisters)
+            A family I know has several children. Each boy in this
+            family has as many sisters as brothers but each girl has
+            twice as many brothers as sisters. How many brothers
+            and sisters are there?
+            ans: 4 boys and 3 girls.
+         2. No. of animals is 11 more than the no. of birds. If the
+            no. of birds were the no. of animals and no. of animals
+            were the no. of birds( ie., interchanging no.s of animals
+            and birds.), the total no. of legs get reduced by one fifth
+            (1/5). How many no. of birds and animals were there?
+            ans: birds:11,animals:22
+         3. In a soap company  a soap is manufactured with 11 parts.
+            For making one soap you will get 1 part as scrap. At the
+            end of the day u have 251 such scraps. From that how many
+            soaps can be manufactured? ans: 22 + 2+ 1 = 25.
+         4.        2 * *            |
+                   3 * *            | No. 7 does not occur in this
+             ----------------       |
+                   5 * *            | multiplication.
+                 * 4 *              |
+               * * 3                | Find the product.
+             ----------------       |
+               * * * * *            |
+             ----------------       |
+            --------------------------------------------------
+            ans   2 8 1
+                  3 2 2
+                  -----
+                  5 6 2
+                5 6 2 0
+              8 4 3 0 0
+              ---------
+              9 0 4 8 2
+              ---------
+           5.  There is a 5digit no. 3 pairs of sum is eleven each.
+              Last digit is 3 times the first one.
+              3 rd digit is 3 less than the second.
+              4 th digit is 4 more than the second one.
+              Find the digit.
+              ans : 25296.
+           6. There are five thieves, each loot a bakery one after the
+             other such that the first one takes 1/2 of the total no.
+             of the breads plus 1/2 of a bread. Similarly 2nd, 3rd,4th
+             and 5fth also did the same. After the fifth one no. of
+             breads remained are 3. Initially how many breads were there?
+             ans : 31.
+           7.ESCALATOR PROBLEM OF SAKUNTALA DEVI 'PUZZLES TO PUZZLE'book.
+             Problem No: Problem 27( Down the escalator)
+             ans : the no of steps in the stair way : 46.
+           8.Harbour line and Main line Problem of Sakuntala Devi Puzzle
+             book. Ans : 4/5.
+             ( More Puzzles book)
+           9.There are some chicken in a poultry. They are fed with corn
+             One sack of corn will come for 9 days.The farmer decides to
+             sell some chicken and wanted to hold 12 chicken with him.
+             He cuts the feed by 10% and sack of corn comes for 30 days.
+             So initially how many chicken are there?
+           10.Two people X & Y walk on the wall of a godown in opposite
+             direction. They meet at a point on one side and then go
+             ahead. X after walking for some time, walks in opposite
+             direction for 15 mtrs.Then again he turns back and walks
+             in the original direction. What distance did Y walk before
+             they met again, if X walks 11 mtrs by the time Y walks
+             8 mtrs.
+           11.Problem from SAKUNTALA DEVI 'PUZZLES TO PUZZLE U'.
+              Problem no: 23( Walking back to happiness.)
+              The walking time : 55 mins.
+
+           With this The paper has been completed. For the lack time
+           I have'nt typed those probs, which are in Sakuntala Devi
+           Puzzle books. I wish all of you the best.
+           Send me the mail immediately after the written test will
+           be over. thank you.
+                                                     -Sarma. B. Y.
+

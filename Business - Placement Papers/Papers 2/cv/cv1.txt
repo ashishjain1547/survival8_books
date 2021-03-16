@@ -1,0 +1,128 @@
+CV paper:
+
+
+*****************************************************************
+
+
+        1-18  General  (i) Data sufficiency
+                       (ii) Analytical
+                       (iii) Mathematics
+        19-45 C&UNIX
+
+1. |x-a|=a-x    Ans: (c) x<=a
+
+2. There is six letter word VGANDA . How many ways you can arrange the
+   letters in the word in such a way that both the A's are together.
+    Ans : 120    (5x4!)
+
+3.  If two cards are taken one after another without replacing from
+     a pack of 52 cards what is the probability  for the two cards be
+        queen.     Ans : (4/52)*(3/51)       (1/17)*(1/13)
+
+4. 51 x 53 x ... x 59 ; symbols ! - factorial
+                                ^ - power of 2
+  (a) 99!/49! (b)  (c)   (d) (99! x 25!)/(2^24 x 49! x 51!)
+
+5. The ratio fo Boys to Girls is 6:4. 60% of the boys and 40% of girls
+    take lunch in the canteen. What % of class takes lunch in canteen.
+        Ans : 52%    (60/100)*60 + (40/100)*40
+
+
+Data Sufficiency : a) only statement A is sufficent , B is not
+                   b) only statemnet B
+                   c) both are necessary
+                   d) both are not sufficient.
+
+6. X is an integer. Is X dvisible by 5?
+   A) 2X is divisible by 5.
+   B) 10X is divisible by 5.
+
+   Ans : A)
+
+7. (A) Anna is the tallest girl
+   (B) Anna is taller than all boys.
+  (Q) . Is Anna the tallest in the class
+
+ Ans : c
+
+8. maths question
+9, 10 Analytical
+
+Zulus always speak truth and  Hutus always speak lies. There are
+three persons A,B&C. A met B and says " I am a Zulu or I am Hutu".
+We don't know what exactly he said. then B meets C and says to c
+that " A is a Zulu ". Then C replied " No, A is a Hutu ".
+
+9. How many Zulus are there ? Ans 2( check)
+10) Who must be a Zulu ? Ans B (check)
+
+11,12.13,14.
+-----------
+
+        A father F has 5 sons, p,q,r,s,t. Not necessarly in this order.
+Two are of same age. The eldest and youngest cannot be twins. T is elder
+to r and younger to q and s has three older brothers
+
+q) who are the twins?   s,t
+q) who is the oldest and youngest?   q, (s&t)
+q)
+q)
+
+
+15,16,17,18
+----------
+
+ There are 7 people who take a test among which  M is the worst, R is
+disqualified, P and S obtain same marks, T scores less than S and Q scores
+less than P, N scores higher than every one.
+Ans : N P S T Q R M (may be, just check)  or N S P T Q R M
+
+C & UNIX
+--------
+
+19. What does chmod 654 stand for.
+
+   Ans : _rw_r_xr__
+20. Which of following is used for back-up files?
+    (a) compress (b) Tar (c) make (d) all the above  Ans : b
+21 what does find command do ? Ans : search a file
+
+22. what does " calloc" do?
+    Ans :  A memory allocation and initialising to zero.
+23 what does exit() do?
+   Ans : come out of executing programme.
+24. what is the value of 'i'?
+   i=strlen("Blue")+strlen("People")/strlen("Red")-strlen("green")
+   Ans : 1
+25. i=2
+    printf("%old %old %old %old ",i, i++,i--,i++);
+    Ans : check the answer.
+26. Using pointer, changing A to B and B to A is Swapping the function
+    using two address and one temperory variable. a,b are address, t is
+    temporary variable. How function look like?
+     Ans : swap(int *, int *, int )
+27.  In  'o' how are the arguments passed?
+     ans : by value.
+28. Find the prototype of sine function.
+    Ans : extern double sin(double)
+29. Scope of a global variable which is declared as static?
+    ans : File
+30. ASCII  problem
+     i=..
+ ans : 6
+31 .
+32. what is the o/p
+    printf(" Hello \o is the world ");
+   Ans : Hello is the world.
+33. Clarifying the concept addresses used over array ; ie changing
+    the address of a base element produces what error?
+34. child process  -- fork
+    child shell    -- sh
+35. Answer are lex 7 yacc & man read these things in UNIX
+36. What is
+    int *p(char (*s)[])
+    Ans : p is a function which is returning a pointer to integer
+    which takes arguments as pointer to array of characters.
+************************************************************
+
+

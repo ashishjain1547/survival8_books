@@ -1,0 +1,150 @@
+Reply-To: E-Mail successfull
+X-Mailer: Web Based Pronto
+Mime-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+---- Begin Included Message ----
+
+Hi,
+
+ This is the IITD paper we have.The same ppaer is given here.
+
+If we get any new paper written by anyone over here we will forwarsd it=
+.
+
+Reply immediately after receiving....
+Luv,
+syam.
+
+---
+-----------------------------------
+B.Syam Krishna M.Tech
+Nehru Hall,B303
+IIT Kharagpur,
+West Bengal-721 302
+India
+email:bsyam24@mailcity.com
+      bsyam_krishna@hotmail.com
+
+--------- Forwarded Message ---------
+
+DATE: Sat, 21 Aug 1999 21:58:07
+ From: "kumar reddy indupuru suneel" <i_suneel@hotmail.com>
+To: n.praveena@mailcity.com
+Cc:g.choudary@mailcity.com, devi_reddi@mailcity.com, bsyam24@mailcity.c=
+om
+Q1)for all X(roar(X)=3D>lion(X))
+   a)all lions roar
+   b)some lions roar
+   c)
+   d)
+Q2)on some polynomial bounds
+Q3)on emiter coupled logic
+q4)four qustions on  given digital ckt i don't have enough time so i
+cold't do it .I will try to send ti by consulting micro people.
+ from kennedy book ther are 5 questions.
+
+Q5)one from  recivers,one from digital comm,one coaxial cable repeater
+distace depends on the channel BW.What is the use of IF
+Q6)If channel BW is 35khz.What is the maximum freq of data u can
+transfer.=3D70khz
+Q7)line with 2400buads,the dat u can ransmit on it is
+a)1200kpbs
+b)2400kpbs
+c)96kpbs
+d)192kpbs
+these are the qustions in 1 st section i am able to remeber.
+        section2
+----------------------------------------------------------------------
+Q1) void(int *a,int *b)
+  {
+    *b=3D*b^*a;  /* ^ is exclusive OR */
+    *a=3D*b^*a;
+    *b=3D*b^*a;
+    *a=3D*b^*a;
+    *a=3D*b^*a;
+  }
+  this function gives the value
+  a)a & b values swaped
+  b) a&b  unchanged
+  c)
+  d)
+   i got ans unchanged  U chek once
+Q2) on inorder traversal in binary tree
+Q3) on black box testing
+Q4) on fun(n)
+   {
+      unsigned long n=3D~0; /* ~ is ones complement */
+       for(i=3D0;(n>>1)!=3D0;i++)
+    }
+  Out put of this programme segment is
+  a)it will give the word length in that machine
+  b)gives max int vlue in the machine
+  c)
+  d)
+Q5)
+   these are qustions i can remeber.I have lot pressure because
+guide is giving work and one side campus preparation and attending
+each ppt and written test is wasting lot time
+                        section3
+---------------------------------------------------------------------
+Q1)sentenc given with blanks we ahve to fill tehm with words
+Q2)same as above
+Q3)A qustion on relations
+   david is grand father to sue
+   karen is sister to jim
+   jim is uncle to eric and sue
+   jim is nephew to larry
+only married couple can have children and blood relation can't marry
+there are 4 questions on this
+Q4)on data suficiency
+they will give the table of data
+    philips  bpl  onida  vediocon
+---------------------------------
+1989   data    "   "        "
+'
+"
+"
+'
+
+  q1)whose is consistent growth
+  q2)whose is highest groth
+  q3)lowest growth
+Q5)GK question  ambassidor means
+Q6)who IS WHERE  ANS: hague
+Q7)ALIAS:NAME::-----------
+Q8)JOKE:LAUGH::-----------
+Q9)they will give u diagram and find the shortest path between some
+points.like belman ford algo in NW.
+stions.
+
+    People said that C programming was very difficult. All selected  pe=
+ople 
+are from B.Tech. Total 8 got selected into for software. One Mtech for =
+
+hardware.
+
+
+              ALL THE BEST
+
+bye
+suneel reddy
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+--------- End Forwarded Message ---------
+
+
+
+Get your FREE Email at http://mailcity.lycos.com
+Get your PERSONALIZED START PAGE at http://my.lycos.com
+
+
+---- End Included Message ----
+
+
+
+LookSmart =85 or keep looking.
+http://www.looksmart.com

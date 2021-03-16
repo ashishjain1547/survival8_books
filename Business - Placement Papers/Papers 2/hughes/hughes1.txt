@@ -1,0 +1,157 @@
+****************************************************************************
+				HUGHES
+****************************************************************************
+Source : iit k ( this paper is got from rookee and same is given in iitk) 
+Dated  :25/08/97
+
+section A 30m (Compulsary)
+section B or C  20 m(changed )m
+Attempt either B or C     sec B contains CST
+			      C          E&C
+Better to attempt Electronics paper
+(Those who are having electronics background)
+----------------------------------------------------------------------------
+			   SECTION A
+
+1. Which of the folowing is not correct
+   a. (x+y)'=x'.y'   b. (x'+y')'=x.y
+   c. (x'.y')'=x+y   d. (x'+y')'=x'.y'     [d]
+
+2. Question on logic ckt. U have to find the output
+     ans.   AB'+CD'+EF'
+
+3. Output of MUX 
+       _________
+ c-----|       |
+ c'----|       |-------Y
+ c'----|       |             ans. A xor B xor C
+ c-----|       |
+       ---------
+	|   |
+	A   B  (select lines)
+
+4.If X and Y are two sets. |X| and |Y| are corresponding
+  coordinates and exact no.of functions from X to Y is 97
+  then
+  a. |X|=97  |Y|=1   b. |X|=1   |Y|=97
+  c. |X|=97 |Y|=97   d.  .....
+
+5. If two dies are thrown simultaneously what is the prob.
+   of one of the dice getting face 6 ?
+   a. 11/36   b. 1/3  c. 12/35  d. 1/36     [a]
+
+6. The relation ,<,on reals is 
+   a. a partial order because of symmetric and reflexive
+   b.     ...                   antisymmetric and ....
+   c. not ......     ..         asymmetric and non reflexive
+   d. ...          ....         not anti-symm and non reflexive
+
+7. In C language the parameters are passsed by
+   a. values b. name   c.referrence  d....
+
+8. Advantage of SRAM over DRAM   
+   ans. faster
+
+9. Diasy chaining related question (refer Z80)
+   a. uniform interrupt priority
+   b.non ....       ....
+   c.interfacing slower peripherals
+   d.....
+
+10. RAM chips arranged in 4X6 array and of 8kX4bit capacity
+    each. How many address lines reqd. to access each byte
+     a. 12 b. 16 c.15 d. 17
+
+11.Question related to AVL trees regarding how many no.of
+   nodes to be changed to become balanced after addition of
+    a leaf node to a particular node.
+       ans . 3
+
+12.When following sequence is insertedin the binary search tree
+   no.of nodes in left and right subtrees
+   52 86 64 20 3 25 14 9 85
+
+13.Method used for Disk searching..
+  a.linked list  b.AVL  c.B-tree d. binary tree
+
+14. Which of the following is correct statement.
+   a. 1's complement can have two zero re[resentations
+   b.2's  ...       ...  represent an extra neg. number
+   c.2's & 1's have no difference in representing 16-bit no.
+   d.......
+
+15. AX=B where A is mXn ,b&X are column matrices of order m
+  a. if m<n, X  has infinite solutions
+  b.if m=n, rank of A <n then X has trivial solutions
+  c....  d....
+
+16. The option avialable in C++, not C:
+  a.dynamic scoping
+  b.declaration in the middle of code block
+  c.seperate compiled and linked units
+  d. ....
+
+17.   int a[4]={1,2,3,4};
+      int *ptr;
+      ptr=a;
+      *(a+3)=*(++ptr)+(*ptr++);
+       A part of code is shown. The elements in A after
+       the execution of this code.
+    a.1 2 3 4     b. 1 2 3 6
+    c. compilation error   d.1 2  2 4    [a]
+
+18. Critical section program segment is
+   a. enclosed by semaphores with P & V operations
+   b. deadlock avoidance
+   c. where shared resources are accessed
+   d. ...
+
+
+19. when head is moving back and forth, the disk scheduling 
+algorithm is _____
+a) scan      b) sstf     c) fcfs    d).....
+
+20. how many times the loop will execute
+
+	LOOP  LXI  B,1526H
+	      DCX  B
+	      JNZ  LOOP 
+a)1526H times   b) 31    c)21    d)38
+
+21. the addressing mode in which the address of the operand is
+expressed explicitly within the instruction 
+a)index addressing     b)absolute    c)indirect    d) immediate
+
+22. (A - B) U (B - A) U (A ^ C) = ?
+where A,B are two sets A' , B' are compliments of A and B
+a) A U B   b) A ^ B   c)....    d).....
+
+23. the network that does not use virtual circuit 
+a) IP   b) X.25      c)....  d).....
+
+24. source routing bridge 
+a)source will route the frame 
+b)frame will routed with info in header
+c)....      d).....
+
+26. cache access time 100 msec. main memory access time  800 msec
+if the hit ratio is 95% , what is mean access time ...
+
+27. the module that should be always reside in main memory is
+a) loader   b)link module  c)... d)....
+
+   .... and some questions related to
+
+1. addressing mode  2.assembler passes    3.linking and loading
+4. file directory search   5. turning machine 
+6. finite state machine   7. daisy wheel
+
+28. The order of algorithm to merge the two sorted lists of 
+   lengths m and n is 
+    a. O(m)  b. O(n) c. O(m+n)  d. O(log(m)+log(n))
+29.A chocolate block is of 4 X 4 size.How many cuts are needed
+   to make 1 X 1 size blocks. No simultaneous vert. & horz. cuts.
+
+30. Which among the following is not correct
+    a.  O(n) > O(log n)   ..  likewise
+-----------------------------------------------------------------------------

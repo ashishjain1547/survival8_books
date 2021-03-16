@@ -1,0 +1,487 @@
+                I2 PAPER (IIT kanpur)      14/8/98
+
+                        
+IN THIS THERE ARE TWO PAPERS EACH OF ONE HOUR.ONE IS ANALYTICAL
+AND THE OTHER IS TECHNIQAL PAPER.
+
+ANALYTICAL PAPER: IN THIS THERE ARE 3 PARTS
+        
+        PART A: THERE ARE ABOUT 45 QUESTIONS.IN EACH THERE ARE 
+        TWO SENTENCES.YOU HAVE TO SELECT THE TRUE STATEMENT.
+
+        FOR EXAMPLE--1
+        1.LUCK PLAYS GREAT ROLE TO GET SUCCESS
+        2.IF WE WORK HARD WE GET SUCCESS.
+        
+        while answering these questions you should be careful because
+        many questions will be repeated ie., one question will be
+        asked in different ways.so your response should be same for 
+        all that questions.
+
+        PART B: IN THIS THERE ARE ABOUT 4 SECTIONS. IN EACH SECTION 
+        THERE ARE 15 BITS.
+        SECTION 1---
+        SECTION 2--- INFERENCES, 
+        SECTION 3--- CONCLUSIONS
+        SECTION 4--- ASSUMPTIONS
+
+        PART C: THERE IS NEGATIVE MARKING IN THIS PART.THIS IS 
+        COMPREHENSIVE.THERE ARE 10 QUESTIONS.
+
+************************************************************************
+  (I am unable to reproduce questions as itis. iam writing them
+   in my own words questions are same just language different)
+
+  TECHNICAL PAPER ::  IN THIS THERE ARE TWO PARTS
+                
+        PART 1: THERE ARE 20 MULTIPLE CHOICE QUESTIONS .EACH QUESTION
+        CARRIES 3 MARKS.THERE IS NEGATIVE MARKING FOR EACH WRONG ANSWER
+        MINUS 1 MARK.HERE ARE SOME QUESTIONS OF THIS PART.
+
+  1. convert 0.9375 to binary  (c)
+  a) 0.0111 b)0.1011 c)0.1111 d)none
+
+  2.( 1a00 * 10b )/ 1010   =  100   (b)
+  a) a=0,b=0 b)a=0, b=1  c)     d)none
+
+  3. in 32 bit memory machine 24 bits for mantissa and 8 bits for 
+     exponent. to increase the range of floating point.
+     a) more than 32 bit is to be there.
+     b) increase 1 bit for mantissa and decrease 1 bit for exponent
+     c) increase 1 bit for exponent and decrease one bit for mantissa
+     d)
+
+  4. this on logical gates
+
+        A---------------------------------- OR -------
+           |                                |         |
+           |------- not -----               |         |-- AND --- X
+                            |               |         |
+                            |----  AND ------         |    
+                            |                         | 
+                            |                         |
+                            |                         |
+                  |----------                         | 
+                  |                                   |
+        B-----------------  NOT -------------------------
+
+        X = ?
+        a) A ^ B   b) A + B  c) A ^ (- B)  d)
+        
+        ^ is for AND, + is for OR , - is for NOT.
+        answer is c please check it.
+
+   5. in C  "X ? Y : Z " is equal to
+     a) if (X==0) Y ;else Z
+     b) if (X!=0) Y ;else Z
+     c) if (X==0) Y ; Z
+     d)
+
+  6. foo()
+   int foo(int a, int b){
+   if (a&b) return 1;
+   return 0;
+   }
+
+   a) if either a or b are zero returns always 0
+   b) if both a & b are non zero returns always 1
+   c) if both a and b are negarive.......
+   d)
+
+ 7. typedef struct nt{--------} node-type
+ node-type *p
+ a) p =( nodetype *)malloc( size of (node-type))
+ b)
+ c)
+ d)
+
+ 8. function gives some error what changes as to be made
+  void ( int a,int b){
+  int t; t=a; a=b; b=t;
+  }
+  a)define void as int and write return tt
+  b)change everywhere  a to *a and b to *b
+  c)     d)
+
+9. which of the following is incorrect
+ a) if a and b are defined as int arrays then (a==b) can never be 
+ true
+ b) parameters are passed to functions only by values
+ c) defining functions in nested loops
+ d)
+
+10. include<stdio.h>
+void swap(int*,int*);
+main()
+{
+int arr[8]={36,8,97,0,161,164,3,9}
+for (int i=0; i<7; i++)
+for (int j=i+1; j<8;j++)
+if(arr[i]<arr[j]) swap(&arr[i],&arr[j]);
+}
+void swap(int*x,int*y)
+{
+int temp; static int cnt=0;
+temp= *x;
+*x=*y;
+*y=temp;
+cnt++;
+}
+
+cnt  = ?
+
+a) 7  b) 15  c)1  d)
+
+11. int main(){
+  FILE *fp;
+  fp=fopen("test.dat","w");
+  fprintf(fp,'hello\n");
+  fclose(fp);
+  fp=fopen ("test.dat","w");
+  fprintf (fp, "world");
+  fclose(fp);
+  return 0;
+  }
+
+ if text.dat file is already present after compiling and execution 
+ how many bytes does the file occupy
+
+ a) 0 bytes b)5 bytes c)11 bytes d)data is insufficient
+
+
+ 12.  f1(int*x,intflag)
+        int *y;
+        *y=*x+3;
+        switch(flag){
+        case 0:.........
+        ....
+        ........
+        break;
+        case 1:
+        *x=*y;
+        break;
+        case 2:
+        ............
+        .......
+        .......
+        break;
+        }
+        return(*y)
+        main()
+        {
+        *x=5;
+        i=f1(x,0); j=f1(x,1);
+        printf("%.........",i,j,*x);
+        }
+
+        what is the output?
+        a) 8 8 8   b) 5 8 8  c) 8 5 8  d)
+
+
+   13.  client server system (question about this i don't remember 
+   exact question)
+
+
+        PART 2:
+                HERE A PROBLEM IS DEFINED YOU HAVE TO WRITE A
+                PROGRAMME IN C OR C++
+
+        TWO SCHOOLS,HAVING DIFFERENT NO. OF CLASSES . EACH CLASS HAS 
+        DIFFERENT NO. OF SECTIONS.THE 2 SCHOOLS HAVE TO BE MERGED 
+        TOGETHR SO THAT A STUDENT OF SAME CLASS AND SECTION REMAIN
+        SAME. FOR EXAMPLE, 1A STUDENTS OF BOTH SCHOOLS SHOULD BE IN 1A
+        SECTION OF NEW SCHOOL
+
+        WRITE A PROGRAM FOR THE ABOVE USING
+        1) DYNAMIC MEMORY ALLOCATION
+        2) SRUCTURES
+        3)
+
+
+
+
+************************************************************************
+        
+
+
+        in iitk about 400 students attended for written test and
+        only 18 students were shortlisted .  after interview they 
+        have selected only 8 students ( 1 from mtech and 7 from btech)
+
+
+                       BEST OF LUCK
+
+***********************************************************************                
+
+
+                        MBT 
+                        ---- 
+one to one negative marking is there.it is tough to qualify
+unless u know the paper.totally there are 105 questions. 70 min. three
+flow sheets---- 10 min. sections are quantitative(23),analytical(about
+20)  ,series&venn diagrams,logical(20) questions from a passage (about
+10). time span for each section is different.sit at the back so that u 
+can turn pages if u want.different colored papers
+ are used.  for flow sheets first one is relatively easy
+ 1.u will be given conditions like
+   if a wins he gets 100 pts,if b wins he gets 50 pts etc
+ 2.there is flow sheet& there are empty cells(4) at "yes' or 'no" 
+decision
+points. 
+ 3.for each cell 4 choices will be given which should be chosen by
+following through initial conditions &flow sheet logic. 
+4.rem. -ve marking is there.  no verbal questions. 
+
+rs aggarwals verbal& nonverbal book verbal--- pg. 254 pr. 53 
+to56(almost same) 246 eg.2 pg 104 exer.3a about 5to 6 series 
+qu.are there.so do well
+ pg.354-355 8,13,
+                   6th doubt 4 conclusions r there in all ques. 
+pg.115----qu.36 nonverbal----pg.5 41,54,108,145,158 241 is doubtful
+--------------- ans. to one quant. is 200/3 %
+
+anals
+ 1.six persons will be there. 
+ killer,victim,hangman,judge,police,vitness
+  a,b, c,d,e,f u have to match conditions like,a is the last person to 
+the
+victim alive,will be given as clues.so we can conclude that a is the
+killer. this is an easy one .paragraph will be very big .don' worry 5 
+to 6
+ques. 2. 5 persons will be there. cashier,
+A
+clerk,buyer,manager,floorwalker(check in info. paper for exact ques.) 
+a,b,c,d,e will be their names. conditions will be given&we have to 
+match
+who is who 3 r women&2 r men in this sample condition, cashier&clerk if
+get married, b will be wise man mrs.c husband has some business prob 
+with
+manager manager&cashier(or clerk) r classmates etc. will be given
+
+do quantitative qu. from back. 
+
+data graphs on turnover,gross profit &net profit will be given& u have
+extract data from that &find out few ratios.(easy one) 
+
+**************************************************************************
+
+
+                 Mahendra- British telecom
+                ===========================
+ 
+ I) Distribution of workers in a factory according to the no.of
+    children they have
+ Figure
+ 1. Total no. of workers in the factory.
+ Ans : 200
+ 2. Total no. of children that all the workers that have between 
+    them is=20
+ Ans : 560
+ 3. The total no. of literate workers is
+ Ans : 105
+ 4. The ratio of literate & illiterate is=20
+ Ans:  1:2
+ 5. The no. of literate workers with atleast 3 children is
+ Ans : 45
+ 6. The no. of illiterate workers with less than 4 children is
+ Ans : 60
+ 7. The rate of literate to illiterate workers who have 3 children is
+ Ans:   3:4
+ II) Which of the following statement(s) is(are) not true
+ 
+ a. Literate workers have small families than illiterate workers.
+ b. Families with 2 or less than 2 children are commoner than families
+ with 3 or more     children.
+ c. 2 children families constitute 60% of the families of workers.
+ d. More the no. of children a worker has the more illiterate he is.
+ e. None the above statement is true.
+ 
+ Ans : e
+ 
+ III) ???? of a mutual instrument vibrate 6,8 & 12 intervals
+ respectively. If all three      vibrate together what is the time
+ interval before all vibrate together again?
+ LCM of NR=20
+         ---------     Ans : =BD sec
+ HCF of DR =20
+ 
+ 12) Certain no. of men can finish a piece of work in 10 days. If
+ however there were 10 men     less  it will take 10 days more for the
+ work to be finished. How many men were there     originally.
+ Ans : 110 men
+ 10) In simple interest what sum amounts of Rs.1120/- in 4 years and
+     Rs.1200/- in 5 years.
+ Ans : Rs.800/-
+ 
+ vi) Sum of money at compound interest amounts of thrice itself in 3
+ years. In how many years=20
+     will it take 9 times itself.
+ Ans : 6
+ 
+ vii) Two trains in the same direction at 50 & 32 kmph respectively. A
+ man in the slower train observes the 15 seconds elapse before the
+ faster train completely passes him.
+      What is the length of faster train ?
+ Ans : 75m
+ 
+ 16) How many mashes are there in a sq. m of wire gauge. Each mesh
+ being 8mm long X 5mm       width
+ Ans : 25000
+ 
+ 17) x% of y is y% of ?
+ Ans : x
+ 
+ 11) The price of sugar increases by 20%, by what % house-wife should
+ reduce the consumption of sugar so that expenditure on sugar can be
+ same as before
+ Ans : 16.66
+ 
+ ? ) A man spending half of his salary for house hold expenses, 1/4th
+ for rent, 1/5th for travel expenses, a man deposits the rest in a
+ bank. If his monthly deposits in the bank amount 50. What is his
+ monthly salary ?
+ Ans : 1000
+ 
+ ? ) The population of a city increases @ 4% p.a. That is an additioanl
+ annual increase of 4% of the population due to this influx of job
+ seekers, the % increase in population after 2 years is=20
+ Ans :
+ 
+ ? ) The ratio of no. of boys & girls in a school is 3:2 Out of these
+ ?% the boys & 25% of girls  are scholarship holders. % of students who
+ are not scholarship holders.?
+ Ans :20
+ 
+ ? ) 15 Men take 21 days of 8 hrs. each to do a piece of work. How many
+ days of 6 hrs. each would do if 21 women take. If 3 women do as much
+ work of 2 men.
+ Ans : 30
+ 
+ ?)   a cylinder ingot 6cms in diameter and 6 cms in height is  and
+ spheres all of the same size are made from the material obtained.
+ what is the diameter of each sphere?
+ Ans :3cms
+ 5)rectangular plank of sqrt(2)meters wide can be placed so that it is
+  on either side of the diagonal of a square shown below.what is the
+ area of the plank?
+ Ans :7sqrt(2)
+ fig no-
+ 7) the difference b/w the compound interest payble  half yearly and
+ the simple interest on a=20
+ certain sum cont out at 10% p.a for 1 year is Rs 25 what is the sum
+ Ans:10,000
+ 8) what is the smallest no. by which 2880 must be divided in order to
+ make it a=20
+ perfect square ?
+ Ans : c
+ a)3 b)4 c)5 d) 6 e)8
+ 
+ 9)a father is 30 times more than his son however he will be only
+ thrice as old as the son
+ what is father's present age ?
+ Ans : 40
+ 
+ 10) An article sold at a profit of 20% if both the c.p & s.p were to
+ be Rs.20/- the profit would be 10% more. What is the c.p of that
+ article?
+ Ans : 1% loss
+ 
+*****************************************************************************           
+
+
+                      MBT
+                     -----
+
+                        ARTHAMATIC SECTION
+ (1) if a boat is moving in upstream with v1 km/hr and in the down stream
+ it is moving with v2 km/hr then what is the speed of the stream.
+ ans:  13 check the values of v1 and v2 are given
+ to find ans (v+s = v1, v-s = v2 find the boat velocity)
+
+ (2)     0.75 * 0.75 * 0.75 - 0.001
+       --------------------------------
+         0.75*0.75-0.075+0.01
+
+  (3)   A can work done   in 8 days 
+        B can work three timesfaster than the A;
+        C can work five times faster asthe A;
+        ans : 8/9 it is correct place blindly.
+
+ (4)    one answer is 200/3 % it is perfectly correct i cannot recollect
+        the prob. so place it blindly.
+        
+  (5)  A car is journied a certain distance in 7 hrs in forward journey
+  in the return journey increased speed 12km/hr takes the times 5 hrs.
+  what is the distance        ans:210 it is perfect place blindly.
+  
+  (6) instead of multiplying  by 7 to a number dividing by 7 what is 
+  the percentage of error 
+  ans we dont know but he has gived 14 18 25 andsome answers less than
+
+(7) x + 4 y 
+   ---------  relation between x and y is x/2y = 3/2 ie x = 3y find the 
+    x -  2y     ratio ans: 7 place it blindly.
+    
+(8) a man buy a liquid  by 12 lts  and the mixture is of 20% liquid in water 
+    then he makes it in 30% mixture  then what is the %  of liquid with water.
+
+(9) if a man byes 1lt of milk for 12rs and mixes with 20% of water and 
+    sels it for rs15 thgen what is percentage of gain  
+
+(10) A pipe can fill a tank in 30 min B can fill in 28 min then if 3/4 th 
+    of tank can be filled by B pipe and after wards both are opened then 
+    how much time is required by both the pipes to fill the tank completely.
+    note: the values of A and B may slitely vary be ware.
+    
+(11) on an item a company gave 25% discount then they get 25% profit 
+      if it gives 10% discount then what is the profit.
+ ans: 30% it is correct place blindly.
+ 
+(12) 
+  
+i will send the remaining problems if i get remembered o.k this section 
+contain 29 questions.
+
+in fourth section.
+1. All chairs laugh.
+ some birds laugh.
+
+2. some green are blue 
+no blue is white.
+
+
+3 all scientists are fools.
+all fools are literates.
+only these questions see rs agarwal reasoning verbal and nonverbal book
+new edition asthe page numbers i already sended to you.
+ansers he changed slitely see.
+
+From two fig 6 questions regarding the swimmers,girls,tennisplayers,tall and
+second one on politicians,graduates,parliament members, both questions
+are same given so mugup and go to exam and place blindly i already
+sended the page numbers in previous mail.
+
+series:(1) R,M,(..),F,D,(..)
+  ans: I,C
+(2) (...),ayw,gec,mki,sqo   ans: usq.
+(3)  1,3,4,8,15,27,   ans:  50
+(4)  0,2,3,5,8,10,15,17,24,26,..     ans: 35
+(5)   2,5,9,19,37,..      ans:75
+
+these are the correct ansers place it blindly.
+
+the figure series which i had already send in the earlier paper is
+same and one extra qestion is their it is this type
+    box type in side the box line and dot. 
+this type  see in the new edition rs agerwal a box is their 
+in the answer so try for question in rs agerwal 
+                          
+see rs agerwal for statements and assemptions questions.
+
+As per my experience I attempted only 32 questions out of 105
+and i was topper among the 35 who shortlisted for interview.
+In IITD also the same thing was happened.
+cut off will be around 30 out of 105.
+the above 35 questions aare enough to qualify.
+remaining questions if u know exact answers then place .
+otherwise simply leave it.

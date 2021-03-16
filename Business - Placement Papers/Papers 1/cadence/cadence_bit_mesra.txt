@@ -1,0 +1,312 @@
+dated:26.07.01
+papers of CADENCE:(B I T mesra)
+
+THERE WERE MANY QUESTION FROM CADENCE 97 AND CADENCE
+99
+10 qs were from s/w and 10 from h/w and
+rest 50 qs were from Aptitude. total time alloted was
+75 min.
+  most of them were of GRE type.
+There were some qs in figures, ie find the next
+figure
+Also find the odd one out, among some figures etc,
+jumbled words, refer to
+some IMS material on non verbal figurative test.
+then ther wer paragraph based qs
+with some meanings also, comprehension qs,
+also some qs on suffix and prefix eg
+BEG__SIDE is given, 'IN' if filled in the blanks
+give
+two words BEGIN and
+INSIDE, like that.
+
+Till then you should prepare throughly for aptitude
+
+
+1. Inorder and preorder trees (expressions) are
+given
+and postorder tree (
+expression) is to be found out.
+
+
+
+4. given a grammar, in which some productions of if
+then else etc were
+given. you had to choose one option that can be
+derived out of the
+grammar.
+
+5. how many flip flops you require for modulo 33
+counter.(        )
+ans : 6 f/f
+
+6. 7 bit ring counter's initial state is 0100010.
+after how
+many clock cylces will
+it return to the initial state.(6 cycles)
+
+7. some boolesn expression of the form x'y'z' + yz +
+.. ( something like
+this) find the simplified expression
+ans:z(x+y)
+
+8. given 6 bit mantissa in 2s complement form and 4
+bit exponent is in
+excess-4 form in a floating point representation,
+find
+the number
+ans -(something) * ( 2 to the power 3)
+
+9. A signed no is stored in 10-bit register, what is
+the max and min
+possible value of the number.  2^10 - 1.....max
+                                -2^10  ......min
+
+
+A few apti qs are follows......
+
+10.  A room is 30 X 12 X 12. a spider is ont the
+middle of the samller
+wall, 1 feet from the top, and a fly is ont he
+middle
+of the opposite wall
+1 feet from the bottom. what is the min distance
+reqd
+for the spider to
+crawl to the fly.(          )
+
+11. A man while going dowm in a escalator(which is
+moving down) takes 50
+steps to reach down and while going up takes 250
+steps. If he goes 5 times
+faster upwards than downwards. What will be the
+total
+no of steps if the
+escalator werent moving.( ans 150 steps      )
+
+12. 2/3 of corckery(plates) are broken, 1/2 have
+someother thing(handle)
+broken , 1/4 are both broken and handle broken.
+Ultimately only 2 pieces
+of corckery were without any defect. How many
+crockery
+were there in
+total. ans 24
+
+s/w part..
+
+13.int y       int x
+y=5+           x=5-
+   +             -
+   +             -
+   +             -
+   6*3            6*3
+   ;            ;
+printf("%d", x);  printf("%d",y);
+what would be the o/p of the code.
+x=23;y=23;
+
+14.
+i a queue four elements a,b,c,d are there ,a=head
+d=tail.
+  now following operations are performed
+  1.deletion
+  2, insertion of w and then x
+  3. again deletion
+  4. insertion of y
+what is the format of the queue
+
+15. configuration of four nand gates forming a XOR
+gate, but replace the last nand gate with a NOR
+gate.find the output expression.
+
+16. simplify
+xy(bar)z+xy(bar)+xyz
+
+17.few expressions were given , which one is
+equivalent to NOR x and y
+ans. c) [(x NAND x) NAND (y NAND y) NAND [(x NAND x)
+NAND (y NAND y)]
+
+18. there were 105 handshakes . how many persons were
+there in party.
+ans. n
+      c   = 105 ans:15
+       2
+19. there were 6 boys and 6 girls . how many ways they
+can be arranged in a pair.
+
+20. 15*/+120+*9/8
+convert into postfix and calculate
+ans. 98
+
+21. meanings of word
+infallability(antonym) -> mistakingly
+conjurations (synonym): incantation
+
+22. ring _ _ _ ater
+fill in the dash with three letter to form a meaning
+ful word
+ans. mas
+
+23. willing _ _ _ _ sports. (four letter word)
+23. there was a question in which few incomplete
+letters were given and we have to complete with three
+letters so that they all form a meaningful word.
+wh_ _ _
+r_ _ _
+ans. ich
+
+24. complete the series
+   12  8 14 7 16  _
+ans 6
+
+25.operator overloading in c++ is
+ans.provide operators with user defined functions.
+
+26.[ : E THEN CIRCLE INSIDE A CIRCLE IS: -----
+     ANS CIRCLE WITH A DASH AS A RADIUS.
+27.A GEOMETRICL QUESTION WITH TRIANGLE IN A
+QUADRANT(can not draw the figure)
+   ans 10(probably)
+
+28. question regarding tyre and its properties.
+  ans: tyre is rubber and flexible.                  
+                                                     
+                                            13.
+   
+___________________________________________________
+___|___       ___|___              ___|___          
+|
+|       |     |       |            |       |         
+|
+|       |__   |       |___         |       |___      
+|
+|_______|  |  |_______|   |__not_  |_______|   |     
+|
+           |                     |             |     
+|
+         
+|_____________________|_____________|____and_|___
+
+boxes are negative edge triggered flip flops and 'not'
+and 'and' are
+gates. What is this figure.
+ans-  modulo-6.                                      
+                                    
+                                                     
+                                                     
+                                             30 srike
+odd man out
+
+     a. object
+     b. time
+     c. room
+     d. person
+     e. reason 
+31. a man facing east rotates 100(degree) clockwise
+then 145(degree) anticlockwise.what is new direction
+of man.'
+                                                     
+                        ans: north east              
+                                                     
+                                                     
+                                                     
+                                 32. complete the
+series
+     M N J Q G ---
+
+    ANS : H                                          
+                                                     
+                                             33. 4  
+9    8                                               
+                                                     
+                                       -54  36  ---- 
+                                                     
+                                                     
+                                                     
+                                                 ANS:
+???                                                  
+                                                     
+                                                     
+                                                     
+    34. 11    4    7 
+
+                                                     
+                            30    9    ___           
+                                                     
+                                                     
+                                                     
+                                     ANS:  18        
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+            35.HOW MANY ZEROS IN BINARY EQUIVALENT OF
+    15*10^9+4*2^5+3
+                                                     
+                           ANS:5                     
+                                                (check
+for expression , but ans. is correct )               
+                                                     
+                                                     
+                    
+36. WHAT IS THE CONDITION OF B&C FOR OUTPUT TO BE ----
+    
+       ANS:B=0, C=1.                                 
+                                                     
+                                            36. there
+is a 4:1 mux. obtain fn  (B' OR (A' XOR C)) when
+control inputs are A(LSB) & B(MSB), what should be the
+inputs (I0, I1, I2, I3).
+
+      ANS: 1 1 C' C
+
+37. excess 3 code of nos. 0 to 9 is given by
+      nos      ABCD
+       0        1100
+       1           
+       .      ...
+       9      ...
+  fIND THhe minimised function?
+
+
+38. 21 base A-K,ie A=10, B=11, .. K=20
+       What is the Octal equivalent of KA?     
+
+      ans. 656
+
+39. odd man out
+    a) rhoes
+    b) hepes
+    c) owc
+    d) guinepen
+         ans d) jumbled letters for penguin
+40.
+   odd man out
+   a) richa
+   b) bleat
+   c) pratec
+   d)
+   ans) jumbled for carpet
+
+41) one simple question wherein a rectangle is
+inscribed in a circle and one of the diagonal is to be
+found...which is the radius of the circle...hence the
+ans is 10.
+
+42) there is a treeking team which takes a halt after
+10 hours and the leadership changes after 5 hours.
+leadership changes in alphabetical order...kamala is
+leading now with mary ,malti, ---and sita...who will
+lead after two rests.
+ans. sita.
+
+43) in a machine a flating point number is represented
+in 2's complement
+    mantissa 6 MSB
+    exponent 4 LSB(excess 4 form)
+    then 01101_0111(10 bits)
+    ans .656 * 2exp(-3)
+44) two simple problems on venn diagrams.

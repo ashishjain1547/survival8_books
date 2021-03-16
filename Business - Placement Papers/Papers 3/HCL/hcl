@@ -1,0 +1,132 @@
+    
+    Here HCL came yesterday. They are taking students in 3 streams at 
+present.
+    one:
+        Application software
+            - Open to Computer Science and Non-computer science 
+students
+            - Written test of 1 hour duration consisting of 4 sections
+              
+              
+System software:
+            - Open to all
+            Written test of 90 minutes duration
+            
+    * Computer awareness section
+        -Questions from Computer Science (network, windows, OLE, 
+Internet, OSI)
+    * C Prgramming fundamentals (c/c++/java) (Comparision of c and 
+java)
+    * Analysis of program code (c/c++/java) (only one question from 
+java)
+    * General aptitude (quantitative aptitude, analytical ability)
+    
+*********************************************************************
+Questions from systems:
+Section 1:
+1. Piggy backing refers to....
+2. OSI emulation layer ?
+3. Parity error checking is used for.........?
+4. In a 20 Mhz computer, the time taken for a 3clock cycle 
+instruction is:........
+ans: 120 ns (check)
+5. convert 0xFFE into radix 7
+6. Internet IP address is unique for..
+ans: domain of the node (check)
+
+Section 2:
+1. Comparision of java and C
+     The feature present in C but not in java
+     (a) recursion (b)Passing variable arguments (c).... (d)...
+Programs
+1.
+main()
+{
+int y = 10;
+if(y++ == 10 && y++ != 10 && y++ > 11)
+ printf("%d",y);
+else
+ printf("2y = %d",2*y);
+}     
+2.
+void funca(p)
+int *p;
+{
+ *p += 20;
+}
+
+void funcb(m)
+int *m;
+{
+ int n;
+ m = &n;
+ *m += 10;
+}
+
+main()
+{
+ int var = 25;
+ int *varp;
+ varp = &var;
+ funca(varp);
+ *varp += 10;
+ funcb(varp);
+ printf("%d...%d",var,*varp);
+}
+3.
+main()
+{
+static int *p = 100;
+char *q = p;
+p++;
+q++;
+printf("%d...%d",p,q);
+}
+/* don't run it. Its a Java program  */
+/* find the error if any */
+class A
+{
+ static final int var = 10;
+ private :
+      int obj1;
+ public  :
+          char obj2[]="some string";
+      func()
+      {
+       var = 15;
+       system.out.obj1;
+       system.out.obj2;
+      }
+}
+choices:
+1) There is no semicolon at the end of the class
+2) The variable var cann't be changed after declaration
+3) Class A has not been declared as of public type
+4) string can not be printed directly
+ans: ?
+5.
+/* declare  static int i; globally
+ 1) the variable is available for all the functions after its 
+declaration
+ 2) the variable is not available for other than the current program
+ 3) .....
+ 4) .....
+*/
+
+static int i;
+main()
+{
+void fun1();
+printf("%d\n",i);
+fun1();
+}
+
+void fun1()
+{
+printf("%d\n",i);
+}
+
+Aptitude:
+    GRE book, page no. 300 range, anlaytical ability question
+        A causes B or C but not both....
+

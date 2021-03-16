@@ -1,0 +1,52 @@
+There were three sections:
+1. Software
+2. Hardware
+3. Analytical
+  Only one MCQ question; all others to be solved analytically.  Here
+are some of the questions which I remember.
+1.) Each of the letters below represents a non-zero and unique digit.
+Find
+the digit.
+     one
+     one
+     one
+    +one
+    ----- 
+     ten
+Find the digits.
+  
+Ans( one = 182 , ten=728).
+
+2. Calculate the maximum permissible propagation delay of each FF in a
+modulo 1023 counter.
+3. Find the error if any -
+  
+{
+struct *sPtr, *nPtr
+for(;*nPtr;nPtr=nPtr->next)
+    free(nPtr);
+}
+
+4. Find the output -
+  main()
+{ void f(int, int);
+   int i, j;
+   i=10;
+   j=10;
+   f(++i,j++);
+}
+
+void f(int i, int j)
+{if(i>50)return;
+  else
+   i+=j;
+  f(i,j);
+  printf("%d",i);
+  }
+
+Ans 413121 (I think so)
+
+5. Implement the following usin 4X1 MUX.
+   A'BC + AB'C +ABC'     
+6. How will you convert an S-R FF into J-K FF ?
+   

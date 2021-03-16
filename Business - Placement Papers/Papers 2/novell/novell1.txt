@@ -1,0 +1,244 @@
+
+The paper consists os three sections.
+1. aptitude 15 questions 20 min.
+2. system concepts 20 questions 20 min.
+3. 'c'   15 questions 20 min.
+
+NOTE:::::
+
+I'm sendin the questions, many of them  have no answers. U do check the
+answers  for all the given questions also.
+
+All questions are MULTIPLE CHOICES ONLY.
+
+U do try to cover the related topics to get some understanding.
+In interview They are asking C C++ Operating system concepts
+and Networks.
+They will ask about Ur interesting subjects, U try to have good
+grip on those intresting subjects.
+
+They asked about c c++ project work and operating systems.
+Don't worry, prepare well, get it, All the best.
+
+
+section 1::::;
+
+*. GRE book test paper 3 section 5
+question no. 8 to 12     (ships WXYZ starting on dec. 23rd..........)
+
+
+* 5 programs are sheduled from monday to saterday, monday is not holiday,
+PQRST are the programs. Theday before P is holiday, and some other clues are
+given, we have to find the sequence (4 questions)
+
+ANS: tuesday is the holiday
+     P comes on wednesday ,
+     U can do the remaining very easily.
+* Suppose U R the presoner, There are two guards Who will tell truth or
+one will tell truth. There is a gate for liberty and another foe hell.
+
+Some questions are given, like
+    i. are U tell truth?
+    ii. another tell truth or not??
+    iii. both of U R telling truth??
+    iV. both of U lieing??
+    V. --------------
+
+
+    they gave  a. b. c. d. and asking about which sequencing is sufficient to
+    find the gate for liberty??
+    ( I can't give exact thing)
+ 
+* There are WIFE and HUSBAND at one side of river. They have one child,
+They want to cross the river. The child can't be lonly. The boat boy won't
+permit morethan one to cross the river, what is the correct way to
+cross the river??
+
+* There are 7  targets, A B and C has to shoot them. All should be shooted 
+consicutively.
+    1. The no. of chances for A and B are not less thn 2,
+    2. for C there is only one chance.
+    3. A can't shot 3 times consicutively.
+    4. B is permited to shoot in even chances only.
+
+    They have given some 3or 4 questions on this
+
+* 
+
+-----------------------------------------------------------------------------
+section 2: 
+
+This part is System concepts(25 Q in 20 min).We haven't remember exactly, but it
+will help alot if u spend some time to revise these concepts.
+  
+   1.encription and decription is done in the following layer.
+     a) DLL  b) Networklayer c)Transport d) presentation      Ans:d
+   2.floating point has different formats on two different machines.This modifi-
+     cations are taken care by which layer?
+     a) DLL b)Network layer c)Transpor layer d)Presentation   Ans:d
+     But check whether is it DLL dealing with frame formats.
+   3.Time complexity of Quick sort algo
+    a)N*N  b)log(N) c)N*log(N) d) N                            Ans:c
+   4.Time complexity of AVL tree is .
+    a)             --- do---                                   Ans:b
+   5.Cycle steling is used in which concept?
+    a)Programmed I/O  b)DMA  c)   (see Goankar book)           Ans:a or b
+   * two questins on IP addressing format.
+   6.Howmany octets are there in IP address 
+    a)6  b)8  c)10  d)12           maybe (b)                   Ans:find
+   7.What are the max number of hosts that can be served by IP
+    a)254  b) 256  c)pow(2,24) d) --      maybe (c)            Ans:find
+   8.which of the following is model representation of life cycle software
+    a) Water fall model b)spiral c)..   (enquire with CS students)
+   9.review of code is for the purpose of
+    a)to find syntax error b)tocheck for the proper design .. 
+   10.Semaphores are used for the resolution of
+    a)contention  b)accessing of same resources by more than one
+   11.In threading of processes when the race condition will happen
+    a)low priority process b) higher priority process ...
+    See O.S. by peterson
+   12.Which of the following function is not performed by O.S.
+    a)CPU sheduling b)Memory management c)Transaction d)..     Ans:c
+   13.If two appl. programmes uses same libraries which of following are shared
+    a)lib code b)code and stack c) data  d)data,code and stack      Ans:a(check for b)
+   14.which is the 16 bit max singned int.
+    a)66337  b)66338 c)257 d)258   a,b are not exact     ans:a
+    15.When will interrupt occurs?
+    a)devide by zero b)DMA completed c)no more memory        ans:may be c
+    16.which of the following has low power cosumption
+    a) EIL b)CMOS  c) Totempole  ......              Ans:b
+    or the question is for fastest gate (EIL)
+    17.which of the following is the wrong statement
+     a)Cominational circuits has memory
+     b)seqquential  circuits has memory
+     c)sequential ckts is a function of time                     ans:a
+    18.Virtual address is
+     a) more than physical address
+     b)lesstthan phy mem
+     c)equal to phy mem
+     d)none                                                ans : a
+    19.Which of the following reduces CPU burden
+     a)DMA b)............                                   ans :a
+    20.malloc function allocates memory at
+    a) compilation time b)link c)load d)running             ans: d
+
+------------------------------------------------------------------------------
+section 3::
+
+1.Max value of SIGNED int 
+    a. b. c. d.
+2.One questin is given, long one, to find the answer U should be 
+femiliar
+ with the operation as follows
+
+ int *num={10,1,5,22,90};
+ main()
+ {
+ int *p,*q;
+  int i;
+  p=num;
+  q=num+2;
+  i=*p++;
+  print the value of i, and q-p, and some other operations are there.
+  }
+  how the values will change??
+3. One pointer diff is given like this:
+  int *(*p[10])(char *, char*)
+  asked to find the    meaning.
+4. char *a[4]={"jaya","mahe","chandra","buchi"};
+   what is the value of    sizeof(a)/sizeof(char *)
+   a. 4 b.bytes for char c-- d.--
+( we don't know the answer)
+
+5. void fn(int *a, int *b)
+   {
+    int *t;
+    t=a;
+    a=b;
+    b=t;
+    }
+    main()
+    {
+     int a=2;
+     int b=3;
+     fn(&a,&b);
+     print the values os a and b;
+     }
+     what is the output--- out put won't swap, the same values remain.
+
+     a. error at runtime
+     b. compilation error
+     c.2 3
+     d. 3 2
+6. 
+#define scanf "%s is a string"
+main()
+{
+ printf(scanf,scanf);
+ }
+ what is the output.
+
+ ANS : %s is string is string
+
+7. i=2+3,4>3,1;
+   printf("%d"i);
+
+   ans is 5 only.
+8. char *p="abc";
+   char *q="abc123";
+
+   while(*p=*q)
+   {
+    print("%c %c",*p,*q);
+    }
+
+    a. aabbcc
+    b. aabbcc123
+    c. abcabc123
+    d. infinate loop ( this may be correct)
+9. printf("%u",-1)
+what is the value?
+a. -1 b. 1 c. 65336 d.  --
+
+
+(maxint value-1   I think, check for the answer)
+
+10. #define void int
+    int i=300;
+   void  main(void)
+    {
+     int i=200;
+     {
+      int i=100;
+      print the value of i;
+      }
+      print the value of i
+      }
+      what is the output?
+
+
+      may be 100 200
+11.
+
+   int x=2;
+   x=x<<2;
+   printf("%d ",x);
+
+
+   ANS=8;
+12.
+     
+int a[]={0,0X4,4,9};     /*some values are given*/
+
+int i=2;
+
+printf("%d %d",a[i],i[a]);
+
+ what is the value???   (may be error)
+
+ 13.
+     some other program is given , I can't remember it
+     U can get it afterwads,
+
+     the answer is 3 3, so U can check this in the exam. itself.
+

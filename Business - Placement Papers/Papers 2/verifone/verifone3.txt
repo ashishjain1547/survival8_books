@@ -1,0 +1,68 @@
+------------------------------------------------------------------
+				VERIFONE
+-----------------------------------------------------------------
+
+there will be 45 qstns. 15+5+5+5+5+5+5.
+section: electronics:
+1.a logic ckt is given and asked to identify the configuration.
+ans: XOR.
+2.multi vibrator with nor gates is given 
+ans: astable multi sqr wave opt.
+3.4 stage ripple counter with delay(f/f) 10msec. How much time it takes 
+for a state to change. 4*10=40.
+4.impedence of a p'lel resonant circiut at resonance:R.
+5.serial to parellel conversion is done by ans:shift register.
+5.if the address bus id 20bits.then the memory space is 1Mb.
+6.filtering can be done with:capacitor,iductor,both,none.
+7.the config that is worst effected by low CMMR
+ans:Non inverting amplifier.
+8.two progs are given. one satrts counting frm 0 to MAX and the other 
+stars frm MAX to 0. which one executes fast.may be Max to 0.Think of.it 
+should be.
+
+another 6 qstns are there. simple.
+
+Networks:
+1.
+the fctn of datalink layer is:bit stuffing.
+2.which of the following is not fctn of datalink layer: Encription.
+3.voltage levels of rs232x:+12,-12.
+4.which of the following is not used for client/server.
+RPC,TCP/IP,MESSAGEQs None ans:may be none.
+5.
+
+database:
+1. which of the following is true.
+ans:the primary key in DataBAse design is very important.
+2. SQL is a Non procedural query langauge.
+3.
+4
+5.
+compiler/algo/ds:
+1.Data structure used to impliment a menu: doubly linked circular linked 
+list.
+2. some regular expression is given:WaW'.may be it is context free grammar.
+3.,4,5.
+os:
+1.the feature of real time os is: fast context swithing.
+2.os impliments protection with the help of hardware(like virtual 
+addressing in 386/286 etc).
+
+C:
+some small c progs are given asked to tell the function/errors etc.
+one of the qstn(last in the paper) is an invalid statement.
+finish of all these very fast and think about those others. they are 
+simple only.
+
+
+Interview:
+depends on the member.(Mr.Deep if he comes asks archirect of 586/486/386/286
+etc. otherwise DS,OS,C,TCP/IP . they hv taken 21(18btechs+3mtechs).
+ok if u hv any queries ask immediately.
+ok
+all the best.
+
+
+
+
+

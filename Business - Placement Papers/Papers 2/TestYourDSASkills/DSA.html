@@ -1,0 +1,20 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Mozilla/4.61 [en] (X11; I; Linux 2.2.12-20 i686) [Netscape]">
+</head>
+<body>
+How can I sort a linked list?
+<br>&nbsp;
+<br>&nbsp;
+<p>Sometimes it's easier to keep the list in order as you build it (or
+perhaps to use a tree instead). Algorithms like insertion sort and merge
+sort lend
+<br>themselves ideally to use with linked lists. If you want to use a standard
+library function, you can allocate a temporary array of pointers, fill
+it in with
+<br>pointers to all your list nodes, call qsort, and finally rebuild the
+list pointers based on the sorted array.
+</body>
+</html>

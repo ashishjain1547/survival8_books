@@ -1,0 +1,244 @@
+
+ This is pCS bombay paper.
+
+
+
+1. #include <stdio.h>
+ * What is wrong in the following problem
+
+main() {
+int i,j;
+j = 10;
+i = j++ - j++;
+printf("%d %d", i,j);
+}
+ans: 0, 12
+
+2.#include <stdio.h>
+ *  What is the output of the following problem
+main() {
+int j;
+for(j=0;j<3;j++)
+ foo();
+}
+foo() {
+static int i = 10;
+i+=10;
+printf("%d\n",i);
+}
+
+/*  Out put is   (***since static int is used i value is retained between
+ *  20            function calls )
+ *  30
+ *  40
+ *
+/
+
+3.#include <stdio.h>
+#include <stdio.h>
+#include <string.h>
+/* This is asked in PCS Bombay walk-in-interview
+ * What is wrong in the following code
+ */
+main()
+{
+  char  *c;
+  c = "Hello";
+  printf("%s\n", c);
+}
+/*ans:- Hello,  The code is successfully running  */
+
+4.   #include <stdio.h>
+/* This problem is given in PCS BOMBAY walk-in-interview.
+ * What is the final value of i and how many times loop is
+ * Executed ?
+ */
+
+main()
+
+{
+  int i,j,k,l,lc=0;
+  /* the input is given as 1234 567  */
+  printf("Enter the number string:<1234 567 >\n");
+  scanf("%2d%d%1d",&i,&j,&k);
+  for(;k;k--,i++)
+  for(l=0;l<j;l++) { lc++;
+  printf("%d %d\n",i,l);}
+printf("LOOPS= %d\n", lc-1);
+}
+/*  Ans:  i = 16, and loop is executed for 169 times */
+
+5.#include <stdio.h>
+/* This is given in PCS Bombay walk-in-interview   */
+/* What is the output of the following program     */
+
+main() {
+        union {
+                  int a;
+                  int b;
+                  int c;
+                } u,v;
+        u.a = 10;
+        u.b = 20;
+        printf("%d %d \n",u.a,u.b);
+      }
+/* Ans :  The latest value assigned to any of the union member
+           will be present in the union members so answer is
+           20 20
+*/
+6.#include <stdio.h>
+main()
+{
+  float i, j;
+  scanf("%f %f", &i, &j);
+      printf("%.2f %.3f", i, j);
+}
+
+/Ans:- 123.34 3. 234  */
+
+
+7.#include <stdio.h>
+/* This is given in PCS Bombay walk-in-interview
+ * What is the out put of the following problem  ?
+ */
+
+main()
+{
+   char *str = "12345";
+   printf("%c %c %c\n", *str, *(str++), *(str++));
+}
+/*  Ans:  It is not 1 2 3
+ *        But it is 3 2 1 Why ??
+ */
+
+8.#include <stdio.h>
+/* This problem is asked in PCS Bombay Walk-in-interview
+ * Write a macro statement to find maximum of a,b
+ */
+#define max(a,b)  (a>b)?a:b
+main()
+{
+    int a,b;
+    a=3;
+    b=4;
+    printf("%d",max(a,b));
+}
+/* Ans is very simple the coding is just for testing it
+ and output is 4 */
+
+~
+9.#include <stdio.h>
+/* This problem is asked in PCS Bombay
+ * What is the output of the following coding
+ */
+
+main()
+{
+  int len=4;
+  char *st="12345678";
+  for(i=0; i<6; i++)
+  st = st -len;
+  printf("%c\n",*st);
+}
+/* Ans : It will print some junk value */
+~
+10.#include <stdio.h>
+main()
+{
+  func(1);
+}
+func(int i){
+static char *str ={ "One","Two","Three","Four"};
+printf("%s\n",str[i++]);
+return;
+}
+/* Ans:- it will give warning because str is pointer to the char but
+   it is initialized with more values
+   if it is not considered then the answer is Two  */
+
+11.
+ #include <stdio.h>
+main()
+{
+  int i;
+  for (i=1;i<100; i++)
+  printf("%d %0x\n",i,i);
+}
+/* Ans:- i is from 1 to 99 for the first format,
+         for the second format 1to9, ato f, 10 to 19,1ato1f, 20 to 29, etc */
+
+
+12.#include <stdio.h>
+/*  This problem is asked in PCS Bombay walk-in-interview
+ *  In the following code please write the syntax for
+ *  assing a value of 10 to field x of s and id_no 101 of s
+ */
+struct {
+          int x;
+          int y;
+          union {
+                  int id_no;
+                  char *name;
+                }b;
+        }s,*st;
+main()
+{
+    st = &s;
+    st->x=10;
+    st->b.id_no = 101;
+    printf("%d %d\n",s.x,s.b.id_no);
+}
+/*  Ans: The answer is st->x=10;
+ *                     st->b.id_no=101;
+ */
+13.#include <stdio.h>
+/*   This problem was asked in PCS Bombay in a walk-in-interview
+ *   Write a recursive function that calculates
+ *   n * (n-1) * (n-2) * .......  2 * 1
+ */
+
+main() {
+int factorial(int n);
+int i,ans;
+printf("\n Enter a Number:");
+scanf("%d",&i);
+ans = factorial(i);
+printf("\nFactorial by recursion = %d\n", ans);
+}
+int factorial(int n)
+{
+  if (n <= 1)  return (1);
+  else
+   return ( n * factorial(n-1));
+}
+
+~
+14.#include <stdio.h>
+/* This problem is asked in PCS Bombay walk-in-interview
+ * What is the output of the following problem
+ */
+main(){
+int j,ans;
+j = 4;
+ans = count(4);
+printf("%d\n",ans);
+}
+int count(int i)
+{
+ if ( i < 0) return(i);
+ else
+ return( count(i-2) + count(i-1));
+}
+
+/*  It is showing -18 as an answer */
+
+15.#include<stdio.h>
+main()
+{
+ int i=4;
+ if(i=0)
+ printf("statement 1");
+ else
+ printf("statement 2");
+}
+/* statement 2 */

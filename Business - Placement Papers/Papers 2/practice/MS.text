@@ -1,0 +1,51 @@
+Dinesh
+--
+X 1.*Given a rectangular (cuboidal for the puritans) cake with a rectangular
+     piece removed (any size or orientation), how would you cut the remainder
+     of the cake into two equal halves with one straight cut of a knife ?
+ 
+  2. You're given an array containing both positive and negative integers and
+     required to find the subarray with the largest sum (O(N) a la KBL).
+     Write a routine in C for the above.
+ 
+X 3.*Given an array of size N in which every number is between 1 and N,
+     determine if there are any duplicates in it.  You are allowed to destroy
+     the array if you like. [ I ended up giving about 4 or 5 different solutions
+     for this, each supposedly better than the others ].
+ 
+  4. Write a routine to draw a circle (x ** 2 + y ** 2 = r ** 2) without making
+     use of any floating point computations at all.  [ This one had me stuck for
+     quite some time and I first gave a solution that did have floating point
+     computations ].
+ 
+X 5. Given only putchar (no sprintf, itoa, etc.) write a routine putlong that
+     prints out an unsigned long in decimal.  [ I gave the obvious solution of
+     taking % 10 and / 10, which gives us the decimal value in reverse order.
+     This requires an array since we need to print it out in the correct order.
+     The interviewer wasn't too pleased and asked me to give a solution which
+     didn't need the array ].
+ 
+X 6.*Give a one-line C expression to test whether a number is a power of
+     2. [No loops allowed - it's a simple test.]
+ 
+X 7.*Given an array of characters which form a sentence of words, give an
+     efficient algorithm to reverse the order of the words (not characters)
+     in it.
+ 
+X 8.*How many points are there on the globe where by walking one mile south,
+     one mile east and one mile north you reach the place where you started.
+ 
+X 9.*Give a very good method to count the number of ones in a 32 bit number.
+     (caution: looping through testing each bit is not a solution).
+
+  10. What are the different ways to say, the value of x can be either a 0
+      or a 1. Apparently the if then else solution has a jump when written
+      out in assembly.
+ 	if (x == 0)
+ 		y=0
+ 	else
+ 		y =x
+ 	There is a logical, arithmetic and a datastructure soln to the above
+ 	problem.
+
+

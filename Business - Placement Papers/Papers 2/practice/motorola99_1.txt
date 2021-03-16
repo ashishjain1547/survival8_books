@@ -1,0 +1,22 @@
+Motorola 99
+
+there are 45 question . no technical question are asked.time 45 mins.
+    2 reasoning question means total 11 questoins.reasoning is not from 
+GRE.   
+
+
+1. antonym
+       p....  ans. static
+2.there are 1800 coins.one coin is counterfiet coin.how many minimum 
+weight is required to find counterfiet coin.
+3. there are six question of series.
+   1 2 3 5 8 ?  ans. 
+   102 204 102  ans. 256
+   questions are very easy .you can solve easily there.
+4. word1 : word2 = motorola :    ..... ans . c
+5 . this type are question are asked. 
+            1      2        4
+                10      ?          
+             3      4        ...     
+6.   instruction to add 3 .......     ans. 4
+7.floor problem ......   ans. 11th floor

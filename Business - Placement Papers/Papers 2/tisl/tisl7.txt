@@ -1,0 +1,251 @@
+                  TATA -IBM
+                -----------
+              
+	      LETTER SERIES
+                                         
+	                                    answers
+			     -             -------
+ 1)e e f g g h i i ---                       j    
+
+ 2)a z a y b z b y c ---     a e x y z       z
+
+ 3)d e f d e f g h i ---     d e f g h       g
+
+ 4)c d e x y z f g h x y z   i j k l m       i
+
+ 5)de f de g d e ---         d j z h i       h
+
+ 6)a b c z a b c y a b c --- a b x y z       x
+
+ 7)d g b h i b j k b ----     b e l m n      l
+
+ 8)t s p t s q t s --- r s t v w             r
+
+ 9)q a r b s a t a r b ----    a b e r s     s
+
+ 10)b c c d e e f g -- e f g h i             g
+
+ 11)e f h i k l ---    m n o p q             n
+
+ 12)a b cc d e ff g -- efghi                 h
+
+ 13)a m n b op c ---   depqr                 q
+
+ 14)ttt sss qqq p ---  opqrs                 p
+
+ 15)ddffhhjj---        ijklm                 l
+
+ 16)mnmnklopopkl ----- kopqr                 q
+
+ 17)cddeeefff---       efghi                 f
+
+ 18)gfde----           bcfgh                 c
+ 
+ 19)dfhjl -----        jklmn                 n
+
+ 20)abcijdefij----     ghijk                 g
+
+ 21)efgefghefghi ----                        e
+
+ 22)bcbdedffghi ----   fghjk                 h
+
+ 23)aababccdc  ---     cdefg                 d
+
+ 24)aibcidef ---       efghi                 i
+
+ 25)cehl ---           opqrs                 q
+
+ 26)abdehimn ---       pqrst                 s
+
+ 27)becfdge ---        efghi                 h
+
+ 28)agbhc ----         dfghi                 i
+
+ 29)adhko ---          pqrst                 r
+
+ 30)efghjklno ---      pqrst                 q
+
+31)aeibf ---           cdgij                 j
+
+ 32)aedhg--            hijkl                 k
+
+ 33)zdwgt ---          hijkl                 j
+
+ 34)zeiyijxj---        ijklm                 k
+
+ 35)dqreuvg---         vwxyz                 y
+
+ 36)ksjtiuh---         vwxyz                 v
+
+37)rsjtuhvw---        cdefg                  f
+
+
+ 38)ieajfbk ----       cdefg                 g
+
+ 39)hebijej ----       ghijk                 g
+
+ 40)njfmiel ---        dhijm                 h
+
+1)
+	   main()
+		{
+		 char *p1="name";
+		 char *p2;
+		 p2=(char*)malloc(20);
+		 while(*p2++ = *p1++);
+		 printf("%s\n",p2);
+		}
+		  Ans:empty string.
+2)
+	    main()
+		{
+		   int x=20,y=35;
+		   x=y++ + x++;
+		   y= ++y + ++x;
+		   printf("%d%d\n",x,y);
+		 }
+		  Ans : 57 ,94
+ 3)
+		 main()
+		  {
+		    int x=5;
+		    printf("%d%d%d\n",x,x<<2,x>>2);
+		  }
+		  ans: 5,20,16
+4)
+		 #define swap(a,b) a=a+b;b=a-b;a=a-b;
+		 main()
+		 {
+		  int x=5;y=10;
+		  swap1(x,y);
+		  printf("%d %d\n",x,y);
+		  swap2(x,y);
+		  printf("%d %d\n",x,y);
+		 }
+	    int swap2(int a, int b)
+	    {
+		int temp;
+		temp=a;
+		b=a;
+		a=temp;
+		return;
+	    }
+		  like that
+		    ans: 10 ,5
+				10 ,5
+ 5)
+	main()
+	 {
+	   char *ptr = " Ramco Systems"
+	   (*ptr)++;
+	   printf("%s\n",ptr);
+	   ptr++;
+	   printf("%s\n",ptr);
+	  }
+	   Ans:  Samco Systems
+		    amco systems
+ 6)
+	  main()
+	  {
+	   char s1[]="Ramco";
+	   char s2[]= "systems";
+	   printf("%s",s1);
+	  }
+	  Ans: compilation error giving that it can not modified Lvalue.
+7)
+	main()
+	 {
+	  char *p1;
+	  char *p2;
+	  p1=(char *)malloc(25);
+	  p2=(char *)malloc(25);
+	  strcpy(p1,"Ramco");
+	  strcpy(p2,"systems");
+	  strcat(p1,p2);
+	  printf("%s",p1);
+	 }
+	  Ans: Ramcosystems
+8)
+   The following variable is available in file1.c
+	static int average float;
+	Ans: all the functions in the file1.c can access the variable.
+9)
+    Ans : [2] . extern int x;
+    check the answer.
+10)  Another problem with
+	#define TRUE 0
+	 somecode.
+	 while(TRUE)
+	 {
+	  somecode
+	 }
+	 This will not go into the loop as TRUE is defined as 0.
+	 Ans : None of the above i.e (D).
+ 11)
+	   Ans :
+		 [4]. A question in structures where the members are dd,mm,yy.
+		   mm:dd:yy
+		   09:07:97
+12)    Ans: [5] Another structure question.
+		   1.Rajiv system analyst.
+
+13)
+	Ans: INFILE.DAT is coupled to OUTFILE.DAT.
+14)  A question with argc  and argv.
+	  Inputfile will be.
+		c:\TEMP.EXE Ramco systems India.
+	   Outputfile will be.
+		   India: I n d i a
+		   systems: s y s t e m s
+		   Ramco: R a m c o
+	  Ans : choice (d)
+15) structure kswap
+	Ramco India
+	Ramco Systems Corporation
+	Ramco .... Limited.
+
+	After swaping  the result will be
+	First two will be swaped
+	Ramco Systems Corporation.
+	Ramco India
+	Ramco .... Limited.
+16)  int x;
+	 main()
+	  { int x=10;
+		 x++;
+		 change-value(x);
+		 x++;
+		 modify-value();
+		 printf("First output:%d\n",x);
+
+	   x++;
+	   change-value(x);
+	   printf("secpnd output:%d\n",x);
+	   modify-value();
+	   printf("Third output:%d\n",x);
+	}
+	  modify-value()
+	  {
+	   return(x+=10);
+	  }
+	  change-value()
+	  {
+	   return(x+=1);
+	  }
+	Ans: 12 , 1 , 1
+17)  main()
+	 {
+	  int x=10;y=15;
+	  x = x++;
+	  y = ++y;
+	  printf("%d %d\n",x,y);
+	 }
+	 Ans: 11, 16
+18)
+	main()
+	 {
+	  int a=0;
+	  if(a==0) printf("Ramco Systems\n");
+	  printf("Ramco Systems\n");
+	 }
+	Ans: only one time "Ramco Systems" will be printed.

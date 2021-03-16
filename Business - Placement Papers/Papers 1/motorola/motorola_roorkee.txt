@@ -1,0 +1,36 @@
+there were 20 ques..
+first 5 were programs..
+we had to fill the blanks in the programs ..
+q1=> linked list reversal .. we had to fill the blank spaces
+q2=> fiboonacci series => predict the output
+q3=> factorial/sum of num =>predict the output
+q4=>selection sort worst and avg time complexity
+q5=>no. of comparisons and exchanges for worst and avg case of selection
+sort
+q6=>int i=5
+printf("%f",i);
+4 options were given
+q7=>what is a smart pointer
+4 options were given
+q8=>what is a template
+q9=>class a{
+virtual x(){}
+};
+class b
+{
+virtual x(){}
+}
+;
+class c : public a ,public b
+{
+virtual x(){}
+};
+
+main(){
+c c1
+c1.x();}
+what will happen
+...
+2 simple ques. were from java
+
+ok tehse were some ques ..

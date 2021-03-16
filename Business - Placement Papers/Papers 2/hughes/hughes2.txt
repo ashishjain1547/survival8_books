@@ -1,0 +1,132 @@
+
+Ninna Huges companey iccadiki votchinadi.  Vallu adigina questions lo conni
+iccada istunnanu.  Chigurupati prasad itchadu.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	1.	CSMA/Cd protocol used in
+		Ans : Ethernet
+	2.	Checksum in IP packet is
+		Ans :	Sum of the bits and 9's complement of sum
+	3.	Inselective repeat Max Seq is given find windowsize
+		i.e. Ans : (15+1)/2 = 8
+	4.	Main memory cache direct mapping
+		Ans : 64
+	5.	Address lines and data lines for 4K x 16
+		Ans : Addr 12, Data 16
+	6.	Infix to postsize commession uses
+		Ans : operator stack
+	7.	Printing ofstatic variable
+		Ans : 11
+	8.	Ans : 1,2,3,4 ( Program is given
+					array[0] = 1;
+					array[1] = 2;
+					array[2] = 3
+					array[3] = 4
+					ptr = array[0]
+					*(arr+3) = *(++array ) + *(array-1)++)
+					)
+					There may me some mistique in writing
+					the program.  Check it out.
+					Answer is correct
+	9.	One Question on Scheduling
+		Preemptive
+	10.	Which of the following is not memory model
+		(1) buddy system (2) monitor (3) virtual ... etc.
+	11.	Hight balancing AVC time
+		Ans : 3
+	12.	Virtual to physical address mapping
+		page table given
+	13.	regular expression of identifier
+		L(LUD)*
+	14.	Simplification in boolean Algebra
+		Ans : xz
+	15.	Logical gate is given we have to find what is that
+		Ans : NOR
+	16.	Solution for Diriving philofphing
+		Ans : d
+	17.	The feature C++ have and c donot have
+		Ans : Variables can be declared inside also.
+	18.	Number of nodes with degree two in a binary tree of n leaves
+		Ans : n-1
+	19.	Difference between syachronous and asynchronous transmission
+
+	20.	The question on RS232
+		(Use of sfart bit in Rs 232 protocal)
+	21.	Floating point representation
+		Ans : 2's complement
+			1 more negitive number
+	Two simple probability questions are also there
+
+Section A : 30
+Section B : 20
+
+Total 50 questions in 1 hours
+P.S. Paper may change.  Delhi question paper is not given here.
+
+
+	           	 HUGES
+                   	 -----
+                   
+> > (A)Aptitude :25 Qns, 20 Minutes
+> > 
+> >   1. 2 x 4 analytical GRE type qns
+> >   2. 2-3 Reasoning qns (GRE type)
+> >   3. Probability of getting a sum of 7 when two dices are thrown together
+> >   4. Rest quantitative questions
+> > 
+> >  (B) Technical: 50 Qns, 45 Minutes
+> >   
+> >   1. 3 qns on operating systems. I qn on dijkestra algorithm
+> > 
+> >   2. Using which pin it's possible to address 16 bit addresses even though there
+> >      are only 8 address bits in 8085? Ans: ALE
+> >   3. Voltage gain for an amplifier is 100 while it is operating at 10 volts.
+> >      What is the O/P voltage wen i/p is 1 volt
+> >   4. Quality factor indicates a0 Quality of inductor b) quality of capacitor
+> >      c) both
+> >   5. Qns related to bridges, routers and generators, which OSI layer they 
+> >   corresspond to. (Refer to stevens 4th chapter)
+> >   6.OPAmp's I/P ciurrent, O/p current and CMRR is given, what is the voltage 
+> >   gain
+> >   7. 2-3 qns on scope of static variables in C. Qn to view o/p odf a C static 
+> >      var
+> >   8. Qn to print a value of a pointer
+> >   9.resistance increases with temperature in a) Metal b) semiconductor
+> >   10. A qn to find the physical address from a given virtual address, virtual
+> >       to physical address table was provided
+> >   11. 16 bit mantissa and 8 bit exponent can present what maximum value?
+> >   12. 4 bit window size in sliding window protocol, how many acknowledements can be held?
+> >   13. Security functionality is provided by which layer of OSI
+> >   14. Frequency spectrums for AM, FM and PM (figure given, u'veto tell which
+> >       Kind of modulation it belongs to)
+> >   15. Among AM and FM which is better and why?
+> >   16.LASt stage of TTL NAND gate is called: Ans: Totem Pole Amplifier
+> >   17. SR to JK flip flop conversion. Ans: S=JQ', R=KQ
+> >   18. LSB of  a shift register is connected to its MSB, what is formed: Ans:
+> >       RING Counter
+> >   19. 2-3 Qns based on Demorgan's laws (identiies: (A+b)' = A'b', etc)
+> >   20. 2 qns on Logic gates (O/p of logic gates)
+> >   21. Diff in IRET and RET statements of 8086
+> >   22. How many address bytes are required to address an array of memory chips
+> >       (4 * 6), each chip having 4 memory bits and 8k registers.
+> >    23. Diff. in memory mapped and I/P O/P mapped Input/Output (Refer a book on Microprocessor)
+> >    24. Qn on pipeline architecture
+> >    25 QN on LAPB protocol
+
+Iam really sorry for responding so late.
+I wanted to sit with your work but I could not ( because of some problems )
+I remember very little about the Dharma test pattern.
+There was an Apptitude test. Quantitative and Analytical.
+The Quantitative is very easy. You should prepare from GRE or any  CAT
+Material.
+The Analytical part is mostly from Barrons Guide. I remember two questions .
+they are from Barron's guide. It is something about a village called "kaya-kaya
+" where half the people speak truth and half lies. There was one more about set
+of houses of itallian,germans,romman etc in a row whose chimmney colours were
+given, their favoritr drinks were given. I hope you will find these questions
+in Barron's guide. I did not get a Barron's guide to search them for you. The
+interview was mostly about C , C++ . They are mostly working on C++. That will
+help if you know. They are working on their own SQL. You should brush up your
+fundas in DBMS. In interview there are questions in UNIX Internals also. Hope
+this info is of some use to you. Good Luck. Keep me informed on the proceedings
+of the campus.

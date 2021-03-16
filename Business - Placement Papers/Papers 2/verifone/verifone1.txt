@@ -1,0 +1,227 @@
+
+
+VERIFONE INDIA PVT. LTD. QUESTION PAPER :
+
+This test consists of two parts  :
+-------------------------------
+1.aptitude 20 qtns 15 min.
+2.technical 45 qtns 30 min.
+
+
+/*
+ *   APTITUDE QUESTIONS
+ */
+
+
+Few aptitude questions out of 20(15min time).
+---------------------------------------
+
+>>> All these are from GMAT'96 edition(galgotia publcations) :
+
+1.if length of a rectangle is incr by 20% and width is decr by 20% then 
+area:(page 44)
+ANS:decreases by 4%.
+
+2.the lead in pencil is 5inch long.after pieces of 1/8.1-3/4,1-1/12inches 
+are broken how long is the lead left in the pencil:(page44) 
+ANS:2-1/24inch.
+
+3.how many two digit numbers satisfy the property:the last digit of the 
+sqr of the two digit number is 8:(page45).
+ANS:none.
+
+4.city B is 8miles east of city A.city C is 6 miles north of city B. and 
+so on.(page 45): 
+ANS:30miles .
+
+5.if 50 apprentices can finish a job in 4 hours and 30 journey men can 
+finish the same job in 4-1/2 hrs and so on.(page 46).
+ANS:29/180.
+
+6.there are 50 employees in the office of ABC company.and so on.(page 52.)
+ANS:10.
+
+7. what is the max no of points of intersection of two circles of unequal 
+radii. (page 55).
+ANS:2.
+
+8.if the area of sqare increases by 69% then side of the sqr incr by:
+ANS:13%
+
+9.if x,y,z are chosen frm -3,1/2,2 what is the largest value of (x/y)*z*z
+  (page 305.)
+ANS:36.
+
+10.a club hs 8 male 8 female members.(page 307):
+ANS:3136.
+
+11.sum of 5 consecutive numbers is 35. how many of the numers are  prime:
+   (page 368).
+ANS:2.
+
+12.if the product of three consecutive int is 210,then sum of the two 
+smaller ints is:(page 386).
+ANS:5+6=11.
+
+13.there are 27 coins in which 0ne is heavier than rest(all equal weight).
+how many measurements are needed to isolate that odd one.
+ANS:3.
+
+
+/* 
+ * TECHNICAL TEST QUESTIONS
+ */
+
+there will be 45 qstns.  
+
+>>>> 15(elec) + 5(netw) + 5(os) + 5(compilers and algos)
+	       + 5(database and misc.) + 5(datastructures) + 5(c progs).
+
+Section: ELECTRONICS:
+
+1.A logic ckt is given and asked to identify the configuration.
+ANS: XOR.
+
+2.multi vibrator with nor gates is given 
+ANS: astable multi sqr wave opt.
+
+3.4 stage ripple counter with delay(f/f) 10msec. How much time it takes 
+for a state to change. 
+ANS:4*10=40.
+
+4.impedence of a parallell resonant circiut at resonance:
+ANS:R.
+
+5.serial to parellel conversion is done by :
+ANS:shift register.
+
+5.if the address bus is 20bits.then the memory space is :
+ANS:1MB.
+
+6.filtering can be done with:
+i)capacitor,ii)inductor,iii)both,iv)none.
+ANS:both.
+
+7.two progs are given. one satrts counting frm 0 to MAX and the other 
+stars frm MAX to 0. which one executes fast.
+ANS:may be Max to 0.Think of it. 
+
+8.problem using three registers.
+ANS: register A is multiplied by 11.
+
+9.the config that is worst effected by low CMMR
+ANS:Non inverting amplifier.
+
+
+---- Another 6 questions are there. simple.
+
+
+Networks:
+--------
+1.which is not used for error correction : 
+ANS :bit stuffing.
+
+2.which of the following is not fctn of datalink layer: 
+ANS : Encryption.
+
+3.voltage levels of rs232c:
+ANS :+12,-12.
+
+4.which of the following is not used for client/server.
+     i)RPC,ii)TCP/IP,iii)MESSAGEQs,iv)None 
+ANS: none.
+
+5.
+
+
+Database:
+--------
+1. which of the following is true.
+ANS:the primary key in DataBAse design is very important.
+2. ANS : SQL is a Non procedural query langauge.
+3. ANS : Time for insertion is more than time for modification.
+4  
+5.
+
+Compiler/algo/ds:
+----------------
+1.Data structure used to impliment a menu:
+ANS :doubly linked circular linked list.
+2. some regular expression is given:WaW'.
+ANS : may be it is context free grammar.
+3.
+4.
+5.
+
+
+
+
+OS:
+--
+1.the feature of real time os is: 
+ANS:fast context swithing.
+
+2.ANS:os impliments protection with the help of hardware(like virtual 
+addressing in 386/286 etc).
+
+
+
+
+C programming:
+-------------
+some small c progs are given asked to tell the function/errors etc.
+one of the qstn(last in the paper) is an invalid statement.
+finish of all these very fast and think about those others. they are 
+simple only.
+
+1.int a=2,b=3,c=4;
+printf("a=%d,b=%d\n",a,b,c);
+ANS:2,3
+
+2.for(i=1;i<10;++i,printf("%d",i));+-
+ANS:compiling error.
+
+3.whole logic is given in func s but they are working properly.
+the main logic is :
+
+char *string;
+
+string=malloc(5*sizeof(char));
+strcpy(string,"hello");
+printf("%s",string);       /* func to print */
+
+ANS:hello and some extra characters until uccerence of \0 .
+
+4. in a system integer takes 3bytes and char takes 1byte .......
+struct smthing{
+int a;
+char b[4];
+};
+
+
+ANS:sizeof struct smthing is 7 bytes.
+
+5. 
+
+
+Interview:
+It depends on the member.
+1.Mr.Deep asks archirect of 586/486/386/286 etc. otherwise DS,OS,C,TCP/IP. 
+2.Mr.Abhik asks about compiler design and TCP/IP.
+
+
+
+Suggestions in attempting :
+
+aptitude test:
+1.attempt easy questions first.
+
+technical test :
+
+1.Attempt C programs first.
+2.Network,os,datastuctures,compilers etc.
+3.Electronics and electrical.
+
+
+
+/----------------------------------ALL THE BEST--------------------------------/

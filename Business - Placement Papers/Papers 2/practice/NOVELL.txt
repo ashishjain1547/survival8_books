@@ -1,0 +1,211 @@
+> >Novell network paper
+> >>
+> >>The paper consists os three sections.
+> >>1. aptitude 15 questions 20 min.
+> >>2. system concepts 20 questions 20 min.
+> >>3. 'c'   15 questions 20 min.
+> >>
+> >>NOTE:::::
+> >>
+> >>I'm sendin the questions, somany have no answers. U do check the
+> >>answers  for all the given questions also.
+> >>
+> >>All questions are MULTIPLE CHOICES ONLY.
+> >>
+> >>U do try to cover the related topics to get some understanding.
+> >>In interview They are asking C C++ Operating system concepts
+> >>and Networks.
+> >>They will ask about Ur interesting subjects, U try to have good
+> >>grip on those intresting subjects.
+> >>
+> >>They selected 11 out of 55 students.
+> 
+> >> They asked about c c++ project work and OS,NETWORKS.
+> >>But they selected only 2 , one from CS and another is BTech ECE.
+> >>
+> >>SECTION 1 is main factor selection to the interview
+> >>
+> >>
+> >>--------------------------------------------------------------
+> >>In the interveiw you should be very active .And should be frank to say
+> >>no also.One CS student said that he don't know NETWORK and he hasn't
+> >>taken NETWORKS subject.But he has selected.
+> >>      OK  BEST OF LUCK.
+> >>
+> >>
+> >>section 1::::;
+> >>
+> >>*. GRE book test paper 3 section 5
+> >>question no. 8 to 12     (ships WXYZ starting on dec. 23rd..........)
+> >>
+> >>
+> >>* 5 programs are sheduled from monday to saterday, monday is not
+> >holiday,
+> >>PQRST are the programs. The day before P is holiday, and some other
+> >clues are
+> >>given, we have to find the sequence (4 questions)
+> >>    
+> >>ANS: tuesday is the holiday
+> >>     P comes on wednesday ,
+> >>     U can do the remaining very easily.
+> >>* Suppose U R the presoner, There are two guards Who will tell truth
+>or 
+> >>one will tell truth. There is a gate for liberty and another foe hell.
+> >>
+> >>Some questions are given, like
+> >>    i. are U tell truth?
+> >>    ii. another tell truth or not??
+> >>    iii. both of U R telling truth??
+> >>    iV. both of U lieing?? 
+> >>    V. --------------
+> >>
+> >>
+> >>    they gave  a. b. c. d. and asking about which sequencing is
+> >sufficient to
+> >>    find the gate for liberty??
+> >>    ( I can't give exact thing)
+> >>    
+> >>* There are WIFE and HUSBAND at one side of river. They have one
+>child,
+> >>They want to cross the river. The child can't be lonly. The boat boy
+> >won't
+> >>permit morethan one to cross the river, what is the correct way to
+> >>cross the river??
+> >>
+> >>* There are 7  targets, A B and C has to shoot them. All should be
+> >shooted
+> >>consicutively.
+> >>    1. The no. of chances for A and B are not less thn 2,
+> >>    2. for C there is only one chance.
+> >>    3. A can't shot 3 times consicutively.
+> >>    4. B is permited to shoot in even chances only.
+> >>
+> >>    They have given some 3or 4 questions on this
+> >>---------------------------------------------------------------------------$
+>-
+> >>section 3::
+> >>    
+> >>1.Max value of SIGNED int
+> >>    a. b. c. d.
+> >>2.One questin is given, long one, to find the answer U should be
+> >>femiliar
+> >> with the operation as follows
+> >>
+> >> int *num={10,1,5,22,90};
+> >> main()
+> >> {
+> >> int *p,*q;
+> >>  int i;
+> >>  p=num;
+> >>  q=num+2;
+> >>  i=*p++;
+> >>  print the value of i, and q-p, and some other operations are there.
+> >>  }
+> >>  how the values will change??
+> >>3. One pointer diff is given like this:
+> >>  int *(*p[10])(char *, char*)
+> >>  asked to find the    meaning.
+> >>4. char *a[4]={"jaya","mahe","chandra","buchi"};
+> >>   what is the value of    sizeof(a)/sizeof(char *)
+> >>   a. 4 b.bytes for char c-- d.--
+> 
+> >>( we don't know the answer)
+> >>   
+> >>5. void fn(int *a, int *b)
+> >>   {
+> >>    int *t;
+> >>    t=a;
+> >>    a=b;
+> >>    b=t;
+> >>    }
+> >>    main()
+> >>    {
+> >>     int a=2;
+> >>     int b=3;
+> >>     fn(&a,&b);
+> >>     print the values os a and b;
+> >>     }  
+> >>     what is the output--- out put won't swap, the same values remain.
+> >>    
+> >>     a. error at runtime
+> >>     b. compilation error
+> >>     c.2 3
+> 
+> >>     d. 3 2  
+> >>6.
+> >>#define scanf "%s is a string"   
+> >>main()  
+> >>{
+> >> printf(scanf,scanf);
+
+> >> }
+> >> what is the output.
+> >>     
+> >> ANS : %s is string is string
+> >>     
+> >>7. i=2+3,4>3,1;
+> >>   printf("%d"i);
+> >>
+> >>   ans is 5 only.
+> >>8. char *p="abc";
+> >>   char *q="abc123";
+> >> 
+> >>   while(*p=*q)
+> >>   {
+> >>    print("%c %c",*p,*q);
+> >>    }
+> >>   
+> >>    a. aabbcc
+> >>    b. aabbcc123 
+> >>    c. abcabc123 
+> >>    d. infinate loop ( this may be correct)
+> >>9. printf("%u",-1)
+> >>what is the value?
+> >>a. -1 b. 1 c. 65336 d.  --
+> >>    
+> >>     
+> >>(maxint value-1   I think, check for the answer)
+> >>    
+> >>10. #define void int
+> >>    int i=300;   
+> >>   void  main(void)
+> >>    {
+> >>     int i=200;   
+> >>     {
+> >>      int i=100;
+> >>      print the value of i;
+> >>      }
+> >>      print the value of i
+> >>      }
+> >>      what is the output?
+> >>   
+> >>     
+> >>      may be 100 200
+> >>11.   
+> >>      
+> >>   int x=2;
+> >>   x=x<<2;
+> >>   printf("%d ",x);
+> >>       
+> >>      
+
+> >>   ANS=8;
+> >>12.  
+> >>      
+> >>int a[]={0,0X4,4,9};     /*some values are given*/
+> >>      
+> >>int i=2;   
+> >>   
+> >>printf("%d %d",a[i],i[a]);
+> >>       
+> >> what is the value???   (may be error)
+> >>   
+> >> 13. 
+> >>     some other program is given , I can't remember it
+> >>     U can get it afterwads,
+> >>      
+> >>     the answer is 3 3, so U can check this in the exam. itself.
+> >>   
+> >>     I'll send the remaining two afterwars whenever I get them. OK !
+> >>       
+

@@ -1,0 +1,28 @@
+THIS QUESTION WAS GIVEN IN i2 TECHNOLOGIES..  ON 14-8-98.
+********************************************************
+  This is given for 20 marks......
+        Simply try to solve it.
+
+Write A Program In C++(Or in C) for the following Data--20 MIN.
+**************************************************************
+
+A school Trust That manages many schools in a city has decided to merge two of its branches by moving all the students of different standards and divisions from both the branches to their newly acquired complex.How ever,when moving,it is ensured that every student's standard and division remains same.
+ Thus a student of 7F (standard 7,division F)from one of the branches will continue to be in 7F in the new school complex.
+ Given that the student strength of both the branches in the form of a list of division and strength pairs terminated by a $ sign as shown in the example as follows.....
+  1A 30  1B 28  2A 35
+  2B 38  2C 36  2D 34
+  3A 32  3B 34  ---$
+  1A 25  1B 24  1C 26
+  1D 25  1E 22  2A 40  2B 42
+  3A 35........
+   $
+  Write a program to read the above data and output the student 
+ strength of the new larger school in the same format.
+
+Your Program
+************
+1)  Must not assume any limit on the no. of divisions or classes in schools.
+2)  Must not output divisions with 0 strength.
+3)  Must use dynamic structures.
+
+

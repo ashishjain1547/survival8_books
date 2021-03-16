@@ -1,0 +1,40 @@
+1. time complexity of a system is 2 power N  where N is no. of bits
+   if N is doubled complexity is    ans. squared
+2. 2nd question answer is  A=N  B=N/2  question sariga idea ledhu.
+3. linked list program is given. what is the function of the program
+    ans. it will check end of the linked list
+4.  factorial(n)
+     int n;
+     { int fact;
+       if(n==1)
+       return(1);   dash    
+       else
+       fact=n*factorial(n-1);  dash
+       return fact
+     }  
+     
+    yee program lo two statements vaadu yivvaledhu. avi manam fill 
+    cheyyaali. aa two statements paina dash ani vraasaanu ave answers. 
+
+5. which of the operator cannot be overloaded  ans. ::(scope 
+   resolution operator)       
+6. one question on inherittance  question is not available
+7. in quick sort what is the average time complexity and worst time 
+   complexity  ans. N(N-1)/2 and N ln N (where ln is the natural 
+   logarithm) check the answers
+8. array A(I) is given we have to print in reverse order ARRAY SIZE M
+   ans. I(M-(A+1)) check answer
+9. A(I) is an array. no. of elements and element values are given 
+   A(I)=0,1,2,3,4,5,6,7......then    A(A(I))=.....(ans. I) 
+10. one program is given how many times printf statement is executed 
+     ans.  infinity times
+11.  c++ supports what?  ans. call by value and call by reference
+12.  one java question is given   ans.  security constraints
+13.  one recursive program is given  execution will be done till
+     ans. till stack overflow  or infinity times (by seeing question 
+     u can easily guess the answer)      
+14. one recursive program is given how much stack is needed 
+    ans. infinity
+15. one question on postfix and prefix operators i.e.  ++i  and i++
+
+

@@ -1,0 +1,104 @@
+hi friends
+    
+     here is the model of the test paper of amdocs
+. it may not give a clear picture but it helps.
+There was just an aptitide cum language test and an
+interview ....believe no-great-shakes at all. Well,
+the test was not written, but online....with 5 tests
+each timed, here are the type of questions:
+
+The first one was about 36 questions-20 mins:
+
+There were different symbols and various inputs and
+outputs across the symbols & analyzing the input &
+output, we have to figure out what each symbol does.
+There would be a set of 4 questions based on these
+symbols.
+
+eg.
+   LMN-->             XY-->|
+        |                  |
+        |                  |
+PQRS--->@----------------->$---->PQSRR 
+        |                  |
+        |                  |
+        |-->LNM            |--->XYY
+
+Like in the above figure(crude attempt!), @
+interchanges the last 2 letters & $ repeats the last
+letter....generally it involved 2 more symbols.
+
+There would be 4 questions like:
+
+1) DFS--->@-->@--->$--->
+   4 different ouputs would be given to select
+
+2) ASDH---->ASHDD
+   Different symbol sequences are given & the correct
+alternative that produces the output obviously had to
+be selected.
+
+The next set of 4 questions had different
+interpretation for the symbols.
+
+The second also an analytical test, 36 questions-20
+mins:
+
+Different symbols that represented filters were given
+& their functioning if they worked & if they didn't
+were also given, we had to study them & then proceed
+with the test..the filters description were always
+present on the screen...so we didn't have to memorize
+anything. There were some 8-10 different filters, I
+think.....like Filter A would filter out orange &
+yellow colours if functioning well or allow all
+colours to pass if it is erroneous.
+
+The questions had an input & 4 filters & final
+output....one of the filters is not functioning well,
+we had to find which was the faulty filter.
+
+The third test was also 36 questions -20mins
+
+Here, there is an input which goes through a flowchart
+(thus involving process, decision making) & we had to
+determine the output. The input may be a big or small,
+round or square and red or yellow figure...thus there
+could be 8 different inputs...one of these were sent
+through a series of steps wherein (say)...the shape &
+colour is changed, then the intermediate output is
+compared with a given state..if it matches, it goes
+through a set of steps...if not a different....after a
+few number of such processes &  decisions, the output
+had to be selected & all the 8 different outputs were
+given as choice.
+
+The 4th test was for 9 mins-60 questions...this was
+the easiest of the lot....it was basically just
+comparing the given string of characters with differnt
+options to find the exact match.
+eg(FY%{o)
+
+1) (FY%{o) 2) (FY%}o)  3) (FY%{O)     4) (FY${o)
+
+Finally, the language test where they gave 1 and a 1/2
+hour to study a language & answer the
+questions(20)...the language is similar to C &
+Pascal....very simple(no pointers)...questions with
+lines of code missing & determine the missing line of
+the given options....easy ones based on fibonacci &
+the like.
+
+bye
+Narsimhulu.M
+
+
+
+=====
+**********************************************************
+M.Narsimhulu
+Room No. 101,Men's Hostel-F
+University Of Hyderabad,500046
+alternative emails r: mnsimha_hcu@ieee.org,m_n_simha@usa.net
+Phone No 3010500 xtension 2575
+*********************************************************

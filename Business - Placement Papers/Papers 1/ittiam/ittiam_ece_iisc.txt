@@ -1,0 +1,93 @@
+ Sorry I don't remember any q. from aptitude but one
+which is
+one pump can fill a tank in 12 & other in 15 minute.both 2 opend for 5
+minute. now one more pump is opend which alone can empty the tank in 6
+minute. In what time the tank will empty.
+50% q's on compre given a passage u have to anser some q.
+
+Now most interesting part that is DSP part.I think telecom people should
+opt for this section as it was very basic & every one has done the same
+in his BE.Anyway,u will get 5 minute to decide which section u have to
+choose. So there were 20 q's.
+1). & 2) some permutation & combination type of things
+very boring for me. I think hemant from IISc will soon send these 2 q's.
+3)how many quad nand IC's required to implement one exor.
+ans- 1 (as 4 nand required for one exor).
+4) D flip flop with Qbar connected to D i/p (means a T-filp flop)
+   what does it do.
+ans- devide i/p freq ( ofcourse by-2)
+5) , 6)  each on C lan. but very easy. Hemant will send these also
+soon. in q-6 in a for loop semicolon is missing & ans is 3.
+7) 2 no's 10 & 20 r and(GATE). o/p will be
+ans- 0.
+Now DSP starts...(may not be in order but q r exact)
+8) fourier series of a discrete periodic signal of infinite duration
+will be.. ( very confusing as period is infinte or sequence) Anyway,we
+assume the sequence as if piriod is infinite the DFT comes into picture.
+so ans is- discrete periodic signal of infinite duration
+9) 1+4z^-1 , the ZT will converge for
+ans- |z|>0 (entire z plane as it's FIR sequence)
+10) ext(-a*t) is.
+ans- I think neither energy nor power( as it has inf energy for -ve t &
+     it's not periodic to be a power signal. pl. check it)
+11).3 symbol A,B &  C with probabilities .53 , .4 & .07, huffman code is
+used what binary value may be assighned to Symbol A)
+ans- 0.
+12) y(n) = a*y(n-1)+x(n). what should be a for system to be stable.
+ans a < 1.
+13) a mp with 10 data line. 10 address line & 8 control lines.
+how many memories can be addressed.
+ans-1Kbyte (2^10 only address lines).
+14) given a contineous periodic signal freq fm, after sampling with freq
+fs discrete sigal will be.
+ans - I think it depend on both fm & fs.(my approch is cos or sin or
+ext(j*2*pi*fm*n*T)=ext(j*2*pi*fm*n/fs)=ext(j*2*pi*fm*(n+N)/fs). N is
+period. so 2*pi*(fm/fs)*N = 2*pi*k. So fm/fs must be rational. & hence
+should depend on both. ( anyway, check it & clarify).
+
+*******************************
+Some more Questions
+******************************
+
+1. There are 5 balls and 3 slots. In how many ways can you fill the
+slots?
+Ans: 5P3.
+2. for (i=0; i*2<6 ;i++);
+      {
+      printf("i=%d ",i);
+      }
+
+Ans: i=3
+
+3. Which of the following signals is periodic?
+(a) sin(3*n)
+(b) sin(3*pi*n)
+(c)
+(d)
+
+4. A frequency f1 ; when signal sampled with fs; will get mapped to what
+frequency in discrete domain?
+Ans: 2*pi*f1/fs
+
+
+Regarding the interview.
+
+They ask very basic questions. Questions DO repeat ;so keep track of the
+person giving the interview before you.
+Some typical questions:
+
+1. How will you construct 4 input AND gate using two input AND gates. By
+how many ways?
+
+2. You are given a circuit which is a four input ANd gate formed out of
+one of the ways in question 1. How will u know exactly which way it's
+constructed?
+Ans: Propagation delay and all.
+
+3. DSP: Impulse response given. Build the digital filter.
+Ans: Take z transform and take inverse z transform to get the difference
+equation.
+
+4. Questions regarding z-plane and BIBO stability etc.
+
+5. RC circuit step response. etc wveforms

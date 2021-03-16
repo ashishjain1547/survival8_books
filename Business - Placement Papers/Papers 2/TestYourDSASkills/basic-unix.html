@@ -1,0 +1,275 @@
+<HTML>
+<HEAD>
+<TITLE>Basic UNIX commands</TITLE>
+</HEAD>
+<BODY>
+<H1> Basic UNIX commands  </H1>
+
+Note: not all of these are actually part of UNIX itself, and you may
+not find them on all UNIX machines. But they can all be used on <B>turing</B>
+in essentially the same way, by typing the command and hitting
+return. Note that some of these commands are different on non-Solaris
+machines - see <A HREF="sunos-diffs.html">SunOS differences</A>.
+<BR>
+If you've made a typo, the easiest thing to do is hit <B>CTRL-u</B> to
+cancel the whole line. But you can also edit the command line (see the
+guide to <A HREF="more-unix.html#com">More UNIX</A>). 
+<BR>
+UNIX is case-sensitive.
+
+<H2>Files</H2>
+<UL>
+<LI><B>ls</B> --- lists your files
+<BR>
+<B>ls -l</B> --- lists your files in 'long format', which contains lots of
+useful information, e.g. the exact size of the file, who owns the file
+and who has the right to look at it, and when it was last modified.
+<BR> 
+<B>ls -a </B> --- lists all files, including the ones whose filenames begin in
+a dot, which you do not always want to see.
+<BR>
+There are many more options, for example to list files by size, by
+date, recursively etc.
+<LI><B>more <I>filename</I></B> --- shows the first part of a file,
+just as much as will fit on one screen. Just hit the space bar to see
+more or <B>q</B> to quit. You can use <B>/<I>pattern</I></B> to
+search for a pattern.
+<LI><B>emacs <I>filename</I></B> --- is an editor that lets you
+     create and edit a file. See the <A HREF="emacs.html">emacs page</A>.
+<LI><B>mv <I>filename1 filename2</I></B> --- moves a file (i.e. gives
+it a different name, or moves it into a different directory (see below)
+<LI><B>cp <I>filename1 filename2</I></B> --- copies a file
+<LI><B>rm <I>filename</I></B> --- removes a file. It is wise to use
+the option rm -i, which will ask you for confirmation before actually
+deleting anything. You can make this your default by making an <A
+HREF="alias.html">alias</A> in your .cshrc file.
+<LI><B>diff <I>filename1 filename2</I></B> --- compares files, and
+shows where they differ
+<LI><B>wc <I>filename</I></B> --- tells you how many lines, words,
+and characters there are in a file
+<LI><B>chmod <I>options filename</I></B> --- lets you change the read,
+write, and execute permissions on your files. The default is that only
+you can look at them and change them, but you may sometimes want to
+change these permissions. For example, <B>chmod o+r
+<I>filename</I></B> will make the file readable for everyone, and 
+<B>chmod o-r <I>filename</I></B> will make it unreadable for others
+again. Note that for someone to be able to actually look at the file
+the directories it is in need to be at least executable. See <A
+HREF="http://www-csli.stanford.edu/Help/.help/intro-computer/protection">help protection</A> for more details.
+<LI>File Compression
+<UL>
+<LI><B>gzip <I>filename</I></B> --- compresses files, so that they
+take up much less space. Usually text files compress to about half
+their original size, but it depends very much on the size of the file
+and the nature of the contents. There are other tools for this
+purpose, too (e.g. <B>compress</B>), but gzip usually gives the
+highest compression rate. Gzip produces files with the ending '.gz'
+appended to the original filename.
+<LI><B>gunzip <I>filename</I></B> --- uncompresses files compressed by gzip.
+<LI><B>gzcat <I>filename</I></B> --- lets you look at a gzipped file without
+actually having to gunzip it (same as <B>gunzip -c</B>). You can even
+print it directly, using <B>gzcat <I>filename</I> | lpr</B>
+</UL>
+<LI><A NAME="pr">printing</A>
+<UL>
+<LI><B>lpr <I>filename</I></B> --- print. Use the -P option to specify
+the printer name if you want to use a printer other than your default
+printer. For example, if you want to print double-sided, use 'lpr
+-Pvalkyr-d', or if you're at CSLI, you may want to use 'lpr
+-Pcord115-d'. See 'help printers' for more information about printers
+and their locations.
+<LI><B>lpq</B> --- check out the printer queue, e.g. to get the
+number needed for removal, or to see how many other files will be  printed
+before yours will come out
+<LI><B>lprm <I>jobnumber</I></B> --- remove something from the
+printer queue. You can find the job number by using lpq. Theoretically
+you also have to specify a printer name, but this isn't necessary as
+long as you use your default printer in the department.
+<LI><B>genscript</B> --- converts plain text files into postscript
+for printing, and gives you some options for formatting. Consider
+making an alias like <B>alias ecop 'genscript -2 -r \!* | lpr -h -Pvalkyr'</B>
+to print two pages on one piece of paper.
+<LI><B>dvips <I>filename</I></B> --- print <B>.dvi</B> files (i.e.
+files produced by LaTeX). You can use <B>dviselect</B> to print only
+selected pages. See the <A HREF="latex.html">LaTeX page</A> for more
+information about how to save paper when printing drafts.
+</UL>
+</UL>
+
+<H2>Directories</H2>
+Directories, like folders on a Macintosh, are used to group files
+together in a hierarchical structure.
+<UL>
+<LI><B>mkdir <I>dirname</I></B> --- make a new directory
+<LI><B>cd <I>dirname</I></B> --- change directory. You basically 'go'
+to another directory, and you will see the files in that directory
+when you do 'ls'. You always start out in your 'home directory', and
+you can get back there by typing 'cd' without arguments. 'cd ..' will
+get you one level up from your current position. You don't have to
+walk along step by step - you can make big leaps or avoid walking
+around by specifying <A HREF="pathnames.html">pathnames</A>.
+<LI><B>pwd</B> --- tells you where you currently are.
+</UL>
+
+<H2>Finding things</H2>
+<UL>
+<LI><B>ff</B> --- find files anywhere on the system. This can be
+extremely useful if you've forgotten in which directory you put a
+file, but do remember the name. In fact, if you use <B>ff -p</B> you don't
+even need the full name, just the beginning. This can also be useful
+for finding other things on the system, e.g. documentation. 
+<LI><B>grep <I>string filename(s)</I></B> --- looks for the string in
+the files. This can be useful a lot of purposes, e.g. finding
+the right file among many, figuring out which is the right version of
+something, and even  doing serious corpus work. grep comes in several
+varieties (<B>grep</B>, <B>egrep</B>, and <B>fgrep</B>) and has a lot
+of very flexible options. Check out the man pages if this sounds good
+to you.
+</UL>
+
+<H2>About other people</H2>
+<UL>
+<LI><B>w</B> --- tells you who's logged in, and what they're doing.
+Especially useful: the 'idle' part. This allows you to see whether
+they're actually sitting there typing away at their keyboards right at
+the moment.
+<LI><B>who</B> --- tells you who's logged on, and where they're
+coming from. Useful if you're looking for someone who's actually
+physically in the same building as you, or in some other particular
+location.
+<LI><B>finger <I>username</I></B> --- gives you lots of information
+about that user, e.g. when they last read their mail and whether they're
+logged in. Often people put other practical information, such as phone
+numbers and addresses, in a file called <B>.plan</B>. This information is
+also displayed by 'finger'.
+<LI><B>last -1 <I>username</I></B> --- tells you when the user last
+logged on and off and from where. Without any options, <B>last</B> will
+give you a list of everyone's logins.
+<LI><B>talk <I>username</I></B> --- lets you have a (typed) conversation with
+another user
+<LI><B>write <I>username</I></B> --- lets you exchange one-line
+messages with another user
+<LI><B>elm</B> --- lets you send e-mail messages to people around the
+world (and, of course, read them). It's not the only mailer you can
+use, but the one we recommend. See the <A HREF="elm.html">elm
+page</A>, and find out about the departmental <A HREF="mailing-lists/mailing-lists.html">
+mailing lists</A> (which you can also find in
+/user/linguistics/helpfile).
+</UL>
+
+<H2>About your (electronic) self</H2>
+<UL>
+<LI><B>whoami</B> --- returns your username. Sounds useless, but
+isn't. You may need to find out who it is who forgot to log
+out somewhere, and make sure *you* have logged out.
+<LI><B>finger</B> &amp; .plan files
+<BR> of course you can finger yourself, too. That can be useful e.g.
+as a quick check whether you got new mail. Try to create a useful
+.plan file soon. Look at other people's .plan files for ideas. The
+file needs to be readable for everyone in order to be visible through
+'finger'. Do 'chmod a+r .plan' if necessary. You should realize that
+this information is accessible from anywhere in the world, not just to
+other people on turing.
+<LI><B>passwd</B> --- lets you change your password, which you should
+     do regularly (at least once a year). See the <A
+     HREF="lrb-computing.html#first">LRB guide</A> and/or look at <A
+     HREF="http://www-csli.stanford.edu/Help/.help/intro-computer/password">help password</A>.
+<LI><B>ps -u <I>yourusername</I></B> --- lists your processes. Contains lots of
+information about them, including the process ID, which you need
+if you have to kill a process. Normally, when you have been kicked out
+of a dialin session or have otherwise managed to get yourself
+disconnected abruptly, this list will contain the processes you need
+to kill. Those may include the shell (tcsh or whatever you're using),
+and anything you were running, for example emacs or elm. Be careful
+not to kill your current shell - the one with the number closer to
+the one of the ps command you're currently running. But if it happens,
+don't panic. Just try again :) If you're using an X-display you may
+have to kill some X processes before you can start them again. These
+will show only when you use <B>ps -efl</B>, because they're root
+processes.
+<LI><B>kill <I>PID</I></B> --- kills (ends) the processes with the ID
+you gave. This works only for your own processes, of course. Get the
+ID by using <B>ps</B>. If the process doesn't 'die' properly, use
+the option -9. But attempt without that option first, because it
+doesn't give the process a chance to finish possibly important
+business before dying. You may need to kill processes for example if
+your modem connection was interrupted and you didn't get logged out
+properly, which sometimes happens.
+<LI><B>quota -v</B> --- show what your disk quota
+is (i.e. how much space you have to store files), how much you're
+actually using, and in case you've exceeded your quota (which you'll
+be given an automatic warning about by the system) how much time you
+have left to sort them out (by deleting or gzipping some, or moving
+them to your own computer).
+<LI><B>du <I>filename</I></B> --- shows the disk usage of the files and
+directories in <I>filename</I> (without argument the current directory
+is used). <B>du -s</B> gives only a total.
+<LI><B>last <I>yourusername</I></B> --- lists your last logins. Can
+be a useful memory aid for when you were where, how long you've been
+working for, and keeping track of your phonebill if you're making a
+non-local phonecall for dialling in.
+</UL>
+
+<H2>Connecting to the outside world</H2>
+<UL>
+<LI><B>nn</B> --- allows you to read news. It will first let you read
+the news local to turing, and then the remote news. If you want to read
+only the local or remote news, you can use <B>nnl</B> or <B>nnr</B>,
+respectively. To learn more about <B>nn</B> type <B>nn</B>, then
+\tty{:man}, then \tty{=.*}, then \tty{Z}, then hit the space bar to
+step through the manual. Or look at the man page. Or check out the
+<A
+HREF="http://www.cis.ohio-state.edu/hypertext/faq/usenet/usenet/software/nn/getting-started/faq.html">hypertext
+nn FAQ</A> - probably the easiest and most fun way to go.
+<LI><B>rlogin <I>hostname</I></B> --- lets you connect to a remote host
+<LI><B>telnet <I>hostname</I></B> --- also lets you connect to a
+     remote host. Use <B>rlogin</B> whenever possible.
+<LI><B>ftp <I>hostname</I></B> --- lets you download files from a
+remote host which is set up as an ftp-server. This is a common method
+for exchanging academic papers and drafts. If you need to make a paper
+of yours available in this way, you can (temporarily) put a copy in
+/user/ftp/pub/TMP. For more permanent solutions, ask Emma. The most
+important commands within ftp are <B>get</B> for getting files from
+the remote machine, and <B>put</B> for putting them there (<B>mget</B>
+and <B>mput</B> let you specify more than one file at once). Sounds
+straightforward, but be sure not to confuse the two, especially when
+your physical location doesn't correspond to the direction of the ftp
+connection you're making. ftp just overwrites files with the same
+filename. If you're transferring anything other than ASCII text, use
+binary mode. 
+<LI><B>lynx</B> --- lets you browse the web from an ordinary
+terminal. Of course you can see only the text, not the pictures.
+You can type any URL as an argument to the <B>G</B> command. When
+you're doing this from any Stanford host you can leave out the
+<B>.stanford.edu</B> part of the URL when connecting to Stanford URLs.
+Type <B>H</B> at any time to learn more about <B>lynx</B>, and
+<B>Q</B> to exit.
+</UL>
+
+<H2>Miscellaneous tools</H2>
+<UL>
+<LI><B>webster <I>word</I></B> --- looks up the word in an electronic
+version of Webster's dictionary and returns the definition(s)
+<LI><B>date</B> --- shows the current date and time.
+<LI><B>cal</B> --- shows a calendar of the current month. Use e.g.,
+'cal 10 1995' to get that for October 95, or 'cal 1995' to get the
+whole year.
+</UL>
+
+You can find out more about these commands by looking up their
+manpages:
+<BR>
+<B>man <I>commandname</I></B>   --- shows you the manual page for
+the command
+<P>
+For further ways of obtaining help, look at the pages with <A
+HREF="el-sources.html">electronic sources of information</A>
+and <A HREF="non-el-sources.html">non-electronic sources</A>.
+<P>
+<A HREF="more-unix.html">More UNIX commands</A>
+
+<HR>
+<A HREF="index.html">Back up to the Main Computing Page</A>
+<HR>
+</BODY>
+</HTML>

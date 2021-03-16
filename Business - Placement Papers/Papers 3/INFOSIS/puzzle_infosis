@@ -1,0 +1,556 @@
+ /* ------------info     -------------*/
+/*        
+GEORGE SUMMERS puzzle books are suggested.
+	         -----------------------------
+		 INFOSYS TECHNOLOGIES LIMITED.
+		 -----------------------------
+		 Question Paper
+		 --------------
+                   Part 1.
+		   ------
+       (1) 9 cards are there. u have to arrange them in a 3*3 matrix.
+       cards are of 4 colors.they are red,yellow,blue,green.
+       conditions for arrangement: one red card must be in first row
+       or second row.2 green cards should be in 3rd column.Yellow 
+       cards must be in the 3 corners only. Two blue cards must be in 
+       the 2nd row. Atleast one green card in each row.
+       Solution:
+       Yello     Red        Gren
+       Blu       Blu        Gren
+       Yello     Gren       Yello
+       2. 4 cards are placed on a table, each card has two colors. U 
+       don't know the color of the back side of eachcard.4 persons A
+       B C and D are sitting on the table before the cards. They can 
+       see Red, Green Red and blue .Out of the 4 poeple 2 always lie.
+       They see the color on the reverse side and give the following 
+       comment
+       A: Yello/green
+       B: Neither Blue/nor Green
+       c: Blue/Yello
+       D: Blue/ Yello
+       find out the color on the other side of the 4 cards.
+
+       3.Red and brown tribes [FROM BARRONS GRE] Conditions to 
+       get married with each other.
+
+       4. Venn diagram regarding Rich, muscular, soft-skinned, 
+       employed, etc.,( Refer BARRONS GRE GUIDE) 
+	
+------------------------------------------------------------------------
+			 PART 2.
+			 -------
+         1. SAKUNTALA DEVI'S PUZZLE BOOK : PUZZLES TO PUZZLE YOU.
+	    problem no: 3. ( Brothers and Sisters)
+            A family I know has several children. Each boy in this 
+	    family has as many sisters as brothers but each girl has 
+	    twice as many brothers as sisters. How many brothers 
+	    and sisters are there?
+            ans: 4 boys and 3 girls.
+         2. No. of animals is 11 more than the no. of birds. If the
+	    no. of birds were the no. of animals and no. of animals 
+	    were the no. of birds( ie., interchanging no.s of animals
+	    and birds.), the total no. of legs get reduced by one fifth
+	    (1/5). How many no. of birds and animals were there?
+            ans: birds:11,animals:22
+	 3. In a soap company  a soap is manufactured with 11 parts.
+	    For making one soap you will get 1 part as scrap. At the 
+	    end of the day u have 251 such scraps. From that how many
+	    soaps can be manufactured? ans: 22 + 2+ 1 = 25.
+         4.        2 * *            |   
+		   3 * *            | No. 7 does not occur in this 
+             ----------------       | 
+		   5 * *            | multiplication.
+                 * 4 *              |
+               * * 3                | Find the product.  
+             ----------------       |
+	       * * * * *            |
+             ----------------       |
+            --------------------------------------------------
+	    ans   2 8 1
+		  3 2 2
+		  -----
+		  5 6 2
+                5 6 2 0
+              8 4 3 0 0
+	      ---------
+	      9	0 4 8 2
+	      ---------
+           5.  There is a 5digit no. 3 pairs of sum is eleven each.
+	      Last digit is 3 times the first one.
+	      3 rd digit is 3 less than the second.
+	      4 th digit is 4 more than the second one.
+	      Find the digit.
+	      ans : 25296.
+           6. There are five thieves, each loot a bakery one after the 
+	     other such that the first one takes 1/2 of the total no.
+	     of the breads plus 1/2 of a bread. Similarly 2nd, 3rd,4th
+	     and 5fth also did the same. After the fifth one no. of 
+	     breads remained are 3. Initially how many breads were there?
+	     ans : 31.
+           7.ESCALATOR PROBLEM OF SAKUNTALA DEVI 'PUZZLES TO PUZZLE'book.
+	     Problem No: Problem 27( Down the escalator)
+	     ans : the no of steps in the stair way : 46.
+           8.Harbour line and Main line Problem of Sakuntala Devi Puzzle
+	     book. Ans : 4/5.
+	     ( More Puzzles book)
+           9.There are some chicken in a poultry. They are fed with corn
+	     One sack of corn will come for 9 days.The farmer decides to
+	     sell some chicken and wanted to hold 12 chicken with him.
+	     He cuts the feed by 10% and sack of corn comes for 30 days.
+	     So initially how many chicken are there?
+           10.Two people X & Y walk on the wall of a godown in opposite
+	     direction. They meet at a point on one side and then go
+	     ahead. X after walking for some time, walks in opposite 
+	     direction for 15 mtrs.Then again he turns back and walks 
+	     in the original direction. What distance did Y walk before
+	     they met again, if X walks 11 mtrs by the time Y walks
+	     8 mtrs.
+           11.Problem from SAKUNTALA DEVI 'PUZZLES TO PUZZLE U'.
+	      Problem no: 23( Walking back to happiness.)
+	      The walking time : 55 mins.
+
+           With this The paper has been completed. For the lack time
+	   I have'nt typed those probs, which are in Sakuntala Devi
+	   Puzzle books. I wish all of you the best.
+
+       *********************************************
+ 	              INFOSYS
+       *********************************************
+			
+
+1) There are two balls touching each other circumferencically.
+The radius of the big ball is 4 times the diameter of the small
+ball.The outer small ball rotates in anticlockwise direction
+circumferencically over the bigger one at the rate of 16 rev/sec.
+The bigger wheel also rotates anticlockwise at Nrev/sec. what is
+'N' for the horizontal line from the centre of small wheel always
+is horizontal.
+
+2)     1 2 3 4
+     + 3 4 5 5
+     ----------
+       4 6 8 9
+     - 2 3 4 5
+     ----------
+       2 3 4 4
+     + 1 2 5 4
+     ------------
+       3 6 9 8
+
+ Q)  Strike off any digit from each number in seven rows (need not
+ be at same place) and combine the same operations with 3 digit numbers
+ to get the same addition. After this strike off another digit from all
+ and add all the No.s to get the same 2 digit No. perform the same
+ process again with 1 digit No.s. Give the ' no.s in 7 rows at
+ each stage.
+
+3) there is a safe with a 5 digit No. The 4th digit is 4 greater than
+second digit, while 3rd digit is 3 less than 2nd digit. The 1st digit
+is thrice the last digit. There are 3 pairs whose sum is 11. Find
+the number.  Ans) 65292.
+
+4) there are 2 guards Bal and Pal walking on the side of a wall of a
+wearhouse(12m X 11m) in opposite directions. They meet at a point and
+Bal says to Pal " See you again in the other side". After a few moments
+of walking Bal decides to go back for a smoke but he changes his 
+direction again to his previous one after 10 minutes of walking in
+the other(opposite) direction remembering that Pal will be waiting
+for to meet.If Bal and Pal walk 8 and 11 feet respectively, how
+much distance they would have travelled before meeting again.
+
+5)          xxx)xxxxx(xxx
+		3xx
+		-------
+		 xxx
+		 x3x
+		 ------
+		  xxx
+		  3xx
+		  ------
+
+   Q) Find the 5 digit No.
+    Hint: 5 is used atleast once in the calculation.
+6) Afly is there 1 feet below the ceiling right across a wall length
+is 30m at equal distance from both the ends. There is a spider 1 feet
+above floor right across the long wall eqidistant from both the ends.
+If the width of the room is 12m and 12m, what distance is to be 
+travelled by the spider to catch the fly? if it takes the shortest
+path.
+
+7) Ramesh sit around a round table with some other men. He has one 
+rupee more than his right person and this person in turn has 1 rupee
+more than the person to his right and so on, Ramesh decided to give
+1 rupee to his right & he in turn 2 rupees to his right and 3 rupees
+to his right & so on. This process went on till a person has 
+'no money' to give to his right. At this time he has 4 times the
+money to his right person. How many men are there along with Ramesh
+and what is the money with poorest fellow.
+
+
+8)Question related to probabilities of removing the red ball from a
+basket,given that two balls are removed from the basket and the other
+ball is red. The basket contains blue,red,yellow balls.
+
+9)Venkat has 1boy&2daughters.The product of these children age is 72.
+The sum of their ages give the door numberof Venkat.Boy is elder of
+three.Can you tell the ages of all the three.
+
+                           ANALYTICAL
+			   ----------
+1)L:says all of my other 4 friends have money
+M:says that P said that exact one has money
+N:says that L said that precisely two have money
+O:says that M said that 3 of others have money.
+P:Land N said that they have money.
+   all are liers.Who has money&who doesn't have?
+
+2)A hotel has two,the east wing and the west wing.some east wing rooms
+but not all have an ocean view(OV).All WW have a harbour view(HV).The
+charge for all rooms is identical, except as follows
+* Extra charge for all HV rooms on or above the 3rd floor
+* Extra charge for all OV rooms except those without balcony
+* Extra charge for some HV rooms on the first two floor&some EW rooms
+without OV but having kitchen facilities. (GRE modrl Test 3-question
+						 1J-22)
+3)Post man has a data of name surname door no.pet name of 4 families.
+But only one is correct for each family.There are a set of statements
+&questions.
+4)4 couples have a party.Depending on the set of statements,find who
+insulted whom and who is the host of the party.
+5)5 women given some of their heights(tall,medium,short)Hair( long,
+plainted),stards(Black or Brown), sari,2 medium,2-short.Tall->no
+sari.Plainted->medium.Answer the combinations.
+
+
+1) A person has to go both Northwards&Southwards in search of a job.
+He decides to go by the first train he encounters.There are trains for
+every 15 min both southwards and northwards.First train towards south 
+is at 6:00 A.M. and that towards North is at 6:10 .If the person arrives
+at any random time,what is the probability that he gets into a train
+towards North.
+2) A person has his own coach&whenever he goes to railway station he
+takes his coach.One day he was supposed to reach the railway station
+at 5 O'clock.But he finished his work early and reached at 3 O'clock.
+Then he rung up his residence and asked to send the coach immediately.
+He came to know that the coach has left just now to tje railway station.
+He thought that the coach has left just now to the railway station.He
+thought that he should not waste his time and started moving towards
+his residence at the speed of 3mi/hr.On the way,he gets the coach and
+reaches home at 6 o'clock.How far is his residence from railway
+station.
+
+3)Radha,Geeta&Revathi went for a picnic.After a few days they forgot the
+date,day and month on which they went to picnic.Radha said that it was 
+onThursday,May 8 and Geeta said that it was Thursday May 10.Revathi
+said Friday Jun 8.Now one of them told all things wrongly,others one
+thing wrong and the last two things wrongly.If April 1st is tuesday
+what is the right day,date and month?
+
+PART 1
+
+1). A beggr collects cigarette stubs and makes one ful  cigarette 
+with every 7 stubs.  Once he gets 49 stubs .  How many cigarettes 
+can he smoke totally.
+                     Ans. 8
+2). A soldiar looses his way in a thick jungle  at  random  walks 
+from his camp but  mathematically  in  an  interestingg  fashion.  
+First he walks one mile east then half mile to north.   Then  1/4 
+mile to west, then 1/8 mile to south and so  on  making  a  loop. 
+Finally hoe far he is from his camp and in which direction.
+ans: in north and south directions 
+   1/2 - 1/8 + 1/32 - 1/128 + 1/512 - and so on 
+                = 1/2/((1-(-1/4))
+      similarly in east and west directions
+     1- 1/4 + 1/16 - 1/64 + 1/256 -    and so on 
+             = 1/(( 1- ( - 1/4))
+   add both the answers
+3). hoe 1000000000 can be written as a  product  of  two  factors 
+neither of them containing zeros
+   Ans   2 power 9 x 5 ppower 9  ( check the answer )
+4). Conversation between two mathematcians:
+  first : I have three childern. Thew pproduct of their ages is  36 
+.  If you sum their ages . it is exactly same as  my  neighbour's 
+door number on my left. The  sacond  mathematiciaan  verfies  the 
+door number and says that the not sufficient  .  Then  the  first 
+says " o.k one more clue is that my youngest is the youngest"
+Immmediately the second mathematician answers . Can  you  aanswer 
+the questoion asked by the first mathematician?
+What are the childeren ages?        ans  2 and 3 and 6
+5). Light glows for every 13 seconds .  How  many  times  did  it 
+between 1:57:58 and 3:20:47 am
+      ans : 383 + 1 = 384
+
+6). 500 men are  arranged in an array of 10 rows and 50 columns . 
+ALL tallest among each row aare asked to   fall  out  .  And  the 
+shortest among THEM is A. Similarly after resuming that to  their 
+originaal podsitions that the shorteest  among  each  column  are 
+asked to fall out. And the longest among them is B . Now  who  is 
+taller among A and B ?
+      ans  A  
+7). A person spending out 1/3 for cloths , 1/5 of the  remsaining 
+for food and 1/4 of the remaining for travelles  is left with
+Rs 100/- . How he had in the begining ?
+    ans    RS 250/-
+8). there are six  boxes containing 5 , 7 , 14 , 16  ,  18  ,  29 
+balls of either red or blue in colour. Some  boxes  contain  only 
+red balls and others contain only blue . One sales man  sold  one 
+box out of them and then he says " I have the same number of  red 
+balls left out  as that of blue ". Which box is the one he  solds 
+out  ?
+Ans : total no of balls  =  89 and (89-29 /2 = 60/2 = 30 
+     and also 14 + 16 = 5 + 7 + 18 = 30
+9).  A  chain  is  broken  into  three  pieces  of  equal  lenths 
+conttaining 3 links each. It is taken to a backsmith to join into 
+a single continuous one . How many links are to  tobe  opened  to 
+make it ?
+    Ans : 2.
+10). Grass in lawn grows equally thickand in a uniform  rate.  It 
+takes 24 days for 70 cows and 60 for 30 cows . How many cows  can 
+eat away the same in 96 days.?
+    Ans : 18 or 19
+11). There is a certain four digit number whose fourth  digit  is 
+twise the first digit.
+   Third digit is three more than second digit.
+   Sum of the first and fourth digits twise the third number.
+   What was that  number ?
+  Ans : 2034 and 4368 
+
+
+	If you qualify in the first part then you have to appear for 
+the second i.e the following part.
+
+Part 2.
+
+1.  From  a  vessel  on  the  first  day,  1/3rd  of  the  liquid 
+evaporates.  On the second day  3/4th  of  the  remaining  liquid 
+evaporates.  what fraction of the volume is present at the end of 
+the II day.  
+2. an orange galss has orange juice.  and white glass  has  apple 
+juice.  Bothe equal volume 50ml of the orange juice is taken  and 
+poured into the apple juice.  50ml from the white glass is poured 
+into the orange glass.  Of the  two  quantities,  the  amount  of 
+apple juice in the orange glass and the amount of orange juice in 
+the white glass, which one is greater and by how much?
+3.  there is a 4 inch cube painted on all  sides.   this  is  cut 
+into no of 1 inch cubes.  what is the no of cubes which  have  no 
+pointed sides.
+4. sam and mala have a conversation.  sam says i am vertainly not 
+over 40.  mala says i am 38 and you are  atleast  5  years  older 
+than me.  Now sam says you are atleast 39.  all the sattements by 
+the two are false.  How hold are they realy.
+5.  ram singh goes to his office in the city, every day from  his 
+suburbun house.  his driver mangaram drops  him  at  the  railway 
+station in the morning and picks him up in  the  evening.   Every 
+evening ram singh reaches the station  at  5  o'clock.   mangaram 
+also reaches at the same time.  one day  ramsingh  started  early 
+from his office and came  to  the  station  at  4  o'clock.   not 
+wanting to wait for the car he  starts  walking  home.   Mangaram 
+starts at normal time, picks him up on the way and takes him back 
+house, half an hour early.  how much time did ram singh walk.
+6.  in a railway station, there are tow trains going.  One in the 
+harbour line and one in the main line, each having a frequency of 
+10 minutes.  the main line service  starts  at  5  o'clock.   the 
+harbour line starts at 5.02a.m. a man goes to the  station  every 
+day to catch the first train.  what is  the  probability  of  man 
+catchinhg the first train
+7.  some people went for vaction.  unfortunately it rained for 13 
+days when they  were  there.   but  whenever  it  rained  in  the 
+morning, they had clean afternood and vice versa.   In  all  they 
+enjoyed  11 morning and 12 afternoons.  how many  days  did  they 
+stay there totally
+8. exalator problem repeat
+9. a survey was taken among 100 people to firn  their  preference 
+of watching t.v. programmes.  there are 3 channels.  given no  of 
+
+people who watch
+at least channel   1
+"         "        2
+"         "        3
+no channels at all
+atleast channels  1and 3
+"     "           1 and 2
+"        "        2 and 3
+find the no of people who watched all three.
+10. albert and fernandes they have two leg swimming  race.   both 
+start from opposite and of the pool.  On the first leg, the  boys 
+pass each other at 18 mt from the deep end of the  pool.   during 
+the II leg they pass at 10 mt from the shallow end of  the  pool.  
+Both go at const speed.  but one of them  is  faster.   each  boy 
+rests for 4 sec to see at the end of the  i  leg.   what  is  the 
+length of the pool.
+11. T  H  I  S                Each  alphabet  stands  for  one 
+        I S                   digit, what is the maximum value T 
+--------------                can take
+    X F X X
+  X X U X
+--------------
+  X X N X X
+--------------
+
+
+1. an escalator is descending at constant speed.   A  walks  down 
+and takes 50 steps to reach the bottom.  B runs down and takes 90 
+steps in the same time as A takes 10 steps.  how many  steps  are 
+visible when the escalator is not operating.
+2. evvery day a cyclist meets a train at a  particular  crossing.  
+the road is straignt before the crossing and both are  travelling 
+in the same direction.  cyclist travels with a speed of 10  Kmph.  
+One day the cyclist comes late by 25 min. and meets the train 5km 
+before the crossing.  what is the seppd of the train.
+3. five persons muckerjee, misra, iyer,  patil  and  sharma,  all 
+take then first or middle names in the full names.  There  are  4 
+persons having I or middle name of kumar, 3 persons with mohan, 2 
+persons withdev and 1 anil.
+--Either mukherjee and patil have a I or middle name  of  dev  or 
+misra and iyer have their  I or middle name of dev
+--of mukherkjee and misre, either both of them have  a  first  or 
+middle name of mohan or neither have a first or  middle  name  of 
+mohan
+--either iyer of sharma has a I or middle name of kumar  hut  not 
+both.
+who has the I or middle name of anil
+4. reading conprehension
+5. a bird keeper has got Ppigeon, M mynas and  S  sparrows.   the 
+keeper goes for lunch leaving his assistant to watch the birds.
+a. suppose p=10, m=5, s=8 when the bird keeper  comes  back,  the 
+assistant informs the x birds  have  escaped.   the  bird  keeper 
+exclaims oh no! all my sparrows are gone.  how  many  birds  flew 
+away.
+   b. when the bird keeper come back, the assistand told him that 
+x birds have escaped.  the keeper realised that atleast2 sparrows 
+have escaped.  what is minimum no of birds that can escape.
+6.  select from the five alternatives A,B,C,D,E
+   AT THE end of each question ,two  conditions  will  be  given.  
+the choices are to filled at follows.
+a. if a definete conclusion can be drawn from condition 1
+b. if a definete conclusion can be drawn from condition 2
+c. if a definete conclusion can be drawn from condition 1 and 2
+d. if a definete conclusion can be drawn from condition 1 or 2
+e. no conclusion can be drawn using both conditions
+1. person 1 says N<5
+   person says n>5
+     person 3 says 3N>20
+     person 4 says 3n>10
+    person 5 says N<8
+whaT IS value of N
+a) 1. no of persons who speak false being less than no of persons 
+who tells the truth.
+   2. person 2 is telling the truth.
+b)  1. no of persong telling the truth  is  greater  than  no  of 
+persons telling lies
+    2. person 5 is telling the truth.
+7.  there are N coins on a table.  there  are  two  players  A&B.  
+you can take 1 or 2 coins at a time.  the person  who  takes  the 
+last coin is the loser.  a always starts first
+--1. if N=7
+     a) A can always win by taking two coins in his first chanse
+     b) B can win only if A takes two coins in his first chance.
+     c) B can always win by proper play
+     d) none of the above
+--2.  A can win by proper play if N is equal to 
+ a) 13   b) 37  c) 22 d) 34   e) 48      ans. e.
+--3. B can win by proper play if N is equal to
+a) 25   b)26    c) 32   d) 41  e) none
+--4. if N<4, can A win by proper play always
+
+8. Two turns have vertain pecular charcteristics.   One  of  them 
+always lies on Monday, Wednesday, Friday.  \the other always lies 
+on Tuesdays, thursdays and saturdays.  On the other days they tel 
+the truth.  You are given a conversation.
+    person A--  today is sunday my name is anil
+    person B-- today is tuesday, my name is bill
+
+
+answers for selected questions
+2.  equal                          1. 150
+3.  8                              2. 60 kmph
+4. 37(M),41(S)                     3.  Mukherjee
+5.   45 min.                       8. today is tuesday
+6.   0.8
+7.   18
+11.   T max value = 4
+
+            3. Anil kumar Mukherjee
+               Kumar Misra dev
+               Mohan iyer dev
+               kumar patil mohan
+               mohan sharma kumar
+
+> INFOSYS
+> 
+> > There are 5 q papers  with them. this is only one of those.
+> > All otheres were more or less of the same model but different
+> > qs. This is just to give U an idea.
+> > 
+> > 	The questions are not in order.
+> > 
+> > 1)A,B,C,D,E related.4 of them made these statements each.
+> >   i)C is my son in law's brother.
+> >  ii)B is my father's brother.
+> >  iii)E is my mother in law.
+> >  iv)A is my brother's wife.
+> >  who made these statements?(person mentioned is one of A,B,C,D,E)(10 mar         ks).
+> > 2)e means belong.
+> >   All members of E e D.
+> >   All members of D e A.
+> >   Not all members of D e E.
+> >   Not all members of A e D.
+> >   All members of C e both A and B.some questions are asked about relatio          n.use venn diagram.(5 marks).  
+> > 
+> > 3)complete the table.
+> > 
+> >     Played  won lost draw  goals  goals
+> > 			   for    against
+> > A    2       2                     1
+> > B    2                 1    2      4
+> > C    2                      3      7
+> > 
+> >   A,B,C are 3 hockey teams.(2 marks).
+> > 
+> > 4) A says Party was held on :Thursday ,May 8th.
+> >    B says Party was held on :Tuesday,May 10th.
+> >    C says party was held on :Friday ,June 8th.   
+> >    Given April 1 st was Tuesday.one of A,B,C says 1 correct.one says 1
+> >    wrong.and one was completely wrong of date,Month and day. Find the 
+> >    Day  the party held.   (5marks).
+> > 
+> > 5) A ship is away from the shore by 180 miles.A plane is travelling at 
+> >    10 times speed of the ship.How long from the shore will they meet?
+> >    (2marks)
+> > 
+> > 6) Every station in N railroad issue everyother station's ticket.
+> >    some stations are added.Now they have to issue 46 more tickets.
+> >    say the No.of stations after and before added.(5 marks).
+> > 
+> > 7) 3 persons say these statements.
+> >    A says either Democratic or liberal wins the elections.
+> >    B says Democratic wins.C says neither democratic nor liberal wins
+> >    the election.of these only one is wrong.who wins the election?
+> >    (5 marks).
+> > 
+> > 8) A clock showing 6 o'clock takes 30 secs to strike 6 times.How long 
+> >    will it take to strike 12 at midnight?Ans.66 secs.(2marks)
+> > 
+> > 9) Only boys aged > 16 wear coats.
+> >    Boys aged > 15 go to watch football.some more statements are given.
+> >    What can be said about those who are watching football ? (age and 
+> >    costume)
+> >    (5 marks).
+> > 
+> > 10) There are 3 societies A,B,C having some tractors each.
+> >     A Gives  B and C as many tractors as they already have.
+> >     After some days B gives A and C as many tractors as they have.
+> >     After some days C gives A and B as many tractors as they have.
+> >     Finally each has 24 tractors.what is the original No.of 
+> >     tractors each had in the beginning?
+> > 		Ans.A -39.
+> > 		    B- 21.
+> > 		    C- 12.(7 marks).
+> > 11) 4,5 statements.From that find the answer.(7 marks).
+> > 
+> > 
+> > Reference books
+> > 1.) Puzzles and teasers by summer's
+
+> > 2.) Shakuntala Devi. (puzzles).
+------------------  COMPLETE  --------------------

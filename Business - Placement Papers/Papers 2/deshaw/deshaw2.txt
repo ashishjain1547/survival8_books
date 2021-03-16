@@ -1,0 +1,197 @@
+  This paper comprises of an Aptitude test and C-language test
+  Aptitude-20 questions (2 marks each)
+  C-language - 20 questions(3 marks each)
+****************************************************************************
+	     APTITUDE TEST
+					20 QUESTIONS;2 MARKS EACH
+					TIME-20MINUTES
+   1) ONE RECTANGULAR PLATE WITH LENGTH 8INCHES,BREADTH 11 
+   INCHES AND 2 INCHES THICKNESS IS THERE.WHAT IS THE LENGTH 
+   OF THE CIRCULAR ROD WITH DIAMETER 8 INCHES AND EQUAL TO 
+   VOLUME OF RECTANGULAR PLATE?
+   ANS: 3.5INCHES
+   2) WHAT IS THE NUMBER OF ZEROS AT THE END OF THE PRODUCT 
+   OF THE NUMBERS FROM 1 TO 100
+   3) in some game 139 members have participated every time 
+   one fellow will get bye what is the number of matches to 
+   choose the champion to be held?
+   ans: 138
+   4) one fast typist type some matter in 2hr and
+   another slow typist type the
+   same matter in 3hr. if both do combinely in how much time 
+   they will finish.
+   ans: 1hr 12min
+   5) in 8*8 chess board what is the total number of squares
+   refer odel
+   ans:204
+   6) falling height is proportional to square of the time.
+   one object falls 64cm in 2sec than in 6sec from how much 
+   height the object will fall.
+   7) gavaskar average in first 50 innings was 50 . after the 51st
+   innings his average was 51 how many runs he made in the 51st
+   innings
+   8) 2 oranges,3 bananas and  4 apples cost Rs.15 . 3 ornages 
+   2 bananas 1 apple costs Rs 10. what is the cost of 3 oranges, 
+   3 bananas and 3 apples 
+   ans Rs 15.
+   9)in 80 coins one coin is counterfiet what is minimum number of 
+    weighings to find out counterfiet coin 
+   10)in a company 30% are supervisors and 40% employees are male
+   if 60% of supervisors are male. what is the probability
+   that a randomly choosen employee is a male or female?
+   11)statement: all green are blue are blue, all blue are white
+   conclusion: 
+   I) some blue are green II) some white are green
+   III)some green are not white IV) all white are blue
+      a) he has given four choices like gre type
+   12)all teachers are students. some students are girls.
+      this type of questions are there.
+      we cant able to reproduce them.
+
+			     D.E.shaw  1997  
+      SECTION B (all multiple choices)
+		(each q carries 3 marks)
+   1.while((*p++=*q++)!=0){}
+   is equal to
+   a) b) c) d)
+   2.the function strcmp(str1,str2) returns
+   3. int   *x[](); means
+   4.#define  PRINT(int) printf("int=%d",int);
+   main()
+   { 
+   int x,y,z;
+   x=03;y=-1;z=01;
+   PRINT(x^x);
+   z<<=3;PRINT(x);
+   y>>=3;PRINT(y);
+   }
+   5. struct list{
+   int x;
+   struct list *next;
+   }*head;
+   the struct head.x =100
+   above is correct / wrong
+   6. '-'=45  '/'=47
+   printfr(%d/n,'-','-','-','-','/','/','/');
+   o/p =?
+   12.o/p=?
+   int i;
+   i=1;
+   i=i+2*i++;
+   printf(%d,i);
+   8.{ ch='A';
+   while(ch<='F'){
+   switch(ch){
+   case'A':case'B':case'C':case'D':ch++;continue;
+   case'E':case'F':ch++;
+   }
+   putchar(ch);
+   }
+   }     a)ABCDEF  b.EFG c.FG d.error
+   9. FILE *fp1,*fp2;
+   fp1=fopen("one","w")
+   fp2=fopen("one","w")
+   fputc('A',fp1)
+   fputc('B',fp2)
+   fclose(fp1)
+   fclose(fp2)}
+   a.error b. c. d.
+   10. int a=1; b=2; c=3; *pointer;
+   pointer=&c;
+   a=c/*pointer;
+   b=c;
+   printf("a=%d b=%d",a,b);
+   a. a=1 b=3
+   b a=3 b=3
+   c 3     2
+   d. error
+   11.#include<malloc.h>
+     char *f()
+     {   
+     char *s=malloc(8);
+     strcpy(s,"goodbye")
+     }
+     main()
+     {
+      char *f()_;
+      printf("%c",*f()='A');
+     }
+      o/p=?
+   13. int sum(n)
+     int n;
+     if(n<1)return n;
+     else return(n+sum(n-1))
+      a 10 b 16  c  14  d  15
+   14.   when a function is recursively called all ,
+       automatic variables are    a. stored in stack b . c. d
+   15)   #define MAN(x,y) (x)>(y)?(x):(y)
+      {  int i=10;j=5;k=0;
+       k= MAN(i++,++j)
+       printf(%d %d %d %d,i,j,k)
+       }
+   16) a=10;b=5; c=3;d=3;
+       if(a<b)&&(c=d++)
+       printf(%d %d %d %d a,b,c,d)
+       else printf("%d %d %d %d a,b,c,d);
+ 
+ : .............................................
+  19. what is o/p
+  #include<stdarg.h>
+  show(int t,va_list ptr1)
+  {
+  int a,x,i;
+  a=va_arg(ptr1,int)
+  printf("\n %d",a)
+  }
+  display(char)
+  {int x;
+  listptr;
+  va_star(otr,s);
+  n=va_arg(ptr,int);
+  show(x,ptr);
+  }
+  main()
+  {
+  display("hello",4,12,13,14,44);
+  }
+  a) 13 b) 12 c) 44 d) 14
+  .............................................
+
+  17. if the following program (my prog)
+  main(int size of ,char *arg[])
+  { while(size of arg) printf("%s",arg[--size of arg)
+  }
+  is run from the command line as myprog jan feb mar apr
+  what would be the o/p
+  a)myprog jan,feb,mar,apr
+  b)rev
+  c)jan,feb,mar,apr
+  d)error
+  .............................................
+
+  18.what is o/p
+  main()
+  {int i=3;
+  while(i--)
+  {
+  int i=100
+  i--;
+  printf("%d..",i);
+  }
+  }
+  a) infinite loop
+  b) error
+  c) 99..99..99..99
+  d) 3..22..1..
+  .............................................
+  20)what is the o/p of the program
+    main()
+    {
+      int rows=3,colums=4; 
+      int a[rows][colums]={1,2,3,4,5,6,7,8,9,10,11,12};
+	  i=j=k=99;
+	  for(i=0;i<rows;i++)
+	   for(j=0;j<colums;j++)
+	      if(a[k][j]<k) k=a[i][j];
+
+	 printf("%d\n",k);
