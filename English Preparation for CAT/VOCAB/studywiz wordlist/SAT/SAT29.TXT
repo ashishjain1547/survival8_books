@@ -1,0 +1,77 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 29
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+lucid	easily understood	adjective	*
+lucrative	profitable	adjective
+lucre	money	noun
+ludicrous	laughable; trifling	adjective
+lugubrious	mournful	adjective
+lull	moment of calm	noun
+lumber	move heavily or clumsily	verb
+luminary	celebrity; dignitary	noun
+luminous	shining; issuing light	adjective
+lunar	pertaining to the moon	adjective
+lurid	wild; sensational	adjective
+luscious	pleasing to taste or smell	adjective
+luster	shine; gloss	noun
+lustrous	shining	adjective
+luxuriant	fertile; abundant; ornate	adjective
+macabre	gruesome; grisly	adjective
+Machiavellian	crafty; double-dealing	adjective
+machinations	schemes	noun
+madrigal	pastoral song	noun
+maelstrom	whirlpool	noun
+magnanimous	generous	adjective	*
+magnate	person of prominence or influence	noun
+magniloquent	boastful; pompous	adjective
+magnitude	greatness; extent	noun
+maim	mutilate; injure	verb
+maladroit	clumsy; bungling	adjective
+malaise	uneasiness; distress	noun
+malapropism	comic misuse of a word	noun
+malcontent	person dissatisfied with existing state of affairs	noun
+malediction	curse	noun
+malefactor	criminal	noun
+malevolent	wishing evil	adjective
+malicious	dictated by hatred or spite	adjective
+malign	speak evil of; defame	verb
+malignant	having an evil influence; virulent	adjective
+malingerer	one who feigns illness to escape duty	noun
+mall	public walk	noun
+malleable	capable of being shaped by pounding	adjective
+malodorous	foul-smelling	adjective
+mammal	a vertebrate animal whose female suckles its young	noun
+mammoth	gigantic	adjective
+manacle	restrain; handcuff	verb
+mandate	order; charge	noun
+mandatory	obligatory	adjective
+mangy	shabby; wretched	adjective
+maniacal	raving mad	adjective
+manifest	understandable; clear	adjective
+manifesto	declaration; statement of policy	noun
+manifold	numerous; varied	adjective
+manipulate	operate with hands	verb
+manumit	emancipate; free from bondage	verb
+marital	pertaining to marriage	adjective
+maritime	bordering on the sea; nautical	adjective
+marred	damaged; disfigured	adjective	*
+marrow	soft tissue filling the bones	noun
+marshal	put in order	verb
+marsupial	one of a family of mammals that nurse their offspring in a pouch	noun
+martial	warlike	adjective
+martinet	strict disciplinarian	noun
+masochist	person who enjoys his own pain	noun
+masticate	chew	verb
+materialism	preoccupation with physical comforts and things	noun
+maternal	motherly	adjective
+matriarch	woman who rules a family or larger social group	noun
+matricide	murder of a mother by a child	noun
+matrix	mold or die	noun
+maudlin	effusively sentimental	adjective
+maul	handle roughly	verb

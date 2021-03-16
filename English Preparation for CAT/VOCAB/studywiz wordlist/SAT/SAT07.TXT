@@ -1,0 +1,77 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 07
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+blunder	error	noun	
+blurt	utter impulsively	verb	
+bode	foreshadow; portend	verb	
+bogus	counterfeit; not authentic	adjective	
+boisterous	violent; rough; noisy	adjective	
+bolster	support; prop up	verb	*
+bombastic	pompous; using inflated language	adjective	
+boorish	rude; clownish	adjective	
+bouillon	clear beef soup	noun	
+bountiful	generous; showing bounty	adjective	
+bourgeois	middle class	noun	
+bovine	cowlike; placid and dull	adjective	
+bowdlerize	expurgate	verb	
+brackish	somewhat saline	adjective	
+braggart	boaster	noun	
+bravado	swagger; assumed air of defiance	noun	
+brawn	muscular strength; sturdiness	noun	
+brazen	insolent	adjective	
+breach	breaking of contract or duty; fissure; gap	noun	
+breadth	width; extent	noun	
+brevity	consciousness	noun	
+brindled	tawny or grayish with steaks or spots	adjective	
+bristling	rising like bristles; showing irritation	adjective	
+brittle	easy broken; difficult	adjective	
+broach	open up	verb	
+brocade	rich, figured fabric	noun	
+brochure	pamphlet	noun	
+brooch	ornamental clasp	noun	
+browbeat	bully; intimidate	adjective	
+brusque	blunt; abrupt	adjective	
+bucolic	rustic; pastoral	adjective	
+buffoonery	clowning	noun	
+bugaboo	bugbear; object of baseless terror	noun	
+bullion	gold and silver in the form of bars	noun	
+bulwark	earthwork or other strong defense	noun	
+bumptious	self-assertive	adjective	
+bungle	spoil by clumsy behavior	verb	
+bureaucracy	government by bureaus	noun	
+burgeon	grow forth; send out buds	verb	
+burlesque	give an imitation that ridicules	verb	
+burly	husky; muscular	adjective	
+burnish	make shiny by rubbing; polish	verb	
+buttress	support; prop up	verb	
+buxom	plump; vigorous; jolly	adjective	
+cabal	small group of persons secretly united to promote their own interests	noun	
+cache	hiding place	noun	
+cacophony	discord	noun	
+cadaver	corpse	noun	
+cadaverous	like a corpse; pale	adjective	
+cadence	rhythmic rise and fall (of words and sounds); beat	noun	
+cajole	coax; wheedle	verb	*
+calamity	disaster; misery	noun	
+caliber	ability; capacity	noun	
+calligraphy	beautiful writing; excellent penmanship	noun	
+callous	hardened; unfeeling	adjective	
+callow	youthful; immature	adjective	
+calorific	heat-producing	adjective	
+calumny	malicious misrepresentation; slander	noun	
+camaraderie	good-fellowship	noun	
+cameo	shell or jewel carved in relief	noun	
+candor	frankness	noun	*
+canine	related to dogs; dog-like	adjective	
+canker	any ulcerous sore; any evil	noun	
+canny	shrewd; thrifty	adjective	
+cant	jargon of thieves; pious phraseology	noun	
+cantankerous	ill humored; irritable	adjective	
+cantata	story set in music, to be sung by a chorus	noun	
+canter	slow gallop	noun	

@@ -1,0 +1,80 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 30
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+mausoleum	monumental tomb	noun
+mauve	pale purple	adjective
+maverick	rebel; nonconformist	noun
+mawkish	sickening; insipid	adjective
+maxim	proverb; a truth pithily stated	noun
+mayhem	an injury to body	noun
+meager	scantly; inadequate	adjective	*
+meander	to wind or turn in its course	verb
+meddlesome	interfering	adjective
+mediate	settle a dispute through the services of an outsider	verb
+mediocre	ordinary; commonplace	adjective
+meditation	reflection; thought	noun
+medley	mixture	noun
+megalomania	mania for doing grandiose things	noun
+melange	medley; miscellany	noun
+melee	fight	noun
+mellifluous	flowing smoothly; smooth	adjective
+memento	token reminder	noun
+memorialize	commemorate	verb
+mendacious	lying; false	adjective
+mendicant	beggar	noun
+menial	suitable for servants; low	adjective
+mentor	teacher	noun
+mercantile	concerning trade	adjective
+mercenary	interested in money or gain	adjective
+mercurial	fickle; changing	adjective
+meretricious	flashy; tawdry	adjective
+merger	combination (of two business corporations)	noun
+mesa	high, flat-topped hill	noun
+mesmerize	hypnotize	verb
+metallurgical	pertaining to the art of removing metals from ores	adjective
+metamorphosis	change of form	noun
+metaphor	implied comparison	noun
+metaphysical	pertaining to speculative philosophy	adjective
+mete	measure; distribute	verb
+methodological	systematic	adjective	*
+meticulous	excessively careful	adjective	*
+metropolis	large city	noun
+mettle	courage; spirit	noun
+miasma	swamp gas; odor of decaying matter	noun
+microcosm	small world	noun
+mien	demeanor; bearing	noun
+migrant	changing its habitat; wandering	adjective
+migratory	wandering	adjective
+milieu	environment; means of expression	noun
+militant	combative; bellicose	adjective
+militate	work against	verb
+millennium	thousand-year period	noun
+mimicry	imitation	noun
+minaret	slender tower attached to a mosque	noun
+mincing	affectedly dainty 	adjective
+mignon	a servile dependent	noun
+minuscule	extremely small	adjective
+minute	extremely small	adjective
+minutiae	petty details	noun
+mirage	unreal reflection; optical illusion	noun
+mire	entangle; stick in swampy ground	verb
+mirth	merriment; laughter	noun
+misadventure	mischance; ill luck	noun
+misanthrope	one who hates mankind	noun
+misapprehenison	error; misunderstanding	noun
+miscegenation	intermarriage between races	noun
+miscellany	mixture of writings on various subjects	noun
+mischance	ill luck	noun
+misconstrue	interpret incorrectly; misjudge	verb	*
+miscreant	wretch; villain	noun
+misdemeanor	minor crime	noun
+miserly	stingy; mean	adjective	*
+misgivings	doubts	noun
+mishap	accident	noun
+misnomer	wrong name; incorrect designation	noun

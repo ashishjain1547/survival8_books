@@ -1,0 +1,349 @@
+cabal,	small group of persons secretly united to promote their own interests
+cache,	hiding place
+cacophony,	discord
+cadaver,	corpse
+cadaverous,	like a corpse; pale
+cadence,	rhythmic rise and fall (of words and sounds); beat
+cajole,	coax; wheedle
+calamity,	disaster; misery
+caliber,	ability; capacity
+calligraphy,	beautiful writing; excellent penmanship
+callous,	hardened; unfeeling
+callow,	youthful; immature
+calorific,	heat-producing
+calumny,	malicious misrepresentation; slander
+camaraderie,	good-fellowship
+cameo,	shell or jewel carved in relief
+candor,	frankness
+canine,	related to dogs; dog-like
+canker,	any ulcerous sore; any evil
+canny,	shrewd; thrifty
+cant,	jargon of thieves; pious phraseology
+cantankerous,	ill humored; irritable
+cantata,	story set in music, to be sung by a chorus
+canter,	slow gallop
+canto,	noun
+canvass,	verb
+capacious,	adjective
+capitulate,	verb
+caprice,	noun
+capricious,	adjective
+caption,	noun
+captious,	adjective
+carafe,	noun
+carat,	noun
+carcinogenic,	adjective
+cardinal,	adjective
+careen,	verb
+caricature,	noun
+carnage,	noun
+carnal,	adjective
+carnivorous,	adjective
+carousal,	noun
+carping,	adjective
+carrion,	noun
+carte blanche,	noun
+cartographer,	noun
+cascade,	noun
+caste,	noun
+castigate,	verb
+casualty,	noun
+cataclysm,	noun
+catalyst,	noun
+catapult,	noun
+cataract,	noun
+catastrophe,	noun
+catechism,	noun
+categorical,	adjective
+catharsis,	noun
+cathartic,	noun
+catholic,	adjective
+caucus,	noun
+causal,	adjective
+caustic,	adjective
+cauterize,	verb
+cavalcade,	noun
+cavil,	verb
+cede,	verb
+celerity,	noun
+celestial,	adjective
+celibate,	adjective
+censor,	noun
+censorious,	adjective
+censure,	verb
+centaur,	noun
+centigrade,	adjective
+centrifugal,	adjective
+centripetal,	adjective
+centurion,	noun
+cerebral,	adjective
+cerebration,	noun
+ceremonious,	adjective
+cessation,	noun
+cession,	noun
+chafe,	verb
+chaff,	noun
+chaffing,	adjective
+chagrin,	noun
+chalice,	noun
+chameleon,	noun
+champion,	support militantly
+chaotic,	in utter disorder
+charisma,	divine gift; great popular charm or appeal of a political leader
+charlatan,	quack; pretender to knowledge
+chary,	cautiously watchful
+chasm,	abyss
+chassis,	framework and working parts of an automobile
+chaste,	pure
+chasten,	discipline; punish in order to correct
+chastise,	punish
+chattel,	personal property
+chauvinist,	blindly devoted patriot
+checkered,	marked by changes in fortune
+cherubic,	angelic; innocent looking
+chicanery,	trickery
+chide,	scold
+chimerical,	fantastic; highly imaginative
+chiropodist,	one who treats disorders of the feet
+chivalrous,	courteous; faithful; brave
+choleric,	hot-tempered
+choreography,	art of dancing
+chronic,	long established as a disease
+chronicle,	report; record (in chronological order)
+churlish,	boorish; rude
+ciliated,	having minute hairs
+circlet,	small ring; band
+circuitous,	roundabout
+circumlocution,	indirect or roundabout expression
+circumscribe,	limit; confine
+circumspect,	prudent; cautious
+circumvent,	outwit; baffle
+citadel,	fortress
+cite,	quote; command
+civil,	having to do with citizens or the state; courteous and polite
+clairvoyant,	having foresight
+clairvoyant,	fortuneteller
+clamber,	climb by crawling
+clamor,	noise
+clandestine,	secret
+clangor,	loud, resounding noise
+clarion,	shrill, trumpetlike sound
+claustrophobia,	fear of being locked in
+clavicle,	collarbone
+cleave,	split asunder
+cleft,	split
+clemency,	disposition to be lenient; mildness, as of the weather
+cliché,	phrase dulled in meaning by repetition
+clientele,	body of customers
+climactic,	relating to the highest point
+clime,	region; climate
+clique,	small excessive group
+cloister,	monastery or convent
+cloven,	split
+coagulate,	thicken; congeal; clot
+coalesce,	combine; fuse
+coddle,	to treat gently
+codicil,	supplement to the body of a will
+codify,	to arrange (laws, rules) as a code; classify
+coercion,	use of force to get someone's compliance
+coeval,	living as the same time as; contemporary
+cog,	tooth protecting from a wheel
+cogent,	convincing
+cogitate,	think over
+cognate,	allied by blood; of the same or kindred nature
+cognitive,	having to do with knowing or perceiving
+cognizance,	knowledge
+cognomen,	family name
+cohere,	stick together
+cohesion,	force keeps parts together
+coiffure,	hairstyle
+coincident,	occurring at the same time
+colander,	utensil with perforated bottom used for straining
+collaborate,	work together
+collage,	work of art put together from fragments
+collate,	examine in order to verify authenticity; arrange in order
+collateral,	security given for loan
+colloquial,	pertaining to conversational or common speech
+colloquy,	informal discussion
+collusion,	conspiring in a fraudulent scheme
+colossal,	huge
+comatose,	in a coma; extremely sleepy
+combustible,	easily burned
+comely,	attractive; agreeable
+comestible,	something fit to be eaten
+comeuppance,	rebuke; deserts
+comity,	courtesy; civility
+commandeer,	to draft form military purposes; to take for a public use
+commemorative,	remembering; honoring
+commensurate,	equal in extent
+commiserate,	to feel or express pity or symphony for
+commodious,	spacious and comfortable
+communal,	held in common; of a group of people
+compact,	agreement; contract
+compact,	tightly packed; firm, brief
+compatible,	harmonious; in harmony with
+compelling,	overpowering, irresistible in effect
+compendium,	brief, comprehensive summary
+compensatory,	making up for; repaying
+compilation,	listing of statistical information in tabular or book form
+complacent,	self-satisfied
+complaisant,	trying to please; obliging
+complement,	that which completes
+compliance,	conformity in fulfilling requirements; readiness to yield
+compliant,	yielding
+complicity,	participation; involvement
+component,	element; ingredient
+comport,	bear one's self; behave
+composure,	mental calmness
+comprehensive,	thorough; inclusive
+compress,	close; squeeze; contract
+comprise,	include; consist of
+compromise,	adjust; endanger the interests or reputation of
+compunction,	remorse
+compute,	reckon; calculate
+concave,	hollow
+concede,	admit; yield
+conceit,	whimsical idea; extravagant metaphor
+concentric,	having a common center
+conception,	beginning; forming of an idea
+concession,	act of yielding
+conciliatory,	reconciling; soothing 
+concise,	brief and compact
+conclusive,	decisive; ending all debate
+concoct,	prepare by combining; make up in concert
+concomitant,	that which accompanies
+concord,	harmony; agreement` between people or things
+concur,	agree
+concurrent,	happening at the same time
+condescend,	bestow courtesies with a superior air
+condiments,	seasonings; spices
+condole,	express sympathetic sorrow
+condone,	overlook; forgive
+conductive,	contributive; tending to
+conduit,	aqueduct; passageway for fluids
+confidant,	trusted friend
+confirm,	corroborate; verify; support
+confiscate,	seize; commandeer
+conflagration,	great fire
+confluence,	flowing together; crowd
+conformity,	harmony; agreement
+confound,	confuse; puzzle
+congeal,	freeze; coagulate
+congenial,	pleasant; friendly
+congenital,	existing at birth
+conglomeration,	mass of material sticking together
+congruence,	correspondence of parts; harmonious relationship
+conifer,	pine tree; cone-bearing tree
+conjecture,	surmise; guess
+conjugal,	pertaining to marriage
+conjure,	summon a devil; practice magic; imagine; invent
+connivance,	pretense of ignorance of something wrong; assistance; permission to offend
+connoisseur,	person competent to act as a judge of art, etc.; a lover of an art
+connotation,	suggested or implied meaning of an expression
+connubial,	pertaining to marriage or the matrimonial state
+consanguinity,	kinship
+conscientious,	scrupulous; careful
+consecrate,	dedicate; sanctify
+consequential,	pompous; important; self-important
+consign,	deliver officially; entrust; set apart
+consistency,	absence of contradictions; dependability; uniformity
+console,	lessen sadness or disappointment; give comfort
+consonance,	harmony; agreement
+consort,	associate with
+consort,	husband or wife
+conspicuous,	easily seen; noticeable; striking
+conspiracy,	treacherous plot
+constituent,	supporter
+constraint,	compulsion; repression of feelings
+construe,	explain; interpret
+consummate,	compete
+contagion,	infection
+contaminate,	pollute
+contemporary,	person belonging to the same period
+contempt,	scorn; disdain
+contend,	struggle; compete; assert earnestly
+contentious,	quarrelsome
+contest,	dispute
+context,	writings preceding and following the passage quoted
+contiguous,	adjacent to; touching upon
+continence,	self-restraint; sexual chastity 
+contingent,	conditional
+contortions,	twistings ; distortions
+contraband,	illegal trade; smuggling
+contract,	compress or shrink; make a pledge; catch a disease
+contravene,	contradict; infringe on
+contrite,	penitent
+contrived,	forced; artificial; not spontaneous
+controvert ,	oppose with arguments; contradict
+confusion,	bruise
+conundrum ,	riddle
+convene,	assemble
+converge,	come together
+conversant,	familiar with
+converse,	opposite
+convex,	curving outward
+conveyance,	vehicle; transfer
+conviction,	strongly held belief
+convivial,	festive; gay; characterized by joviality
+convoke,	call together
+convoluted,	coiled around
+copious,	plentiful
+coquette,	flirt
+cordial,	gracious; heartfelt
+cordon,	extended line of men or fortifications to prevent access or egress
+cornice,	protecting molding on building (usually above columns)
+corollary,	consequence; accompaniment
+corporeal,	bodily; material
+corpulent,	very fat
+correlation,	mutual relationship
+corroborate,	confirm
+corrosive,	eating away by chemicals or disease
+corrugated,	wrinkled, ridged
+cosmic,	pertaining to outer space
+coterie,	group that meets socially; select circle
+countenance,	approve; tolerate
+countermand,	cancel; revoke
+counterpart,	a thing that completes another; things very much alike
+coup,	highly successful action or sudden attack
+couple,	join; unite
+courier,	messenger
+convenant ,	agreement 
+covert,	secret; hidden; implied
+covetous,	avaricious; eagerly desirous of
+cower,	shrink quivering, as from fear
+coy,	shy; modest; coquettish
+cozen,	cheat; hoodwink; swindle
+crabbed,	sour; peevish
+crass,	very unrefined; grossly insensible
+craven,	cowardly
+credence,	belief
+credibility,	believability
+credo,	creed
+credulity,	belief on slight evidence
+creed,	system of religious or ethical belief
+crescendo,	increase in the volume or intensity as in a musical passage; climax
+crestfallen,	dejected; dispirited
+crevice,	crack; fissure
+cringe,	shrink back, as if in fear
+criterion,	standard used in judging
+crone,	hag
+crotchety,	eccentric; whimsical
+crux,	critical point
+crypt,	secret recess or vault, usually used for burial
+cryptic,	mysterious; puzzling; secret
+cubicle,	small chamber used for sleeping
+cuisine,	style of cooking
+culinary,	pertaining to cooking
+cull,	pick out; reject
+culmination,	attainment of highest point
+culpable,	deserving blame
+culvert,	artificial channel for water
+cumbersome,	heavy; hard to manage
+cupidity,	greed
+curator,	superintendent; manager
+curmudgeon,	churlish, miserly individual
+cursive,	flowing, running
+cursory,	casual; hastily done
+curtail,	shorten; reduce
+cynical,	skeptical or distrustful of human motives
+cynosure,	object of general attention

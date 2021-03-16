@@ -1,0 +1,73 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 02
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+adulation	flattery; admiration	noun	
+adulterate	make impure by mixing with baser substances	verb	
+adulterated	made impure or spoiled by the addition of inferior materials	adjective	
+advent	arrival	noun	
+adventitious	accidental; casual	adjective	
+adversary	opponent	noun	*
+adverse	unfavorable; hostile	adjective	
+adversity	poverty; misfortune	noun	
+advert	refer to	verb	
+advocate	urge; plead for	verb	*
+aegis	shield; defense	noun	
+aesthetic	artistic; dealing with or capable of appreciation of the beautiful	adjective	*
+affable	courteous	adjective	*
+affected	artificial; pretended	adjective	
+affidavit	written statement made under oath	noun	
+affiliation	joining; associating with	noun	
+affinity	kinship	noun	
+affirmation	positive assertion; confirmation; solemn pledge by one who refuses to take an oath	noun	*
+affluence	abundance; wealth	noun	
+affray	public brawl	noun	
+agape	openmouthed	adjective	
+agenda	items of business at a meeting	noun	
+agglomeration	collection; heap	noun	
+aggrandize	increase or intensify	verb	
+aggregate	sum; total	adjective	
+aghast	horrified	adjective	
+agility	nimbleness	noun	
+agitate	stir up; disturb	verb	
+agnostic	one who is skeptical of the existence or knowability of a god or any ultimate reality	noun	
+agrarian	pertaining to land or its cultivation	adjective	
+alacrity	cheerful promptness	noun	
+alchemy	medieval chemistry	noun	
+alcove	nook; small, recessed section of a room	noun	
+alias	an assumed name	noun	
+alienate	make hostile; separate	verb	
+alimentary	supplying nourishment	adjective	
+alimony	payment by a husband to his divorced wife	noun	
+allay	calm; pacify	verb	
+allege	state without proof	verb	
+allegory	story in which characters are used as symbols	noun	
+alleviate	relieve	verb	
+alliteration	repetition of beginning sound in poetry	noun	
+allocate	assign	verb	
+alloy	a mixture as of metals	noun	
+allude	relief indirectly	verb	
+allure	entice; attract	verb	
+allusion	indirect reference	noun	
+aloof	apart; reserved	adjective	*
+aloft	upward	adjective	
+altercation	wordy quarrel	noun	
+altruistic	unselfishly generous, concerned for others	adjective	*
+amalgamate	combine, unite in one body	verb	
+amass	collect	verb	
+amazon	female warrior	noun	
+ambidextrous	capable of using either hand with equal ease	adjective	
+ambience	environment; atmosphere	noun	
+ambiguous	unclear or doubtful in meaning	adjective	*
+ambivalence	the state of having contradictory or conflicting emotional attitudes	noun	*
+amble	moving at an easy pace	noun	
+ambrosia	food of the gods	noun	
+ambulatory	able to walk	adjective	
+ameliorate	improve	verb	*
+amenable	readily managed; willing to be led	adjective	
+amend	correct; change, generally for the better	verb

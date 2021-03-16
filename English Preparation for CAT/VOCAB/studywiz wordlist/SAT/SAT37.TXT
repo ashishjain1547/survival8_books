@@ -1,0 +1,82 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 37
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+precept	practical rule guiding conduct	noun
+precipice	cliff; dangerous position	noun
+precipitate	headlong; rash	adjective
+precipitous	steep	adjective
+precise	exact	adjective
+preclude	make impossible; eliminate	verb	*
+precocious	advanced in development	adjective	*
+precursor	forerunner	noun
+predatory	plundering	adjective
+predecessor	former occupant of a post	noun	*
+predilection	partiality; preference	noun	*
+preeminent	outstanding; superior	adjective
+preempt	appropriate beforehand	verb
+prefatory	introductory	adjective
+prehensile	capable of gasping or holding	adjective
+prelude	introduction; forerunner	noun
+premeditate	plan in advance	verb
+premise	assumption; postulate	noun
+premonition	forewarning	noun
+premonitory	serving to warn	adjective
+preponderance	superiority of power, quantity, etc.	noun
+preposterous	absurd; ridiculous	adjective
+prerogative	privilege; unquestionable right	noun
+presage	foretell	verb
+presentiment	premonition; foreboding	noun
+prestige	impression produced by achievements or reputation	noun
+presumptuous	arrogant; taking liberties	adjective	*
+pretentious	ostentatious; ambitious	adjective	*
+preternatural	beyond that which is normal to nature	adjective
+pretext	excuse	noun
+prevail	induce; triumph over	verb
+prevalent	widespread; generally accepted	adjective	*
+prevaricate	lie	verb
+prim	very precise and formal; exceedingly proper	adjective
+primogeniture	seniority by birth	noun
+primordial	existing at the beginning (of time); rudimentary	adjective
+primp	dress up	verb
+pristine	characteristic of earlier times; primitive; unspoiled	adjective
+privation	hardship; want	noun
+privy	secret; hidden; not public	adjective
+probe	explore with tools	verb
+probity	uprightness; incorruptibility	noun
+problematic	perplexing; unsettled; questionable	adjective
+proboscis	long snout; nose	noun
+proclivity	inclination; natural tendency	noun
+procrastinate	postpone; delay	verb
+prod	poke; stir up; urge	verb
+prodigal	wasteful; reckless in money	adjective	*
+prodigious	marvelous; enormous	adjective	*
+prodigy	marvel; highly gifted child	noun
+profane	violate; desecrate	verb
+profligate	dissipated; wasteful; licentious	adjective
+profound	deep; not superficial; complete	adjective	*
+profusion	lavish expenditure; overabundant condition	noun	*
+progenitor	ancestor	noun
+progeny	children; offspring	noun
+prognosis	forecasted course of a disease; prediction	noun
+prognosticate	predict	verb
+projectile	missile	noun
+proletarian	member of the working class	noun
+proliferation	rapid growth; spread; multiplication	noun	*
+prolific	abundantly fruitful	adjective	*
+prolix	verbose; drawn out	adjective
+promiscuous	mixed indiscriminately; haphazard; irregular; particularly sexually	adjective
+promontory	headland	noun
+promulgate	make known by official proclamation or publication	verb
+prone	inclined to; prostrate	adjective
+propagate	multiply; spread	verb
+propellants	substances which propel or drive forward	noun
+propensity	natural inclination	noun
+prophylactic	used to prevent disease	adjective
+propinquity	nearness; kinship	noun
+propitiate	appease	verb

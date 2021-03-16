@@ -1,0 +1,74 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 08
+PrimaryField=1
+SecondaryField=3
+GroupField=2
+TagField=4
+[DATA]
+word	part of speech	definition	high-frequency
+canto	noun	division of a long poem	
+canvass	verb	determine votes, etc.	
+capacious	adjective	spacious	
+capitulate	verb	surrender	
+caprice	noun	whim	
+capricious	adjective	fickle; incalculable	*
+caption	noun	title; chapter heading; text under illustration	
+captious	adjective	faultfinding	
+carafe	noun	glass water bottle; decanter	
+carat	noun	unit of weight of precious stones; measure of fineness of gold	
+carcinogenic	adjective	causing cancer	
+cardinal	adjective	chief	
+careen	verb	lurch; sway from side to side	
+caricature	noun	distortion; burlesque	
+carnage	noun	destruction of life	
+carnal	adjective	fleshy	
+carnivorous	adjective	meat-eating	
+carousal	noun	drunken relief	
+carping	adjective	finding fault	
+carrion	noun	rotting flesh of a dead body	
+carte blanche	noun	unlimited authority or freedom	
+cartographer	noun	map-maker	
+cascade	noun	small waterfall	
+caste	noun	one of the hereditary classes in Hindu society	
+castigate	verb	punish	
+casualty	noun	serious or fatal accident	
+cataclysm	noun	deluge; upheaval	
+catalyst	noun	agent which brings about a chemical change while it remains unaffected and unchanged	
+catapult	noun	slingshot; a hurling machine	
+cataract	noun	great waterfall; eye abnormality	
+catastrophe	noun	calamity	
+catechism	noun	book of religious instruction; instruction by question and answer	
+categorical	adjective	without exceptions; unqualified; absolute	
+catharsis	noun	purging or cleansing away any passage of the body	
+cathartic	noun	purgative	
+catholic	adjective	broadly sympathetic; liberal	
+caucus	noun	private meeting of members of a party to select officers or determine policy	
+causal	adjective	implying a cause-and-effect relationship	
+caustic	adjective	burning; sarcastically biting	
+cauterize	verb	burn with hot iron or caustic	
+cavalcade	noun	procession; parade	
+cavil	verb	make frivolous objections	
+cede	verb	transfer; yield title to	
+celerity	noun	speed; rapidity	
+celestial	adjective	heavenly	
+celibate	adjective	unmarried; abstaining from sexual intercourse	
+censor	noun	overseer of morals; person who reads to eliminate inappropriate remarks	
+censorious	adjective	critical	*
+censure	verb	blame; criticize	*
+centaur	noun	mythical figure, half man and half horse	
+centigrade	adjective	measure of temperature used widely in Europe	
+centrifugal	adjective	radiating, departing from the center	
+centripetal	adjective	tending toward the center	
+centurion	noun	Roman army officer	
+cerebral	adjective	pertaining to the brain or intellect	
+cerebration	noun	thought	
+ceremonious	adjective	marked by formality	
+cessation	noun	stopping	
+cession	noun	yielding to another, ceding	
+chafe	verb	warm by rubbing; make sore by rubbing	
+chaff	noun	worthless products of an endeavor	
+chaffing	adjective	bantering; joking	
+chagrin	noun	vexation; disappointment	
+chalice	noun	goblet; consecrated cup	
+chameleon	noun	lizard that changes color in different situations	

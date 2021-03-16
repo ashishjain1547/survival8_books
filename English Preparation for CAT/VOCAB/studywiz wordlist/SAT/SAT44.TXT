@@ -1,0 +1,89 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 44
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+somber	gloomy; depressing	adjective	*
+somnambulist	sleepwalker	noun
+somnolent	half asleep	adjective
+sonorous	resonant	adjective
+sophist	teacher of philosophy; quibbler; employer of fallacious reasoning	noun
+sophistication	artificiality; unnaturalness; act of employing sophistry in reasoning	noun
+sophistry	seemingly plausible but fallacious reasoning	noun
+sophomoric	immature; shallow	adjective
+soporific	sleep producer	adjective
+sordid	filthy; base; vile	adjective
+soupçon	suggestion; hint; taste	noun
+spangle	small metallic piece sewn to clothing for ornamentation	noun
+sparse	not thick; thinly scattered; scanty	adjective
+spasmodic	fitful; periodic	adjective
+spate	sudden flood or strong outburst; a large number or amount	noun
+spatial	relating to space	adjective
+spatula	broad-bladed instrument used for spreading or mixing	noun
+spawn	lay eggs	verb
+specious	seemingly reasonable but incorrect	adjective
+spectral	ghostly	adjective
+spectrum	colored band produced when beam of light passes through a prism	noun
+spendthrift	someone who wastes money	noun	*
+sphinx-like	enigmatic; mysterious	adjective
+splenetic	spiteful; irritable; peevish	adjective
+spontaneity	lack of premeditation; naturalness; freedom from constraint	noun
+spoonerism	accidental transposition of sounds in successive words	noun
+sporadic	occurring irregularly	adjective
+sportive	playful	adjective
+spry	vigorously active; nimble	adjective
+spume	froth; foam	noun
+spurious	false; counterfeit	adjective
+spurn	reject; scorn	verb
+squalid	dirty; neglected; poor	adjective
+squander	waste	verb	*
+staccato	played in an abrupt manner; marked by abrupt sharp sound	adjective
+stagnant	motionless; stale; dull	adjective	*
+staid	sober; sedate	adjective
+stalemate	deadlock	noun
+stalwart	strong; brawny; steadfast	adjective
+stamina	strength; staying power	noun
+stanch	check flow of blood	verb
+stanza	division of a poem	noun	*
+static	unchanging; lacking development	adjective	*
+statue	law	noun
+statutory	created by statute or legislative action	adjective
+steadfast	loyal	adjective	*
+stein	beer mug	noun
+stellar	pertaining to the stars	adjective
+stern	check the flow	verb
+stem from	arise from	verb
+stentorian	extremely loud	adjective
+stereotyped	fixed and unvarying representation	adjective
+stigma	token of disgrace; brand	noun
+stigmatize	brand; mark as wicked	verb
+stilted	bombastic; inflated	adjective
+stint	supply; allotted demand; assigned portion of work	noun
+stipend	pay for services	noun
+stipulate	make express conditions; specify	verb
+stoic	person who is indifferent to pleasure or pain	noun	*
+stoke	to feed plentifully	verb
+stolid	dull; impassive	adjective
+stratagem	deceptive scheme	noun
+stratum	layer of earth's surface; layer of society	noun
+striated	marked with parallel bands; grooved	adjective
+stricture	critical comments; severe and adverse criticism	noun
+strident	loud and harsh	adjective
+stringent	blinding; rigid	adjective
+strut	pompous walk	noun
+strut	supporting bar	noun
+stultify	cause to appear foolish or inconsistent	verb
+stupefy	make numb; stun; amaze	verb	*
+stupor	state of apathy; daze; lack of awareness	noun
+stygian	gloomy; hellish; deathly	adjective
+stymie	present an obstacle; stump	verb
+suavity	urbanity; polish	noun
+subaltern	subordinate	noun
+subjective	occurring or taking place within the subject; unreal	adjective
+subjugate	conquer; bring under control	verb
+sublimate	refine; purify	verb
+sublime	exalted; noble; uplifting	adjective

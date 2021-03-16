@@ -1,0 +1,81 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 10
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+collaborate	work together	verb
+collage	work of art put together from fragments	noun
+collate	examine in order to verify authenticity; arrange in order	verb
+collateral	security given for loan	noun
+colloquial	pertaining to conversational or common speech	adjective
+colloquy	informal discussion	noun
+collusion	conspiring in a fraudulent scheme	noun
+colossal	huge	adjective
+comatose	in a coma; extremely sleepy	adjective
+combustible	easily burned	adjective
+comely	attractive; agreeable	adjective
+comestible	something fit to be eaten	noun
+comeuppance	rebuke; deserts	noun
+comity	courtesy; civility	noun
+commandeer	to draft form military purposes; to take for a public use	verb
+commemorative	remembering; honoring	adjective
+commensurate	equal in extent	adjective
+commiserate	to feel or express pity or symphony for	verb
+commodious	spacious and comfortable	adjective
+communal	held in common; of a group of people	adjective
+compact	agreement; contract	noun
+compact	tightly packed; firm, brief	adjective
+compatible	harmonious; in harmony with	adjective
+compelling	overpowering, irresistible in effect	adjective
+compendium	brief, comprehensive summary	noun
+compensatory	making up for; repaying	adjective
+compilation	listing of statistical information in tabular or book form	noun
+complacent	self-satisfied	adjective	*
+complaisant	trying to please; obliging	adjective
+complement	that which completes	noun
+compliance	conformity in fulfilling requirements; readiness to yield	noun	*
+compliant	yielding	adjective
+complicity	participation; involvement	noun
+component	element; ingredient	noun
+comport	bear one's self; behave	verb
+composure	mental calmness	noun	*
+comprehensive	thorough; inclusive	adjective	*
+compress	close; squeeze; contract	verb
+comprise	include; consist of	verb
+compromise	adjust; endanger the interests or reputation of	verb
+compunction	remorse	noun
+compute	reckon; calculate	verb
+concave	hollow	adjective
+concede	admit; yield	verb	*
+conceit	whimsical idea; extravagant metaphor	noun
+concentric	having a common center	adjective
+conception	beginning; forming of an idea	noun
+concession	act of yielding	noun
+conciliatory	reconciling; soothing 	adjective	*
+concise	brief and compact	adjective	*
+conclusive	decisive; ending all debate	adjective
+concoct	prepare by combining; make up in concert	verb
+concomitant	that which accompanies	noun
+concord	harmony; agreement` between people or things	noun
+concur	agree	verb	*
+concurrent	happening at the same time	adjective
+condescend	bestow courtesies with a superior air	verb
+condiments	seasonings; spices	noun
+condole	express sympathetic sorrow	verb
+condone	overlook; forgive	verb	*
+conductive	contributive; tending to	adjective
+conduit	aqueduct; passageway for fluids	noun
+confidant	trusted friend	noun
+confirm	corroborate; verify; support	verb
+confiscate	seize; commandeer	verb
+conflagration	great fire	noun
+confluence	flowing together; crowd	noun
+conformity	harmony; agreement	noun
+confound	confuse; puzzle	verb
+congeal	freeze; coagulate	verb
+congenial	pleasant; friendly	adjective
+congenital	existing at birth	adjective

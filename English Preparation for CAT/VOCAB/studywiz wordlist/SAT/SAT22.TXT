@@ -1,0 +1,84 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 22
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+gouge	tear out	verb
+gourmand	epicure; person who takes excessive pleasure in food and drink	noun
+gourmet	connoisseur of food and drink	noun
+graduated	arranged by degrees (of height, difficulty, etc.)	adjective
+grandiloquent	pompous; bombastic; using high-sounded language	adjective
+grandiose	imposing; impressive	adjective
+granulate	form into grains	verb
+graphic	pertaining to the art of delineating; vividly described	adjective
+grapple	wrestle; come to grips with	verb
+grate	make a harsh noise; have an unpleasant effect	verb
+gratify	please	verb
+gratis	free	adjective
+gratuitous	given freely; unwarranted	adjective
+gratuity	tip	noun
+gravity	seriousness	noun	*
+gregarious	sociable	adjective	*
+grievance	cause of complaint	noun
+grill	question severely	verb
+grimace	a facial distortion to show feeling such as pain, disgust, etc.	noun
+gristly	ghastly	adjective
+grouse	complain; fuss	verb
+grotesque	fantastic; comically hideous	adjective
+grotto	small cavern	noun
+grovel	crawl or creep on ground; remain prostrate	verb
+grudging	unwilling; reluctant; stingy	adjective
+gruel	liquid food made by boiling oatmeal, etc. in milk or water	verb
+grueling	exhausting	adjective
+gruesome	grisly	adjective
+gruff	rough-mannered	adjective
+guffaw	boisterous laughter	noun
+guile	deceit; duplicity	noun	*
+guileless	without deceit	adjective
+guise	appearance; costume	noun
+gullible	easily deceived	adjective
+gustatory	affecting the sense of taste	adjective
+gusto	enjoyment; enthusiasm	noun
+gusty	windy	adjective
+hackneyed	commonplace; trite	adjective	*
+haggard	wasted away; gaunt	adjective
+haggle	argue about prices	verb
+halcyon	calm; peaceful	adjective
+hale	healthy	adjective
+hallowed	blessed; consecrated	adjective
+hallucination	delusion	noun
+hamper	obstruct	verb	*
+hap	chance; luck	noun
+haphazard	random; by chance	adjective	*
+hapless	unfortunate	adjective
+harangue	noisy speech	noun
+harass	to annoy by repeated attacks	verb
+harbinger	forerunner	noun
+harbor	provide a refuge for; hide	verb
+hardy	sturdy; robust; able to stand inclement water	adjective	*
+harping	tiresome dwelling on a subject	noun
+harrow	break up ground after plowing; torture	verb
+harry	raid	verb
+haughtiness	pride; arrogance	noun	*
+hazardous	dangerous	adjective
+hazy	slightly obscure	adjective
+heckler	person who harasses others	noun
+hedonism	belief that pleasure is the sole aim of life	noun	*
+heed	pay attention to; consider	verb
+heedless	not noticing; disregarding	adjective
+heinous	atrocious; hatefully bad	adjective
+herbivorous	grain eating	adjective
+heresy	opinion contrary to popular belief; opinion contrary to accepted religion	noun	*
+heretic	person who maintains opinions contrary to the doctrines of the church	noun
+hermetically	sealed by fusion so as to be airtight	adjective
+hermitage	home of a hermit	noun
+herpetologist	one who studies reptiles	noun
+heterodox	unorthodox; unconventional	adjective
+heterogeneous	dissimilar	adjective
+hew	cut to pieces with ax or sword	verb
+heyday	time of greatest success; prime	noun
+hiatus	gap; pause	noun

@@ -1,0 +1,70 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 23
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+hibernal	wintry	adjective
+hibernate	sleep throughout the winter	verb
+hierarchy	body divided into ranks	noun
+hieroglyphic	picture writing	noun
+hilarity	boisterous mirth	noun
+hindmost	furthest behind	adjective
+hindrance	block; obstacle	noun
+hireling	one who serves for hire [usually used contemptuously]	noun
+hirsute	hairy	adjective
+histrionic	theatrical	adjective
+hoard	stockpile; accumulate for future use	verb
+hoary	white with age	adjective
+hoax	trick; practical joke	noun
+holocaust	destruction by fire	noun
+holster	pistol case	noun
+homage	honor; tribute	noun
+homespun	domestic; made at home	adjective
+homogeneous	of the same kind	adjective	*
+hone	sharpen	verb
+hoodwink	deceive; delude	verb
+horde	crowd	noun
+horticultural	pertaining to cultivation of gardens	adjective
+hovel	shack; small, wretched house	noun
+hover	hang about; wait nearby	verb
+hubbub	confused uproar	noun
+hue	color; aspect	noun
+humane	kind	adjective	*
+humdrum	dull; monotonous	adjective
+humid	damp	adjective
+humility	humbleness of spirit	noun
+humus	substance formed by decaying vegetable matter	noun
+hurtle	crash; rush	verb
+husbandry	frugality; thrift; agriculture	noun
+hybrid	mongrel; mixed breed	noun
+hydrophobia	rabies; fear of water	noun
+hyperbole	exaggeration; overstatement	noun
+hypercritical	excessively exacting	adjective
+hypochondriac	person unduly worried about his health; worrier without cause about illness	noun
+hypocritical	pertaining to be virtuous; deceiving	adjective	*
+hypothetical	based on assumptions or hypothesis	adjective
+ichthyology	study of fish	noun
+icon	religious image; idol	noun
+iconoclastic	attacking cherished traditions	adjective
+ideology	ideas of a group of people	noun
+idiom	special usage in language	noun
+idiosyncrasy	peculiarity; eccentricity	noun
+idiosyncratic	private; peculiar to an individual	adjective
+idolatry	worship of idols; excessive admiration	noun
+idyllic	charmingly carefree; simple	adjective
+igneous	produced by fire; volcanic	adjective
+ignoble	of lowly origin; unworthy	adjective
+ignominious	disgraceful	adjective
+illicit	illegal	adjective
+illimitable	infinite	adjective
+illuminate	brighten; clear up or make understandable	verb
+illusion	misleading vision	noun
+illusive	deceiving	adjective
+illusory	deceptive; not real	adjective
+imbalance	lack of balance or symmetry; disproportion	noun
+imbecility	weakness of mind	noun
+imbibe	drink in	verb

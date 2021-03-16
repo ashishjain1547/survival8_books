@@ -1,0 +1,79 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 17
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+encumber	burden	verb
+endearment	fond statement	noun
+endemic	prevailing among a specific group of people or in a specific area or country	adjective
+endorse	approve; support	verb	*
+endue	provide with some quality; endow	verb
+enduring	lasting; surviving	adjective
+energize	invigorate; make forceful and active	verb
+enervate	weaken	verb	*
+enfranchise	to admit to the rights of citizenship (especially the right to vote)	verb
+engaging	charming; attractive	adjective
+engender	cause; produce	verb	*
+engross	occupy fully	verb
+enhance	advance; improve	verb	*
+enigma	puzzle	noun	*
+enigmatic	obscure; puzzling	adjective
+enmity	ill will; hatred	noun	*
+ennui	boredom	noun
+enormity	hugeness (in a bad sense)	noun
+enrapture	please intensely	verb
+ensconce	settle comfortably	verb
+ensue	follow	verb
+enthrall	capture; enslave	verb
+entice	lure; attract; tempt	verb
+entity	real being	noun
+entomology	study of insects	noun
+entrance	put under a spell; carry away with emotion	verb
+entreat	plead; ask earnestly	verb
+entree	entrance; a way in	noun
+entrepreneur	businessman; contractor	noun
+enumerate	list; mention one by one	verb
+enunciate	speak distinctly	verb
+environ	enclose; surround	verb
+eon	long period of time; an age	noun
+ephemeral	short-lived; fleeting	adjective	*
+epic	long heroic poem or similar work of art	noun	*
+epicure	connoisseur of food and drink	noun
+epigram	witty thought or saying, usually short	noun
+epilogue	short speech at conclusion of dramatic work	noun
+episodic	loosely connected	adjective
+epitaph	inscription in memory of a dead person	noun
+epithet	a word or phrase characteristically used to describe a person or thing	noun
+epitome	summary; concise abstract	noun
+epoch	period of time	noun
+equable	tranquil; steady; uniform	adjective
+equanimity	calmness of temperament	noun
+equestrian	rider on horseback	noun
+equilibrium	balance	noun	*
+equine	resembling a horse	adjective
+equinox	period of equal days and nights	noun
+equitable	fair; impartial	adjective
+equity	fairness; justice	noun
+equivocal	doubtful; ambiguous	adjective	*
+equivocate	lie; mislead; attempt to conceal the truth	verb
+erode	eat away	verb
+erotic	pertaining to passionate love	adjective
+errant	wandering	adjective
+erratic	odd; unpredictable	adjective	*
+erroneous	mistaken; wrong	adjective	*
+erudite	learned; scholarly	adjective	*
+escapade	prank; flighty conduct	noun
+eschew	avoid	verb
+esoteric	known only to a chosen few	adjective	*
+espionage	spying	noun
+espouse	adopt; support	verb
+esteem	respect; value; judge	verb
+estranged	separated; alienated	adjective
+ethereal	light; heavenly; fine	adjective
+ethnic	relating to races	adjective
+ethnology	study of man	noun
+etymology	study of word parts	noun

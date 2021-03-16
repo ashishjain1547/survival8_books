@@ -1,0 +1,70 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 32
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+nauseate	cause to become sick; fill with disgust	verb
+nautical	pertaining to ships or navigation	adjective
+nave	main body of a church	noun
+nebulous	vague; hazy; cloudy	adjective
+necromancy	black magic; dealings with the dead	noun
+nefarious	very wicked	adjective
+negation	denial	noun
+negligence	carelessness	noun
+nemesis	revenging agent	noun
+neologism	new or newly coined word or phrase	noun
+neophyte	recent convert; beginner	noun
+nepotism	favoritism (to a relative)	noun
+nether	lower	adjective
+nettle	annoy; vex	verb
+neutral	impartial; not supporting one side over another	adjective
+nexus	connection	noun
+nib	beak; pen point	noun
+nicety	precision; minute distinction	noun
+niggardly	meanly stingy; parsimonious	adjective
+niggle	spend too much time on minor points; carp	verb
+nihilism	denial of traditional values; absolute skepticism	noun
+nirvana	in Buddhist teachings, the ideal state in which the individual loses himself in the attainment of impersonal beatitude	noun
+nocturnal	done at night	adjective
+noisome	foul smelling; unwholesome	adjective
+nomadic	wandering	adjective
+nomenclature	terminology; system of names	noun
+nominal	in name only; trifling	adjective
+nonchalance	indifference; lack of interest	noun
+noncommittal	neutral; unpledged; undecided	adjective
+nonentity	person of no importance; nonexistence	noun
+nonplus	bring to a halt confusion	verb
+nostalgia	homesickness; longing for the past	noun
+nostrum	questionable medicine	noun
+notoriety	disrepute; ill fame	noun	*
+novelty	something new; newness	noun	*
+novice	beginner	noun
+noxious	harmful	adjective
+nuance	shade of difference in meaning or color	noun
+nubile	marriageable	adjective
+nullify	to make invalid	noun	*
+numismatist	person who collects coins	noun
+nuptial	related to marriage	adjective
+nurture	bring up; feed; educate	verb	*
+nutrient	providing nourishment	adjective
+oaf	stupid; awkward person	noun
+obdurate	stubborn	adjective
+obelisk	tall column tapering and ending a pyramid	noun
+obese	fat	adjective
+obfuscate	confuse; muddle	verb
+obituary	death notice	adjective
+objective	not influenced by emotions; fair	adjective
+objective	goal; aim	noun
+obligatory	binding; required	adjective
+oblique	slanting; deviating from the perpendicular or from a straight line	adjective
+obliterate	destroy completely	verb	*
+oblivion	forgetfulness	noun	*
+obnoxious	offensive	adjective
+obscure	dark; vague; unclear	adjective
+obscure	darken; make unclear	verb
+obsequious	slavishly attentive; servile; sycophantic	adjective
+obsession	fixed idea; continued brooding	noun

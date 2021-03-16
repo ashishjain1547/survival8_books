@@ -1,0 +1,60 @@
+[HEADER]
+Category=TOEFL
+Description=Commonly Misused Words
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+[DATA]
+word	definition	part of speech
+angel	a spiritual or heavenly being	noun
+angle	a figure formed by two lines meeting at a common point	noun
+cite	quote as an example	verb
+site	location	noun
+sight	aim of a gun or telescope	noun
+sight	view	noun
+sight	see	verb
+costume	clothing; typical style of dress	noun
+custom	a practice that is traditionally followed by a particular group of people	noun
+decent	respectable or suitable	adjective
+descent	downward motion	noun
+descent	lineage	noun
+dessert	the final course of a meal, usually something sweet	noun
+desert	a hot, dry place	noun
+desert	abandon	verb
+later	a time in the future or following previous action	adverb
+latter	last of two things mentioned	adjective
+loose	opposite of tight	adjective
+lose	to be unable to find something	verb
+lose	opposite to win	verb
+passed	past tense of pass: to elapse	verb
+passed	past tense of pass: to go by or beyond	verb
+passed	past tense of pass: to succeed	verb
+past	a time or event before the present	adjective
+past	time before the present	noun
+peace	harmony or freedom from war	noun
+piece	part of a whole	noun
+principal	director of a secondary or elementary school	noun
+principal	main or most important	adjective
+principle	fundamental rule or adherence to such rule	noun
+quiet	serene, without noise	adjective
+quite	completely	adverb
+quite	somewhat or rather	adverb
+quit	stop	verb
+stationary	non-moveable, having a fixed location	adjective
+stationery	special writing paper	noun
+than	conjunction used in unequal comparisons	conjunction
+then	a time following a previously mentioned time	adverb
+their	plural possessive adjective	adjective
+there	location away from here	adverb
+there	used with the verb "be" to indicate existence	adverb
+they're	contraction of "they are"	pronoun
+to	toward; until; as far as	preposition
+two	number following one	noun
+too	excessively	adverb
+too	also	adverb
+weather	atmospheric conditions	noun
+whether	if, indicates a choice	conjunction
+whose	possessive relative pronoun	pronoun
+who's	contraction of "who is"	pronoun
+your	possessive of "you"	adjective
+you're	contraction of "you are"	pronoun

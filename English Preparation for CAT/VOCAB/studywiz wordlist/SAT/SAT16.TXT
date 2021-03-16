@@ -1,0 +1,78 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 16
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+duress	forcible restraint	noun
+dutiful	respectful; obedient	adjective
+dwindle	shrink; reduce	verb
+dynamic	active; efficient	adjective
+dyspeptic	suffering from indigestion	adjective
+earthy	unrefined; coarse	adjective
+ebb	recede; lessen	verb
+ebullient	showing excitement; overflowing with enthusiasm	adjective
+eccentric	odd; whimsical; irregular	adjective	*
+eccentricity	oddity; idiosyncrasy	noun
+ecclesiastic	pertaining to the church	adjective
+éclat	brilliance; glory	noun
+eclectic	selective in choosing from a variety of sources	adjective	*
+eclipse	darken; extinguish; surpass	verb
+ecologist	a person concerned with the interrelationship between living organisms and their environment	noun
+ecstasy	rapture; joy; any overflowing emotion	noun
+eddy	swirling current of water, air, etc.	noun
+edify	instruct; correct morally	verb
+eerie	weird	adjective
+efface	rub out	verb
+effectual	efficient	adjective
+effeminate	having womanly traits	adjective
+effervescent	exuberant; bubbly and excited	adjective	*
+effete	worn out; exhausted; barren	adjective
+efficacy	power to produce desired effect	noun
+effigy	dummy	noun
+efflorescent	flowering	adjective
+effluvium	noxious smell	noun
+effrontery	shameless boldness	noun
+effusive	pouring forth; gushing	adjective
+egoism	excessive interest in one's self; belief that one should be interested in one's self rather than in others	noun
+egotism	conceit; vanity	noun
+egregious	gross; shocking	adjective
+egress	exit	noun
+ejaculation	exclamation	noun
+elaboration	addition of details; intricacy	noun	*
+elated	overjoyed; in high spirits	adjective	*
+elegiacal	like in elegy; mournful	adjective
+elicit	draw out by discussion	verb
+elixir	cure-all; something invigorating	noun
+ellipsis	omission of words from a text	noun
+elliptical	oval; ambiguous, either purposely or because key words have been left out	adjective
+eloquence	expressiveness; persuasive speech	noun	*
+elucidate	explain; enlighten	verb
+elusive	evasive; baffling; hard to gasp	adjective	*
+elysian	relating to paradise; blissful	adjective
+emaciated	thin and wasted	adjective	*
+emanate	issue forth	verb
+emancipate	set free	verb
+embargo	ban on commerce or other activity	noun
+embark	commence; go on board a boat or airplane; begin a journey	verb
+embed	enclose; place in something	verb
+embellish	adorn	verb	*
+embezzlement	stealing	noun
+embroil	throw into confusion; involve in strife; entangle	verb
+embryonic	undeveloped; rudimentary	adjective	*
+emend	correct; correct by a critic	verb
+emendation	correction of errors; improvement	noun
+emetic	substance causing vomiting	noun
+eminent	high; lofty	adjective
+emissary	agent; messenger	noun
+emollient	soothing or softening remedy	noun
+empirical	based on experience	adjective
+emulate	rival; imitate	verb	*
+enamored	in love	adjective
+enclave	territory enclosed within an alien land	noun
+encomium	high praise; eulogy	noun
+encompass	surround	verb
+encroachment	gradual intrusion	noun

@@ -1,0 +1,76 @@
+[HEADER]
+Category=SAT 
+Description=Word List No. 27
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+invincible	unconquerable	adjective
+inviolability	security from being destroyed; corrupted or profaned	noun
+invoke	call upon; ask for	verb
+invulnerable	incapable of injury	adjective
+iota	very small quantity	noun
+irascible	irritable; easily angered	adjective	*
+irate	angry	adjective
+iridescent	exhibiting rainbowlike colors	adjective
+irksome	annoying; tedious	adjective
+ironic	resulting in unexpected and contrary manner	adjective	*
+irony	hidden sarcasm or satire; use of words that convey a meaning opposite to the literal meaning	noun
+irrational	illogical; lacking reason; insane	adjective
+irreconcilable	incompatible; not able to be resolved	adjective
+irrelevant	not applicable; unrelated	adjective
+irremediable	incurable; uncorrectable	adjective
+irreparable	not able to be corrected or repaired	adjective
+irrepressible	unable to be restrained or held back	adjective
+irresolute	uncertain how to act; weak	adjective	*
+irreverence	lack of proper aspect	noun	*
+irrevocable	unalterable	adjective
+isotope	varying form of an element	noun
+itinerant	wandering; traveling	adjective
+itinerary	plan of a trip	noun
+jaded	fatigued; surfeited	adjective
+jargon	language used by special group; gibberish	noun
+jaundiced	yellowed; prejudiced; envious	adjective
+jaunt	trip; short journey	noun
+jaunty	stylish; perky; carefree	adjective
+jeopardy	exposure to death or danger	noun
+jettison	throw overboard	verb
+jingoism	extremely aggressive and militant patriotism	noun
+jocose	given to joking	adjective
+jocular	said or done in jest	adjective
+jocund	merry	adjective
+jollity	gaiety; cheerfulness	noun
+jostle	shove; bump	verb
+jovial	good-natured; merry	adjective
+jubilation	rejoicing	noun
+judicious	sound in judgment; wise	adjective	*
+juggernaut	irresistible crashing force	noun
+juncture	crisis; joining point	noun
+junket	marry feast or picnic	noun
+junta	group of men joined by political intrigue; cabal	noun
+jurisprudence	science of law	noun
+juxtapose	place side by side	verb
+kaleidoscope	tube in which patterns made by the reflection in mirrors of colored pieces of glass, etc. produce interesting symmetrical effects	noun
+ken	range of knowledge	noun
+kindle	start a fire; inspire	verb	*
+kindred	related; belonging to the same family	adjective
+kinetic	producing motion	adjective
+kismet	fate	noun
+kith	familiar friends	noun
+kleptomaniac	person who has a convulsive desire to steal	noun
+knavery	rascality	noun
+knead	mix; work dough	verb
+knell	tolling of a bell at a funeral; sound of the funeral bell	noun
+knoll	little round hill	noun
+labyrinth	maze	noun
+lacerate	mangle; tear	verb
+lachrymose	producing tears	adjective
+lackadaisical	affectedly languid	adjective
+lackey	footman; toady	noun
+lackluster	dull	adjective
+laconic	brief and to the point	adjective	*
+laggard	slow; sluggish	adjective
+lagoon	shallow body of water near a sea; lake	noun
+laity	laymen; persons not connected with the clergy	noun

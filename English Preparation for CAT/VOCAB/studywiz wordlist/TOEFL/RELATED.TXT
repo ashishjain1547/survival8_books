@@ -1,0 +1,106 @@
+[HEADER]
+Category=TOEFL
+Description=Confusingly Related Words
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+[DATA]
+word	definition	part of speech
+accept	to take what is given	verb
+except	excluding or omitting a thing or person	preposition
+access	availability; way of gaining entrance	noun
+excess	abundant; superfluous	adjective
+excess	extra amount	noun
+advice	opinion given to someone, counseling	noun
+advise	act of giving an opinion or counsel	verb
+affect	to produce a change in	verb
+effect	end result of consequence	noun
+effect	to produce as a result	verb
+again	repetition of an action, one more time	adverb
+against	in opposition of someone or something	preposition
+against	next to; adjacent	preposition
+already	an action that happened at an indefinite time before the present	adverb
+all ready	prepared to do something	noun + adjective
+among	shows a relationship or selection involving three or more entities	preposition
+between	shows a relationship or selection involving only two entities	preposition
+beside	next to	preposition
+besides	in addition to; also; moreover	preposition
+aside	to one side	adverb
+compare	show similarities	verb
+contrast	show differences	verb
+consecutive	indicates an uninterrupted sequence	adjective
+successive	indicates a series of separate events	adjective
+considerable	rather large amount or degree	adjective
+considerate	thoughtful; polite	adjective
+credible	believable	adjective
+creditable	worthy of praise	adjective
+credulous	gullible	adjective
+detract	take away or lessen the value of person or thing	verb
+distract	cause a lack of mental concentration on what one is doing	verb
+device	an invention or plan	noun
+devise	invent; create; contrive	verb
+elicit	draw out; evoke	verb
+illicit	unlawful	adjective
+emigrant	one who leaves one's own country to live in another	noun
+immigrant	one who comes to a new country to settle	noun
+example	anything used to prove a point	noun
+sample	a representative part of a whole	noun
+formerly	previously	adverb
+formally	an elegant way of dressing, usually a tuxedo for men and a long gown for women	adverb
+formally	properly; officially	adverb
+hard	difficult	adjective
+hard	opposite of soft	adjective
+hardly	barely; scarcely	adverb
+helpless	unable to remedy(an animate thing is helpless)	adjective
+useless	worthless; unserviceable	adjective
+house	refers to the building or structure	noun
+home	refers to the atmosphere or feeling of domestic tranquillity found in the house	noun
+imaginary	something not real that exists in one's imagination	adjective
+imaginative	showing signs of great imagination	adjective
+immortal	incapable of dying	adjective
+immoral	against the moral law; bad, evil	adjective
+implicit	understood, but not specifically stated	adjective
+explicit	expressed in a clear and precise manner	adjective
+industrial	pertaining to industry	adjective
+industrious	diligent, hard working	adjective
+inflict	impose something unwelcome	verb
+afflict	cause physical or mental pain	verb
+inspiration	stimulation to learn or discover	noun
+aspiration	ambition; desire; goal	noun
+aspiration	expulsion of breath	noun
+intelligent	possessing a great deal of mental ability	adjective
+intelligible	clearly; easily understood	adjective
+intellectual	any person who possesses a great deal of knowledge	adjective
+intellectual	wise	adjective
+intense	extreme	adjective
+intensive	concentrated	adjective
+late	not punctual	adverb
+late	no longer living	adjective
+lately	recently	adverb
+learn	obtain knowledge	verb
+teach	impart knowledge	verb
+lend	give something for temporary use with the promise of returning it	verb
+loan	give something for temporary use with the promise of returning it	verb
+borrow	receive something for temporary use with the promise of returning it	verb
+liquefy	change to watery or liquid state	verb
+liquidate	eliminate; get rid of; change to cash	verb
+lonely	depressed feeling as a result of abandonment or being alone	adjective
+alone	physical state of solitude; unaccompanied	adjective
+near	used to indicate a place not too far distant	preposition
+nearly	almost	adverb
+observation	act of paying attention to or being paid attention	noun
+observance	act of following custom or ceremony	noun
+prosecute	torture; harass	verb
+prosecute	in legal terms, to bring suit against or enforce a law through a legal process	verb
+precede	to come before	verb
+proceed	continue an action after a rest period or interruption	verb
+quantity	used in non-count nouns to indicate amount; bulk	noun
+number	used with count nouns to designate individual amount	noun
+remember	to recall or think of again	verb
+remind	to cause (someone) to remember; to bring into (someone's) mind	verb
+sensible	having good judgment	adjective
+sensitive	excitable; touchy; easily affected by outside influences	adjective
+special	that which receives a lot of attention because of a distinct characteristic 	adjective
+especially	particularly	adverb
+use	act of putting into practice or service; application	noun
+usage	way in which something is used	noun

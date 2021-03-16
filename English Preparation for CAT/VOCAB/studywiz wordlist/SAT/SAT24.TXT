@@ -1,0 +1,80 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 24
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+immaculate	pure; spotless	adjective
+imminent	impeding; near at hand	adjective
+immobility	state of being immovable	noun
+immune	exempt	adjective
+immutable	unchangeable	adjective	*
+impair	worsen; diminish in value	verb	*
+impale	pierce	verb
+impalpable	imperceptible; intangible	adjective
+impartial	not biased; fair	adjective
+impasse	predicament from which there is no escape	noun
+impassive	without feeling; not affected by pain	adjective	*
+impeach	charge with crime in office; indict	verb
+impeccable	faultless	adjective
+impecunious	without money	adjective
+impede	hinder; block; delay	verb	*
+impediment	hindrance; stumbling block	noun
+impenetrable	not able to be pierced or entered; beyond understanding	adjective
+impending	nearing; approaching	adjective
+impenitent	not repentant	adjective
+imperial	like an emperor; related to an empire	adjective
+imperious	domineering	adjective
+impermeable	impervious; not permitting passage through its substance	adjective
+impertinent	insolent	adjective
+imperturbable	calm; placid	adjective
+impervious	not penetrable; not permitting passage through	adjective
+impetuous	violent; hasty; rash	adjective
+impetus	moving force	noun
+impiety	irreverence; wickedness	noun
+impinge	infringe; touch; collide with	verb
+impious	irreverent	adjective
+implacable	incapable of being pacified	adjective
+implausible	unlikely; unbelievable	adjective
+implement	put into effect; supply with tools	verb	*
+implication	that is hinted at or suggested	noun	*
+implicit	understood but not stated	adjective	*
+implore	beg	verb
+imply	suggest a meaning not expressed; signify	verb
+impolitic	not wise	adjective
+imponderable	weightless	adjective
+import	significance	noun
+importunate	urging; demanding	adjective
+importune	beg earnestly	verb
+impostor	someone who assumes false identity	noun
+impotent	weak; ineffective	adjective
+impoverished	poor	adjective
+impregnable	invulnerable	adjective
+impromptu	without previous preparation	adjective
+impropriety	state of being inappropriate	noun
+improvident	thriftless	adjective
+improvise	compose on the spur of the moment	verb
+imprudent	lacking caution; injudicious	adjective
+impugn	doubt; challenge; gainsay	verb
+impunity	freedom from punishment	noun
+impute	attribute; ascribe	verb
+inadvertently	carelessly; unintentionally	adjective	*
+inalienable	not to be taken away; nontransferable	adjective
+inane	silly; senseless	adjective	*
+inanimate	lifeless	adjective
+inarticulate	speechless; producing indistinct speech	adjective
+inaugurate	start; initiate; install at office	verb	*
+incandescent	strikingly bright; shining with intense heat	adjective
+incantation	singing or chanting of magic spells; magical formula	noun
+incapacitate	disable	verb
+incarcerate	imprison	verb
+incarnate	endowed with flesh; personified	adjective
+incarnation	act of assuming a human body and human nature	noun
+incendiary	arsonist	noun
+incense	enrage; infuriate	verb
+incentive	spur; motive	noun
+inception	start; beginning	noun
+incessant	uninterrupted	adjective	*

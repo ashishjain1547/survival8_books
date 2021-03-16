@@ -1,0 +1,76 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 31
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+misogamy	hatred of marriage	noun
+misogynist	hater of women	noun
+missile	object to be thrown or projected	noun
+missive	letter	noun
+mite	very small object or creature; small coin	noun
+mitigate	appease	verb	*
+mnemonic	pertaining to memory	adjective
+mobile	movable; not fixed	adjective
+mode	prevailing style	noun
+modicum	limited quantity	noun
+modish	fashionable	adjective
+modulation	toning down; changing from one key to another	noun
+mogul	powerful person	noun
+molecule	the smallest part of a homogeneous substance in chemistry	noun
+mollify	soothe	verb
+molt	shed or cast off hair of feathers	verb
+molten	melted	adjective
+momentous	very important	adjective
+momentum	quantity of motion of a moving body; impetus	noun
+monarchy	government under a single ruler	noun
+monastic	related to monks	adjective
+monetary	pertaining to money	adjective
+monolithic	solidly uniform; unyielding	adjective
+monotheism	belief in one God	noun
+monotony	sameness leading to boredom	noun
+monumental	massive	adjective
+moodiness	fits of depression or gloom	noun
+moor	marshy wasteland	noun
+moot	debatable	adjective
+moratorium	legal delay of payment	noun
+morbid	given to unwholesome thought; gloomy	adjective
+mordant	biting; sarcastic; stinging	adjective
+mores	customs	noun
+moribund	at the point of death	adjective
+morose	ill-humored; sullen	adjective	*
+mortician	undertaken	noun
+mortify	humiliate; punish to the flesh	verb
+mote	small speck	noun
+motif	theme	noun
+motley	parti-colored; mixed	adjective
+mottled	spotted	adjective
+mountebank	charlatan; boastful pretender	noun
+muddle	confuse; mix up	verb
+muggy	warm and damp	adjective
+mulct	defraud a person of something	verb
+multifarious	varied; greatly diversified	adjective
+multiform	having many forms	adjective
+multilingual	having many languages	adjective
+multiplicity	state of being numerous	noun
+mundane	worldly as opposed to spiritual	adjective	*
+munificent	very generous	adjective
+murkiness	darkness; gloom	noun
+muse	ponder	verb
+musky	having the odor of a musk	adjective
+muster	gather; assemble	verb
+musty	stale; spoiled by age	adjective
+mutable	changing in form; fickle	adjective
+muted	silent; muffled; toned down	adjective
+mutilate	maim	verb
+mutinous	unruly; rebellious	adjective
+myopic	nearsighted	adjective
+myriad	very large number	noun
+nadir	lowest point	noun
+naiveté	quality of being unsophisticated	noun
+narcissist	conceited person	noun
+nascent	incipient; coming into being	adjective
+natal	pertaining to birth	adjective

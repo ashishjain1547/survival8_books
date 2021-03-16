@@ -1,0 +1,81 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 09
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+champion	support militantly	verb	
+chaotic	in utter disorder	adjective	
+charisma	divine gift; great popular charm or appeal of a political leader	noun	
+charlatan	quack; pretender to knowledge	noun	
+chary	cautiously watchful	adjective	
+chasm	abyss	noun	
+chassis	framework and working parts of an automobile	noun	
+chaste	pure	adjective	
+chasten	discipline; punish in order to correct	verb	
+chastise	punish	verb	
+chattel	personal property	noun	
+chauvinist	blindly devoted patriot	noun	
+checkered	marked by changes in fortune	adjective	
+cherubic	angelic; innocent looking	adjective	
+chicanery	trickery	noun	
+chide	scold	verb	
+chimerical	fantastic; highly imaginative	adjective	
+chiropodist	one who treats disorders of the feet	noun	
+chivalrous	courteous; faithful; brave	adjective	
+choleric	hot-tempered	adjective	
+choreography	art of dancing	noun	
+chronic	long established as a disease	adjective	
+chronicle	report; record (in chronological order)	verb	
+churlish	boorish; rude	adjective	
+ciliated	having minute hairs	adjective	
+circlet	small ring; band	noun	
+circuitous	roundabout	adjective	
+circumlocution	indirect or roundabout expression	noun	
+circumscribe	limit; confine	verb	
+circumspect	prudent; cautious	adjective	
+circumvent	outwit; baffle	verb	
+citadel	fortress	noun	
+cite	quote; command	verb	
+civil	having to do with citizens or the state; courteous and polite	adjective	
+clairvoyant	having foresight	adjective	
+clairvoyant	fortuneteller	noun	
+clamber	climb by crawling	verb	
+clamor	noise	noun	
+clandestine	secret	adjective	
+clangor	loud, resounding noise	noun	
+clarion	shrill, trumpetlike sound	noun	
+claustrophobia	fear of being locked in	noun	
+clavicle	collarbone	noun	
+cleave	split asunder	verb	
+cleft	split	noun	
+clemency	disposition to be lenient; mildness, as of the weather	noun	*
+cliché	phrase dulled in meaning by repetition	noun	
+clientele	body of customers	noun	
+climactic	relating to the highest point	adjective	
+clime	region; climate	noun	
+clique	small excessive group	noun	
+cloister	monastery or convent	noun	
+cloven	split	adjective	
+coagulate	thicken; congeal; clot	verb	
+coalesce	combine; fuse	verb	
+coddle	to treat gently	verb	
+codicil	supplement to the body of a will	noun	
+codify	to arrange (laws, rules) as a code; classify	verb	
+coercion	use of force to get someone's compliance	noun	*
+coeval	living as the same time as; contemporary	adjective	
+cog	tooth protecting from a wheel	noun	
+cogent	convincing	adjective	
+cogitate	think over	verb	
+cognate	allied by blood; of the same or kindred nature	adjective	
+cognitive	having to do with knowing or perceiving	adjective	
+cognizance	knowledge	noun	
+cognomen	family name	noun	
+cohere	stick together	verb	
+cohesion	force keeps parts together	noun	
+coiffure	hairstyle	noun	
+coincident	occurring at the same time	adjective	
+colander	utensil with perforated bottom used for straining	noun	

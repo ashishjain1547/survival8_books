@@ -1,0 +1,77 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 03
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+amenities	convenient features; courtesies	noun	
+amiable	agreeable; lovable	adjective	
+amicable	friendly	adjective	
+amiss	wrong; faulty	adjective	
+amity	friendship	noun	
+amnesia	loss of memory	noun	
+amnesty	pardon	noun	
+amoral	nonmoral	adjective	
+amorous	moved by sexual love; loving	adjective	
+amorphous	shapeless	adjective	
+amphibian	able to live both on land and in water	adjective	
+amphitheater	oval building with tiers of seats	noun	
+ample	abundant	adjective	
+amplify	enlarge	verb	
+amputate	cut off part of body; prune	verb	
+amuck	in a state of rage	adjective	
+amulet	charm; talisman	noun	
+anachronism	an error involving time in a story	noun	
+analgesic	causing insensitivity to pain	adjective	
+analogous	comparable	adjective	
+analogy	similarity; parallelism	noun	
+anarchist	person who rebels against the established order	noun	*
+anarchy	absence of governing body, state of disorder	noun	
+anathema	solemn curse	noun	
+anchor	secure or fasten firmly	verb	
+ancillary	serving as an aid or accessory, auxiliary	adjective	
+anecdote	short discount of an amusing or interesting event	noun	
+anemia	condition in which blood lacks red corpuscles	noun	
+anesthetic	substance that removes sensation with or without loss of consciousness	noun	
+anguish	acute pain; extreme suffering	noun	
+angular	sharp-cornered; stuff in manner	adjective	
+animated	lively	adjective	
+animosity	active enmity; hatred	noun	*
+animus	hostile feeling or intent	noun	
+annals	records; history	noun	
+annihilate	destroy	verb	
+annotate	comment; make explanatory notes	verb	
+annuity	yearly allowance	noun	
+annul	make void	verb	
+anomalous	abnormal; irregular	adjective	
+anomaly	irregularity	noun	
+anonymity	state of being nameless; anonimousness	noun	
+anonymous	having no name	adjective	
+antagonistic	hostile; opposed; actively resisting	adjective	*
+antecede	precede	verb	
+antecedents	preceding events or circumstances that influence what comes later; early life; ancestors	noun	
+antediluvian	antiquated; ancient	adjective	
+anthropoid	manlike	adjective	
+anthropologist	a student of the history and science of mankind	noun	
+anthropomorphic	having human form or characteristics	adjective	
+anticlimax	letdown of thought or emotion	noun	
+antipathy	aversion; dislike	noun	
+antiquated	old-fashioned; obsolete	adjective	*
+antiseptic	substance that prevents infection	noun	
+antithesis	contrast; direct opposite of or to	noun	*
+apathy	lack of caring; indifference	noun	*
+ape	intimate or mimic	verb	
+aperture	opening; hole	noun	
+apex	tip; summit; climax	noun	
+aphasia	loss of speech due to injury or illness	noun	
+aphorism	pithy maxim	noun	
+apiary	a place where bees are kept	noun	
+aplomb	poise	verb	
+apocalyptic	prophetic; pertaining to revelations	adjective	
+apocryphal	untrue; made up	adjective	
+apogee	highest point	noun	
+apoplexy	stroke; loss of consciousness followed by paralysis	noun	
+apostate	one who abandons his religious faith or political beliefs	noun

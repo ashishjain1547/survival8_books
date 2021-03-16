@@ -1,0 +1,81 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 25
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+inchoate	recently begun; rudimentary; elementary	adjective
+incidence	rate of occurrence; particular occurrence	noun
+incidental	not essential; minor	adjective	*
+incipient	beginning; in an early stage	adjective
+incisive	cutting; sharp	adjective	*
+incite	arouse to action	verb	*
+inclement	stormy; unkind	adjective
+incline	slope; slant	noun
+inclined	tending or leaning toward; bent	adjective
+inclusive	tending to include all	adjective	*
+incognito	with identity concealed; using an assumed name	adjective
+incoherent	unintelligible; muddled; illogical	adjective
+incommodious	not spacious	adjective
+incompatible	inharmonious	adjective
+incongruous	not fitting; absurd	adjective	*
+inconsequential	of trifling significance	adjective	*
+incontinent	lacking self-restraint; licentious	adjective
+incontrovertible	indisputable	adjective	*
+incorporeal	immaterial; without a material body	adjective
+incorrigible	uncorrectable	adjective	*
+incredulity	tendency to disbelief	noun
+incredulous	withholding belief; skeptical	adjective
+increment	increase	noun
+incriminate	accuse	verb
+incubate	hatch; scheme	verb
+incumbent	officeholder	noun
+incur	bring upon oneself	verb
+incursion	temporary invasion	noun
+indefatigable	tireless	adjective
+indemnify	make secure against loss; compensate loss	verb
+indenture	bind as a servant or apprentice to master	verb
+indicative	suggestive; implying	adjective
+indict	charge	verb	*
+indifferent	unmoved; lacking concern	adjective	*
+indigenous	native	adjective
+indigent	poor	adjective
+indignation	anger at an injustice	noun
+indignity	offensive or insulting treatment	noun
+indiscriminate	choosing at random; confused	adjective	*
+indisputable	too certain to be disputed	adjective
+indissoluble	permanent	adjective
+indolent	lazy	adjective	*
+indomitable	unconquerable	adjective
+indubitably	beyond a doubt	adverb
+induce	persuade; bring about	verb	*
+inductive	pertaining to induction or proceeding from the specific to the general	adjective
+indulgent	humoring; yielding; lenient	adjective	*
+inebriety	habitual intoxication	verb
+ineffable	unutterable; cannot be expressed in speech	adjective
+ineffectual	not effective; weak	adjective
+inept	unsuited; absurd; incompetent	adjective
+inequity	unfairness	noun
+inert	inactive; lacking power to move	adjective	*
+inertia	state of being inert or indisposed to move	noun
+inevitable	unavoidable	adjective
+inexorable	relentless; unyielding; implacable	adjective
+infallible	unerring	adjective
+infamous	notoriously bad	adjective	*
+infantile	childish; infantile	adjective
+infer	deduce; conclude	verb	*
+inference	conclusion drawn from data	noun
+infernal	pertaining to hell; devilish	adjective
+informal	lacking ceremony; casual	adjective
+infidel	unbeliever	noun
+infiltrate	pass into or through; penetrate (an organization) sneakily	verb	*
+infinitesimal	very small	adjective
+infirmity	weakness	noun
+inflated	exaggerated	adjective
+influx	flowing into	noun
+infraction	violation	noun
+infringe	violate; encroach	verb
+ingenious	clever	adjective

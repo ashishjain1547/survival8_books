@@ -1,0 +1,57 @@
+[HEADER]
+Category=TOEFL
+Description=Verbal Idioms
+PrimaryField=1
+SecondaryField=2
+AdditionalField=3
+[DATA]
+word	definition	example
+break off	end	As a result of the recent, unprovoked attack, the two countries {broke off} their diplomatic relations.
+bring up	raise, initiate	The country commissioner {brought up} the heated issue of restricting on-street parking.
+call on	ask	The teacher {called on} James to write the equation on the blackboard.
+call on	visit	The new minister {called on} each of the families of his church in order to become better acquainted with them.
+care for	like	Because Marita doesn't {care for} dark colors, she buys only brightly colored clothes.
+care for	look after	My neighbors asked me to {care for} their children after school.
+check out	borrow books, etc., from a library	I went to the library and {checked out} thirty books last night for my research paper.
+check out	investigate	The photocopy machine is not working properly. Could you {check out} the problem?
+check out of	leave	We were told that we had to {check out of} the hotel before one o'clock, or else we would have to pay another day.
+check up on	investigate	The insurance company decided to {check up on} his driving record before insuring him.
+close in on	draw nearer, approach	In his hallucinatory state, the addict felt that the walls were {closing in on} him.
+come along with	accompany	June {came along with} her supervisor to the budget meeting.
+come down with	become ill with	During the summer, many people {come down with} intestinal disorders
+count on	depend on, rely on	Maria was {counting on} the grant money to pay her through graduate school.
+do away with	eliminate, get rid of	Because of the increasing number of problems created after the football games, the director has decided to {do away with} all sports activities.
+draw up	write, draft (such as plans or contracts)	A new advertising contract was {drawn up} after the terms had been decided.
+drop out of	quit, withdraw from	The organization has done a great deal to prevent young people from {dropping out of} school.
+figure out	solve, decipher, interpret, understand	After failing to {figure out} his income tax return, Hal decided to see an accountant.
+find out	discover	Erin just found {found out} that her ancestors had come from Scotland, not Ireland.
+get by	manage to survive	Despite the high cost of living, we will {get by} on my salary.
+get through	finish	Jerry called for an earlier appointment because he {got through} with his project sooner than he had expected.
+get through	manage to communicate	It is difficult to {get through} to someone who doesn't understand your language.
+get up	arise	Pete usually {gets up} early in the morning, but this morning he overslept.
+get up	organize	Paul is trying to {get up} a group of square dancers to go to Switzerland
+give up	stop, cease	Helen {gave up} working for the company because she felt that the employees were not treated fairly.
+go along with	agree	Mr. Robbins always {goes along with} anything his employer wants to do.
+hold on to	gasp, maintain	Despite moving to the Western world, Mariko {held on to} her Oriental ways.
+hold up	rob at gunpoint	The convenience store was {held up} last night.
+hold up	endure or withstand pressure or use	Mrs. Jones {held up} very well after her husband's death.
+hold up	stop	Last night's freeway traffic {held up} rush hour traffic for two hours.
+keep on	continue	I {keep up} urging Rita to practice the violin, but she doesn't heed my advice.
+look after	care for	After my aunt had died, her lawyer {looked after} my uncle's financial affairs.
+look into	investigate	Lynnette is {looking into} the possibility of opening a drugstore in Dallas as well as in Fort Worth.
+pass out	distribute	The political candidate {passed out} campaign literature to her coworkers.
+pass out	faint	The intense heat in the garden caused Maria to {pass out}.
+pick out	select, choose	The judges were asked to {pick out} the essays that showed the most originality.
+point out	indicate	Being a professional writer, Janos helped us by {pointing out} problems in our style.
+put off	postpone	Because Brian was a poor correspondent, he {put off} answering his letters.
+run across	discover	While rummaging through some old boxes in the attic, I {ran across} my grandmother's wedding dress.
+run into	meet by accident	When Jack was in New York, he {ran into} an old friend at the theater.
+see about	consider, attend to	My neighbor is going to {see about} getting tickets for next Saturday's football game.
+take off	leave the ground to fly	Our flight to Toronto {took off} on schedule.
+take over for	substitute	Marie had a class this afternoon, so Janet {took over for} her.
+talk over	discuss	The committee is {talking over} the plans for the homecoming dance and banquet.
+try out	test	General Mills asked us to {try out} their new product.
+try out	audition for a play	Marguerite plans to {try out} for the lead in the new musical.
+turn in	submit	The students {turned in} their term papers on Monday.
+turn in	go to bed	After a long hard day, we decided to {turn in} early.
+watch out for	be cautious or alert	While driving through that development, we had to {watch out for} the little children playing in the street.

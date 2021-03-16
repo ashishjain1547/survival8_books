@@ -1,0 +1,81 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 11
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+conglomeration	mass of material sticking together	noun
+congruence	correspondence of parts; harmonious relationship	noun
+conifer	pine tree; cone-bearing tree	noun
+conjecture	surmise; guess	noun
+conjugal	pertaining to marriage	adjective
+conjure	summon a devil; practice magic; imagine; invent	verb
+connivance	pretense of ignorance of something wrong; assistance; permission to offend	noun
+connoisseur	person competent to act as a judge of art, etc.; a lover of an art	noun
+connotation	suggested or implied meaning of an expression	noun
+connubial	pertaining to marriage or the matrimonial state	adjective
+consanguinity	kinship	noun
+conscientious	scrupulous; careful	adjective
+consecrate	dedicate; sanctify	verb
+consequential	pompous; important; self-important	adjective
+consign	deliver officially; entrust; set apart	verb
+consistency	absence of contradictions; dependability; uniformity	noun
+console	lessen sadness or disappointment; give comfort	verb
+consonance	harmony; agreement	noun
+consort	associate with	verb
+consort	husband or wife	noun
+conspicuous	easily seen; noticeable; striking	adjective
+conspiracy	treacherous plot	noun
+constituent	supporter	noun
+constraint	compulsion; repression of feelings	noun
+construe	explain; interpret	verb
+consummate	compete	adjective
+contagion	infection	noun
+contaminate	pollute	verb
+contemporary	person belonging to the same period	noun
+contempt	scorn; disdain	noun
+contend	struggle; compete; assert earnestly	verb	*
+contentious	quarrelsome	adjective	*
+contest	dispute	verb
+context	writings preceding and following the passage quoted	noun
+contiguous	adjacent to; touching upon	adjective
+continence	self-restraint; sexual chastity 	noun
+contingent	conditional	adjective
+contortions	twistings ; distortions	noun
+contraband	illegal trade; smuggling	noun
+contract	compress or shrink; make a pledge; catch a disease	verb	*
+contravene	contradict; infringe on	verb
+contrite	penitent	adjective	*
+contrived	forced; artificial; not spontaneous	adjective
+controvert 	oppose with arguments; contradict	verb
+confusion	bruise	noun
+conundrum 	riddle	noun
+convene	assemble	verb
+converge	come together	verb	*
+conversant	familiar with	adjective
+converse	opposite	noun
+convex	curving outward	adjective
+conveyance	vehicle; transfer	noun
+conviction	strongly held belief	noun	*
+convivial	festive; gay; characterized by joviality	adjective
+convoke	call together	verb
+convoluted	coiled around	adjective
+copious	plentiful	adjective
+coquette	flirt	noun
+cordial	gracious; heartfelt	adjective	*
+cordon	extended line of men or fortifications to prevent access or egress	noun
+cornice	protecting molding on building (usually above columns)	noun
+corollary	consequence; accompaniment	noun
+corporeal	bodily; material	adjective
+corpulent	very fat	adjective
+correlation	mutual relationship	noun
+corroborate	confirm	verb	*
+corrosive	eating away by chemicals or disease	adjective
+corrugated	wrinkled, ridged	adjective
+cosmic	pertaining to outer space	adjective
+coterie	group that meets socially; select circle	noun
+countenance	approve; tolerate	verb
+countermand	cancel; revoke	verb

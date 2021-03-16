@@ -1,0 +1,83 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 15
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+dishearten	discourage; cause to lose courage or hope	verb
+disheveled	untidy	adjective
+disinclination	unwillingness	noun	*
+disingenuous	not native; sophisticated	adjective
+disinter	dig up; unearth	verb
+disinterested	unprejudiced	adjective
+disjointed	disconnected	adjective
+dismantle	take apart	verb
+dismember	cut into small parts	verb
+dismiss	put away from consideration; reject	verb
+disparage	belittle	verb	*
+disparate	basically different; unrelated	adjective
+disparity	difference; condition of inequality	noun	*
+dispassionate	calm; impartial	adjective	*
+dispatch	speediness; prompt execution; message sent with all due speed	noun
+dispel	scatter; drive away; cause to vanish	verb
+disperse	scatter	verb	*
+dispirited	lacking in spirit	adjective
+disputatious	argumentative; fond of argument	adjective	*
+disquisition	formal systematic inquiry; an explanation of the results of a formal inquiry	noun
+dissection	analysis; cutting apart in order to examine	noun
+dissemble	disguise; pretend	verb
+disseminate	scatter (like seeds)	verb	*
+dissent	disagree	verb	*
+dissertation	formal essay	noun
+dissimulate	pretend; conceal by feigning 	verb
+dissipate	squander	verb
+dissolute	loose in morals	adjective
+dissonance	discord	noun	*
+dissuade	advise against	verb
+distant	reserved or aloof; cold in manner	adjective
+distend	expand; swell out	verb	*
+distill	extract the essence; purify; refine	verb
+distortion	twisting out of shape	noun
+distrait	absentminded	adjective
+distraught	upset; distracted by anxiety	adjective
+diurnal	daily	adjective
+diva	operatic singer; prima donna	noun
+diverge	vary; go in different directions from the same point	verb
+divergent	differing; deviating	adjective	*
+divers	several; differing	adjective
+diverse	differing in some characteristics; various	adjective
+diversion	act of turning aside; pastime	noun
+diversity	variety; dissimilitude	noun
+divest	strip; deprive	verb
+divulge	reveal	verb
+docile	obedient; easily managed	adjective
+docket	program as for trial; book where such entries are made	noun
+doctrinaire	unable to compromise about points of doctrine; dogmatic; unyielding	adjective
+document	provide written evidence	verb	*
+doddering	shaky; infirm from old age	adjective
+doff	take off	verb
+dogged	determined; stubborn	adjective
+doggerel	poor verse	noun
+dogmatic	positive; arbitrary	adjective	*
+doldrums	blues; listlessness; slack period	noun
+dolorous	sorrowful	adjective
+dolt	stupid person	noun
+domicile	home	noun
+domineer	rule over tyrannically	verb
+dormant	sleeping; lethargic; torpid	adjective
+dorsal	relating to the back of an animal	adjective
+dour	sullen; stubborn	adjective
+douse	plunge into water; drench; extinguish	verb
+dowdy	slovenly; untidy	adjective
+dregs	sediment; worthless residue	noun
+droll	queer and amusing	adjective
+drone	idle person; male bee	noun
+drone	talk dully; buzz or murmur like a bee	verb
+dross	waste matter; worthless impurities	noun
+drudgery	menial work	noun
+dubious	doubtful	adjective	*
+duenna	attendant or young female; chaperone	noun
+duplicity	double dealing; hypocrisy	noun	*

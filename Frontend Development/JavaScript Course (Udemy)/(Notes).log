@@ -1,0 +1,228 @@
+
+URL: https://www.udemy.com/understand-javascript/learn/v4/overview
+
+Section: 1
+5 / 5
+Getting Started
+1. Introduction and The Goal of This Course
+4:56
+2. Setup
+3:27
+3. Big Words and Javascript
+1:25
+4. Watching this Course in High Definition
+0:00
+5. Understanding, Frameworks, and The Weird Parts
+4:17
+Section: 2
+5 / 13
+Execution Contexts and Lexical Environments
+6. Conceptual Aside: Syntax Parsers, Execution Contexts, and Lexical Environments
+7:35
+7. Conceptual Aside: Name/Value Pairs and Objects
+4:08
+8. Downloading Source Code for This Course
+0:00
+9. The Global Environment and The Global Object
+10:58
+ B3 Global Environment
+10. The Execution Context - Creation and Hoisting
+9:43
+ B4 Hoisting
+11. Conceptual Aside: Javascript and 'undefined'
+8:04
+ B5 Undefined
+12. The Execution Context - Code Execution
+2:54
+ B6 Execution
+13. Conceptual Aside: Single Threaded, Synchronous Execution
+2:16
+14. Function Invocation and the Execution Stack
+8:06
+ B6 Execution
+15. Functions, Context, and Variable Environments
+7:56
+ B9 Variable Environments
+16. The Scope Chain
+17:25
+ B10 Scope Chain
+17. Scope, ES6, and let
+4:18
+18. What About Asynchronous Callbacks?
+10:26
+ B11 What About Asynchronous Callbacks
+Section: 3
+0 / 11
+Types and Operators
+19. Conceptual Aside: Types and Javascript
+2:50
+20. Primitive Types
+5:17
+21. Conceptual Aside: Operators
+6:32
+22. Operator Precedence and Associativity	14:14 (Operator Precedence In Javascript.pdf)
+23. Operator Precedence and Associativity Table	0:00	- Done
+
+24. Conceptual Aside: Coercion 6:14
+25. Comparison Operators 19:42 (Equalty Comparison And Sameness.pdf)	- Done
+
+26. Equality Comparisons Table 0:00
+
+27. Existence and Booleans
+7:24
+ C8 Booleans Existence
+28. Default Values
+7:51
+ C9 Default Values
+29. Framework Aside: Default Values
+7:11
+Section: 4
+5 / 23
+Objects and Functions
+30. Objects and the Dot
+15:23
+ D1 Objects And The Dot
+31. Objects and Object Literals
+10:32
+ D2 Object Literals
+32. Framework Aside: Faking Namespaces
+8:07
+ D3 Faking Namespaces
+33. JSON and Object Literals
+7:17
+ D4 JSON
+34. Functions are Objects
+8:02
+ D5 Functions Are Objects
+35. Function Statements and Function Expressions
+20:32
+ D6 Function Expressions
+36. Conceptual Aside: By Value vs By Reference
+16:09
+ D6b By Value By Reference
+37. Objects, Functions, and 'this'
+21:26
+ D7 Object Functions And This
+38. Conceptual Aside: Arrays - Collections of Anything
+5:39
+ D7b Arrays Collections Of Anything
+39. 'arguments' and spread
+12:00
+ D8 Arguments
+40. Framework Aside: Function Overloading
+4:43
+ D9 Function Overloading
+41. Conceptual Aside: Syntax Parsers
+2:25
+42. Dangerous Aside: Automatic Semicolon Insertion
+5:46
+ D11 Automatic Semicolon Insertion
+43. Framework Aside: Whitespace
+4:25
+ D12 Whitespace
+44. Immediately Invoked Functions Expressions (IIFEs)
+17:07
+ D14 IIF Es
+45. Framework Aside: IIFEs and Safe Code
+8:05
+ D15 IIF Es And Safe Code
+46. Understanding Closures
+11:09
+ D16 Closures
+47. Understanding Closures - Part 2
+19:20
+ D16b Closures Part 2
+48. Framework Aside: Function Factories
+12:24
+ D17 Function Factories
+49. Closures and Callbacks
+8:26
+ D18 Closures And Callbacks
+50. call(), apply(), and bind() # 20:54 # D19 Call Apply Bind # Done
+
+51. Functional Programming
+20:17
+ D20 Functional Programming
+52. Functional Programming - Part 2
+8:05
+ D20b Functional Programming Part 2
+Section: 5
+0 / 4
+Object-Oriented Javascript and Prototypal Inheritance
+53. Conceptual Aside: Classical vs Prototypal Inheritance
+5:11
+54. Understanding the Prototype
+14:02
+ E2 Understanding The Prototype
+55. Everything is an Object (or a primitive)
+5:46
+56. Reflection and Extend
+14:59
+ E4 Reflection And Extend
+Section: 6
+0 / 8
+Building Objects
+57. Function Constructors, 'new', and the History of Javascript
+15:53
+ F1 Function Constructors New History
+58. Function Constructors and '.prototype' # 10:24 # F2 Function Constructors And Prototype # Done
+59. Dangerous Aside: 'new' and functions
+4:16
+60. Conceptual Aside: Built-In Function Constructors
+10:32
+ F4 Built In Function Constructors
+61. Dangerous Aside: Built-In Function Constructors
+3:57
+62. Dangerous Aside: Arrays and for..in
+3:16
+63. Object.create and Pure Prototypal Inheritance
+12:37
+ F7 Object Create And Prototypal
+64. ES6 and Classes # 6:27 # Done
+
+Section: 7 # 0/4 # Odds and Ends
+
+65. Initialization
+5:41
+ H1 Initialization
+66. 'typeof' , 'instanceof', and Figuring Out What Something Is
+6:41
+ H2 Typeofinstanceof
+67. Strict Mode
+5:51
+ H3 Strictmode
+68. Strict Mode Reference
+0:00
+
+Section: 8 # 0 / 4 # Examining Famous Frameworks and Libraries
+
+69. Learning From Other's Good Code 3:51
+70. Deep Dive into Source Code: jQuery - Part 1 # 21:31 # I2 Deep Dive J Query
+71. Deep Dive into Source Code: jQuery - Part 2 # 15:38
+72. Deep Dive into Source Code: jQuery - Part 3 # 11:22
+
+Section: 9 # 0/8 # Let's Build a Framework / Library!
+
+73. Requirements # 2:57
+74. Structuring Safe Code # 3:07 # J2 Structuring Safe Code
+75. Our Object and Its Prototype # 9:17 # J3 Our Object And Prototype
+76. Properties and Chainable Methods # 16:58 # J4 Properties And Chainable Methods
+77. Adding jQuery Support # 5:22 # J5 Adding J Query Support
+78. Good Commenting # 2:21 # J6 Good Commenting
+79. Let's Use Our Framework # 8:11 # J7 Lets Use Our Framework
+80. A Side Note # 0:32
+
+Section: 10 # 2 / 2 # BONUS Lectures
+
+81. TypeScript, ES6, and Transpiled Languages # 4:33
+82. Transpiled Languages References # 0:00
+
+Section: 11 # 2 / 2 # BONUS: Getting Ready for ECMAScript 6
+83. Existing and Upcoming Features # 0:54
+84. ES6 Features Reference
+0:00
+Section: 12
+1 / 1
+Conclusion
+85. Learning to Love the Weird Parts
+1:14

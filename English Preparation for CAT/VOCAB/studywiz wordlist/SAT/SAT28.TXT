@@ -1,0 +1,74 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 28
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+lament	grieve; express sorrow	verb	*
+lampoon	ridicule	verb
+languid	weary; sluggish; listless	adjective
+languish	lose animation; lose strength	verb	*
+languor	lassitude; depression	noun
+lank	long and thin	adjective
+larceny	theft	noun
+largess	generous gift	noun
+lascivious	lustful	adjective
+lassitude	languor; weariness	noun
+latent	dormant; hidden	adjective
+lateral	coming from the side	adjective
+latitude	freedom from narrow limitations	noun
+laud	praise	verb	*
+lavish	liberal; wasteful	adjective
+lax	careless	adjective
+leaven	cause to rise or grow lighter; enliven	verb
+lechery	lustfulness; impurity in thought and deed	noun
+lectern	reading desk	noun
+leeway	room to move; margin	noun
+legacy	gift made by a will	noun	*
+legend	explanatory list of symbols on a map	noun
+legerdemain	sleight of hand	noun
+leniency	mildness; permissiveness	noun
+leonine	like a lion	noun
+lethal	deadly	adjective
+lethargic	drowsy; dull	adjective	*
+levity	lightness	noun	*
+levy	impose (a fine); collect (a payment)	verb
+lewd	lustful	adjective
+lexicographer	compiler of a dictionary	noun
+lexicon	dictionary	noun
+liability	drawback; debts	noun
+liaison	officer who acts as go-between for two armies	noun
+libelous	defamatory; injurious to the good name of a person	adjective
+libidinous	lust full	adjective
+libido	emotional urges behind human activity	noun
+libretto	text of an opera	noun
+licentious	wanton; lewd; dissolute	adjective
+lieu	instead of	noun
+Lilliputian	extremely small	adjective
+limber	flexible	adjective
+limbo	region near heaven or hell where certain souls are kept; a prison [slang]	noun
+limpid	clear	adjective
+lineage	descent; ancestry	noun
+lineaments	features of the face	noun
+linguistic	pertaining to language	adjective
+lionize	treat as celebrity	verb
+liquidate	settle accounts; clear up	verb
+list	tilt; lean over	verb
+listless	lacking in spirit or energy	adjective	*
+litany	supplicatory prayer	noun
+lithe	flexible; supple	adjective
+litigation	lawsuit	noun
+livid	lead-colored; black and blue; enraged	adjective
+loath	averse; reluctant	adjective
+loathe	detest	verb
+lode	metal-bearing vein	noun
+lofty	very high	adjective	*
+loiter	hang around; linger	verb
+loll	lounge about	verb
+longevity	long life	noun
+lope	gallop softly	verb
+loquacious	talkative	adjective
+lout	clumsy person	noun

@@ -1,0 +1,69 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 34
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+paean	song of praise or joy	noun	
+painstaking	showing hard work; taking great care	adjective	
+palatable	agreeable; pleasing to the taste	adjective	
+palatial	magnificent	adjective	
+paleontology	study of prehistoric life	noun	
+palette	board on which painter mixes pigments	noun	
+pall	grow tiresome	verb	
+pallet	small, poor bed	noun	
+palliate	ease pain; make less severe or offensive	verb	
+pallid	pale; wan	adjective	
+palpable	tangible; easily perceptible	adjective	
+palpitate	throb; flutter	verb	
+paltry	insignificant; petty	adjective	
+panacea	cure-all; remedy for all diseases	noun	
+panache	flair; flamboyance	noun	
+pandemic	widespread; affecting the majority of people	adjective	
+pandemonium	wild tumult	noun	
+pander	cater to the low desires of others	verb	
+panegyric	formal praise	noun	
+panorama	comprehensive view; unobstructed view in all directions	noun	
+pantomime	acting without dialogue	noun	
+papyrus	ancient paper made from stem of papyrus plant	noun	
+parable	short, simple story teaching a moral	noun	
+paradigm	model; example; pattern	noun	
+paradox	statement that looks false but is actually correct	noun	
+paragon	model of reflection	noun	
+parallelism	state of being parallel; similarity	noun	
+parameter	limits; independent variable	noun	
+paranoia	chronic form of insanity marked by delusions	noun	
+paranoiac	mentally unsound person suffering from delusions	noun	
+paraphernalia	equipment; odds and ends	noun	
+paraphrase	restate a passage in one's own words while retaining the thought of the author	verb	
+parasite	animal or plant living on another; toady; sycophant	noun	
+parched	extremely dry; very thirsty	adjective	
+pariah	social outcast	noun	
+parity	equality; close resemblance	noun	
+parley	conference	noun	
+parochial	narrow in outlook; provincial; related to parishes	adjective	
+parody	humorous imitation; travesty	noun	*
+paroxysm	fit or attack of pain, laughter, rage	noun	
+parry	ward off a blow	verb	
+parsimonious	stingy; excessively frugal	adjective	
+partial	incomplete; biased; having a liking for something	adjective	
+partiality	inclination; bias	noun	
+partisan	one-sided; prejudiced; committed to a party	noun	*
+parvenu	upstart; newly rich person	noun	
+passé	old-fashioned; past the prime	adjective	
+passive	not active; acted upon	adjective	
+pastiche	imitation of another's style in musical composition or writing	noun	
+pastoral	rural	adjective	
+patent	open for the public to read; obvious	adjective	
+pathetic	causing sadness, compassion, pity; touching	adjective	
+pathological	pertaining to disease	adjective	
+pathos	tender sorrow; pity; quality in art or literature that produces these feelings	noun	
+patina	green crust on old bronze works; tone slowly by varnished painting	noun	
+patriarch	father and ruler of a family or tribe	noun	
+patrician	noble; aristocratic	adjective	
+patronize	support; act superior toward	verb	
+paucity	scarcity	noun	
+peccadillo	slight offense	noun

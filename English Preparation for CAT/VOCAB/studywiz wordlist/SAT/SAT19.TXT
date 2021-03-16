@@ -1,0 +1,75 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 19
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+fallacious	misleading	adjective
+fallible	liable to err	adjective
+fallow	plowed but not sowed; uncultivated	adjective
+falter	hesitate	verb
+fanaticism	excessive zeal	noun	*
+fancied	imagined; unreal	adjective
+fencier	breeder or deal of animals	noun
+fanciful	whimsical; visionary	adjective
+fanfare	call by bugles or trumpets	noun
+fantastic	unreal; grotesque; whimsical	adjective
+farce	broad comedy; mockery	noun
+fastidious	difficult to please; squeamish	adjective	*
+fatalism	belief that events are determined by forces beyond one's control	noun
+fathom	comprehend; investigate	verb
+fatuous	foolish; inane	adjective
+fauna	animals of period or region	noun
+fawning	courting behavior by cringing and flattering	adjective
+faze	disconcert; dismay	verb
+feasible	practical	adjective
+fecundity	fertility; fruitfulness	noun
+feign	pretend	verb
+feint	trick; shift; sham blow	noun
+felicitous	apt; suitably expressed; well chosen	adjective
+fell	cruel; deadly	adjective
+felon	person convicted of grave crime	noun
+ferment	agitation; commotion	noun
+ferret	drive or hunt out of hiding	verb
+fervent	ardent; hot	adjective
+fervid	ardent	adjective
+fervor	glowing ardor	noun	*
+fester	generate pus	verb
+festive	joyous; celebratory	adjective
+fete	honor at a festival	verb
+fetid	malodorous	adjective
+fetter	shackle	verb
+fiasco	total failure	noun
+fiat	command	noun
+fickle	changeable; faithless	adjective
+fictitious	imaginary	adjective
+fidelity	loyalty	noun
+figment	invention; imaginary thing	noun
+figurative	not literal but metaphorical; using a figure of speech	adjective
+figurine	small ornamental statuette	noun
+filch	steal	verb
+filial	pertaining to a son or daughter	adjective
+finale	conclusion	noun
+finesse	delicate skill	noun
+finicky	too particular; fussy	adjective
+finite	limited	adjective
+firebrand	hothead; troublemaker	noun
+fissure	crevice	noun
+fitful	spasmodic; intermittent	adjective
+flaccid	flabby	adjective
+flagging	weak; drooping	adjective
+flagrant	conspicuously wicked	adjective	*
+flail	thresh grain by hand; strike or slap	verb
+flair	talent	noun
+flamboyant	ornate	adjective
+flaunt	display ostentatiously	verb
+flay	strip off skin; plunder	verb
+fleck	spot	verb
+fledgling	inexperienced	adjective
+fleece	wool coat of a sheep	noun
+fleece	rob; plunder	verb
+flick	light stroke as with a whip	noun
+flinch	hesitate; shrink	verb

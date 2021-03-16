@@ -1,0 +1,332 @@
+abase,	lower/humiliate,0
+abash,	embarrass,0
+abate,	subside/ decrease/ lessen,0
+abbreviate,	shorten,0
+abdicate,	renounce/ give up,0
+aberrant,	abnormal or deviant,0
+abettor,	encourager,0
+abeyance,	suspended action,0
+abhor,	detest/ hate,0
+abject,	wretched/ lacking pride,0
+abjure,	renounce upon oath,0
+ablution,	washing,0
+abnegation,	repudiation/ self-sacrifice,0
+abolish,	cancel/ put an end to,0
+abominate,	loathe/ hate,0
+aboriginal,	being the first of its kind in a region/ primitive/ native,0
+abortive,	unsuccessful/ fruitless,0
+abrasive,	rubbing away/ tending to grind down,0
+abridge,	condense or shorten,0
+abrogate,	abolish,0
+abscond,	depart secretly and hide,0
+absolute,	complete/ totally unlimited/ certain,0
+absolve,	pardon(an offense),0
+abstain,	refrain/ hold oneself voluntary form an action or practice,0
+abstemious,	sparing in eating and drinking/ temperate,0
+abstinence,	restrain from eating or drinking,0
+abstract,	theoretical/ not concrete/ nonrepresentational,0
+abstruse,	obscure/ profound/ difficult to understand,0
+abusive,	coarsely insulting/ physically harmful,0
+abut,	border upon/ adjoin,0
+abysmal,	bottomless,0
+accede,	agree,0
+accelerate,	move faster,0
+accessible,	easy to approach/ obtainable,0
+accessory,	additional object/ useful but not essential thing,0
+acclaim,	applaud/ announce with great approval,0
+acclimate,	adjust to climate,0
+acclivity,	sharp upslope of a hill,0
+accolade,	award of merit,0
+accommodate,	oblige or help someone/ adjust or bring into harmony/ adapt,0
+accomplice,	partner in crime,0
+accord,	agreement,0
+accost,	approach and speak first to a person,0
+accoutre,	to equip,0
+accretion,	growth/ increase,0
+accrue,	come about by addition,0
+acerbity,	bitterness of speech and temper,0
+acetic,	vinegary,0
+acidulous,	slightly sour/ sharp/ caustic,0
+acknowledge,	recognize/ admit,0
+acme,	top/ pinnacle,0
+acoustics,	science of sound/ quality that makes a room easy or hard to hear in,0
+acquiesce,	assent/ agree passively,0
+acquittal,	deliverance from a charge,0
+acrid,	sharp/ bitterly pungent,0
+acrimonious,	stinging/ caustic,0
+actuarial,	calculating/ pertaining to insurance statistics,0
+actuate,	motivate,0
+acuity,	sharpness,0
+acumen,	mental keenness,0
+acute,	quickly perceptive/ keen/ brief and severe,0
+adage,	wise saying/ proverb,0
+adamant,	hard/ inflexible,0
+adapt,	alter/ modify,0
+addiction,	compulsive/ habitual need,0
+addle,	to muddle/ drive crazy/ become rotten,0
+address,	to direct speech to/ deal with or discuss,0
+adduce,	to present as evidence,0
+adept,	expert at,0
+adhere,	stick last,0
+adherent,	supporter/ follower,0
+adjunct,	something attached to but holding and inferior position,0
+adjuration,	solemn urging,0
+admonish,	warn/ reprove,0
+admonition,	warning,0
+adorn,	decorate,0
+adroit,	skillful,0
+adulation,	flattery/ admiration,0
+adulterate,	make impure by mixing with baser substances,0
+adulterated,	made impure or spoiled by the addition of inferior materials,0
+advent,	arrival,0
+adventitious,	accidental/ casual,0
+adversary,	opponent,0
+adverse,	unfavorable/ hostile,0
+adversity,	poverty/ misfortune,0
+advert,	refer to,0
+advocate,	urge/ plead for,0
+aegis,	shield/ defense,0
+aesthetic,	artistic/ dealing with or capable of appreciation of the beautiful,0
+affable,	courteous,0
+affected,	artificial/ pretended,0
+affidavit,	written statement made under oath,0
+affiliation,	joining/ associating with,0
+affinity,	kinship,0
+affirmation,	positive assertion/ confirmation/ solemn pledge by one who refuses to take an oath,0
+affluence,	abundance/ wealth,0
+affray,	public brawl,0
+agape,	openmouthed,0
+agenda,	items of business at a meeting,0
+agglomeration,	collection/ heap,0
+aggrandize,	increase or intensify,0
+aggregate,	sum/ total,0
+aghast,	horrified,0
+agility,	nimbleness,0
+agitate,	stir up/ disturb,0
+agnostic,	one who is skeptical of the existence or knowability of a god or any ultimate reality,0
+agrarian,	pertaining to land or its cultivation,0
+alacrity,	cheerful promptness,0
+alchemy,	medieval chemistry,0
+alcove,	nook/ small/ recessed section of a room,0
+alias,	an assumed name,0
+alienate,	make hostile/ separate,0
+alimentary,	supplying nourishment,0
+alimony,	payment by a husband to his divorced wife,0
+allay,	calm/ pacify,0
+allege,	state without proof,0
+allegory,	story in which characters are used as symbols,0
+alleviate,	relieve,0
+alliteration,	repetition of beginning sound in poetry,0
+allocate,	assign,0
+alloy,	a mixture as of metals,0
+allude,	relief indirectly,0
+allure,	entice/ attract,0
+allusion,	indirect reference,0
+aloof,	apart/ reserved,0
+aloft,	upward,0
+altercation,	wordy quarrel,0
+altruistic,	unselfishly generous/ concerned for others,0
+amalgamate,	combine/ unite in one body,0
+amass,	collect,0
+amazon,	female warrior,0
+ambidextrous,	capable of using either hand with equal ease,0
+ambience,	environment/ atmosphere,0
+ambiguous,	unclear or doubtful in meaning,0
+ambivalence,	the state of having contradictory or conflicting emotional attitudes,0
+amble,	moving at an easy pace,0
+ambrosia,	food of the gods,0
+ambulatory,	able to walk,0
+ameliorate,	improve,0
+amenable,	readily managed/ willing to be led,0
+amend,	correct/ change/ generally for the better,0
+amenities,	convenient features/ courtesies,0
+amiable,	agreeable/ lovable,0
+amicable,	friendly,0
+amiss,	wrong/ faulty,0
+amity,	friendship,0
+amnesia,	loss of memory,0
+amnesty,	pardon,0
+amoral,	nonmoral,0
+amorous,	moved by sexual love/ loving,0
+amorphous,	shapeless,0
+amphibian,	able to live both on land and in water,0
+amphitheater,	oval building with tiers of seats,0
+ample,	abundant,0
+amplify,	enlarge,0
+amputate,	cut off part of body/ prune,0
+amuck,	in a state of rage,0
+amulet,	charm/ talisman,0
+anachronism,	an error involving time in a story,0
+analgesic,	causing insensitivity to pain,0
+analogous,	comparable,0
+analogy,	similarity/ parallelism,1
+anarchist,	person who rebels against the established order,0
+anarchy,	absence of governing body/ state of disorder,1
+anathema,	solemn curse,0
+anchor,	secure or fasten firmly,0
+ancillary,	serving as an aid or accessory/ auxiliary,0
+anecdote,	short discount of an amusing or interesting event,0
+anemia,	condition in which blood lacks red corpuscles,0
+anesthetic,	substance that removes sensation with or without loss of consciousness,0
+anguish,	acute pain/ extreme suffering,0
+angular,	sharp-cornered/ stuff in manner,0
+animated,	lively,0
+animosity,	active enmity/ hatred,0
+animus,	hostile feeling or intent,0
+annals,	records/ history,0
+annihilate,	destroy,0
+annotate,	comment/ make explanatory notes,0
+annuity,	yearly allowance,0
+annul,	make void,0
+anomalous,	abnormal/ irregular,0
+anomaly,	irregularity,0
+anonymity,	state of being nameless/ anonimousness,0
+anonymous,	having no name,0
+antagonistic,	hostile/ opposed/ actively resisting,0
+antecede,	precede,0
+antecedents,	preceding events or circumstances that influence what comes later/ early life/ ancestors,0
+antediluvian,	antiquated/ ancient,0
+anthropoid,	manlike,0
+anthropologist,	a student of the history and science of mankind,0
+anthropomorphic,	having human form or characteristics,0
+anticlimax,	letdown of thought or emotion,0
+antipathy,	aversion/ dislike,0
+antiquated,	old-fashioned/ obsolete,0
+antiseptic,	substance that prevents infection,0
+antithesis,	contrast/ direct opposite of or to,0
+apathy,	lack of caring/ indifference,0
+ape,	intimate or mimic,0
+aperture,	opening/ hole,0
+apex,	tip/ summit/ climax,0
+aphasia,	loss of speech due to injury or illness,0
+aphorism,	pithy maxim,0
+apiary,	a place where bees are kept,0
+aplomb,	poise,0
+apocalyptic,	prophetic/ pertaining to revelations,0
+apocryphal,	untrue/ made up,0
+apogee,	highest point,0
+apoplexy,	stroke/ loss of consciousness followed by paralysis,0
+apostate,	one who abandons his religious faith or political beliefs,0
+apothegm,	pithy/ compact saying,0
+apotheosis,	deification/ glorification,0
+appall,	dismay/ shock,0
+apparition,	ghost/ phantom,0
+appease,	pacify/ soothe,0
+appellation,	name/ title,0
+append,	attach,0
+application,	diligent attention,0
+apposite,	appropriate/ fitting,0
+appraise,	estimate value of,0
+appreciate,	be thankful for/ increase in worth/ be thoroughly conscious for,0
+apprehend,	arrest(a criminal)/ dread/ perceive,0
+apprehension,	fear,0
+apprise,	inform,0
+approbation,	approval,0
+appropriate,	acquire/ take position of for one's own use,0
+apropos,	with reference to/ regarding,0
+aptitude,	fitness/ talent,0
+aquiline,	curved/ hooked,0
+arable,	fit for plowing,0
+arbiter,	a person with power to decide a dispute/ judge,0
+arbitrary,	unreasonable or capricious/ imperious/ tyrannical/ despotic,0
+arbitrate,	act as judge,0
+arboretum,	place where different tree varieties are exhibited,0
+arcade,	a covered passageway/ usually lined with shops,0
+arcane,	secret/ mysterious,0
+archaeology,	study of artifacts and relics of early mankind,0
+archaic,	antiquated,0
+archetype,	prototype/ primitive pattern,0
+archipelago,	group of closely located islands,0
+archives,	public records/ place where public records are kept,0
+ardor,	heat/ passion/ zeal,0
+arduous,	hard/ strenuous,0
+argot,	slang,0
+aria,	operatic solo,0
+arid,	dry/ barren,0
+aristocracy,	hereditary nobility/ privileged class,0
+armada,	fleet of warships,0
+aromatic,	fragrant,0
+arraign,	charge in court/ indict,0
+array,	marshal/ draw up in order,0
+array,	clothe/ adorn,0
+arrears,	being in debt,0
+arrogance,	pride/ haughtiness,0
+arroyo,	gully,0
+articulate,	effective/ distinct,0
+artifacts,	products of primitive culture,0
+artifice,	deception/ trickery,0
+artisan,	a manually skilled worker,0
+artless,	without guile/ open and honest,0
+ascendancy,	controlling influence/ domination,0
+ascertain,	find out for certain,1
+ascetic,	practicing self-denial/ austere,0
+ascribe,	refer/ attribute/ assign,0
+aseptic,	preventing infection/ having a cleansing effect,1
+ashen,	ash-colored,0
+asinine,	stupid,0
+askance,	with a sideways or indirect look,0
+askew,	crookedly/ slanted/ at an angle,0
+asperity,	sharpness(of temper),0
+aspersion,	slanderous remark,0
+aspirant,	seeker after position or status,0
+aspiration,	noble ambition,0
+assail,	assault,0
+assay,	analyze/ evaluate,0
+assent,	agree/ accept,0
+assessment,	estimation,0
+assiduous,	diligent,0
+assimilate,	absorb/ cause to become homogeneous,0
+assuage,	ease/ lessen (pain),0
+asteroid,	small planet,0
+astigmatism,	eye defect that prevents proper focus,0
+astral,	relating to stars,0
+astringent,	binding/ causing contraction,0
+astronomical,	enormously large or extensive,0
+astute,	wise/ shrewd,0
+asunder,	into parts/ apart,0
+asylum,	place of refuge or shelter/ protection,0
+asymmetric,	not identical on both sides of a dividing central line,0
+atavism,	resemblance to remote ancestors rather than to parents/ deformity returning after passage of two or more generations,0
+atheistic,	denying the existence of God,0
+atone,	make amends for/ pay for,0
+atrocity,	brutal deed,0
+atrophy,	wasting away,0
+attentive,	considerate/ thoughtful,0
+attenuate,	make thin/ weaken,0
+attest,	testify/ bear witness,0
+attribute,	essential quality,0
+attribute,	ascribe/ explain,0
+attrition,	gradual wearing down,0
+atypical,	not normal,0
+audacious,	daring/ bold,0
+audit,	examination of accounts,0
+augment,	increase,0
+augury,	omen/ prophecy,0
+august,	impressive/ majestic,0
+aureole,	sun's corona/ halo,0
+auroral,	pertaining to the aurora borealis,0
+auspicious,	favoring success,0
+austere,	strict/ stern,0
+austerity,	sternness/ severity/ lack of luxuries,0
+authenticate,	prove genuine,0
+authoritarian,	favoring or exercising total control/ non-democratic ,0
+authoritative,	having the weight of authority/ dictatorial,1
+autocrat,	monarch with supreme power,0
+automaton,	mechanism that imitates actions of humans,0
+autonomous,	self-governing,0
+autopsy,	examination of a dead body/ post-mortem,0
+auxiliary,	helper/ additional or subsidiary,0
+avarice,	greediness for wealth,0
+aver,	state confidently,0
+averse,	reluctant,0
+aversion,	firm dislike,0
+avert,	prevent/ turn away,0
+aviary,	enclosure for birds,0
+avid,	greedy/ eager for,0
+avocation,	secondary or minor occupation,0
+avow,	declare openly,0
+avuncular,	like an uncle,0
+awe,	solemn wonder,0
+awry,	distorted/ crooked,0
+axiom,	self-evident truth requiring no proof,0
+azure,	sky blue,0
