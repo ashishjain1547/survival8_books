@@ -1,0 +1,66 @@
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #000033; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.para {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial
+}
+.mbadreamsline {
+	FONT-SIZE: 11px; COLOR: #ffffff; LINE-HEIGHT: 180%; FONT-FAMILY: Verdana, Arial
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: #cc0000; LINE-HEIGHT: 180%; FONT-FAMILY: Verdana, Arial
+}
+.mainmenu {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial
+}
+.mainmenu A {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial
+}
+.mainmenu A:hover {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial
+}
+.mainmenu A:visited {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial
+}
+.mainmenusub {
+	FONT-SIZE: 11px; COLOR: #ffffff; LINE-HEIGHT: 180%; FONT-FAMILY: Verdana, Arial
+}
+.lightgrey {
+	FONT-SIZE: 11px; COLOR: #e0e0e0; FONT-FAMILY: Verdana, Arial
+}
+.titlehead {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial
+}
+.normaltext {
+	FONT-SIZE: 11px; COLOR: #333333; LINE-HEIGHT: 150%; FONT-FAMILY: Verdana, Arial
+}
+.normaltext2 {
+	FONT-SIZE: 11px; COLOR: #333333; LINE-HEIGHT: 100%; FONT-FAMILY: Verdana, Arial
+}
+.redhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #cc0000; FONT-FAMILY: Arial
+}
+TD {
+	FONT-SIZE: 11px; COLOR: #333333; LINE-HEIGHT: 150%; FONT-FAMILY: Verdana, Arial
+}
+.justd {
+	FONT-SIZE: 11px; COLOR: #333333; LINE-HEIGHT: 150%; FONT-FAMILY: Verdana, Arial; TEXT-ALIGN: justify
+}
+DL {
+	TEXT-ALIGN: justify
+}
+DT {
+	FONT-WEIGHT: bolder
+}
+.leftmenu {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial
+}

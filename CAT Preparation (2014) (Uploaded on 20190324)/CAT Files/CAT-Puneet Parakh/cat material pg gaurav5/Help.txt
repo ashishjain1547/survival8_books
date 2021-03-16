@@ -1,0 +1,33 @@
+Finding product of 2 digit numbers :
+
+Lets multiply 29 by 78 (29*78)..
+
+Step 1:  First multiply the last digits and write the units digit of this product as unit digit of the final result , i.e. , 9*8=72.              Hence, 2 is units digit of the final result and 7 is the carry.
+
+Step 2: Now cross multiply , i.e. , multiply 2 by 8 (2*8) , and 9 by 7 (9*7) . Add the results and also the carry (7) , i.e.,                         7+63+16=86. write units digit of the sum (86) in tens place of the result , i.e., 6 in ten's place and 8 is the carry.
+
+Step 3: Now Finally, multiply the first digits of the two numbers , add the carry to the product and write trhe result as the             first digit(s) of final result , i.e. , 2*7=14 and add 8 i.e. , 14+8= 22.
+            Therefore 29 * 78= 2262.
+
+
+Using MULTIPLY.EXE:
+_________________________________________
+
+Multiply.exe is the simplest one, and has a color interface too. Be ready for calculations , coz as U invoke the application, it starts by askin U the first question. 
+
+  Now the most important part:
+
+  U must have noticed that in the above shortcut method , the answer is obtained from right to left, thus keeping this in mind this application has been made to take inputs from right to left, against in all other applications dat U've been using. Like if the answer is  1549, U've to first type 9, then 4 , then 5 & finally 1, same way as they r obtained thru the method.
+
+Here if U wanna escape n goto Ur results, just press 'Escape' key, n the last question n the time consumed in dat question will be ignored. This key works even in the middle of calculations!
+
+Rest's all same ; if the answer's wrong it gives U the right answer, without counting dat time , & the format of the result is also same as in ADD.EXE & SUB.EXE. Pressing any key after the results will terminate the program.
+
+_________________________________________
+
+Hope this little program cud help U in writing Ur success ...
+Happy calculations!!
+
+cheers,
+
+Ashish.

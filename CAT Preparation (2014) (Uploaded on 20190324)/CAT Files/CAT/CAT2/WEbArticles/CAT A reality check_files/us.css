@@ -1,0 +1,93 @@
+.sb9 {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+.sb {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+.SomeStyle {
+	COLOR: red
+}
+.sb1 {
+	FONT-SIZE: 11px; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+.sb1a {
+	FONT-SIZE: 11px; LINE-HEIGHT: 1.6em; FONT-FAMILY: arial
+}
+.sb2 {
+	FONT-SIZE: 12px; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+.sb3 {
+	FONT-SIZE: 18px; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+.sb4 {
+	FONT-SIZE: 22px; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+.sb5 {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+.sb6 {
+	FONT-SIZE: 14px; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+.sb7 {
+	FONT-SIZE: 12px; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.sb8 {
+	FONT-SIZE: 20px; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+.sb10 {
+	FONT-SIZE: 14px; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+.sb11 {
+	FONT-SIZE: 17px; FONT-FAMILY: trebuchet ms, helvetica, ms sans serif; TEXT-DECORATION: none
+}
+.sb13 {
+	FONT-SIZE: 13px; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+.drpdwn {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: tahoma,san-serif; BACKGROUND-COLOR: #ffffff
+}
+A.tab {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+A.tab1 {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+A.tab2 {
+	FONT-SIZE: 11px; COLOR: #0066cc; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+A.tab3 {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+A.tab4 {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+A.tab5 {
+	FONT-SIZE: 12px; COLOR: #0066cc; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+TD.rediffRoof {
+	BACKGROUND-POSITION: 50% top; VERTICAL-ALIGN: middle; BORDER-BOTTOM: medium none; BACKGROUND-COLOR: #6391d1
+}
+TD.shop {
+	BACKGROUND-COLOR: #6391d1
+}
+TD.wel {
+	BACKGROUND-COLOR: #eaeaea
+}
+TD.sms {
+	BACKGROUND-COLOR: #cc3366
+}
+TD.search {
+	BACKGROUND-COLOR: #eeeeee
+}
+TD.smsbox {
+	BACKGROUND-COLOR: #e3e3cf
+}
+TD.mail {
+	BACKGROUND-COLOR: #b1b18c
+}
+TD.top {
+	BACKGROUND-COLOR: #6391d1
+}
+INPUT.cell {
+	FONT-SIZE: 11px; FONT-FAMILY: arial, helvetica, ms sans serif
+}

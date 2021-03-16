@@ -1,0 +1,2 @@
+document.write ('<SCRIPT LANGUAGE="JavaScript" SRC="http://www.hindustantimes.com/banners/banner.js">\n');
+document.write ('</SCRIPT>');

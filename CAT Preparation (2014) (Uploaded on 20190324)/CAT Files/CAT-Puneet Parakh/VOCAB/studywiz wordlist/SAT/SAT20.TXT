@@ -1,0 +1,80 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 20
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+flippancy	trifling gaiety	noun
+flit	fly; dart lightly; pass swiftly by	verb
+floe	mass of floating ice	noun
+flora	plants of a region or era	noun
+florid	flowery; ruddy	adjective
+flotsam	drifting wreckage	noun
+flourish	grow well; prosper; decorate with ornaments	verb
+flout	reject; mock	verb
+fluctuate	weaver	verb
+fluency	smoothness of speech	noun
+fluke	unlikely occurrence; stroke of fortune	noun
+fluster	confuse	verb
+fluted	having vertical parallel grooves (as in a pillar)	adjective
+flux	flowing; series of changes	noun
+fodder	coarse food for cattle, horses, etc.	noun
+foible	weakness; slight fault	noun
+foil	contrast	noun
+foil	defeat; frustrate	verb
+foist	insert improperly; palm off	verb
+foment	stir up; instigate	verb
+foolhardy	rash	adjective
+foppish	vain about dress and appearance	adjective
+foray	raid	noun
+forbearance	patience	noun
+ford	place where a river can be crossed on foot	noun
+foreboding	premonition of evil	noun
+forensic	suitable to debate or courts of law	adjective
+foresight	ability to foresee future happenings; prudence	noun	*
+forestall	prevent by taking action in advance	verb
+forgo	give up; do without	verb
+formality	adherence to established rules or procedures	noun
+formidable	menacing; threatening	adjective
+forsake	desert; abandon; renounce	verb
+forswear	renounce; abandon	verb
+forte	strong point or special talent	noun
+fortitude	bravery; courage	noun
+fortuitous	accidental; by chance	adjective
+foster	rear; encourage	verb
+founder	fail completely; sink	verb
+founder	person who establishes (an organization, business)	noun
+fracas	brawl; melee	noun
+fractious	unruly	verb
+frailty	weakness	noun
+franchise	right granted by authority	noun
+frantic	wild	adjective
+fraudulent	cheating; deceitful	adjective
+fraught	filled	adjective
+fray	brawl	noun
+frenetic	frenzied; frantic	adjective
+frenzied	madly excited	adjective
+fresco	painting on plaster (usually fresh)	noun
+fret	to be annoyed or vexed	verb
+friction	clash in opinion; rubbing against	noun
+frigid	intensely cold	adjective
+fritter	waste	verb
+frivolity	lack of seriousness	noun	*
+frolicsome	prankish; gay	adjective
+frond	fern leaf; palm or banana leaf	noun
+frugality	thrift; economy	noun
+fruition	bearing of fruit; fulfillment; realization	noun
+frustrate	thwart; defeat	verb
+fulcrum	support on which a lever rests	noun
+fulsome	disgustingly excessive	adjective
+fundamental	basic; primary; essential	verb
+funeral	sad; solemn	adjective
+furor	frenzy; great excitement	noun
+furtive	stealthy; sneaky	adjective	*
+fusion	union; coalition	noun
+futile	ineffective; fruitless	adjective
+gadfly	animal-biting fly; an irritating person	noun
+gaffe	social blunder	noun

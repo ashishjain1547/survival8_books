@@ -1,0 +1,83 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 14
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+derogatory	expressing a low opinion	adjective
+descant	discuss fully	verb
+descry	catch sight of	verb
+desecrate	profane; violate the sanctity of	verb
+desiccate	dry up	verb
+desolate	rob of joy; lay waste to; forsake	verb
+despicable	contemptible	adjective
+despise	scorn	verb
+despoil	plunder	verb
+despondent	depressed; gloomy	adjective	*
+despot	tyrant; harsh, authoritarian ruler	noun	*
+destitute	extremely poor	adjective
+desultory	aimless; jumping around	adjective
+detached	emotionally removed; calm and objective; indifferent	adjective	*
+detergent	cleansing agent	noun
+deterrent	something that discourages; hindrance	noun	*
+detonation	explosion	noun
+detraction	slandering; aspersion	noun
+detrimental	harmful; damaging	adjective
+deviate	turn away from	verb
+devious	going astray; erratic; cunning	adjective	*
+devoid	lacking	adjective
+devolve	deputize; pass to others	verb
+devotee	enthusiastic follower	noun
+devout	pious	adjective
+dexterous	skillful	adjective
+diabolical	devilish	adjective
+diadem	crown	noun
+dialectic	art of debate	noun
+diaphanous	sneer; transparent	adjective
+diatribe	bitter scolding; invective	noun
+dichotomy	branching into two parts	noun
+dictum	authoritative and weighty statement	noun
+didactic	teaching; instructional	adjective	*
+diffidence	shyness	noun
+diffusion	wordiness; spreading in all directions like a gas	noun
+digression	wandering away from the subject	noun	*
+dilapidated	ruined because of neglect	adjective
+dilate	expand	verb
+dilatory	delaying	adjective
+dilemma	problem; choice of two unsatisfactory alternatives	noun
+dilettante	aimless follower of the arts; amateur; dabbler	noun
+diligence	steadiness of effort; persistent hard work	noun	*
+dilute	make less concentrated; reduce in strength	verb
+diminution	lessening; reduction in size	noun	*
+din	continued loud noise	noun
+dint	means; effort	noun
+dire	disastrous	adjective
+dirge	lament with music	noun
+disabuse	correct a false impression; undeceive	verb
+disapprobation	disapproval; condemnation	noun
+disarray	disorderly or untidy state	noun
+disavowal	denial; disclaiming	noun
+disband	dissolve; disperse	verb
+disburse	pay out	verb
+discernible	distinguishable; perceivable	adjective
+discerning	mentally quick and observant; having insight	adjective	*
+disclaim	disown; renounce claim to	verb
+disclose	reveal	verb
+discomfit	put to rout; defeat; disconcert	verb
+disconcert	confuse; upset; embarrass	verb
+disconsolate	sad	adjective
+discordant	inharmonious; conflicting	adjective	*
+discount	disregard	verb
+discourse	formal discussion; conversation	noun
+discredit	defame; destroy confidence in; disbelieve	verb
+discrepancy	lack of consistency; difference	noun
+discrete	separate; unconnected	adjective
+discretion	prudence; ability to adjust actions to circumstances	noun
+discriminating	able to see differences; prejudiced	adjective	*
+discursive	digressing; rambling	adjective	*
+disdain	treat with scorn or contempt	verb	*
+disfigure	mar in beauty; spoil	verb
+disgruntle	make discontented	verb

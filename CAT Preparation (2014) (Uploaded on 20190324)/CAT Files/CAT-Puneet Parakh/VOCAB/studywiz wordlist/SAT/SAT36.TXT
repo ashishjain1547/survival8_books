@@ -1,0 +1,83 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 36
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+philanthropist	lover of mankind; doer of good	noun	*
+philistine	narrow-minded person, uncultured and exclusively interested in material gain	noun
+philology	study of language	noun
+phlegmatic	calm; not easily disturbed	adjective
+phobia	morbid fear	noun
+physiognomy	face	noun
+physiological	pertaining to the science of the function of living organisms	adjective
+picaresque	pertaining to rogues in literature	adjective
+piebald	molted; spotted	adjective
+pied	variegated; multicolored	adjective
+piety	religious devotion; godliness	noun	*
+pillage	plunder	verb
+pillory	punish by placing in a wooden frame and subjecting to ridicule	verb
+pinion	restrain	verb
+pinnacle	peak	noun
+piquant	pleasantly tart-tasting; stimulating	adjective
+pique	irritation; resentment	noun
+pithy	concise; meaty	adjective
+pittance	small allowance or wage	noun
+pivotal	crucial; key; vital	adjective
+placate	pacify; conciliate	verb	*
+placebo	harmless substance prescribed as a dummy pill	noun
+placid	peaceful; calm	adjective
+plagiarism	theft of another's ideas or writing passed off as original	noun
+plagiarize	steal another's ideas and pass them off as one's own	verb
+plaintive	mournful	adjective
+platitude	trite remark; commonplace statement	noun
+platonic	purely spiritual; theoretical; without sensual desire	adjective
+plauditory	approving; applauding	adjective
+plausible	having a show of truth but open to doubt	adjective
+plebeian	common; pertaining to the common people	adjective
+plebiscite	expression of the will of a people by direct election	noun
+plenary	complete; full	adjective
+plenipotentiary	fully empowered	adjective
+plenitude	abundance; completeness	noun
+plethora	excess; overabundance	noun
+plight	condition, state (especially a bad state or condition); predicament	noun
+plumb	checking perpendicularly; vertical	adjective
+podiatrist	doctor who treats ailments of the feet	noun
+podium	pedestal; raised platform	noun
+poignancy	quality of being deeply moving; keenness of emotion	noun	*
+polarize	split into opposite extremes or camps	verb
+polemic	controversy; argument in support of point of view	noun
+politic	expedient; prudent; well devised	adjective
+polity	form of government of nation or state	noun
+polygamist	one who has more than one spouse at a time	noun
+polyglot	speaking several languages	adjective
+pomposity	self-important behavior; acting like a stuffed shirt	noun
+ponderous	weighty; unwieldy	adjective
+porous	full of pores; like a sieve	adjective
+portend	foretell; presage	verb
+portent	sign; omen; forewarning	noun
+portly	stately; stout	adjective
+posterity	descendants; future generations	noun
+posthumous	after death (as of a child born after father's death or book published after author's death)	adjective
+postprandial	after dinner	adjective
+postulate	self-evident truth	noun
+potable	suitable for drinking	adjective
+potent	powerful; persuasive; greatly influential	adjective	*
+potentate	monarch; sovereign	noun
+potential	expressing possibility; latent	adjective
+potion	dose (of liquid)	noun
+potpourri	heterogeneous mixture; medley	noun
+poultice	soothing application applied to sore and inflamed portions of the body	noun
+practicable	feasible	adjective
+practical	based on experience; useful	adjective
+pragmatic	practical; concerned with practical values	adjective	*
+pragmatist	practical person	noun
+prate	speak foolishly; boast idly	verb
+prattle	babble	verb
+preamble	introductory statement	noun
+precarious	uncertain; risky	adjective	*
+precedent	something preceding in time which may be used as an authority or guide for future decision	noun
+precedent	preceding in time, rank, etc.	adjective

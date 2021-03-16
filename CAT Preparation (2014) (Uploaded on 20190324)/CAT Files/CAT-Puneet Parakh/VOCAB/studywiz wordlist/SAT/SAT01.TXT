@@ -1,0 +1,86 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 01
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+abase	lower; humiliate	verb	
+abash	embarrass	verb	
+abate	subside; decrease, lessen	verb	
+abbreviate	shorten	verb	
+abdicate	renounce; give up	verb	
+aberrant	abnormal or deviant	noun	
+abettor	encourager	noun	
+abeyance	suspended action	noun	
+abhor	detest; hate	verb	
+abject	wretched; lacking pride	adjective	
+abjure	renounce upon oath	verb	
+ablution	washing	noun	
+abnegation	repudiation; self-sacrifice	noun	
+abolish	cancel; put an end to	verb	
+abominate	loathe; hate	verb	
+aboriginal	being the first of its kind in a region; primitive; native	adjective	
+abortive	unsuccessful; fruitless	adjective	
+abrasive	rubbing away; tending to grind down	adjective	
+abridge	condense or shorten	verb	
+abrogate	abolish	verb	
+abscond	depart secretly and hide	verb	
+absolute	complete; totally unlimited; certain	adjective	
+absolve	pardon(an offense)	verb	
+abstain	refrain; hold oneself voluntary form an action or practice	verb	
+abstemious	sparing in eating and drinking; temperate	adjective	
+abstinence	restrain from eating or drinking	noun	
+abstract	theoretical; not concrete; nonrepresentational	adjective	*
+abstruse	obscure; profound; difficult to understand	adjective	*
+abusive	coarsely insulting; physically harmful	adjective	
+abut	border upon; adjoin	verb	
+abysmal	bottomless	adjective	
+accede	agree	verb	
+accelerate	move faster	verb	
+accessible	easy to approach; obtainable	adjective	
+accessory	additional object; useful but not essential thing	noun	
+acclaim	applaud; announce with great approval	verb	*
+acclimate	adjust to climate	verb	
+acclivity	sharp upslope of a hill	noun	
+accolade	award of merit	noun	*
+accommodate	oblige or help someone; adjust or bring into harmony, adapt	verb	
+accomplice	partner in crime	noun	
+accord	agreement	noun	
+accost	approach and speak first to a person	verb	
+accoutre	to equip	verb	
+accretion	growth, increase	noun	
+accrue	come about by addition	verb	
+acerbity	bitterness of speech and temper	noun	
+acetic	vinegary	adjective	
+acidulous	slightly sour; sharp, caustic	adjective	
+acknowledge	recognize, admit	verb	
+acme	top; pinnacle	noun	
+acoustics	science of sound; quality that makes a room easy or hard to hear in	noun	
+acquiesce	assent; agree passively	verb	*
+acquittal	deliverance from a charge	noun	
+acrid	sharp, bitterly pungent	adjective	
+acrimonious	stinging, caustic	adjective	
+actuarial	calculating, pertaining to insurance statistics	adjective	
+actuate	motivate	verb	
+acuity	sharpness	noun	
+acumen	mental keenness	noun	
+acute	quickly perceptive; keen; brief and severe	adjective	
+adage	wise saying; proverb	noun	
+adamant	hard; inflexible	adjective	
+adapt	alter; modify	verb	
+addiction	compulsive, habitual need	noun	
+addle	to muddle; drive crazy; become rotten	verb	
+address	to direct speech to; deal with or discuss	verb	
+adduce	to present as evidence	verb	
+adept	expert at	adjective	
+adhere	stick last	verb	
+adherent	supporter, follower	noun	
+adjunct	something attached to but holding and inferior position	noun	
+adjuration	solemn urging	noun	
+admonish	warn; reprove	verb	*
+admonition	warning	noun	
+adorn	decorate	verb	
+adroit	skillful	adjective	*

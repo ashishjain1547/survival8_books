@@ -1,0 +1,48 @@
+COMP PROGRAMMING
+ The module is ideal to evaluate entry level talent’s exposure and expertise in Computer Programming. This module is agnostic to programming languages and does not require the candidates to code during the test.
+Befitting Job Functions/Profiles: Technical Support Executive, Computer Engineer, Software Developer – Web, System s/w, Product, Trainee, Testing Engineer, Research Engineer, Content Developer-IT, IT Recruiter, etc.
+Number of Questions: 25
+Module Duration: 35 min
+Detailed Syllabus:
+Basic Programming
+ 	
+Data Types
+Iteration, Recursion, Decision
+Procedure, functions and scope
+Data Structures
+ 	
+Arrays, Linked Lists, Trees, Graphs
+Stacks, Queues
+Hash Tables
+Heaps
+OOPs
+ 	
+Polymorphism
+Abstraction
+Encapsulation
+Miscellaneous
+ 	
+Searching and Sorting
+Complexity Theory
+_______________________________________________________________________________________________________
+COMPUTER SCIENCE
+The module focuses to assess the candidate’s knowledge in basics of operating system and computer architecture, computer networks and database concepts.
+Befitting Job Functions/Profiles: Software Developers, Database Administrator and Network Engineers
+Number of Questions: 26
+Module Duration: 22 min
+Detailed Syllabus:
+Operating System and Computer Architecture
+ 	
+Basics of OS and Computer Architecture
+Process Management and Synchronization
+Memory and I/O Management
+DBMS
+ 	
+Data model
+Relational Algebra and SQL
+Normalization, Architecture, Indexing
+Computer Networks
+ 	
+Basics of networking and communication
+OSI, TCP/IP layers and protocols
+Network Devices and Routing Algorithms

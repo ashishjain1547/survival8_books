@@ -1,0 +1,357 @@
+04/10/2002 
+------------- 
+THEORY OF EQUATIONS: 
+----------------------------- 
+
+(1) If an equation (i:e f(x)=0 ) contains all positive co-efficients of any powers of x , it has no positive roots then. 
+eg: x^4+3x^2+2x+6=0 has no positive roots . 
+
+(2) For an equation , if all the even powers of x have some sign coefficients and all the odd powers of x have the opposite sign coefficients , then it has no negative roots . 
+
+(3)Summarising DESCARTES RULE OF SIGNS: 
+
+For an equation f(x)=0 , the maximum number of positive roots it can have is the number of sign changes in f(x) ; and the maximum number of negative roots it can have is the number of sign changes in f(-x) . 
+Hence the remaining are the minimum number of imaginary roots of the equation(Since we also know that the index of the maximum power of x is the number of roots of an equation.) 
+
+
+(4) Complex roots occur in pairs, hence if one of the roots of an equation is 2+3i , another has to be 2-3i and if there are three possible roots of the equation , we can conclude that the last root is real . This real roots could be found out by finding the sum of the roots of the equation and subtracting (2+3i)+(2-3i)=4 from that sum. (More about finding sum and products of roots next time ) 
+
+
+
+------------------------------------------ 
+07/10/2002 THEORY OF EQUATIONS 
+------------------------------------------ 
+
+(1) For a cubic equation ax^3+bx^2+cx+d=o 
+
+sum of the roots = - b/a 
+sum of the product of the roots taken two at a time = c/a 
+product of the roots = -d/a 
+
+(2) For a biquadratic equation ax^4+bx^3+cx^2+dx+e = 0 
+
+sum of the roots = - b/a 
+sum of the product of the roots taken three at a time = c/a 
+sum of the product of the roots taken two at a time = -d/a 
+product of the roots = e/a 
+
+(3) If an equation f(x)= 0 has only odd powers of x and all these have the same sign coefficients or if f(x) = 0 has only odd powers of x and all these have the same sign 
+coefficients then the equation has no real roots in each case(except for x=0 in the second case. 
+
+(4) Besides Complex roots , even irrational roots occur in pairs. Hence if 2+root(3) is a root , then even 2-root(3) is a root . 
+(All these are very useful in finding number of positive , negative , real ,complex etc roots of an equation ) 
+
+ 
+Today's Section: 
+---------------- 
+08/10/2002 
+---------------- 
+
+(1) If for two numbers x+y=k(=constant), then their PRODUCT is MAXIMUM if 
+x=y(=k/2). The maximum product is then (k^2)/4 . 
+
+(2) If for two numbers x*y=k(=constant), then their SUM is MINIMUM if 
+x=y(=root(k)). The minimum sum is then 2*root(k) . 
+
+(3) |x| + |y| >= |x+y| (|| stands for absolute value or modulus ) 
+(Useful in solving some inequations) 
+
+(4) Product of any two numbers = Product of their HCF and LCM . 
+Hence product of two numbers = LCM of the numbers if they are prime to each other . 
+
+1) For any regular polygon , the sum of the exterior angles is equal to 360 degrees 
+hence measure of any external angle is equal to 360/n. ( where n is the number of sides) 
+
+(2) If any parallelogram can be inscribed in a circle , it must be a rectangle. 
+
+(3) If a trapezium can be inscribed in a circle it must be an isosceles trapezium (i:e oblique sies equal). 
+
+(4) For an isosceles trapezium , sum of a pair of opposite sides is equal in length to the sum of the other pair of opposite sides .(i:e AB+CD = AD+BC , taken in order) . 
+
+(5) Area of a regular hexagon : root(3)*3/2*(side)*(side) 
+
+1) For any 2 numbers a>b 
+
+a>AM>GM>HM>b (where AM, GM ,HM stand for arithmetic, geometric , harmonic menasa respectively) 
+
+(2) (GM)^2 = AM * HM 
+
+(3) For three positive numbers a, b ,c 
+
+(a+b+c) * (1/a+1/b+1/c)>=9 
+
+(4) For any positive integer n 
+
+2<= (1+1/n)^n <=3 
+
+(5) a^2+b^2+c^2 >= ab+bc+ca 
+If a=b=c , then the equality holds in the above. 
+
+(6) a^4+b^4+c^4+d^4 >=4abcd 
+
+(7) (n!)^2 > n^n (! for factorial)
+
+-------------------------- 
+This is for 21/10/2002 
+-------------------------- 
+
+(1) If a+b+c+d=constant , then the product a^p * b^q * c^r * d^s will be maximum 
+if a/p = b/q = c/r = d/s . 
+
+(2)Consider the two equations 
+
+a1x+b1y=c1 
+a2x+b2y=c2 
+
+Then , 
+If a1/a2 = b1/b2 = c1/c2 , then we have infinite solutions for these equations. 
+If a1/a2 = b1/b2 <> c1/c2 , then we have no solution for these equations.(<> means not equal to ) 
+If a1/a2 <> b1/b2 , then we have a unique solutions for these equations.. 
+
+(3) For any quadrilateral whose diagonals intersect at right angles , the area of the quadrilateral is 
+0.5*d1*d2, where d1,d2 are the lenghts of the diagonals. 
+
+(4) Problems on clocks can be tackled as assuming two runners going round a circle , one 12 times as fast as the other . That is , 
+the minute hand describes 6 degrees /minute 
+the hour hand describes 1/2 degrees /minute . 
+
+Thus the minute hand describes 5(1/2) degrees more than the hour hand per minute . 
+
+(5) The hour and the minute hand meet each other after every 65(5/11) minutes after being together at midnight. 
+(This can be derived from the above) . 
+
+
+1)If n is even , n(n+1)(n+2) is divisible by 24 
+
+(2)If n is any integer , n^2 + 4 is not divisible by 4 
+
+(3)Given the coordinates (a,b) (c,d) (e,f) (g,h) of a parallelogram , the coordinates of the meeting point of the diagonals can be found out by solving for 
+[(a+e)/2,(b+f)/2] =[ (c+g)/2 , (d+h)/2] 
+
+(4)Area of a triangle 
+1/2*base*altitude = 1/2*a*b*sinC = 1/2*b*c*sinA = 1/2*c*a*sinB = root(s*(s-a)*(s-b)*(s-c)) where s=a+b+c/2 
+=a*b*c/(4*R) where R is the CIRCUMRADIUS of the triangle = r*s ,where r is the inradius of the triangle . 
+
+(5)In any triangle 
+a=b*CosC + c*CosB 
+b=c*CosA + a*CosC 
+c=a*CosB + b*CosA 
+
+(6)If a1/b1 = a2/b2 = a3/b3 = .............. , then each ratio is equal to 
+(k1*a1+ k2*a2+k3*a3+..............) / (k1*b1+ k2*b2+k3*b3+..............) , which is also equal to 
+(a1+a2+a3+............./b1+b2+b3+..........) 
+
+(7)In any triangle 
+a/SinA = b/SinB =c/SinC=2R , where R is the circumradius 
+
+
+
+cosC = (a^2 + b^2 - c^2)/2ab 
+
+sin2A = 2 sinA * cosA 
+cos2A = cos^2(A) - sin^2 (A)
+
+1) x^n -a^n = (x-a)(x^(n-1) + x^(n-2) + .......+ a^(n-1) ) ......Very useful for finding multiples .For example (17-14=3 will be a multiple of 17^3 - 14^3) 
+
+(2) e^x = 1 + (x)/1! + (x^2)/2! + (x^3)/3! + ........to infinity 
+(2a) 2 < e < 3 
+
+(3) log(1+x) = x - (x^2)/2 + (x^3)/3 - (x^4)/4 .........to infinity [ Note the alternating sign . .Also note that the ogarithm is with respect to base e ] 
+
+(4) In a GP the product of any two terms equidistant from a term is always constant . 
+
+(5) For a cyclic quadrilateral , area = root( (s-a) * (s-b) * (s-c) * (s-d) ) , where s=(a+b+c+d)/2 
+
+(6) For a cyclic quadrilateral , the measure of an external angle is equal to the measure of the internal opposite angle. 
+
+(7) (m+n)! is divisible by m! * n! . 
+
+_________________
+"I have miles to go before I sleep 
+ 
+
+
+------------- 
+02/11/2002 
+------------- 
+
+(1) If a quadrilateral circumscribes a circle , the sum of a pair of opposite sides is equal to the sum of the other pair . 
+
+(2)The sum of an infinite GP = a/(1-r) , where a and r are resp. the first term and common ratio of the GP . 
+
+(3)The equation whose roots are the reciprocal of the roots of the equation 
+ax^2+bx+c is cx^2+bx+a 
+
+(4) The coordinates of the centroid of a triangle with vertices (a,b) (c,d) (e,f) 
+is((a+c+e)/3 , (b+d+f)/3) . 
+
+(5) The ratio of the radii of the circumcircle and incircle of an equilateral triangle is 2:1 . 
+
+(6) Area of a parallelogram = base * height 
+
+(7)APPOLLONIUS THEOREM: 
+
+In a triangle , if AD be the median to the side BC , then 
+AB^2 + AC^2 = 2(AD^2 + BD^2) or 2(AD^2 + DC^2) . 
+
+_________________
+ 
+
+1) for similar cones , ratio of radii = ratio of their bases. 
+
+(2) The HCF and LCM of two nos. are equal when they are equal . 
+
+(3) Volume of a pyramid = 1/3 * base area * height 
+
+(4) In an isosceles triangle , the perpendicular from the vertex to the base or the angular bisector from vertex to base bisects the base. 
+
+(5) In any triangle the angular bisector of an angle bisects the base in the ratio of the 
+other two sides. 
+
+(6) the quadrilateral formed by joining the angular bisectors of another quadrilateral is 
+always a rectangle. 
+
+(7) Roots of x^2+x+1=0 are 1,w,w^2 where 1+w+w^2=0 and w^3=1 
+
+( |a|+|b| = |a+b| if a*b>=0 
+else |a|+|b| >= |a+b| 
+
+(9) 2<= (1+1/n)^n <=3 
+
+(10) WINE and WATER formula: 
+
+If Q be the volume of a vessel 
+q qty of a mixture of water and wine be removed each time from a mixture 
+n be the number of times this operation be done 
+and A be the final qty of wine in the mixture 
+
+then , 
+A/Q = (1-q/Q)^n 
+
+(11) Area of a hexagon = root(3) * 3 * (side)^2 
+
+(12) (1+x)^n ~ (1+nx) if x<<<1 
+
+(13) Some pythagorean triplets: 
+
+3,4,5 (3^2=4+5) 
+5,12,13 (5^2=12+13) 
+7,24,25 (7^2=24+25) 
+8,15,17 (8^2 / 2 = 15+17 ) 
+9,40,41 (9^2=40+41) 
+11,60,61 (11^2=60+61) 
+12,35,37 (12^2 / 2 = 35+37) 
+16,63,65 (16^2 /2 = 63+65) 
+20,21,29(EXCEPTION) 
+
+(14) Appolonius theorem could be applied to the 4 triangles formed in a parallelogram. 
+
+(15) Area of a trapezium = 1/2 * (sum of parallel sids) * height = median * height 
+where median is the line joining the midpoints of the oblique sides. 
+
+(16) when a three digit number is reversed and the difference of these two numbers is taken , the middle number is always 9 and the sum of the other two numbers is always 9 . 
+
+(17) ANy function of the type y=f(x)=(ax-b)/(bx-a) is always of the form x=f(y) . 
+
+(1 Let W be any point inside a rectangle ABCD . 
+Then 
+WD^2 + WB^2 = WC^2 + WA^2 
+
+(19) Let a be the side of an equilateral triangle . then if three circles be drawn inside 
+this triangle touching each other then each's radius = a/(2*(root(3)+1)) 
+
+(20) Let 'x' be certain base in which the representation of a number is 'abcd' , then the decimal value of this number is a*x^3 + b*x^2 + c*x + d 
+
+
+5) For a cyclic quadrilateral , area = root( s* (s-a) * (s-b) * (s-c) * (s-d) ) , where s=(a+b+c+d)/2
+
+
+Here are some neat shortcuts on Simple/Compound Interest. 
+
+Shortcut #1: 
+------------- 
+We all know the traditional formula to compute interest... 
+CI = P*(1+R/100)^N - P 
+
+The calculation get very tedious when N>2 (more than 2 years). The method suggested below is elegant way to get CI/Amount after 'N' years. 
+
+You need to recall the good ol' Pascal's Triange in following way: 
+Code: 
+  
+Number of Years (N)                      
+  ------------------- 
+        1                        1 
+        2                    1   2   1 
+        3                  1   3   3   1 
+        4                1   4   6   4   1 
+        .              1 .... .... ... ...   1 
+ 
+
+
+Example: P = 1000, R=10 %, and N=3 years. What is CI & Amount? 
+
+Step 1: 10% of 1000 = 100, Again 10% of 100 = 10 and 10% of 10 = 1 
+We did this three times b'cos N=3. 
+
+Step 2: 
+Now Amount after 3 years = 1 * 1000 + 3 * 100 + 3 * 10 + 1 * 1 = Rs.1331/- 
+The coefficents - 1,3,3,1 are lifted from the pascal's triangle above. 
+
+Step 3: 
+CI after 3 years = 3*100 + 3*10 + 3*1 = Rs.331/- (leaving out first term in step 2) 
+
+If N =2, we would have had, Amt = 1 * 1000 + 2 * 100 + 1 * 10 = Rs. 1210/- 
+CI = 2 * 100 + 1* 10 = Rs. 210/- 
+
+This method is extendable for any 'N' and it avoids calculations involving higher powers on 'N' altogether! 
+
+A variant to this short cut can be applied to find depreciating value of some property. (Example, A property worth 100,000 depreciates by 10% every year, find its value after 'N' years). 
+
+
+Shortcut #2: 
+------------- 
+(i) When interest is calculated as CI, the number of years for the Amount to double (two times the principal) can be found with this following formula: 
+P * N ~ 72 (approximately equal to). 
+Exampe, if R=6% p.a. then it takes roughly 12 years for the Principal to double itself. 
+
+Note: This is just a approximate formula (when R takes large values, the error % in formula increases). 
+
+(ii) When interest is calculated as SI, number of years for amt to double can be found as: 
+N * R = 100 . BTW this formula is exact! 
+
+
+Adding to what 'Peebs' said, this shortcut does work for any P/N/R. 
+
+Basically if you look closely at this method, what I had posted is actually derived from the Binomial expansion of the polynomial -- (1+r/100)^n but in a more "edible" format digestable by us!  
+
+BTW herez one shortcut on recurring decimals to fractions ...Its more easier to explain with an example.. 
+
+Eg: 2.384384384 .... 
+
+Step 1: since the 3 digits '384' is recurring part, multiply 2.384 by 1000 = so we get 2384. 
+
+Next '2' is the non recurring part in the recurring decimal so subtract 2 from 2384 = 2382. 
+
+If it had been 2.3848484.., we would have had 2384 - 23 = 2361. Had it been 2.384444.. NR would be 2384 - 238 = 2146 and so on. 
+
+We now find denominator part ....... 
+
+Step 3: In step 1 we multiplied 2.384384... by 1000 to get 2384, so put that first. 
+
+Step 4: next since all digits of the decimal part of recurring decimal is recurring, subtract 1 from step 3. Had the recurring decimal been 2.3848484, we need to subtract 10. If it had been 2.3844444, we needed to have subtracted 100 ..and so on... 
+
+Hence here, DR = 1000 - 1 = 999 
+
+Hence fraction of the Recurring decimal is 2382/999!! 
+
+Some more examples .... 
+
+1.56787878 ... = (15678 - 156) / (10000 - 100) = 15522/9900 
+
+23.67898989... = (236789 - 2367) / (10000 - 100) = 234422/9900 
+
+124.454545... = (12445 - 124) / (100 - 1) = 12321/99 
+ 
+
+
+

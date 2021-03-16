@@ -1,0 +1,82 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 06
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+bard	poet	noun	
+baroque	highly ornate	adj.	
+barrage	barrier laid down by artillery fire	noun	
+barrister	counselor-at-law	noun	
+barter	trader	noun	
+bask	luxuriate; take pleasure in warmth	verb	
+bassoon	reed instrument of the woodwind family	noun	
+bastion	fortress; defense	noun	
+bate	let down; restrain	verb	
+bauble	trinket; trifle	noun	
+bawdy	indecent; obscene	adj.	
+beatific	giving bliss; blissful	adj.	
+beatitude	blessedness; state of bliss	noun	
+bedizen	dress with vulgar finery	verb	
+bedraggle	wet thoroughly	verb	
+befuddle	confuse thoroughly	verb	
+beget	father, produce; give raise to	verb	
+begrudge	resent	verb	
+beguile	amuse; delude, cheat	verb	
+behemoth	huge creature; monstrous animal	noun	
+beholden	obligated; indebted	adj.	
+behoove	be suited to, be incumbent upon	verb	
+belabor	explain or go over excessively or to a ridiculous degree; attach verbally	verb	
+belated	delayed	adj.	
+beleaguer	besiege	verb	
+belie	contradict; give a false impression	verb	*
+belittle	disparage; depreciate	verb	
+bellicose	warlike	adj.	
+belligerent	quarrelsome	adj.	
+bemused	confused; lost in thought; preoccupied	adj.	
+benediction	blessing	noun	
+benefactor	gift giver; patron	noun	
+beneficent	kindly; doing good	adj.	
+beneficiary	person entitled to benefits or proceeds of an insurance policy or will	noun	
+benevolent	generous; charitable	adj.	*
+benign	kindly; favorable; not malignant	adj.	* 
+benignity	state of being kind, benign, gracious	noun	
+benison	blessing	noun	
+bent	determined	adj.	
+bent	natural talent or inclination	noun	
+bequeath	leave to someone by a will; hand down	verb	*
+berate	scold strongly	verb	
+bereavement	state of being valuable or loved	noun	
+bereft	deprived of; lacking	adj.	
+berserk	frenzied	adj.	
+beset	harass; trouble	verb	
+besmirch	soil; defile	verb	
+bestial	beastlike; brutal	adj.	
+bestow	give	verb	
+betroth	become engaged to marry	verb	
+bevy	large group	noun	
+biased	slanted; prejudiced	adj.	
+bicameral	two-chambered, as a legislative body	adj.	
+bicker	quarrel	verb	
+biennial	every two years	adj.	
+bigotry	stubborn intolerance	noun	
+bilious	suffering from ingestion; irritable	adj.	
+bilk	swindle; cheat	verb	
+billowing	rising or swelling like waves	adj.	
+bivouac	temporary encampment	noun	
+bizarre	fantastic; violently contrasting	adj.	
+blanch	bleach; whiten	verb	
+bland	soothing; mild, dull	adj.	
+blandishment	flattery	noun	
+blase	bored with pleasure or dissipation	adj.	
+blasphemy	cursing; irreverence; sacrilege	noun	*
+blatant	flagrant; consciously obvious; loudly offensive	adj.	
+bleak	cold; cheerless	adj.	
+blighted	suffering for a disease; destroyed	adj.	*
+blithe	gay; joyous	adj.	
+bloated	swollen or puffed as with water or air	adj.	
+bludgeon	club; heavy-headed weapon	noun	
+bluff	pretense(of strength); deception; high cliff	noun

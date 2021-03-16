@@ -1,0 +1,147 @@
+
+Ans 1 : As p/q + q/r + r/s + s/q > 4
+Here p = 100, q= 101, r= 1011 and s= 121
+So the correct answer is D.
+
+Ans2 . As (p^2)q + (q^2)r + (r^2)p >=3pqr
+Here p= 11, q= 25 and r= 12
+So the correct answer is d.
+
+Ans 3. p^4 +q^4 + r^4 + s^4 >= 4pqrs
+So the correct answer is d
+
+Ans 4.  The value of  (1+ 1/x)^x) is between 2 and 3, both value 
+inclusive. 
+So the value  of 2*(1+ 1/x)^x)  will be between 4 and 6, both value 
+inclusive.
+So the correct answer is c. 
+
+Ans 5. As (a+b+c)*(ab+bc+ca) > 9abc
+So 3Z>9abc
+so Z> 3abc, Correct answer is c. 
+
+Ans 6. As (b+c)(c+a)(a+b) > 8abc
+So 4Z>8abc
+hence Z>2abc
+So correct answer is a.
+
+
+Ans 7. As  2<= (1+1/n)^n <= 3
+or 2<= ((n+1)/n)^n <=3
+multiplying by (n+1)/n we get
+2(n+1)/n <= ((n+1)/n)^n+1 <= 3(n+1)/n
+let n+1= K, so we get
+2K/(K-1) <= (K/(K-1))^K <= 3K/(K-1)
+K/(K-1) = P
+so we get 2P<= P^K <= 3P
+so range of P^K  is between 2P and 3P. So the correct answer is 
+a.
+
+
+Ans8. X/Y = P/Q
+adding 1 to both sides :
+(X+Y)/Y = (P+Q)/Q
+Multiplying both sides by 2
+(2X+2Y)/Y = (2P+2Q)/Q
+so 1/Z = (2P+2Q)/Q
+So Q/Z = 2P +2Q
+Hence the correct answer is D.
+
+
+Ans 9. As X/(2X+Y) = Y/(2Y+Z) = Z/(2Z+X) = Sum of the 
+Numerators / Sum of the denominators
+= X+Y+Z/ ( 3X +3Y +3Z)
+= 1/3
+so X/(2X+Y) = 1/3
+or 3X= 2X+Y
+or X= Y
+Similarly Y=Z and Z=X so X=Y=Z
+So, 3X-2Y= X=Y=Z
+So the correct answer = A.
+
+
+Ans 10. As 2<= (1+1/n)^n <= 3
+Multiplying by n^n
+or 2(n^n)<= n^n*(1+1/n)^n <= 3(n^n)
+or 2(n^n)<= (n+1)^n <= 3(n^n)
+dividing by n
+2*(n^(n-1))<= ((n+1)^n)/n <= 3*(n^(n-1))
+So the correct choice = A.
+
+Ans 11. As x^2 +y^2 +z^2 >= xy +yz+ xz
+Here x= 175, y = 185 and z= 195
+So the correct answer is d. 
+
+Ans 12. If product of X and Y is Z then X+Y is minimum when X=
+Y.
+So the minimum possible number of student occurs when B=G
+or B^2= 10,000
+so B= 100= G
+So B+G= 100+100 = 200. S the correct answer is C. 
+
+
+Q13. There are 400 students in a school. Sweets are distributed  
+among them in such a way that each one of get X number of  
+sweets where X  is equal to the maximum of B and G where B  
+and G are defined as following :
+B= Number of Boys
+G= Number of Girls.
+What are the maximum number of sweets that can be distributed  
+?
+A) 400,000 B) 800,000  C) 40,000  D) 80,000
+
+NOTE : There was a typing error in this question the phrase " X is 
+equal to the maximum of B and G...." should be read as " X is 
+equal to the the minimum of B and G ". If the wording of the 
+question is not changed than the correct answer is as provided 
+by Dinu Gupta in the message below.
+ 
+Ans 13. If X + Y = Z then the maximum value of X*Y occurs when 
+X=Y.
+So the maximum number of sweets will be distributed when B=
+G.
+So the number of boys and girls will be 200 each and each one 
+will get 200 sweets.
+200*200 = 40,000
+So the correct answer is C. 
+
+
+
+Ans 14. As (pq+rs-tv)/a = (pq-rs+tv)/b = (-pq+rs+tv)/c  = Sum of 
+the Numerators / Sum of the denominators
+= (pq+rs+tv)/ (a+b+c)
+so (pq+rs+tv)/ (a+b+c) = 2(a+b+c)
+or (pq+rs+tv) = 2*(a+b+c)^2
+so a+b+c = ((pq+rs+tv)^0.5)/2
+Hence the correct answer is B.
+
+
+Ans 15.  Ans 15. (pq+rs)/tv = (rs+tv)/pq = (pq+tv)/rs =  Sum of the 
+numerator/ sum of the denominators
+or 2( pq+rs+tv)/(pq+rs+tv) = 2
+so 2= Z/2 of Z= 4
+So Y>4. SO the correct answer is A. 
+
+
+Ans 16. As a^2 +b^2 +c^2 +d^2 < (a+b+c+d)^2
+we get 2K< (a+b+c+d)^2
+so K < ((a+b+c+d)^2)/2
+So the correct answer is A. 
+
+Ans 17: The minimum value will occur when the absolute value 
+of a+b+c is nearest to zero or zero. The maximum value will 
+occur when the absolute value of a+b+c is furthest away from 
+Zero, be it in any direction.
+Putting a= 0, b=0 and c= 0 we get a+b+c= 0 , so 0 is the 
+minimum possible value.
+Putting a=-1,b=-2 and c= -3 we get a+b+c= -6 , sqaure of which 
+is 36. 36 is the highest possible value. 
+SO the correct answer is C.
+
+Ans18 . (p^2)q + (q^2)r + (r^2)p >=3pqr
+So we get 36pq >= 3pqr
+or 12 >= r. SO the correct answer is a.
+
+Ans 19= J, Ans 20= H, Ans 21= C, Ans 22= D, Ans 23= F, Ans 
+24= B
+

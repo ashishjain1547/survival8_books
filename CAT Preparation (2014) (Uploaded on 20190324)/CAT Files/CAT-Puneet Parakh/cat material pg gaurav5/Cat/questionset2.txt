@@ -1,0 +1,96 @@
+(11) There are 12 pipes attached to a tank. Some of them are fill pipes and some are drain pipes. Each of the fill pipes can fill the tank in 12 hours, while each of the drain pipes will take 24 hours to drain a full tank completely. If all the pipes are kept open when the tank was empty, it takes 2 hours for the tank to overflow. How many of these pipes are drain pipes? (1) 6 (2) 11 (3) 4 (4) 7 
+
+Correct Answer - (3) 
+
+
+Solution: 
+
+There are 12 pipes attached to the tank. Let ‘n’ of them be fill pipes. Therefore, there will be 12-n drain pipes. 
+
+Each fill pipe, fills the tank in 12 hours. Therefore, th of the tank gets filled every hour by one fill pipe. 
+‘n’ fill pipes will, therefore, fill th of the tank in an hour. 
+
+Each drain pipe drains the tank in 24 hours. That is, th of the tank gets drained by one drain pipe every hour. 
+12-n drain pipes, will therefore, drain th of the tank in an hour. 
+When all the pipes are open when the tank is empty, it takes 2 hours for the tank to overflow. i.e. ½ the tank gets filled every hour. 
+
+Equating the information, we get 
+=> => 3n - 12 = 12 or 3n = 24 or n = 8. 
+
+Therefore, there are 8 fill pipes and (12 -  = 4 drain pipes. 
+
+------------------------------------------------------------------------------------------------------------------------------- 
+(12) What is the longest gap that any person will have to wait between two birthdays? (1) 365 days (2) 366 days (3) 4 years (4) 8 years 
+
+Correct Answer - (4) 
+
+
+Solution: 
+
+Any person who is born on February 29th will normally celebrate his birthday once in four years whenever a leap year happens. 
+
+However, years like 1700, 1800, 1900 which are divisible by ‘4’ but not by ‘400’ are not leap years. 2000 was a leap year, 2400 will be a leap year. 
+
+So, for a person born on Feb 29, 1892, for instance, will have celebrated a birthday on Feb 29, 1896 and then the next birthday will be only on Feb 29, 1904. That is a 8-year gap. 
+
+------------------------------------------------------------------------------------------------------------------------------- 
+(13) What is the area of the largest triangle that can be fitted into a rectangle of length 'l' units and width 'w' units? (1) lw/3 (2) (2lw)/3 (3) (3lw)/4 (4) (lw)/2 
+
+Correct Answer - (4) 
+
+
+Solution: 
+
+The triangle which has its base as the length of the rectangle and its height as the width of the rectangle or the triangle which has its base as the width of the rectangle and its height as the length of the rectangle will be the largest triangle that can be fitted in the rectangle. 
+
+If the base of the triangle is 'l' and its height 'w', then its area is units. 
+Similarly, if the base of the triangle is 'w' units and its height is 'l' units, then its area is units. 
+------------------------------------------------------------------------------------------------------------------------------- 
+
+(14) A predator is chasing its prey. The predator takes 4 leaps for every 6 leaps of the prey and the predator covers as much distance in 2 leaps as 3 leaps of the prey. Will the predator succeed in getting its food? (1) Yes 
+(2) In the 6th leap 
+(3) Never 
+(4) Cannot determine 
+
+Correct Answer - (4) 
+
+
+Solution: 
+
+Distance covered in 2 leaps by predator = 3 leaps of the prey. 
+Distance covered in 1 leap of predator = 3/2 leaps of prey. ----(1) 
+
+4 leaps of predator : 6 leaps of prey ----(2) 
+
+Using (1) and (2), we get 
+4*3/2 leaps of predator : 6 leaps of prey. 
+=> 1:1 
+If the predator and prey start simultaneously at the same point, the predator will catch the prey immediately. If not so, then the predator will never catch the prey as it was running at the same speed. 
+As it was not mentioned in the question that they start simultaneously from the same point or not, we can't determine the answer. Therefore, the answer choice is (4). 
+------------------------------------------------------------------------------------------------------------------------------- 
+
+(15) In what ratio must a person mix three kinds of tea costing Rs.60/kg, Rs.75/kg and Rs.100 /kg so that the resultant mixture when sold at Rs.96/kg yields a profit of 20%? (1) 1 : 2 : 4 (2) 3 : 7 : 6 (3) 1 : 4 : 2 (4) None of these 
+
+Correct Answer - (3) 
+Solution 
+The resultant mixture is sold at a profit of 20% at Rs.96/kg 
+i.e. 1.2 (cost) = Rs.96 => Cost = = Rs.80 / kg. 
+Let the three varities be A, B, and C costing Rs.60, Rs.75 and Rs.100 respectively. 
+The mean price falls between B and C. 
+
+Hence the following method should be used to find the ratio in which they should be mixed. 
+Step 1. Find out the ratio of QA : QC using alligation rule 
+Step 2. Find out the ratio of QB : QC using alligation rule 
+Step 3. QC, the resultant ratio of variety c can be found by adding the value of QC in step 1 and step 2 = 1 + 1 = 2. 
+
+However, in CAT if you try and solve the problem using the above method, you will end up spending more than 2, and may be 3 minutes on this problem, which is a criminal mismanagement of time. 
+The best way to solve a problem of this kind in CAT is to go from the answer choices as shown below 
+
+
+
+The resultant ratio QA : QB : QC :: 1 : 4 : 2. 
+
+1 kg of variety A at Rs.60 is mixed with 4 kgs of variety B at Rs.75 and 2 kgs of variety C at Rs.100. 
+The total cost for the 7 kgs = 60 + (4 * 75) + (2 * 100) = 60 +300 + 200 = 560. 
+Cost per kg of the mixture = 560/7 = 80 kgs. 
+

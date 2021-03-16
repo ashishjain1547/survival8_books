@@ -1,0 +1,15 @@
+var MAX_a41263bb = '';
+MAX_a41263bb += "<"+"span><"+"script type=\'text/javascript\'><"+"!--// <"+"![CDATA[\n";
+MAX_a41263bb += "/* openads=http://idli.inzanecenter.com/www/hercules bannerid=145 zoneid=20 source={obfs:} */\n";
+MAX_a41263bb += "// ]]> --><"+"/script><"+"script type=\"text/javascript\"><"+"!--\n";
+MAX_a41263bb += "google_ad_client = \"pub-7359360881399793\";\n";
+MAX_a41263bb += "/* 120x240, created 3/31/08 */\n";
+MAX_a41263bb += "google_ad_slot = \"6904098046\";\n";
+MAX_a41263bb += "google_ad_width = 120;\n";
+MAX_a41263bb += "google_ad_height = 240;\n";
+MAX_a41263bb += "//-->\n";
+MAX_a41263bb += "<"+"/script>\n";
+MAX_a41263bb += "<"+"script type=\"text/javascript\"\n";
+MAX_a41263bb += "src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n";
+MAX_a41263bb += "<"+"/script><"+"script type=\'text/javascript\' src=\'http://idli.inzanecenter.com/www/hercules/ag.php\'><"+"/script><"+"/span><"+"div id=\'beacon_145\' style=\'position: absolute; left: 0px; top: 0px; visibility: hidden;\'><"+"img src=\'http://idli.inzanecenter.com/www/hercules/woody.php?bannerid=145&amp;campaignid=124&amp;zoneid=20&amp;source={obfs:}&amp;channel_ids=,&amp;loc=http%3A%2F%2Fwww.pagalguy.com%2Fforum%2Fcat-and-related-discussion%2F3321-profile-people-who-have-converted-38.html&amp;referer=http%3A%2F%2Fwww.pagalguy.com%2Fforum%2Fcat-and-related-discussion%2F3321-profile-people-who-have-converted-37.html&amp;cb=32e3a1ed82\' width=\'0\' height=\'0\' alt=\'\' style=\'width: 0px; height: 0px;\' /><"+"/div>\n";
+document.write(MAX_a41263bb);

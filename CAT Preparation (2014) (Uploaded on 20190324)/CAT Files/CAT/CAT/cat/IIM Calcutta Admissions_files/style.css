@@ -1,0 +1,42 @@
+BODY {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial
+}
+TD {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial
+}
+BODY.smallbld {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Verdana, Arial
+}
+TD.smallbld {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Verdana, Arial
+}
+A.bigbl {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial; TEXT-DECORATION: none
+}
+A.bigbl:hover {
+	FONT-SIZE: 10pt; COLOR: #0033ff; FONT-FAMILY: Verdana, Arial; TEXT-DECORATION: none
+}
+A.highlights {
+	FONT-SIZE: 12pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial; TEXT-DECORATION: none; TEXT-WEIGHT: bold
+}
+A.highlights:hover {
+	FONT-SIZE: 12pt; COLOR: #996633; FONT-FAMILY: Verdana, Arial; TEXT-DECORATION: none; TEXT-WEIGHT: bold
+}
+A.bigwh {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial; TEXT-DECORATION: none
+}
+A.bigwh:hover {
+	FONT-SIZE: 10pt; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial; TEXT-DECORATION: none
+}
+A.smallbl {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial; TEXT-DECORATION: none
+}
+A.smallbl:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #ff0000; FONT-FAMILY: Verdana, Arial; TEXT-DECORATION: none
+}
+A.sitewh {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial; TEXT-DECORATION: none
+}
+A.sitewh:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #00ccff; FONT-FAMILY: Verdana, Arial; TEXT-DECORATION: none
+}

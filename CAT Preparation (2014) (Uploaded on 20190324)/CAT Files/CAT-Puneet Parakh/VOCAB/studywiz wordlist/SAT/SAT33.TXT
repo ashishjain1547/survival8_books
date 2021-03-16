@@ -1,0 +1,73 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 33
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+obsolete	outmoded	adjective
+obstetrician	physician specializing in delivery of babies	noun
+obstinate	stubborn	adjective	*
+obstreperous	boisterous; noisy	adjective
+obtrusive	pushed forward	adjective
+obtuse	blunt; stupid	adjective
+obviate	make unnecessary; get rid of	verb
+Occident	the West	noun
+occult	mysterious; secret; supernatural	adjective
+oculist	physician who specializes in treatment of the eyes	noun
+odious	hateful	adjective
+odium	repugnance; dislike	noun
+odoriferous	giving off an odor	adjective
+odorous	having an odor	adjective
+odyssey	long, eventful journey	noun
+officious	meddlesome; excessively trying to please	adjective
+ogle	glance coquettishly at; make eyes at	verb
+olfactory	concerning the sense of smell	adjective
+oligarchy	government by a few	noun
+ominous	threatening	adjective	*
+omnipotent	all-powerful	adjective
+omnipresent	universally present; ubiquitous	adjective
+omniscient	all-knowing	adjective
+omnivorous	eating both plant and animal food; devouring everything	adjective
+onerous	burdensome	adjective
+onomatopoeia	words formed in imitation of natural sounds	noun
+onslaught	viscous assault	noun
+onus	burden; responsibility	noun
+opalescent	iridescent	adjective
+opaque	dark; not transparent	adjective	*
+opiate	sleep producer; deadener of pain	noun
+opportune	timely; well chosen	adjective
+opportunist	individual who sacrifices principles for expediency by taking advantage of the circumstances	noun	*
+opprobrium	infamy; vilification	noun
+optician	maker and seller of eyeglasses	noun
+optimist	person who looks on the good side	noun	*
+optimum	most favorable	adjective
+optional	not compulsory; left to one's choice	adjective
+optometrist	one who fits glasses to remedy visual defects	noun
+opulence	wealth	noun	*
+opus	work	noun
+oracular	foretelling; mysterious	adjective
+oratorio	dramatic poem set to music	noun
+ordain	command; arrange; consecrate	verb
+ordinance	decree	noun
+orient	get one's bearings; adjust	verb
+orientation	act of finding oneself in society	noun
+orifice	mouthlike opening; small opening	noun
+ornate	excessively decorated	adjective
+ornithologist	scientific student of birds	noun
+ornithology	study of birds	noun
+orthodox	traditional; conservative in belief	adjective
+orthography	correct spelling	noun
+oscillate	vibrate pendulumlike; weaver	verb
+ossify	change or harden into bone	verb
+ostensible	apparent; professed; pretended	adjective
+ostentatious	showy; pretentious	adjective
+ostracize	exclude from public favor; ban	verb
+oust	expel; drive out	verb
+overt	open to view	adjective
+overweening	presumptuous; arrogant	adjective
+ovoid	egg-shaped	adjective
+pachyderm	thick-skinned animal	noun
+pacifist	one opposed to force; antimilitarist	noun

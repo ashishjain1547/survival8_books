@@ -1,0 +1,80 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 40
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+redolent	fragrant; odorous; suggestive of an odor	adjective
+redoubtable	formidable; causing fear	adjective
+redress	remedy; comprehension	noun
+redundant	superfluous; excessively wordy; repetitious	adjective	*
+reek	emit (odor)	verb
+refectory	dining hall	noun
+refraction	bending of a ray of light	noun
+refractory	stubborn; unmanageable	adjective
+refurbish	renovate	verb
+refutation	disproof of opponents' arguments	noun
+refute	disprove	verb	*
+regal	royal	adjective
+regale	entertain	verb
+regatta	boat or yacht race	noun
+regeneration	spiritual rebirth	noun
+regicide	murder of a king or queen	noun
+regime	method or system of government	noun
+regimen	prescribed diet and habits	noun
+rehabilitate	restore to proper condition	verb
+reimburse	repay	verb
+reiterate	repeat	verb
+rejuvenate	make young again	verb
+relegate	banish; consign to inferior position	verb	*
+relevancy	pertinence; reference to the case in hand	noun	*
+relinquish	abandon	verb
+relish	savor; enjoy	verb
+remediable	reparable	adjective
+remedial	curative; corrective	adjective
+reminiscence	recollection	noun
+remiss	negligent	adjective
+remnant	remainder	noun
+remonstrate	protest	verb
+remorse	guilt; self-reproach	noun	*
+remunerative	compensating; rewarding	adjective
+rend	split; tear apart	verb
+render	deliver; provide; represent	verb
+rendezvous	meeting place	noun
+rendition	translation; artistic interpretation of a song	noun
+renegade	deserter; apostate	noun
+renege	deny; go back on	verb
+renounce	abandon; discontinue; disown; repudiate	verb	*
+renovate	restore to good condition; renew	verb
+renunciation	giving up; renouncing	verb
+reparable	capable of being repaired	adjective
+reparation	amends; compensation	noun
+repartee	clever reply	noun
+repellent	driving away; unattractive	adjective
+repercussion	rebound; reverberation; reaction	noun
+repertoire	list of works of music, drama, etc., a performer is prepared to present	noun
+repine	fret; complain	verb
+replenish	fill up again	verb
+replete	filled to capacity; abundantly supplied	adjective
+replica	copy	noun
+replicate	reproduce; duplicate	verb
+repository	storehouse	noun
+reprehensible	deserving blame	adjective
+repress	restrain; crush; oppress	verb
+reprieve	temporary stay	noun
+reprimand	reprove severely	verb	*
+reprisal	retaliation	noun
+reproach	blame; censure	noun
+reprobation	severe disapproval	noun
+reprove	censure; rebuke	verb	*
+repudiate	disown; disavow	verb	*
+repugnance	loathing	noun
+repulsion	act of driving back; distaste	noun
+reputed	supposed	adjective
+requiem	mass for the dead; dirge	noun
+requisite	necessary requirement	noun
+requite	repay; revenge	verb
+rescind	cancel	verb

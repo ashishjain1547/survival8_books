@@ -1,0 +1,80 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 38
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+propitious	favorable; kindly	adjective
+proponent	person who supports or proposes (an idea)	noun
+propound	put forth for analysis	verb
+propriety	fitness; correct conduct	noun
+propulsive	driving forward	adjective
+prosaic	commonplace; dull	adjective
+proscribe	ostracize; banish; outlaw	verb
+proselytize	convert to a religion or belief	verb
+prosody	the art of versification	noun
+prostrate	stretch out fill on ground	verb
+protean	versatile; able to take many shapes	adjective
+protégé	person under protection and support of a patron	noun
+protocol	diplomatic etiquette	noun
+prototype	original work used as a model by others	noun
+protract	prolong	verb	*
+protrude	stick out	verb
+provenance	origin or source of something	noun
+provender	dry food; fodder	noun
+provident	displaying foresight; thrifty; preparing for emergencies	adjective
+provincial	pertaining to a province; limited	adjective
+provisional	tentative	adjective
+proviso	stipulation	noun
+provoke	stir to anger; cause retaliation	verb	*
+proximity	nearness	noun
+proxy	authorized agent	noun
+prude	excessively modest person	noun
+prudent	cautious; careful	adjective	*
+prune	cut away; trim	verb
+prurient	based on lascivious thoughts	adjective
+pseudonym	pen-name	noun
+psyche	soul; mind	noun
+psychiatrist	a doctor who treats mental diseases	noun
+psychopathic	pertaining to mental derangement	adjective
+psychosis	mental disorder	noun
+pterodactyl	extinct flying reptile	noun
+puerile	childish	adjective
+pugilist	boxer	noun
+pugnacious	combative; disposed to fight	adjective
+puissant	powerful; strong; potent	adjective
+pulchritude	beauty; comeliness	noun
+pulmonary	pertaining to the lungs	adjective
+pulsate	throb	verb
+pummel	beat	verb
+punctilious	laying stress on niceties of conduct, form; precise	adjective
+pundit	learned Hindu; any learned man; authority on a subject	noun
+pungent	stinging; caustic	adjective
+punitive	punishing	adjective
+puny	insignificant; tiny; weak	adjective
+purchase	firm grasp or footing	noun
+purgatory	place for spiritual expiation	noun
+purge	clean by removing impurities; clear of charges	verb
+purloin	steal	verb
+purport	intention; meaning	noun
+purveyor	furnisher of foodstuffs; caterer	noun
+purview	scope	noun
+pusillanimous	cowardly; fainthearted	adjective
+putative	supposed; reputed	adjective
+putrid	foul; rotten; decayed	adjective
+pyromaniac	person with an insane desire to set things on fire	noun
+quack	charlatan; impostor	noun
+quadrupled	four-footed animal	noun
+quaff	drink with relish	verb
+quagmire	bog; marsh	noun
+quail	cower; lose heart	verb
+quaint	odd; old-fashioned; picturesque	adjective
+qualified	limited; restricted	adjective	*
+qualms	misgivings	noun
+quandary	dilemma	noun	*
+quarantine	isolation of person or ship to prevent spread of infection	noun
+quarry	victim; object of a hunt	noun
+quarry	dig into	verb

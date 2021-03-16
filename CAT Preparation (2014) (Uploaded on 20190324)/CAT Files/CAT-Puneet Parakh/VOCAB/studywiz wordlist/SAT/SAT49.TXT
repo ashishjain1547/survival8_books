@@ -1,0 +1,76 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 49
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+vellum	parchment	noun
+velocity	speed	noun
+venal	capable of being bribed	adjective
+vendetta	blood feud	noun
+vendor	seller	noun
+veneer	thin layer; cover	noun
+venerable	deserving high respect	adjective
+venerate	revere	verb	*
+venial	forgivable; trivial	adjective
+venison	the meat of a deer	noun
+vent	small opening; outlet	noun
+vent	express; utter	verb
+ventral	abdominal	adjective
+ventriloquist	someone who can make his or her voice seem to come from another person or thing	noun
+venturesome	bold	adjective
+venturous	daring	adjective
+venue	location	noun
+veracious	truthful	adjective
+verbalize	to put into words	verb
+verbatim	word for word	adverb
+verbiage	pompous array of words	noun
+verbose	wordy	adjective	*
+verdant	green; fresh	adjective
+verge	border; edge	noun
+verisimilitude	appearance of truth; likelihood	noun
+verity	truth; reality	noun
+vernacular	living language; natural style	noun
+vernal	pertaining to spring	adjective
+versatile	having many talents; capable of working in many fields	adjective
+vertex	summit	noun
+vertigo	dizziness	noun
+verve	enthusiasm; liveliness	noun
+vestige	trace; remains	noun
+vex	annoy; distress	noun
+viable	capable of maintaining life	adjective	*
+viand	food	noun
+vicarious	acting as a substitute; done by a deputy	adjective
+vicissitude	change of fortune	noun
+victuals	food	noun
+vie	contend; compete	verb
+vigilance	watchfulness	noun
+vignette	picture; short literary sketch	noun
+vigor	active strength	noun
+vilify	slander	verb	*
+vindicate	clear of charges	verb
+vindictive	revengeful	adjective
+viper	poisonous snake	noun
+virile	manly	adjective
+virtual	in essence; for particular purposes	adjective
+virtue	goodness; moral excellence; good quality	noun
+virtuoso	highly skilled artist	noun	*
+virulent	extremely poisonous	adjective	*
+virus	disease communicator	noun
+visage	face; appearance	noun
+visceral	felt in one's inner organs	adjective
+viscous	sticky; gluey	adjective
+visionary	produced by imagination; fanciful; mystical	adjective
+vital	vibrant and lively; critical; living, breathing	adjective
+vitiate	spoil the effect of; make inoperative	verb
+vitreous	pertaining to or resembling glass	adjective
+vitriolic	corrosive; sarcastic	adjective
+vituperative	abusive; scolding	adjective
+vivacious	animated; gay	adjective
+vivisection	act of dissecting living animals	noun
+vixen	female fox; ill-tempered woman	noun
+vociferous	clamorous; noisy	adjective
+vogue	popular fashion	noun

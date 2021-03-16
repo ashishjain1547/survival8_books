@@ -1,0 +1,76 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 42
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+sadistic	inclined to cruelty	adjective
+saga	Scandinavian myth; any legend	noun
+sagacious	keen; shrewd; having insight	adjective	*
+salient	prominent	adjective
+saline	salty	adjective
+sallow	yellowish; sickly in color	adjective
+salubrious	healthful	adjective
+salutary	tending to improve; beneficial; wholesome	adjective
+salvage	rescue from loss	verb
+sanctimonious	displaying ostentatious or hypocritical devoutness	adjective
+sanction	approve; ratify	verb	*
+sangfroid	coolness in a trying situation	noun
+sanguinary	bloody	adjective
+sanguine	cheerful; hopeful	adjective
+sarcasm	scornful remarks; stinging rebuke	noun
+sarcophagus	stone coffin, often highly decorated	noun
+sardonic	disdainful; sarcastic; cynical	adjective
+sartorial	pertaining to tailors	adjective
+sate	satisfy to the full; cloy	verb
+satellite	small body revolving around a larger one	noun
+satiate	surfeit; satisfy fully	verb
+satiety	condition of being crammed full; glutted state; repletion	noun
+satire	form of literature in which irony; sarcasm, and ridicule are employed to attack vice and folly	noun
+satirical	mocking	adjective	*
+saturate	soak	verb	*
+saturnine	gloomy	adjective
+satyr	half-human, half-bestial being in the court of Dionysus, portrayed as wanton and cunning	noun
+saunter	stroll slowly	verb
+savant	scholar	noun
+savoir faire	tact; poise; sophistication	noun
+savory	tasty; pleasing, attractive, or agreeable	adjective	*
+scanty	meager; insufficient	adjective	*
+scapegoat	someone who bears the blame for others	noun
+scavenger	collector and disposer of refuse; animal that devours refuse and carrion	noun
+schism	division; split	noun
+scintilla	shred; least bit	noun
+scintillate	sparkle; flash	verb
+scion	offspring	noun
+scoff	mock; ridicule	verb
+scourge	lash; whip; severe punishment	noun
+scrupulous	conscientious; extremely thorough	adjective	*
+scrutinize	examine closely and critically	verb	*
+scullion	menial kitchen worker	noun
+scurrilous	obscene; indecent	adjective
+scurry	move briskly	verb
+scuttle	scurry; run with short; rapid steps	verb
+scuttle	sink	verb
+sebaceous	oily; fatty	adjective
+secession	withdrawal	noun
+seclusion	isolation; solitude	noun	*
+secrete	hide away; produce and release a substance into an organism	verb
+sectarian	relating to a religious fraction or subgroup; narrow-minded; limited	adjective	*
+secular	worldly; not pertaining to church matters; temporal	adjective
+sedate	composed; grave	adjective
+sedentary	requiring sitting	adjective
+sedition	resistance to authority; insubordination	noun
+sedulous	diligent	adjective
+seethe	be disturbed; boil	verb
+seine	net for catching fish	noun
+seismic	pertaining to earthquakes	adjective
+semblance	outward appearance; guise	noun
+senility	old age; feeble mindedness of old age	noun
+sensual	devoted to the pleasures of the senses; carnal; voluptuous	adjective
+sensuous	pertaining to the physical senses; operating through the senses	adjective
+sententious	terse; concise; aphoristic	adjective
+septic	putrid; producing putrefaction	adjective
+sepulcher	tomb	noun

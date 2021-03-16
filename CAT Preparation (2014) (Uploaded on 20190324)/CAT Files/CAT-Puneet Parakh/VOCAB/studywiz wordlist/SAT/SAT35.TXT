@@ -1,0 +1,71 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 35
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+pecuniary	pertaining to money	adjective	
+pedagogue	teacher; dull and formal teacher	noun	
+pedagogy	teaching; art of education	noun	
+pedant	scholar who overemphasizes book learning and technicalities	noun	
+pedantic	showing off learning; bookish	adjective	
+pedestrian	ordinary, unimaginative	adjective	
+pediatrician	expert in children's diseases	noun	
+pediment	triangular part above columns in Greek buildings	noun	
+pejorative	having a deteriorating or depreciating effect on the meaning of a word  	adjective	
+pell-mell	in confusion; disorderly	adverb
+pellucid	transparent; limpid; easy to understand	adjective	
+penance	self-imposed punishment for sin	noun	
+penchant	strong inclination; liking	noun	
+pendant	hanging down from something	adjective	
+penitent	repentant	adjective	
+pensive	dreamily thoughtful; thoughtful with a hint of sadness	adjective	
+penurious	stingy; parsimonious	adjective	
+penury	extreme poverty	noun	
+peon	unskilled laborer; drudge	noun	
+perceptive	insightful; aware; wise	adjective	
+percussion	striking one object against another sharply	adjective	
+perdition	damnation; complete ruin	noun	
+peregrination	journey	noun	
+peremptory	demanding and leaving no choice	adjective	
+perennial	something that is continuing or recent	noun	
+perfidious	basely false	adjective	
+perfidy	violation of a thrust	noun	
+perforate	pierce; put a hole through	verb	
+perfunctory	superficial; not thorough	adjective	*
+perimeter	outer boundary	noun	
+peripatetic	walking about; moving	adjective	
+peripheral	marginal; outer	adjective	*
+periphery	edge, especially of a round surface	noun	
+perjury	false testimony while under oath	noun	
+permeable	porous; allowing passage through	adjective	
+permeate	pass through; spread	verb	
+pernicious	very destructive	adjective	
+perpetrate	commit an offense	verb	
+perpetual	everlasting	adjective	
+perquisite	any gain above stipulate salary	noun	
+personable	attractive	adjective	
+perspicacious	having insight; penetrating; astute	adjective	
+perspicuity	clearness of expression; freedom from ambiguity	noun	
+perspicuous	plainly expressed	adjective	
+pert	impertinent; forward	adjective	
+pertinacious	stubborn; persistent	adjective	
+pertinent	suitable; to the point	adjective	
+perturb	disturb greatly	verb	
+perturbation	agitation	noun	*
+perusal	reading	noun	
+pervasive	spread throughout; permeating	adjective	*
+perverse	stubborn; intractable	adjective	
+perversion	corruption; turning from right to wrong	noun	
+perversity	stubborn maintenance of a wrong cause	noun	
+pessimism	belief that life is basically bad and evil; gloominess	noun	
+pestilential	causing plague; baneful	adjective	
+petrify	turn to stone	verb	
+petty	trivial; unimportant; very small	adjective	
+petulant	touchy, peevish	adjective	
+pharisaical	pertaining to the Pharisees, who paid scrupulous attention to the tradition; self-righteous; hypocritical	adjective	
+phenomena	observable facts; subjects of scientific investigation	noun	
+philander	make love lightly; flirt	verb

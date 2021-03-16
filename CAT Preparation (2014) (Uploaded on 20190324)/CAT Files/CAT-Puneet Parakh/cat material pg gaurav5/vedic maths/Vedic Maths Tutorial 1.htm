@@ -1,0 +1,2284 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0061)http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp -->
+<HTML><HEAD><TITLE>Vedic Maths Tutorial (interactive)</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<SCRIPT language=JavaScript>
+<!-- Begin
+// Load images needed for test.
+var blank = new Image() ; blank.src = "Graphics/blank.jpg";
+var tick = new Image() ; tick.src = "Graphics/tick.jpg";
+var cross = new Image() ; cross.src = "Graphics/cross.jpg";
+var question = new Image() ; question.src = "Graphics/question.jpg";
+
+function checkDoubleAnswer(ansVal,ans,frm,ansVal2,ans2,btnName,total) {
+  if (document.images)
+  {
+    ansField2 = "document." + frm + "." + ansVal2 + ".value"
+    answer2 = eval(ansField2) ;
+    if (( ansVal.value == "" ) &&
+        ( answer2 == "" ))
+    {
+        document[btnName].src = eval('blank' + ".src");
+    }
+    else
+    {
+      if (( ansVal.value == "" ) ||
+          ( answer2 == "" ))
+      {
+          document[btnName].src = eval('question' + ".src");
+      }
+      else
+	  {
+        if (( ansVal.value == ans ) &&
+            ( answer2 == ans2 ))
+        {
+          document[btnName].src = eval('tick' + ".src");
+        }
+        else
+        {
+          document[btnName].src = eval('cross' + ".src");
+        }
+	  }
+    }
+  }
+  total() ;
+}
+
+function checkAnswer(ansVal,ans,btnName,total) {
+  if (document.images)
+  {
+    if ( ansVal.value == "" )
+    {
+        document[btnName].src = eval('blank' + ".src");
+    }
+    else
+	{
+      if ( ansVal.value == ans )
+      {
+        document[btnName].src = eval('tick' + ".src");
+      }
+      else
+      {
+        document[btnName].src = eval('cross' + ".src");
+      }
+	}
+  }
+  total() ;
+}
+
+function totalForm1()
+{
+  total = 0 ;
+  if ( document.EXERCISE1.EX1ANS1.value == 223 ) { total += 1 ; }
+  if ( document.EXERCISE1.EX1ANS2.value == 717 ) { total += 1 ; }
+  if ( document.EXERCISE1.EX1ANS3.value == 495 ) { total += 1 ; }
+  if ( document.EXERCISE1.EX1ANS4.value == 7655 ) { total += 1 ; }
+  if ( document.EXERCISE1.EX1ANS5.value == 124 ) { total += 1 ; }
+  if ( document.EXERCISE1.EX1ANS6.value == 8899 ) { total += 1 ; }
+  if ( document.EXERCISE1.EX1ANS7.value == 43 ) { total += 1 ; }
+  if ( document.EXERCISE1.EX1ANS8.value == 943 ) { total += 1 ; }
+  if ( document.EXERCISE1.EX1ANS9.value == 9679 ) { total += 1 ; }
+  if ( document.EXERCISE1.EX1ANS10.value == 9962 ) { total += 1 ; }
+  document.EXERCISE1.EX1TOTAL.value = total ;
+}
+
+function resetForm1()
+{
+  document['EX1RES1'].src = eval('blank' + ".src");
+  document['EX1RES2'].src = eval('blank' + ".src");
+  document['EX1RES3'].src = eval('blank' + ".src");
+  document['EX1RES4'].src = eval('blank' + ".src");
+  document['EX1RES5'].src = eval('blank' + ".src");
+  document['EX1RES6'].src = eval('blank' + ".src");
+  document['EX1RES7'].src = eval('blank' + ".src");
+  document['EX1RES8'].src = eval('blank' + ".src");
+  document['EX1RES9'].src = eval('blank' + ".src");
+  document['EX1RES10'].src = eval('blank' + ".src");
+}
+
+function totalForm21()
+{
+  total = 0 ;
+  if ( document.EXERCISE21.EX21ANS1.value == 64 ) { total += 1 ; }
+  if ( document.EXERCISE21.EX21ANS2.value == 63 ) { total += 1 ; }
+  if ( document.EXERCISE21.EX21ANS3.value == 72 ) { total += 1 ; }
+  if ( document.EXERCISE21.EX21ANS4.value == 49 ) { total += 1 ; }
+  if ( document.EXERCISE21.EX21ANS5.value == 81 ) { total += 1 ; }
+  if ( document.EXERCISE21.EX21ANS6.value == 36 ) { total += 1 ; }
+  document.EXERCISE21.EX21TOTAL.value = total ;
+}
+
+function resetForm21()
+{
+  document['EX21RES1'].src = eval('blank' + ".src");
+  document['EX21RES2'].src = eval('blank' + ".src");
+  document['EX21RES3'].src = eval('blank' + ".src");
+  document['EX21RES4'].src = eval('blank' + ".src");
+  document['EX21RES5'].src = eval('blank' + ".src");
+  document['EX21RES6'].src = eval('blank' + ".src");
+}
+
+function totalForm22()
+{
+  total = 0 ;
+  if ( document.EXERCISE22.EX22ANS1.value == 8526 ) { total += 1 ; }
+  if ( document.EXERCISE22.EX22ANS2.value == 8536 ) { total += 1 ; }
+  if ( document.EXERCISE22.EX22ANS3.value == 7546 ) { total += 1 ; }
+  if ( document.EXERCISE22.EX22ANS4.value == 8928 ) { total += 1 ; }
+  if ( document.EXERCISE22.EX22ANS5.value == 8648 ) { total += 1 ; }
+  if ( document.EXERCISE22.EX22ANS6.value == 6336 ) { total += 1 ; }
+  if ( document.EXERCISE22.EX22ANS7.value == 9506 ) { total += 1 ; }
+  document.EXERCISE22.EX22TOTAL.value = total ;
+}
+
+function resetForm22()
+{
+  document['EX22RES1'].src = eval('blank' + ".src");
+  document['EX22RES2'].src = eval('blank' + ".src");
+  document['EX22RES3'].src = eval('blank' + ".src");
+  document['EX22RES4'].src = eval('blank' + ".src");
+  document['EX22RES5'].src = eval('blank' + ".src");
+  document['EX22RES6'].src = eval('blank' + ".src");
+  document['EX22RES7'].src = eval('blank' + ".src");
+}
+
+function totalForm23()
+{
+  total = 0 ;
+  if ( document.EXERCISE23.EX23ANS1.value == 10914 ) { total += 1 ; }
+  if ( document.EXERCISE23.EX23ANS2.value == 10918 ) { total += 1 ; }
+  if ( document.EXERCISE23.EX23ANS3.value == 10816 ) { total += 1 ; }
+  if ( document.EXERCISE23.EX23ANS4.value == 11772 ) { total += 1 ; }
+  if ( document.EXERCISE23.EX23ANS5.value == 12423 ) { total += 1 ; }
+  if ( document.EXERCISE23.EX23ANS6.value == 10506 ) { total += 1 ; }
+  document.EXERCISE23.EX23TOTAL.value = total ;
+}
+
+function resetForm23()
+{
+  document['EX23RES1'].src = eval('blank' + ".src");
+  document['EX23RES2'].src = eval('blank' + ".src");
+  document['EX23RES3'].src = eval('blank' + ".src");
+  document['EX23RES4'].src = eval('blank' + ".src");
+  document['EX23RES5'].src = eval('blank' + ".src");
+  document['EX23RES6'].src = eval('blank' + ".src");
+}
+
+function totalForm31()
+{
+  total = 0 ;
+  if (( document.EXERCISE31.EX31ANS1TOP.value == 29 ) &&
+      ( document.EXERCISE31.EX31ANS1BOT.value == 30 ))
+    { total += 1 ; }
+  if (( document.EXERCISE31.EX31ANS2TOP.value == 7 ) &&
+      ( document.EXERCISE31.EX31ANS2BOT.value == 12 ))
+    { total += 1 ; }
+  if (( document.EXERCISE31.EX31ANS3TOP.value == 20 ) &&
+      ( document.EXERCISE31.EX31ANS3BOT.value == 21 ))
+    { total += 1 ; }
+  if (( document.EXERCISE31.EX31ANS4TOP.value == 19 ) &&
+      ( document.EXERCISE31.EX31ANS4BOT.value == 30 ))
+    { total += 1 ; }
+  if (( document.EXERCISE31.EX31ANS5TOP.value == 1 ) &&
+      ( document.EXERCISE31.EX31ANS5BOT.value == 20 ))
+    { total += 1 ; }
+  if (( document.EXERCISE31.EX31ANS6TOP.value == 13 ) &&
+      ( document.EXERCISE31.EX31ANS6BOT.value == 15 ))
+    { total += 1 ; }
+  document.EXERCISE31.EX31TOTAL.value = total ;
+}
+
+function resetForm31()
+{
+  document['EX31RES1'].src = eval('blank' + ".src");
+  document['EX31RES2'].src = eval('blank' + ".src");
+  document['EX31RES3'].src = eval('blank' + ".src");
+  document['EX31RES4'].src = eval('blank' + ".src");
+  document['EX31RES5'].src = eval('blank' + ".src");
+  document['EX31RES6'].src = eval('blank' + ".src");
+}
+
+function totalForm41()
+{
+  total = 0 ;
+  if ( document.EXERCISE41.EX41ANS1.value == 2025 ) { total += 1 ; }
+  if ( document.EXERCISE41.EX41ANS2.value == 4225 ) { total += 1 ; }
+  if ( document.EXERCISE41.EX41ANS3.value == 9025 ) { total += 1 ; }
+  if ( document.EXERCISE41.EX41ANS4.value == 1225 ) { total += 1 ; }
+  if ( document.EXERCISE41.EX41ANS5.value == 225 ) { total += 1 ; }
+  document.EXERCISE41.EX41TOTAL.value = total ;
+}
+
+function resetForm41()
+{
+  document['EX41RES1'].src = eval('blank' + ".src");
+  document['EX41RES2'].src = eval('blank' + ".src");
+  document['EX41RES3'].src = eval('blank' + ".src");
+  document['EX41RES4'].src = eval('blank' + ".src");
+  document['EX41RES5'].src = eval('blank' + ".src");
+}
+
+function totalForm42()
+{
+  total = 0 ;
+  if ( document.EXERCISE42.EX42ANS1.value == 2021 ) { total += 1 ; }
+  if ( document.EXERCISE42.EX42ANS2.value == 624 ) { total += 1 ; }
+  if ( document.EXERCISE42.EX42ANS3.value == 4216 ) { total += 1 ; }
+  if ( document.EXERCISE42.EX42ANS4.value == 221 ) { total += 1 ; }
+  if ( document.EXERCISE42.EX42ANS5.value == 3009 ) { total += 1 ; }
+  if ( document.EXERCISE42.EX42ANS6.value == 5621 ) { total += 1 ; }
+  document.EXERCISE42.EX42TOTAL.value = total ;
+}
+
+function resetForm42()
+{
+  document['EX42RES1'].src = eval('blank' + ".src");
+  document['EX42RES2'].src = eval('blank' + ".src");
+  document['EX42RES3'].src = eval('blank' + ".src");
+  document['EX42RES4'].src = eval('blank' + ".src");
+  document['EX42RES5'].src = eval('blank' + ".src");
+  document['EX42RES6'].src = eval('blank' + ".src");
+}
+
+function totalForm51()
+{
+  total = 0 ;
+  if ( document.EXERCISE51.EX51ANS1.value == 294 ) { total += 1 ; }
+  if ( document.EXERCISE51.EX51ANS2.value == 682 ) { total += 1 ; }
+  if ( document.EXERCISE51.EX51ANS3.value == 651 ) { total += 1 ; }
+  if ( document.EXERCISE51.EX51ANS4.value == 462 ) { total += 1 ; }
+  if ( document.EXERCISE51.EX51ANS5.value == 672 ) { total += 1 ; }
+  document.EXERCISE51.EX51TOTAL.value = total ;
+}
+
+function resetForm51()
+{
+  document['EX51RES1'].src = eval('blank' + ".src");
+  document['EX51RES2'].src = eval('blank' + ".src");
+  document['EX51RES3'].src = eval('blank' + ".src");
+  document['EX51RES4'].src = eval('blank' + ".src");
+  document['EX51RES5'].src = eval('blank' + ".src");
+}
+
+function totalForm52()
+{
+  total = 0 ;
+  if ( document.EXERCISE52.EX52ANS1.value == 987 ) { total += 1 ; }
+  if ( document.EXERCISE52.EX52ANS2.value == 989 ) { total += 1 ; }
+  if ( document.EXERCISE52.EX52ANS3.value == 1696 ) { total += 1 ; }
+  if ( document.EXERCISE52.EX52ANS4.value == 1344 ) { total += 1 ; }
+  if ( document.EXERCISE52.EX52ANS5.value == 5112 ) { total += 1 ; }
+  document.EXERCISE52.EX52TOTAL.value = total ;
+}
+
+function resetForm52()
+{
+  document['EX52RES1'].src = eval('blank' + ".src");
+  document['EX52RES2'].src = eval('blank' + ".src");
+  document['EX52RES3'].src = eval('blank' + ".src");
+  document['EX52RES4'].src = eval('blank' + ".src");
+  document['EX52RES5'].src = eval('blank' + ".src");
+}
+
+function totalForm53()
+{
+  total = 0 ;
+  if ( document.EXERCISE53.EX53ANS1.value == 1792 ) { total += 1 ; }
+  if ( document.EXERCISE53.EX53ANS2.value == 1728 ) { total += 1 ; }
+  if ( document.EXERCISE53.EX53ANS3.value == 2232 ) { total += 1 ; }
+  if ( document.EXERCISE53.EX53ANS4.value == 2332 ) { total += 1 ; }
+  if ( document.EXERCISE53.EX53ANS5.value == 3456 ) { total += 1 ; }
+  document.EXERCISE53.EX53TOTAL.value = total ;
+}
+
+function resetForm53()
+{
+  document['EX53RES1'].src = eval('blank' + ".src");
+  document['EX53RES2'].src = eval('blank' + ".src");
+  document['EX53RES3'].src = eval('blank' + ".src");
+  document['EX53RES4'].src = eval('blank' + ".src");
+  document['EX53RES5'].src = eval('blank' + ".src");
+}
+
+function totalForm61()
+{
+  total = 0 ;
+  if ( document.EXERCISE61.EX61ANS1.value == 473 ) { total += 1 ; }
+  if ( document.EXERCISE61.EX61ANS2.value == 891 ) { total += 1 ; }
+  if ( document.EXERCISE61.EX61ANS3.value == 165 ) { total += 1 ; }
+  if ( document.EXERCISE61.EX61ANS4.value == 484 ) { total += 1 ; }
+  if ( document.EXERCISE61.EX61ANS5.value == 121 ) { total += 1 ; }
+  document.EXERCISE61.EX61TOTAL.value = total ;
+}
+
+function resetForm61()
+{
+  document['EX61RES1'].src = eval('blank' + ".src");
+  document['EX61RES2'].src = eval('blank' + ".src");
+  document['EX61RES3'].src = eval('blank' + ".src");
+  document['EX61RES4'].src = eval('blank' + ".src");
+  document['EX61RES5'].src = eval('blank' + ".src");
+}
+
+function totalForm62()
+{
+  total = 0 ;
+  if ( document.EXERCISE62.EX62ANS1.value == 968 ) { total += 1 ; }
+  if ( document.EXERCISE62.EX62ANS2.value == 924 ) { total += 1 ; }
+  if ( document.EXERCISE62.EX62ANS3.value == 528 ) { total += 1 ; }
+  if ( document.EXERCISE62.EX62ANS4.value == 803 ) { total += 1 ; }
+  if ( document.EXERCISE62.EX62ANS5.value == 616 ) { total += 1 ; }
+  document.EXERCISE62.EX62TOTAL.value = total ;
+}
+
+function resetForm62()
+{
+  document['EX62RES1'].src = eval('blank' + ".src");
+  document['EX62RES2'].src = eval('blank' + ".src");
+  document['EX62RES3'].src = eval('blank' + ".src");
+  document['EX62RES4'].src = eval('blank' + ".src");
+  document['EX62RES5'].src = eval('blank' + ".src");
+}
+
+function totalForm63()
+{
+  total = 0 ;
+  if ( document.EXERCISE63.EX63ANS1.value == 1661 ) { total += 1 ; }
+  if ( document.EXERCISE63.EX63ANS2.value == 5797 ) { total += 1 ; }
+  if ( document.EXERCISE63.EX63ANS3.value == 3663 ) { total += 1 ; }
+  if ( document.EXERCISE63.EX63ANS4.value == 7854 ) { total += 1 ; }
+  if ( document.EXERCISE63.EX63ANS5.value == 9999 ) { total += 1 ; }
+  document.EXERCISE63.EX63TOTAL.value = total ;
+}
+
+function resetForm63()
+{
+  document['EX63RES1'].src = eval('blank' + ".src");
+  document['EX63RES2'].src = eval('blank' + ".src");
+  document['EX63RES3'].src = eval('blank' + ".src");
+  document['EX63RES4'].src = eval('blank' + ".src");
+  document['EX63RES5'].src = eval('blank' + ".src");
+}
+
+function totalForm71()
+{
+  total = 0 ;
+  if (( document.EXERCISE71.EX71ANS1TOP.value == 6 ) &&
+      ( document.EXERCISE71.EX71ANS1BOT.value == 7 ))
+    { total += 1 ; }
+  if (( document.EXERCISE71.EX71ANS2TOP.value == 3 ) &&
+      ( document.EXERCISE71.EX71ANS2BOT.value == 6 ))
+    { total += 1 ; }
+  if (( document.EXERCISE71.EX71ANS3TOP.value == 4 ) &&
+      ( document.EXERCISE71.EX71ANS3BOT.value == 8 ))
+    { total += 1 ; }
+  if (( document.EXERCISE71.EX71ANS4TOP.value == 5 ) &&
+      ( document.EXERCISE71.EX71ANS4BOT.value == 8 ))
+    { total += 1 ; }
+  if (( document.EXERCISE71.EX71ANS5TOP.value == 8 ) &&
+      ( document.EXERCISE71.EX71ANS5BOT.value == 8 ))
+    { total += 1 ; }
+  document.EXERCISE71.EX71TOTAL.value = total ;
+}
+
+function resetForm71()
+{
+  document['EX71RES1'].src = eval('blank' + ".src");
+  document['EX71RES2'].src = eval('blank' + ".src");
+  document['EX71RES3'].src = eval('blank' + ".src");
+  document['EX71RES4'].src = eval('blank' + ".src");
+  document['EX71RES5'].src = eval('blank' + ".src");
+}
+
+function totalForm72()
+{
+  total = 0 ;
+  if (( document.EXERCISE72.EX72ANS1TOP.value == 25 ) &&
+      ( document.EXERCISE72.EX72ANS1BOT.value == 7 ))
+    { total += 1 ; }
+  if (( document.EXERCISE72.EX72ANS2TOP.value == 16 ) &&
+      ( document.EXERCISE72.EX72ANS2BOT.value == 7 ))
+    { total += 1 ; }
+  if (( document.EXERCISE72.EX72ANS3TOP.value == 33 ) &&
+      ( document.EXERCISE72.EX72ANS3BOT.value == 6 ))
+    { total += 1 ; }
+  if (( document.EXERCISE72.EX72ANS4TOP.value == 23 ) &&
+      ( document.EXERCISE72.EX72ANS4BOT.value == 5 ))
+    { total += 1 ; }
+  if (( document.EXERCISE72.EX72ANS5TOP.value == 235 ) &&
+      ( document.EXERCISE72.EX72ANS5BOT.value == 6 ))
+    { total += 1 ; }
+  document.EXERCISE72.EX72TOTAL.value = total ;
+}
+
+function resetForm72()
+{
+  document['EX72RES1'].src = eval('blank' + ".src");
+  document['EX72RES2'].src = eval('blank' + ".src");
+  document['EX72RES3'].src = eval('blank' + ".src");
+  document['EX72RES4'].src = eval('blank' + ".src");
+  document['EX72RES5'].src = eval('blank' + ".src");
+}
+
+function totalForm73()
+{
+  total = 0 ;
+  if (( document.EXERCISE73.EX73ANS1TOP.value == 85 ) &&
+      ( document.EXERCISE73.EX73ANS1BOT.value == 6 ))
+    { total += 1 ; }
+  if (( document.EXERCISE73.EX73ANS2TOP.value == 104 ) &&
+      ( document.EXERCISE73.EX73ANS2BOT.value == 6 ))
+    { total += 1 ; }
+  if (( document.EXERCISE73.EX73ANS3TOP.value == 62 ) &&
+      ( document.EXERCISE73.EX73ANS3BOT.value == 7 ))
+    { total += 1 ; }
+  if (( document.EXERCISE73.EX73ANS4TOP.value == 61 ) &&
+      ( document.EXERCISE73.EX73ANS4BOT.value == 6 ))
+    { total += 1 ; }
+  if (( document.EXERCISE73.EX73ANS5TOP.value == 86 ) &&
+      ( document.EXERCISE73.EX73ANS5BOT.value == 3 ))
+    { total += 1 ; }
+  if (( document.EXERCISE73.EX73ANS6TOP.value == 264 ) &&
+      ( document.EXERCISE73.EX73ANS6BOT.value == 6 ))
+    { total += 1 ; }
+  if (( document.EXERCISE73.EX73ANS7TOP.value == 785 ) &&
+      ( document.EXERCISE73.EX73ANS7BOT.value == 5 ))
+    { total += 1 ; }
+  document.EXERCISE73.EX73TOTAL.value = total ;
+}
+
+function resetForm73()
+{
+  document['EX73RES1'].src = eval('blank' + ".src");
+  document['EX73RES2'].src = eval('blank' + ".src");
+  document['EX73RES3'].src = eval('blank' + ".src");
+  document['EX73RES4'].src = eval('blank' + ".src");
+  document['EX73RES5'].src = eval('blank' + ".src");
+  document['EX73RES6'].src = eval('blank' + ".src");
+  document['EX73RES7'].src = eval('blank' + ".src");
+}
+// End -->
+</SCRIPT>
+
+<STYLE type=text/css>.menutext {
+	FONT-WEIGHT: bold; COLOR: #000000; TEXT-DECORATION: none
+}
+</STYLE>
+
+<META content="MSHTML 6.00.2600.0" name=GENERATOR></HEAD>
+<BODY bgColor=#ffffff leftMargin=0 topMargin=0 marginwidth="0" marginheight="0">
+<SCRIPT language=JavaScript>
+  ////////////////////////////////////////////////
+//  DHTML MENU BUILDER 2.8.14                 //
+//  (c)xFX JumpStart                          //
+//                                            //
+//  PSN: 276339-TWB-5135-8AA4                 //
+//                                            //
+//  GENERATED: 08/12/2002 - 22:38:59          //
+////////////////////////////////////////////////
+
+
+	var nStyle = new Array;
+	var hStyle = new Array;
+	var nLayer = new Array;
+	var hLayer = new Array;
+	var nTCode = new Array;
+
+	var AnimStep = 0;
+	var AnimHnd = 0;
+	var HTHnd = new Array;
+	var DoFormsTweak = true;
+
+	var mFrame;
+	var cFrame;
+
+	var OpenMenus = new Array;
+	var SelCommand;
+	var nOM = 0;
+
+	var mX;
+	var mY;
+	var xOff = 0;
+
+	var HideSpeed = 300;
+
+var BV=navigator.appVersion;
+BV=parseFloat(BV.indexOf('MSIE')>0?BV.split(';')[1].split(' ')[2]:BV.split(' ')[0]);
+var BN=window.navigator.appName;
+var IsWin=(navigator.userAgent.indexOf('Windows')!=-1)?true:false;
+var OP=(navigator.userAgent.indexOf('Opera')!=-1&&BV>=4)?true:false;
+var SM=(BN.indexOf('Netscape')!=-1&&(BV>=5)||OP)?true:false;
+var NS=(BN.indexOf('Netscape')!=-1&&!SM)?true:false;
+var IE=(BN.indexOf('Explorer')!=-1&&(BV>=4)||SM)?true:false;
+
+
+	if((!IsWin&&IE)||SM) {
+		frames.self = window;
+		frames.top = top;
+	}
+
+	if(IE)
+		xOff = (SM&&!OP)?-9:2;
+	cFrame = eval(frames['self']);
+
+	var fx = 0;
+
+
+
+	hStyle[0]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #3399FF; cursor: hand;";
+	hStyle[1]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #3399FF; cursor: hand;";
+	hStyle[2]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[3]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #3399FF; cursor: hand;";
+	hStyle[4]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FFFFFF; background-color: #0000FF; cursor: hand;";
+	hStyle[5]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[6]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[7]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[8]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[9]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[10]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[11]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[12]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[13]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[14]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[15]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[16]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[17]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[18]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[19]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[20]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[21]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[22]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[23]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[24]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[25]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[26]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[27]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[28]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[29]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	hStyle[30]="border: 0; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #FF0000; background-color: #0000FF; cursor: hand;";
+	nTCode[1]="frames[\'self\'].execURL(\'http://vedicmaths.org/Files/WhatsNew.asp\', \'frames[self]\');";
+	nLayer[1]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Whats New</font>";
+	hLayer[1]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Whats New</font>";
+	nTCode[2]="frames[\'self\'].execURL(\'http://vedicmaths.org/Files/SiteMap.asp\', \'frames[self]\');";
+	nLayer[2]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Site Map</font>";
+	hLayer[2]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Site Map</font>";
+	nTCode[3]="frames[\'self\'].execURL(\'http://vedicmaths.org/Files/stats.asp\', \'frames[self]\');";
+	nLayer[3]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Statistics</font>";
+	hLayer[3]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Statistics</font>";
+	nTCode[4]="frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/Home/Home.asp\', \'frames[self]\');";
+	nLayer[4]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Home Page</font>";
+	hLayer[4]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Home Page</font>";
+	nTCode[5]="frames[\'self\'].execURL(\'http://vedicmaths.org/Files/MenuSelection.asp\', \'frames[self]\');";
+	nLayer[5]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Menu Selection</font>";
+	hLayer[5]="<p align=left><font face=Times New Roman point-size=17 color=#FFFFFF>Menu Selection</font>";
+	nLayer[6]="";
+	hLayer[6]="";
+	nTCode[7]="frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/contact details/contact details.asp\', \'frames[self]\');";
+	nLayer[7]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Contact Details</font>";
+	hLayer[7]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Contact Details</font>";
+	nTCode[8]="frames[\'self\'].execURL(\'http://vedicmaths.org/Files/Site Policy.asp\', \'frames[self]\');";
+	nLayer[8]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Site Policy</font>";
+	hLayer[8]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Site Policy</font>";
+	nTCode[9]="frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/Acknowledgements/Acknowledgements.asp\', \'frames[self]\');";
+	nLayer[9]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Acknowledgments</font>";
+	hLayer[9]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Acknowledgments</font>";
+	nTCode[10]="frames[\'self\'].execURL(\'http://vedicmaths.org/Files/UpdatePlans.asp\', \'frames[self]\');";
+	nLayer[10]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Update Plans</font>";
+	hLayer[10]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Update Plans</font>";
+	nTCode[11]="frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/Usage Problems/Usage Problems.asp\', \'frames[self]\');";
+	nLayer[11]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Usage Problems</font>";
+	hLayer[11]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Usage Problems</font>";
+	nTCode[12]="frames[\'self\'].execURL(\'http://vedicmaths.org/Files/Articles.asp\', \'frames[self]\');";
+	nLayer[12]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Articles</font>";
+	hLayer[12]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Articles</font>";
+	nTCode[13]="frames[\'self\'].execURL(\'http://vedicmaths.org/Files/Books.asp\', \'frames[self]\');";
+	nLayer[13]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Books</font>";
+	hLayer[13]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Books</font>";
+	nTCode[14]="frames[\'self\'].execURL(\'http://vedicmaths.org/Files/Book Sections.asp\', \'frames[self]\');";
+	nLayer[14]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Sections of Books</font>";
+	hLayer[14]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Sections of Books</font>";
+	nTCode[15]="frames[\'self\'].execURL(\'http://vedicmaths.org/Files/Misc Material.asp\', \'frames[self]\');";
+	nLayer[15]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Miscellaneous</font>";
+	hLayer[15]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Miscellaneous</font>";
+	nTCode[16]="frames[\'self\'].execURL(\'http://vedicmaths.org/Files/WebSites.asp\', \'frames[self]\');";
+	nLayer[16]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Web Sites</font>";
+	hLayer[16]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Web Sites</font>";
+	nTCode[17]="frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/sutras/sutras.asp\', \'frames[self]\');";
+	nLayer[17]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Sutras</font>";
+	hLayer[17]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Sutras</font>";
+	nTCode[18]="frames[\'self\'].execURL(\'http://vedicmaths.org/Files/PurchasingGuide.asp\', \'frames[self]\');";
+	nLayer[18]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Book Purchasing Guide</font>";
+	hLayer[18]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Book Purchasing Guide</font>";
+	nTCode[19]="frames[\'self\'].execURL(\'http://vedicmaths.org/Files/Trachtenberg.asp\', \'frames[self]\');";
+	nLayer[19]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Trachtenberg</font>";
+	hLayer[19]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Trachtenberg</font>";
+	nTCode[20]="frames[\'self\'].execURL(\'http://vedicmaths.org/Files/WebSites (Other).asp\', \'frames[self]\');";
+	nLayer[20]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Web Sites</font>";
+	hLayer[20]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Web Sites</font>";
+	nTCode[21]="frames[\'self\'].execURL(\'http://vedicmaths.org/Files/WhatisVM.asp\', \'frames[self]\');";
+	nLayer[21]="<p align=left><font face=Times New Roman point-size=17 color=#000000>What is Vedic Maths</font>";
+	hLayer[21]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>What is Vedic Maths</font>";
+	nTCode[22]="frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/history VM/history VM.asp\', \'frames[self]\');";
+	nLayer[22]="<p align=left><font face=Times New Roman point-size=17 color=#000000>History</font>";
+	hLayer[22]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>History</font>";
+	nTCode[23]="frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/tutorial/Tutorial.asp\', \'frames[self]\');";
+	nLayer[23]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Tutorial</font>";
+	hLayer[23]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Tutorial</font>";
+	nTCode[24]="frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/newsletter/newsletter index.asp\', \'frames[self]\');";
+	nLayer[24]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Newsletter</font>";
+	hLayer[24]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Newsletter</font>";
+	nTCode[25]="frames[\'self\'].execURL(\'http://vedicmaths.org/Files/Organisations.asp\', \'frames[self]\');";
+	nLayer[25]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Organisations</font>";
+	hLayer[25]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Organisations</font>";
+	nTCode[26]="frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/whos who/whos who.asp\', \'frames[self]\');";
+	nLayer[26]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Who\'s Who</font>";
+	hLayer[26]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Who\'s Who</font>";
+	nTCode[27]="frames[\'self\'].execURL(\'http://vedicmaths.org/Files/Calendar.asp\', \'frames[self]\');";
+	nLayer[27]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Calendar of Events</font>";
+	hLayer[27]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Calendar of Events</font>";
+	nTCode[28]="frames[\'self\'].execURL(\'http://vedicmaths.org/Files/Research.asp\', \'frames[self]\');";
+	nLayer[28]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Research</font>";
+	hLayer[28]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Research</font>";
+	nTCode[29]="frames[\'self\'].execURL(\'http://vedicmaths.org/files/vm tutors.asp\', \'frames[self]\');";
+	nLayer[29]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Tutors</font>";
+	hLayer[29]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Tutors</font>";
+	nLayer[30]="";
+	hLayer[30]="";
+	nTCode[31]="frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/Chatroom/entrance.asp\', \'frames[self]\');";
+	nLayer[31]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Chat room</font>";
+	hLayer[31]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Chat room</font>";
+	nTCode[32]="frames[\'self\'].execURL(\'http://vedicmaths.org//Files/Calculator.asp\', \'frames[self]\');";
+	nLayer[32]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Calculator</font>";
+	hLayer[32]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Calculator</font>";
+	nTCode[33]="frames[\'self\'].execURL(\'javascript:popupCalculator();\', \'frames[self]\');";
+	nLayer[33]="<p align=left><font face=Times New Roman point-size=17 color=#000000>Popup Calculator</font>";
+	hLayer[33]="<p align=left><font face=Times New Roman point-size=17 color=#FF0000>Popup Calculator</font>";
+
+
+	function GetCurCmd(e) {
+//IE
+//This function will return the current command under the mouse pointer.
+//It will return null if the mouse is not over any command.
+//------------------------------
+//Version 1.5
+//
+		if(SM)
+			var cc = e;
+		else
+			var cc = mFrame.window.event.srcElement;
+		while(cc.id=="") {
+			cc = cc.parentElement;
+			if(cc==null)
+				break;
+		}
+		return cc;
+	}
+
+	function HoverSel(mode, imgLName, imgRName, e) {
+//IE
+//This is the function called every time the mouse pointer is moved over a command.
+//------------------------------
+//mode: 0 if the mouse is moving over the command and 1 if is moving away.
+//imgLName: Name of the left image object, if any.
+//imgRName: Name of the right image object, if any.
+//------------------------------
+//Version 10.0
+//
+		var imgL = new Image;
+		var imgLRsc = new Image;
+		var imgR = new Image;
+		var imgRRsc = new Image;
+		var nStyle;
+		var mc;
+		
+		if(mode==0 && OpenMenus[nOM].SelCommand!=null)
+			HoverSel(1);
+		
+		if(imgLName!="_")
+			var imgL = eval("mFrame.document.images['"+imgLName+"']");
+		if(imgRName!="_")
+			var imgR = eval("mFrame.document.images['"+imgRName+"']");
+		
+		if(mode==0) {
+			mc = GetCurCmd(e);
+			if(nOM>1)
+				if(mc==OpenMenus[nOM-1].SelCommand)
+					return false;
+			if(OpenMenus[nOM].SelCommand || nOM>1)
+				while(!InMenu()&&nOM>1)
+					Hide();
+			if(imgLName!='_') imgLRsc = eval(imgLName+"On");
+			if(imgRName!='_') imgRRsc = eval(imgRName+"On");
+			OpenMenus[nOM].SelCommand = mc;
+			OpenMenus[nOM].SelCommandPar = [imgLName,imgRName,SM?mc.getAttribute("style"):mc.style.cssText];
+			if(SM)
+				mc.setAttribute("style", GetCStyle(mc.style) + hStyle[mc.id]);
+			else
+				mc.style.cssText = GetCStyle(mc.style) + hStyle[mc.id];
+		} else {
+			mc = (mode==1)?OpenMenus[nOM].SelCommand:OpenMenus[nOM].Opener;
+			imgLName = (mode==1)?OpenMenus[nOM].SelCommandPar[0]:OpenMenus[nOM].OpenerPar[0];
+			imgRName = (mode==1)?OpenMenus[nOM].SelCommandPar[1]:OpenMenus[nOM].OpenerPar[1];
+			nStyle = (mode==1)?OpenMenus[nOM].SelCommandPar[2]:OpenMenus[nOM].OpenerPar[2];
+			mc.style.background = "";
+			if(SM)
+				mc.setAttribute("style", nStyle);
+			else
+				mc.style.cssText = nStyle;
+			if(imgLName!='_') imgLRsc = eval(imgLName+"Off");
+			if(imgRName!='_') imgRRsc = eval(imgRName+"Off");
+			window.status = "";
+			OpenMenus[nOM].SelCommand = null;			
+		}
+		
+		if(imgLName!='_') {
+			imgL = eval("mFrame.document.images."+imgLName);
+			imgL.src = imgLRsc.src;
+		}
+		if(imgRName!='_') {
+			imgR = eval("mFrame.document.images."+imgRName);
+			imgR.src = imgRRsc.src;
+		}
+		
+		return true;
+	}
+
+	function NSHoverSel(mode, mc, bcolor) {
+//NS
+//This is the function called every time the mouse pointer is moved over or away from a command.
+//------------------------------
+//mode: 0 if the mouse is moving over the command and 1 if is moving away.
+//mc: Name of the layer that corresponds to the selected command.
+//n: Unique ID that identifies this command. Used to retrieve the data from the nLayer or hLayer array.
+//bcolor: Background color of the command. Ignored if the group uses a background image.
+//w: Width of the command's layer.
+//h: Height of the command's layer.
+//------------------------------
+//Version 11.0
+//
+		var n;
+		var LayerHTM;
+		
+		window.clearTimeout(CBparseInt(HTHnd[nOM]));HTHnd[nOM] = 0;
+		if(!nOM) return false;
+		
+		if(mode==0 && OpenMenus[nOM].SelCommand!=null)
+			NSHoverSel(1);
+		
+		if(mode==0) {
+			mc = mc.parentLayer.layers[mc.name.substr(0, mc.name.indexOf("EH"))];
+			n = CBparseInt(mc.name.substr(2));
+			if(nOM>1)
+				if(mc==OpenMenus[nOM-1].SelCommand)
+					return false;
+			while(!InMenu()&&nOM>1)
+				Hide();
+			LayerHTM = hLayer[n];
+			OpenMenus[nOM].SelCommand = mc;
+			OpenMenus[nOM].SelCommandPar = mc.bgColor;
+			mc.bgColor = bcolor;
+		} else {
+			mc = (mode==1)?OpenMenus[nOM].SelCommand:OpenMenus[nOM].Opener;
+			bcolor = (mode==1)?OpenMenus[nOM].SelCommandPar:OpenMenus[nOM].OpenerPar;
+			n = CBparseInt(mc.name.substr(2));
+			LayerHTM = nLayer[n];
+			if(mc.parentLayer.background.src!="")
+				mc.bgColor = null;
+			else
+				mc.bgColor = bcolor;
+			window.status = "";
+			OpenMenus[nOM].SelCommand = null;
+		}
+		mc.clip.width = mc.parentLayer.parentLayer.clip.width - 2*mc.parentLayer.left;
+		mc.document.open();
+		mc.document.write(LayerHTM);
+		mc.document.close();
+
+		return true;
+	}
+
+	function Hide() {
+//IE,NS
+//This function hides the last opened group and it keeps hiding all the groups until
+//no more groups are opened or the mouse is over one of them.
+//Also takes care of reseting any highlighted commands.
+//------------------------------
+//Version 3.5
+//
+		window.clearTimeout(HTHnd[nOM]);HTHnd[nOM] = 0;
+		window.clearTimeout(AnimHnd);AnimHnd = 0;
+
+		if(OpenMenus[nOM].SelCommand!=null) {
+			if(IE) HoverSel(1);
+			if(NS) NSHoverSel(1);
+		}
+		if(OpenMenus[nOM].Opener!=null) {
+			if(IE) HoverSel(3);
+			if(NS) NSHoverSel(3);
+		}
+
+		OpenMenus[nOM].visibility = "hidden";
+		nOM--;
+
+		if(nOM>0)
+			if(!InMenu())
+				HTHnd[nOM] = window.setTimeout("Hide()", HideSpeed/4);
+
+		if(nOM==0)
+			FormsTweak("visible");
+	}
+
+	function ShowMenu(mName, x, y, isCascading) {
+//IE,NS
+//This is the main function to show the menus when a hotspot is triggered or a cascading command is activated.
+//------------------------------
+//mName: Name of the <div> or <layer> to be shown.
+//x: Left position of the menu.
+//y: Top position of the menu.
+//isCascading: True if the menu has been triggered from a command, and not from a hotspot.
+//------------------------------
+//Version 14.5
+//
+		window.clearTimeout(CBparseInt(HTHnd[nOM]));HTHnd[nOM] = 0;
+		x = CBparseInt(x);y = CBparseInt(y);
+		
+		if(AnimHnd && nOM>0) {
+			AnimStep=101;
+			Animate();
+		}
+		if(IE)
+			if(SM)
+				var Menu = mFrame.document.getElementById(mName);
+			else
+				var Menu = mFrame.document.all[mName];
+		if(NS)
+			var Menu = mFrame.document.layers[mName];
+		if(!Menu)
+			return false;
+		if(IE)
+			Menu = Menu.style;
+		if(Menu==OpenMenus[nOM])
+			return false;
+			
+		if(!isCascading)
+			HideAll();
+			
+		Menu.Opener = nOM>0?OpenMenus[nOM].SelCommand:null;
+		Menu.OpenerPar = nOM>0?OpenMenus[nOM].SelCommandPar:null;
+		Menu.SelCommand = null;
+		if(OP) {
+			Menu.width = Menu.pixelWidth;
+			Menu.height = Menu.pixelHeight;
+		}
+
+		var pW = GetWidthHeight()[0] + GetLeftTop()[0];
+		var pH = GetWidthHeight()[1] + GetLeftTop()[1];
+		
+		if(IE) {
+			if(isCascading) {
+				x = CBparseInt(OpenMenus[nOM].left) + CBparseInt(OpenMenus[nOM].width) - 6;
+				y = CBparseInt(OpenMenus[nOM].SelCommand.style.top) + CBparseInt(OpenMenus[nOM].top) - y;
+				Menu.left = (x+CBparseInt(Menu.width)>pW)?CBparseInt(OpenMenus[nOM].left) - CBparseInt(Menu.width) + 6:x;
+				Menu.top =  (y+CBparseInt(Menu.height)>pH)?pH - CBparseInt(Menu.height):y;
+			} else {
+				Menu.left = (x+CBparseInt(Menu.width)>pW)?pW - CBparseInt(Menu.width):x;
+				Menu.top =  (y+CBparseInt(Menu.height)>pH)?pH - CBparseInt(Menu.height):y;
+			}
+			if(IsWin&&!SM)
+				Menu.clip = "rect(0 0 0 0)";
+		}
+		if(NS) {
+			if(isCascading) {
+				x = OpenMenus[nOM].left + OpenMenus[nOM].clip.width - 6;
+				y = OpenMenus[nOM].top + OpenMenus[nOM].SelCommand.top;
+				x = (x+Menu.w>pW)?OpenMenus[nOM].left - Menu.w + 6:x;
+				y = (y+Menu.h>pH)?pH - Menu.h:y;
+			} else {
+				x = (x+Menu.w>pW)?pW - Menu.w:x;
+				y = (y+Menu.h>pH)?pH - Menu.h:y;
+			}
+			Menu.clip.width = 0;
+			Menu.clip.height = 0;
+			Menu.moveToAbsolute(x,y);
+		}
+		if(isCascading)
+			Menu.zIndex = CBparseInt(OpenMenus[nOM].zIndex) + 1;
+		Menu.visibility = "visible";
+		OpenMenus[++nOM] = Menu;
+		HTHnd[nOM] = 0;
+		if((IE&&IsWin&&!SM)||NS)
+			AnimHnd = window.setTimeout("Animate()", 10);
+		FormsTweak("hidden");
+
+		return true;
+	}
+
+	function Animate() {
+//IE,NS
+//This function is called by ShowMenu every time a new group must be displayed and produces the predefined unfolding effect.
+//Currently is disabled for Navigator, because of some weird bugs we found with the clip property of the layers.
+//------------------------------
+//Version 1.9
+//
+		var r = '';
+		var nw = nh = 0;
+		switch(fx) {
+			case 1:
+				if(IE) r = "0 " + AnimStep + "% " + AnimStep + "% 0";
+				if(NS) nw = AnimStep; nh = AnimStep;
+				break;
+			case 2:
+				if(IE) r = "0 100% " + AnimStep + "% 0";
+				if(NS) nw = 100; nh = AnimStep;
+				break;
+			case 3:
+				if(IE) r = "0 " + AnimStep + "% 100% 0";
+				if(NS) nw = AnimStep; nh = 100;
+				break;
+			case 0:
+				if(IE) r = "0 100% 100% 0";
+				if(NS) nw = 100; nh = 100;
+				break;
+		}
+		if(OpenMenus[nOM]) {
+			with(OpenMenus[nOM]) {
+				if(IE)
+					clip =  "rect(" + r + ")";
+				if(NS) {
+					clip.width = w*(nw/100);
+					clip.height = h*(nh/100);
+				}
+			}
+			AnimStep += 20;
+			if(AnimStep<=100)
+				AnimHnd = window.setTimeout("Animate()",25);
+			else {
+				window.clearTimeout(AnimHnd);
+				AnimStep = 0;
+				AnimHnd = 0;
+			}
+		}
+	}
+	
+	function InMenu() {
+//IE,NS
+//This function returns true if the mouse pointer is over the last opened menu.
+//------------------------------
+//Version 1.6
+//
+		var m = OpenMenus[nOM];
+		if(!m)
+			return false;
+		if(IE&&!SM)
+			SetPointerPos();			
+		var l = CBparseInt(m.left) + xOff;
+		var r = l+(IE?CBparseInt(m.width):m.clip.width) - xOff;
+		var t = CBparseInt(m.top) + xOff;
+		var b = t+(IE?CBparseInt(m.height):m.clip.height) - xOff;
+		return ((mX>=l && mX<=r) && (mY>=t && mY<=b));
+	}
+
+	function SetPointerPos(e) {
+//IE,NS
+//This function sets the mX and mY variables with the current position of the mouse pointer.
+//------------------------------
+//e: Only used under Navigator, corresponds to the Event object.
+//------------------------------
+//Version 1.2
+//
+		if(IE) {
+			if(!SM) {
+				if(mFrame!=cFrame||event==null)
+					if(mFrame.window.event==null)
+						return;
+					else
+						e = mFrame.window.event;
+				else
+					e = event;
+			}
+			mX = e.clientX + GetLeftTop()[0];
+			mY = e.clientY + GetLeftTop()[1];
+		}
+		if(NS) {
+			mX = e.pageX;
+			mY = e.pageY;
+		}
+	}
+	
+
+	function HideMenus(e) {
+//IE,NS
+//This function checks if the mouse pointer is on a valid position and if the current menu should be kept visible.
+//The function is called every time the mouse pointer is moved over the document area.
+//------------------------------
+//e: Only used under Navigator, corresponds to the Event object.
+//------------------------------
+//Version 25.0
+//
+		if(nOM>0) {
+			SetPointerPos(e);
+			if(OpenMenus[nOM].SelCommand!=null)
+				if(!InMenu()&&!HTHnd[nOM])
+					HTHnd[nOM] = window.setTimeout("if(nOM>0)if(!InMenu())Hide()", HideSpeed);
+		}
+	}
+	
+	function FormsTweak(state) {
+//IE
+//This is an undocumented function, which can be used to hide every listbox (or combo) element on a page.
+//This can be useful if the menus will be displayed over an area where is a combo box, which is an element that cannot be placed behind the menus and it will always appear over the menus resulting in a very undesirable effect.
+//------------------------------
+//Version 2.0
+//
+		if(DoFormsTweak && IE)
+			for(var f = 0; f <= (mFrame.document.forms.length - 1); f++)
+				for(var e = 0; e <= (mFrame.document.forms[f].elements.length - 1); e++)
+					if(mFrame.document.forms[f].elements[e].type=="select-one")
+						mFrame.document.forms[f].elements[e].style.visibility = state;
+	}
+
+	function execURL(url, tframe) {
+//IE,NS
+//This function is called every time a command is triggered to jump to another page or execute some javascript code.
+//------------------------------
+//url: Encrypted URL that must be opened or executed.
+//tframe: If the url is a document location, tframe is the target frame where this document will be opened.
+//------------------------------
+//Version 1.1
+//
+		HideAll();
+		window.setTimeout("execURL2('" + url + "', '" + tframe + "')", 100);
+	}
+
+	function execURL2(url, tframe) {
+//IE,NS
+//This function is called every time a command is triggered to jump to another page or execute some javascript code.
+//------------------------------
+//url: Encrypted URL that must be opened or executed.
+//tframe: If the url is a document location, tframe is the target frame where this document will be opened.
+//------------------------------
+//Version 1.1
+//
+		var fObj = eval(rStr(tframe));
+		url = rStr(url);
+		url.indexOf("javascript")!=url.indexOf("vbscript")?eval(url):fObj.location.href = url;
+	}
+
+	function rStr(s) {
+//IE,NS
+//This function is used to decrypt the URL parameter from the triggered command.
+//------------------------------
+//Version 1.1
+//
+		s = xrep(s,"\x1E","'");
+		s = xrep(s,"\x1D","\x22");
+		s = xrep(s,"\x1C",",");
+		return s;
+	}
+
+	function xrep(s, f, n) {
+//IE,NS
+//This function looks for any occurrence of the f string and replaces it with the n string.
+//------------------------------
+//Version 1.0
+//
+		var tmp = s.split(f);
+		return tmp.join(n);
+	}
+
+	function hNSCClick(e) {
+//NS
+//This function executes the selected command's trigger code.
+//------------------------------
+//Version 1.0
+//
+		eval(this.TCode);
+	}
+	
+	function CBparseInt(n) {
+//IE,NS
+//This function fixes a bug in Navigator's parseInt() function for the Mac.
+//------------------------------
+//Version 1.3
+//
+		if(typeof(n)=="number"||typeof(n)=="string")
+			return (!IsWin&&!SM?n:parseInt(n))*1;
+		return 0;
+	}
+
+	function HideAll() {
+//IE,NS
+//This function will hide all the currently opened menus.
+//------------------------------
+//Version 1.0
+//
+		while(nOM>0)
+			Hide();
+	}
+
+	function GetLeftTop() {
+//IE,NS
+//This function returns the scroll bars position on the menus frame.
+//------------------------------
+//Version 2.0
+//
+		if(IE)
+			return [OP?0:SM?mFrame.scrollX:mFrame.document.body.scrollLeft,OP?0:SM?mFrame.scrollY:mFrame.document.body.scrollTop];
+		if(NS)
+			return [mFrame.pageXOffset,mFrame.pageYOffset];
+	}
+	
+	function tHideAll() {
+//IE,NS
+//This function is called when the mouse is moved away from a hotspot to close any opened menu.
+//------------------------------
+//Version 1.0
+//
+		HTHnd[nOM] = window.setTimeout("if(!InMenu()&&nOM==1)HideAll(); else HTHnd[nOM]=0;", HideSpeed);
+	}
+
+	function GetWidthHeight() {
+//IE,NS
+//This function returns the width and height of the menus frame.
+//------------------------------
+//Version 2.0
+//
+		if(IE&&!SM)
+			return [mFrame.document.body.clientWidth,mFrame.document.body.clientHeight];
+		if(NS||SM)
+			return [mFrame.innerWidth,mFrame.innerHeight];
+	}
+	
+	function GetCStyle(cmc) {
+//IE,SM
+//This functions completes the style of command with all the common
+//parameters from the original style code.
+//------------------------------
+//Version 1.0
+//
+		return "position: absolute; left:" + cmc.left + 
+			   "; top: " + cmc.top + 
+			   "; width: " + (OP?cmc.pixelWidth:cmc.width) + 
+			   "; height: " + (OP?cmc.pixelHeight:cmc.height) + "; ";
+	}
+	
+	function SetUpEvents() {
+//IE,NS
+//This function initializes the frame variables and setups the event handling.
+//------------------------------
+//Version 1.9
+//
+		onerror = errHandler;
+		if(typeof(mFrame)=="undefined")
+		mFrame = eval(frames['self']);
+		if(typeof(mFrame)=="undefined")
+			window.setTimeout("SetUpEvents()",10);
+		else {
+			if(NS) {
+				mFrame.captureEvents(Event.MOUSEMOVE);
+				mFrame.onmousemove = HideMenus;
+				PrepareEvents();
+			}
+			if(IE) {
+				document.onmousemove = HideMenus;
+				mFrame.document.onmousemove = document.onmousemove;
+			}
+		}
+	}
+	
+	function errHandler(sMsg,sUrl,sLine) {
+//IE,NS
+//This function will trap any errors generated by the scripts and filter the unhandled ones.
+//------------------------------
+//Version 1.0
+//
+		if(sMsg.substr(0,16)!="Access is denied"&&sMsg!="Permission denied")
+			alert("DHTML Menu Builder Java Script Error\n" +
+			      "\nDescription: " + sMsg +
+			      "\nSource: " + sUrl +
+			      "\nLine: "+sLine);
+		return true;
+	}
+
+	function PrepareEvents() {
+//NS
+//This function is called right after the menus are rendered.
+//It has been designed to attach the OnClick event to the <layer> tag. This is being
+//done this way because Navigator does not support a click inline event capturing on
+//the layer tag... duh!
+//------------------------------
+//Version 2.7
+//
+		for(var l=0; l<mFrame.document.layers.length; l++) {
+			var lo = mFrame.document.layers[l];
+			if(lo.layers.length) {
+				lo.w = lo.clip.width;
+				lo.h = lo.clip.height;
+				for(var sl=0; sl<lo.layers[0].layers.length; sl++) {
+					var slo = mFrame.document.layers[l].layers[0].layers[sl];
+					if(slo.name.indexOf("EH")>0) {
+						slo.document.onmouseup = hNSCClick;
+						slo.document.TCode = nTCode[slo.name.split("EH")[1]];
+					}					
+				}
+			}
+		}
+	}
+
+	if(IE)
+		with(document) {
+			open();
+			write("<div id=\"Site\" style=\"position: absolute; left:0; top:0; width: 211; height: 274; z-index: 100; visibility: hidden\"><div style=\"width: 211; height: 274; background-color: #3399FF; color: #000000; border-left: #E0E0E0 solid 0; border-right: 0 solid #808080; border-top: 0 solid #E0E0E0; border-bottom: 0 solid #808080;\"><div align=left style=\"position: absolute; border: 0; left: 0; top: 0; width: 211; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=0 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Whats New\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Files/WhatsNew.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 209;\">Whats New</span></div><div align=left style=\"position: absolute; border: 0; left: 0; top: 27; width: 211; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=1 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Site Map\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Files/SiteMap.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 209;\">Site Map</span></div><div align=left style=\"position: absolute; border: 0; left: 0; top: 54; width: 211; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=2 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Site Statistics\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Files/stats.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 209;\">Statistics</span></div><div align=left style=\"position: absolute; border: 0; left: 0; top: 81; width: 211; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=3 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Home Page\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/Home/Home.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 209;\">Home Page</span></div><div align=left style=\"position: absolute; border: 0; left: 0; top: 108; width: 211; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=4 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Menu Selection\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Files/MenuSelection.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 209;\">Menu Selection</span></div><div style=\"position: absolute; top: 137; left: 8; width: 195; height: 1; background-color: #000000;\"><font size=1></font></div><div align=left style=\"position: absolute; border: 0; left: 0; top: 140; width: 211; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=5 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Contact Details\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/contact details/contact details.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 209;\">Contact Details</span></div><div align=left style=\"position: absolute; border: 0; left: 0; top: 167; width: 211; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=6 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Site Policy\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Files/Site Policy.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 209;\">Site Policy</span></div><div align=left style=\"position: absolute; border: 0; left: 0; top: 194; width: 211; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=7 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Acknowledgments\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/Acknowledgements/Acknowledgements.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 209;\">Acknowledgments</span></div><div align=left style=\"position: absolute; border: 0; left: 0; top: 221; width: 211; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=8 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Update Plans\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Files/UpdatePlans.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 209;\">Update Plans</span></div><div align=left style=\"position: absolute; border: 0; left: 0; top: 248; width: 211; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=9 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Usage Problems\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/Usage Problems/Usage Problems.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 209;\">Usage Problems</span></div></div></div><div id=\"Resources\" style=\"position: absolute; left:0; top:0; width: 259; height: 188; z-index: 100; visibility: hidden\"><div style=\"width: 259; height: 188; background-color: #3399FF; color: #000000; border-left: #E0E0E0 solid 0; border-right: 0 solid #808080; border-top: 0 solid #E0E0E0; border-bottom: 0 solid #808080;\"><div align=left style=\"position: absolute; border: 0; left: 0; top: 0; width: 259; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=10 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Articles\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Files/Articles.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 257;\">Articles</span></div><div align=left style=\"position: absolute; border: 0; left: 0; top: 27; width: 259; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=11 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Books\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Files/Books.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 257;\">Books</span></div><div align=left style=\"position: absolute; border: 0; left: 0; top: 54; width: 259; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=12 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Sections of Books\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Files/Book Sections.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 257;\">Sections of Books</span></div><div align=left style=\"position: absolute; border: 0; left: 0; top: 81; width: 259; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=13 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Miscellaneous\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Files/Misc Material.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 257;\">Miscellaneous</span></div><div align=left style=\"position: absolute; border: 0; left: 0; top: 108; width: 259; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=14 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Web Sites\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Files/WebSites.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 257;\">Web Sites</span></div><div align=left style=\"position: absolute; border: 0; left: 0; top: 135; width: 259; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=15 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Sutras\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/sutras/sutras.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 257;\">Sutras</span></div><div align=left style=\"position: absolute; border: 0; left: 0; top: 162; width: 259; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=16 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Book Purchasing Guide\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Files/PurchasingGuide.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 257;\">Book Purchasing Guide</span></div></div></div><div id=\"Other_Material\" style=\"position: absolute; left:0; top:0; width: 163; height: 55; z-index: 100; visibility: hidden\"><div style=\"width: 163; height: 55; background-color: #3399FF; color: #000000; border-left: #E0E0E0 solid 1; border-right: 1 solid #808080; border-top: 1 solid #E0E0E0; border-bottom: 1 solid #808080;\"><div align=left style=\"position: absolute; border: 0; left: 1; top: 1; width: 161; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=17 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Trachtenberg\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Files/Trachtenberg.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 159;\">Trachtenberg</span></div><div align=left style=\"position: absolute; border: 0; left: 1; top: 28; width: 161; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=18 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Other Web Sites\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Files/WebSites (Other).asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 159;\">Web Sites</span></div></div></div><div id=\"Educational_Material\" style=\"position: absolute; left:0; top:0; width: 232; height: 82; z-index: 100; visibility: hidden\"><div style=\"width: 232; height: 82; background-color: #3399FF; color: #000000; border-left: #E0E0E0 solid 1; border-right: 1 solid #808080; border-top: 1 solid #E0E0E0; border-bottom: 1 solid #808080;\"><div align=left style=\"position: absolute; border: 0; left: 1; top: 1; width: 230; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=19 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'What is Vedic Maths\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Files/WhatisVM.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 228;\">What is Vedic Maths</span></div><div align=left style=\"position: absolute; border: 0; left: 1; top: 28; width: 230; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=20 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'History of Vedic mathematics\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/history VM/history VM.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 228;\">History</span></div><div align=left style=\"position: absolute; border: 0; left: 1; top: 55; width: 230; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=21 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Tutorial\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/tutorial/Tutorial.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 228;\">Tutorial</span></div></div></div><div id=\"Community\" style=\"position: absolute; left:0; top:0; width: 217; height: 195; z-index: 100; visibility: hidden\"><div style=\"width: 217; height: 195; background-color: #3399FF; color: #000000; border-left: #E0E0E0 solid 1; border-right: 1 solid #808080; border-top: 1 solid #E0E0E0; border-bottom: 1 solid #808080;\"><div align=left style=\"position: absolute; border: 0; left: 1; top: 1; width: 215; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=22 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Newsletter\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/newsletter/newsletter index.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 213;\">Newsletter</span></div><div align=left style=\"position: absolute; border: 0; left: 1; top: 28; width: 215; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=23 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Organisatinos\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Files/Organisations.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 213;\">Organisations</span></div><div align=left style=\"position: absolute; border: 0; left: 1; top: 55; width: 215; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=24 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Who s Who\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/whos who/whos who.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 213;\">Who\'s Who</span></div><div align=left style=\"position: absolute; border: 0; left: 1; top: 82; width: 215; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=25 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Calendar of Events\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Files/Calendar.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 213;\">Calendar of Events</span></div><div align=left style=\"position: absolute; border: 0; left: 1; top: 109; width: 215; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=26 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Research\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Files/Research.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 213;\">Research</span></div><div align=left style=\"position: absolute; border: 0; left: 1; top: 136; width: 215; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=27 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Tutors\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/files/vm tutors.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 213;\">Tutors</span></div><div style=\"position: absolute; top: 165; left: 8; width: 201; height: 1; background-color: #000000;\"><font size=1></font></div><div align=left style=\"position: absolute; border: 0; left: 1; top: 168; width: 215; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=28 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Chat room\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org/Group Files/Chatroom/entrance.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 213;\">Chat room</span></div></div></div><div id=\"Utilities\" style=\"position: absolute; left:0; top:0; width: 202; height: 55; z-index: 100; visibility: hidden\"><div style=\"width: 202; height: 55; background-color: #3399FF; color: #000000; border-left: #E0E0E0 solid 1; border-right: 1 solid #808080; border-top: 1 solid #E0E0E0; border-bottom: 1 solid #808080;\"><div align=left style=\"position: absolute; border: 0; left: 1; top: 1; width: 200; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=29 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Calculator\';\" OnClick=\"frames[\'self\'].execURL(\'http://vedicmaths.org//Files/Calculator.asp\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 198;\">Calculator</span></div><div align=left style=\"position: absolute; border: 0; left: 1; top: 28; width: 200; height: 26; font-family: Times New Roman; font-size: 17pt; font-weight: none; font-style: none; color: #000000; cursor: hand; background-color: #3399FF;\" id=30 OnMouseOver=\"frames[\'self\'].HoverSel(0,\'_\',\'_\',this);window.status=\'Popup Calculator\';\" OnClick=\"frames[\'self\'].execURL(\'javascript:popupCalculator();\', \'frames[self]\');\"><span style=\"position: absolute; left: 0; top: 0; width: 198;\">Popup Calculator</span></div></div></div>");
+			close();
+		}
+	if(NS)
+		with(document) {
+			open();
+			write("<layer name=Site top=0 left=0 width=211 height=274 z-index=100 bgColor=#E0E0E0 visibility=hidden><layer bgColor=\"#3399FF\" left=0 top=0 width=211 height=274 z-index=101><layer name=MC1EH1 left=0 top=0 width=211 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#3399FF\');window.status=\'Whats New\';\"></layer><layer name=MC1 left=0 top=0 width=211 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Whats New</font></layer><layer name=MC2EH2 left=0 top=27 width=211 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#3399FF\');window.status=\'Site Map\';\"></layer><layer name=MC2 left=0 top=27 width=211 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Site Map</font></layer><layer name=MC3EH3 left=0 top=54 width=211 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Site Statistics\';\"></layer><layer name=MC3 left=0 top=54 width=211 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Statistics</font></layer><layer name=MC4EH4 left=0 top=81 width=211 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#3399FF\');window.status=\'Home Page\';\"></layer><layer name=MC4 left=0 top=81 width=211 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Home Page</font></layer><layer name=MC5EH5 left=0 top=108 width=211 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Menu Selection\';\"></layer><layer name=MC5 left=0 top=108 width=211 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Menu Selection</font></layer><layer top=136 left=4 width=203 height=1 z-index=100 bgcolor=#000000></layer><layer name=MC7EH7 left=0 top=140 width=211 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Contact Details\';\"></layer><layer name=MC7 left=0 top=140 width=211 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Contact Details</font></layer><layer name=MC8EH8 left=0 top=167 width=211 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Site Policy\';\"></layer><layer name=MC8 left=0 top=167 width=211 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Site Policy</font></layer><layer name=MC9EH9 left=0 top=194 width=211 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Acknowledgments\';\"></layer><layer name=MC9 left=0 top=194 width=211 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Acknowledgments</font></layer><layer name=MC10EH10 left=0 top=221 width=211 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Update Plans\';\"></layer><layer name=MC10 left=0 top=221 width=211 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Update Plans</font></layer><layer name=MC11EH11 left=0 top=248 width=211 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Usage Problems\';\"></layer><layer name=MC11 left=0 top=248 width=211 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Usage Problems</font></layer></layer></layer><layer name=Resources top=0 left=0 width=259 height=188 z-index=100 bgColor=#E0E0E0 visibility=hidden><layer bgColor=\"#3399FF\" left=0 top=0 width=259 height=188 z-index=101><layer name=MC12EH12 left=0 top=0 width=259 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Articles\';\"></layer><layer name=MC12 left=0 top=0 width=259 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Articles</font></layer><layer name=MC13EH13 left=0 top=27 width=259 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Books\';\"></layer><layer name=MC13 left=0 top=27 width=259 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Books</font></layer><layer name=MC14EH14 left=0 top=54 width=259 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Sections of Books\';\"></layer><layer name=MC14 left=0 top=54 width=259 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Sections of Books</font></layer><layer name=MC15EH15 left=0 top=81 width=259 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Miscellaneous\';\"></layer><layer name=MC15 left=0 top=81 width=259 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Miscellaneous</font></layer><layer name=MC16EH16 left=0 top=108 width=259 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Web Sites\';\"></layer><layer name=MC16 left=0 top=108 width=259 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Web Sites</font></layer><layer name=MC17EH17 left=0 top=135 width=259 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Sutras\';\"></layer><layer name=MC17 left=0 top=135 width=259 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Sutras</font></layer><layer name=MC18EH18 left=0 top=162 width=259 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Book Purchasing Guide\';\"></layer><layer name=MC18 left=0 top=162 width=259 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Book Purchasing Guide</font></layer></layer></layer><layer name=Other_Material top=0 left=0 width=163 height=55 z-index=100 bgColor=#E0E0E0 visibility=hidden><layer bgColor=\"#3399FF\" left=1 top=1 width=161 height=53 z-index=101><layer name=MC19EH19 left=0 top=0 width=161 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Trachtenberg\';\"></layer><layer name=MC19 left=0 top=0 width=161 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Trachtenberg</font></layer><layer name=MC20EH20 left=0 top=27 width=161 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Other Web Sites\';\"></layer><layer name=MC20 left=0 top=27 width=161 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Web Sites</font></layer></layer></layer><layer name=Educational_Material top=0 left=0 width=232 height=82 z-index=100 bgColor=#E0E0E0 visibility=hidden><layer bgColor=\"#3399FF\" left=1 top=1 width=230 height=80 z-index=101><layer name=MC21EH21 left=0 top=0 width=230 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'What is Vedic Maths\';\"></layer><layer name=MC21 left=0 top=0 width=230 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>What is Vedic Maths</font></layer><layer name=MC22EH22 left=0 top=27 width=230 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'History of Vedic mathematics\';\"></layer><layer name=MC22 left=0 top=27 width=230 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>History</font></layer><layer name=MC23EH23 left=0 top=54 width=230 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Tutorial\';\"></layer><layer name=MC23 left=0 top=54 width=230 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Tutorial</font></layer></layer></layer><layer name=Community top=0 left=0 width=217 height=195 z-index=100 bgColor=#E0E0E0 visibility=hidden><layer bgColor=\"#3399FF\" left=1 top=1 width=215 height=193 z-index=101><layer name=MC24EH24 left=0 top=0 width=215 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Newsletter\';\"></layer><layer name=MC24 left=0 top=0 width=215 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Newsletter</font></layer><layer name=MC25EH25 left=0 top=27 width=215 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Organisatinos\';\"></layer><layer name=MC25 left=0 top=27 width=215 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Organisations</font></layer><layer name=MC26EH26 left=0 top=54 width=215 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Who s Who\';\"></layer><layer name=MC26 left=0 top=54 width=215 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Who\'s Who</font></layer><layer name=MC27EH27 left=0 top=81 width=215 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Calendar of Events\';\"></layer><layer name=MC27 left=0 top=81 width=215 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Calendar of Events</font></layer><layer name=MC28EH28 left=0 top=108 width=215 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Research\';\"></layer><layer name=MC28 left=0 top=108 width=215 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Research</font></layer><layer name=MC29EH29 left=0 top=135 width=215 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Tutors\';\"></layer><layer name=MC29 left=0 top=135 width=215 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Tutors</font></layer><layer top=164 left=4 width=209 height=1 z-index=100 bgcolor=#000000></layer><layer name=MC31EH31 left=0 top=167 width=215 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Chat room\';\"></layer><layer name=MC31 left=0 top=167 width=215 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Chat room</font></layer></layer></layer><layer name=Utilities top=0 left=0 width=202 height=55 z-index=100 bgColor=#E0E0E0 visibility=hidden><layer bgColor=\"#3399FF\" left=1 top=1 width=200 height=53 z-index=101><layer name=MC32EH32 left=0 top=0 width=200 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Calculator\';\"></layer><layer name=MC32 left=0 top=0 width=200 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Calculator</font></layer><layer name=MC33EH33 left=0 top=27 width=200 height=26 z-index=103 OnMouseOver=\"frames[\'self\'].NSHoverSel(0,this,\'#0000FF\');window.status=\'Popup Calculator\';\"></layer><layer name=MC33 left=0 top=27 width=200 height=26 z-index=102 bgcolor=#3399FF><p align=left><font face=Times New Roman point-size=17 color=#000000>Popup Calculator</font></layer></layer></layer>");
+			close();
+		}
+SetUpEvents();
+
+
+
+
+  </SCRIPT>
+
+<TABLE cellSpacing=0 cellPadding=0 width=600 border=0 name="Menu">
+  <TBODY>
+  <TR bgColor=#3399ff colour="#000000">
+    <TD noWrap><FONT style="FONT-SIZE: 18pt">| <A 
+      onmouseover="ShowMenu('Site', 12, 27, false);" 
+      style="COLOR: black; TEXT-DECORATION: none" onmouseout=tHideAll(); 
+      href="http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp#">Site</A></FONT> 
+    </TD>
+    <TD noWrap><FONT style="FONT-SIZE: 18pt">| <A 
+      onmouseover="ShowMenu('Educational_Material', 59, 27, false);" 
+      style="COLOR: black; TEXT-DECORATION: none" onmouseout=tHideAll(); 
+      href="http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp#">Educational 
+      Material</A></FONT> </TD>
+    <TD noWrap><FONT style="FONT-SIZE: 18pt">| <A 
+      onmouseover="ShowMenu('Resources', 272, 27, false);" 
+      style="COLOR: black; TEXT-DECORATION: none" onmouseout=tHideAll(); 
+      href="http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp#">Resources</A></FONT> 
+    </TD>
+    <TD noWrap><FONT style="FONT-SIZE: 18pt">| <A 
+      onmouseover="ShowMenu('Community', 382, 27, false);" 
+      style="COLOR: black; TEXT-DECORATION: none" onmouseout=tHideAll(); 
+      href="http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp#">Community</A></FONT> 
+    </TD>
+    <TD noWrap><FONT style="FONT-SIZE: 18pt">| <A 
+      onmouseover="ShowMenu('Other_Material', 506, 27, false);" 
+      style="COLOR: black; TEXT-DECORATION: none" onmouseout=tHideAll(); 
+      href="http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp#">Other 
+      Material</A></FONT> </TD>
+    <TD noWrap><FONT style="FONT-SIZE: 18pt">| <A 
+      onmouseover="ShowMenu('Utilities', 659, 27, false);" 
+      style="COLOR: black; TEXT-DECORATION: none" onmouseout=tHideAll(); 
+      href="http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp#">Utilities</A></FONT> 
+    </TD></TR></TBODY></TABLE>
+<SCRIPT language=JavaScript>
+function popupCalculator()
+{
+  var newWindow =
+   window.open("http://vedicmaths.org/Files/PopupCalculator.asp",
+       null,"height=200,width=350,status=no,toolbar=no,menubar=no,location=no") ;
+}
+</SCRIPT>
+
+<H1 align=center>Vedic Maths Tutorial</H1>
+<P>Vedic Maths is based on <A 
+href="http://www.vedicmaths.org/Group%20Files/sutras/sutras.asp">sixteen 
+sutras</A> or principles. These principles are general in nature and can be 
+applied in many ways. In practice many applications of the sutras may be learned 
+and combined to solve actual problems. These tutorials will give examples of 
+simple applications of the sutras, to give a feel for how the Vedic Maths system 
+works. <FONT color=#ff0000><B><U>These tutorials do not attempt to teach the 
+systematic use of the sutras.</U></B></FONT> For more advanced applications and 
+a more complete coverage of the basic uses of the sutras, we recommend you study 
+one of the <A href="http://www.vedicmaths.org/Files/Books.asp">texts</A> 
+available.</P>
+<P>N.B. The following tutorials are based on examples and exercises given in the 
+book 'Fun with figures' by Kenneth Williams, which is a fun introduction some of 
+the applications of the sutras for children.</P>
+<P>If you are having problems using the tutorials then you could always read the 
+<A 
+href="http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp#instructions">instructions</A>. 
+</P>
+<BLOCKQUOTE>
+  <P><A 
+  href="http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp#tutorial1">Tutorial 
+  1</A><BR><A 
+  href="http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp#tutorial2">Tutorial 
+  2</A><BR><A 
+  href="http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp#tutorial3">Tutorial 
+  3</A><BR><A 
+  href="http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp#tutorial4">Tutorial 
+  4</A><BR><A 
+  href="http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp#tutorial5">Tutorial 
+  5</A><BR><A 
+  href="http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp#tutorial6">Tutorial 
+  6</A><BR><A 
+  href="http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp#tutorial7">Tutorial 
+  7</A></P></BLOCKQUOTE>
+<HR>
+
+<H1 align=center><A name=tutorial1></A>Tutorial 1</H1>
+<P><FONT color=#0000af>Use the formula ALL FROM 9 AND THE LAST FROM 10 to 
+perform instant subtractions.</FONT></P>
+<UL>
+  <LI>For example <B>1000 - 357 = <U>643</U></B> 
+  <P>We simply take each figure in 357 from 9 and the last figure from 
+  10.<BR><IMG height=79 src="Vedic Maths Tutorial 1_files/tut1-Image1.gif" 
+  width=203 align=bottom X-SAS-UseImageHeight X-SAS-UseImageWidth><BR>So the 
+  answer is <B>1000 - 357 = <U>643</U></B></P>
+  <P><FONT color=#0000af>And thats all there is to it!</FONT></P>
+  <P>This always works for subtractions from numbers consisting of a 1 followed 
+  by noughts: 100; 1000; 10,000 etc.<BR></P>
+  <LI>Similarly <B>10,000 - 1049 = <U>8951</U></B><BR><IMG height=79 
+  src="Vedic Maths Tutorial 1_files/tut1-Image2.gif" width=255 align=bottom 
+  X-SAS-UseImageHeight X-SAS-UseImageWidth> 
+  <LI>For 1000 - 83, in which we have more zeros than figures in the numbers 
+  being subtracted, we simply suppose 83 is 083. 
+  <P>So <B>1000 - 83</B> becomes <B>1000 - 083 = <U>917</U></B></P></LI></UL>
+<FORM name=EXERCISE1 onreset=resetForm1()>
+<P><FONT color=#0000af>Try some yourself:</FONT></P>
+<TABLE border=0>
+  <TBODY>
+  <TR>
+    <TD>
+      <P><B>1)</B> 1000 - 777 </P></TD>
+    <TD>= <INPUT tabIndex=1 
+      onchange="checkAnswer(this,223,'EX1RES1',totalForm1)" align=middle size=5 
+      name=EX1ANS1> <IMG height=33 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absBottom name=EX1RES1> </TD></TR>
+  <TR>
+    <TD><B>2)</B> 1000 - 283</TD>
+    <TD>= <INPUT tabIndex=2 
+      onchange="checkAnswer(this,717,'EX1RES2',totalForm1)" align=middle size=5 
+      name=EX1ANS2> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absBottom name=EX1RES2> </TD></TR>
+  <TR>
+    <TD><B>3)</B> 1000 - 505</TD>
+    <TD>= <INPUT tabIndex=3 
+      onchange="checkAnswer(this,495,'EX1RES3',totalForm1)" align=middle size=5 
+      name=EX1ANS3> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absBottom name=EX1RES3> </TD></TR>
+  <TR>
+    <TD><B>4)</B> 10,000 - 2345</TD>
+    <TD>= <INPUT tabIndex=5 
+      onchange="checkAnswer(this,7655,'EX1RES4',totalForm1)" align=middle size=5 
+      name=EX1ANS4> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absBottom name=EX1RES4> </TD></TR>
+  <TR>
+    <TD><B>5) </B>10000 - 9876</TD>
+    <TD>= <INPUT tabIndex=5 
+      onchange="checkAnswer(this,124,'EX1RES5',totalForm1)" align=middle size=5 
+      name=EX1ANS5> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absBottom name=EX1RES5> </TD></TR>
+  <TR>
+    <TD><B>6)</B> 10,000 - 1101</TD>
+    <TD>= <INPUT tabIndex=6 
+      onchange="checkAnswer(this,8899,'EX1RES6',totalForm1)" align=middle size=5 
+      name=EX1ANS6> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absBottom name=EX1RES6> </TD></TR>
+  <TR>
+    <TD><B>7)</B> 100 - 57</TD>
+    <TD>= <INPUT tabIndex=7 
+      onchange="checkAnswer(this,43,'EX1RES7',totalForm1)" align=middle size=5 
+      name=EX1ANS7> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absBottom name=EX1RES7> </TD></TR>
+  <TR>
+    <TD><B>8)</B> 1000 - 57</TD>
+    <TD>= <INPUT tabIndex=8 
+      onchange="checkAnswer(this,943,'EX1RES8',totalForm1)" align=middle size=5 
+      name=EX1ANS8> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absBottom name=EX1RES8> </TD></TR>
+  <TR>
+    <TD><B>9)</B> 10,000 - 321</TD>
+    <TD>= <INPUT tabIndex=9 
+      onchange="checkAnswer(this,9679,'EX1RES9',totalForm1)" align=middle size=5 
+      name=EX1ANS9> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absBottom name=EX1RES9> </TD></TR>
+  <TR>
+    <TD><B>10)</B> 10,000 - 38</TD>
+    <TD>= <INPUT tabIndex=10 
+      onchange="checkAnswer(this,9962,'EX1RES10',totalForm1)" align=middle 
+      size=5 name=EX1ANS10> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absBottom 
+      name=EX1RES10> </TD></TR>
+  <TR>
+    <TD align=right>Total Correct </TD>
+    <TD>= <INPUT tabIndex=11 readOnly align=middle size=5 name=EX1TOTAL> <INPUT type=reset value="Reset Test" name=EX1RESET> 
+</TD></TR></TBODY></TABLE></FORM>
+<P>Return to <A 
+href="http://www.vedicmaths.org/Group%20Files/tutorial/Tutorial.asp">Index</A></P>
+<HR>
+<A name=tutorial2></A>
+<P align=center></P>
+<H1 align=center>Tutorial 2</H1>
+<P><FONT color=#0000af>Using VERTICALLY AND CROSSWISE you do not need to the 
+multiplication tables beyond 5 X 5.</FONT></P>
+<UL>
+  <LI>Suppose you need <B>8 x 7</B> 
+  <P>8 is 2 below 10 and 7 is 3 below 10.<BR>Think of it like this:<BR><IMG 
+  height=73 src="Vedic Maths Tutorial 1_files/tut2-Image1.gif" width=93 
+  align=bottom X-SAS-UseImageHeight X-SAS-UseImageWidth><BR>The answer is 
+  56.<BR>The diagram below shows how you get it.<BR><IMG height=69 
+  src="Vedic Maths Tutorial 1_files/tut2-Image2.gif" width=98 align=bottom 
+  X-SAS-UseImageHeight X-SAS-UseImageWidth><BR>You subtract crosswise 8-3 or 7 - 
+  2 to get 5,<BR>the first figure of the answer.<BR>And you multiply vertically: 
+  2 x 3 to get 6,<BR>the last figure of the answer.</P>
+  <P><I><FONT color=#0000af>That's all you do:</FONT></I></P>
+  <P>See how far the numbers are below 10, subtract one<BR>number's deficiency 
+  from the other number, and<BR>multiply the deficiencies together.</P>
+  <LI><B>7 x 6 = <U>42</U></B><BR><IMG height=72 
+  src="Vedic Maths Tutorial 1_files/tut2-Image3.gif" width=80 align=bottom 
+  X-SAS-UseImageHeight X-SAS-UseImageWidth><BR>Here there is a carry: the 1 in 
+  the 12 goes over to make 3 into 4. </LI></UL>
+<FORM name=EXERCISE21 onreset=resetForm21()>
+<P><I><FONT color=#0000ff>Multply These:</FONT></I></P>
+<TABLE width=660 border=0>
+  <TBODY>
+  <TR>
+    <TD width=110 height=83>
+      <P><B>1)</B> 8<BR>&nbsp;&nbsp;&nbsp;&nbsp;8 x<BR><INPUT tabIndex=12 
+      onchange="checkAnswer(this,64,'EX21RES1',totalForm21)" align=middle size=5 
+      name=EX21ANS1> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absBottom name=EX21RES1> </P></TD>
+    <TD width=110 height=83>
+      <P><B>2)</B> 9<BR>&nbsp;&nbsp;&nbsp;&nbsp;7 x<BR><INPUT tabIndex=13 
+      onchange="checkAnswer(this,63,'EX21RES2',totalForm21)" align=middle size=5 
+      name=EX21ANS2> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absBottom name=EX21RES2> </P></TD>
+    <TD width=110 height=83>
+      <P><B>3)</B> 8<BR>&nbsp;&nbsp;&nbsp;&nbsp;9 x<BR><INPUT tabIndex=14 
+      onchange="checkAnswer(this,72,'EX21RES3',totalForm21)" align=middle size=5 
+      name=EX21ANS3> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absBottom name=EX21RES3> </P></TD>
+    <TD width=110 height=83>
+      <P><B>4)</B> 7<BR>&nbsp;&nbsp;&nbsp;&nbsp;7 x<BR><INPUT tabIndex=15 
+      onchange="checkAnswer(this,49,'EX21RES4',totalForm21)" align=middle size=5 
+      name=EX21ANS4> <IMG height=32 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absBottom name=EX21RES4> </P></TD>
+    <TD width=110 height=83>
+      <P><B>5)</B> 9<BR>&nbsp;&nbsp;&nbsp;&nbsp;9 x <BR><INPUT tabIndex=16 
+      onchange="checkAnswer(this,81,'EX21RES5',totalForm21)" align=middle size=5 
+      name=EX21ANS5> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absBottom name=EX21RES5> </P></TD>
+    <TD width=110 height=83>
+      <P><B>6)</B> 6<BR>&nbsp;&nbsp;&nbsp;&nbsp;6 x<BR><INPUT tabIndex=17 
+      onchange="checkAnswer(this,36,'EX21RES6',totalForm21)" align=middle size=5 
+      name=EX21ANS6> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absBottom name=EX21RES6> </P></TD></TR>
+  <TR>
+    <TD align=left colSpan=3>Total Correct = <INPUT tabIndex=18 readOnly 
+      align=middle size=5 name=EX21TOTAL> <INPUT type=reset value="Reset Test" name=EX21RESET> 
+</TD></TR></TBODY></TABLE></FORM>
+<P><FONT color=#0000cc>Here's how to use VERTICALLY AND CROSSWISE for 
+multiplying numbers close to 100.</FONT></P>
+<UL>
+  <LI>
+  <DIV align=left>Suppose you want to <B>multiply 88 by 98</B>. </DIV>
+  <P align=left>Not easy,you might think. But with<BR>VERTICALLY AND CROSSWISE 
+  you can give<BR>the answer immediately, using the same method<BR>as above.</P>
+  <P align=left>Both 88 and 98 are close to 100.<BR>88 is 12 below 100 and 98 is 
+  2 below 100.</P>
+  <P align=left>You can imagine the sum set out like this:</P>
+  <DIV align=left><IMG height=70 
+  src="Vedic Maths Tutorial 1_files/tut2-Image5.gif" width=49> </DIV>
+  <P align=left>As before the <B>86</B> comes from<BR>subtracting crosswise: 88 
+  - 2 = 86<BR>(or 98 - 12 = 86: you can subtract<BR>either way, you will always 
+  get<BR>the same answer).<BR>And the <B>24</B> in the answer is<BR>just 12 x 2: 
+  you multiply vertically.<BR>So <B>88 x 98 = <U>8624</U></B></P></LI></UL>
+<P><FONT color=#0000af><I>This is so easy it is just mental 
+arithmetic.</I></FONT></P>
+<FORM name=EXERCISE22 onreset=resetForm22()>
+<P><FONT color=#0000af><I>Try some:</I></FONT> </P>
+<TABLE width=650 border=0>
+  <TBODY>
+  <TR>
+    <TD height=40>
+      <P><B>1)</B> 87<BR>&nbsp;&nbsp;&nbsp;&nbsp;98 x<BR><INPUT tabIndex=19 
+      onchange="checkAnswer(this,8526,'EX22RES1',totalForm22)" align=middle 
+      size=5 name=EX22ANS1> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absBottom 
+      name=EX22RES1> </P></TD>
+    <TD height=40>
+      <P><B>2)</B> 88<BR>&nbsp;&nbsp;&nbsp;&nbsp;97 x<BR><INPUT tabIndex=20 
+      onchange="checkAnswer(this,8536,'EX22RES2',totalForm22)" align=middle 
+      size=5 name=EX22ANS2> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absBottom 
+      name=EX22RES2> </P></TD>
+    <TD height=40>
+      <P><B>3)</B> 77<BR>&nbsp;&nbsp;&nbsp;&nbsp;98 x<BR><INPUT tabIndex=21 
+      onchange="checkAnswer(this,7546,'EX22RES3',totalForm22)" align=middle 
+      size=5 name=EX22ANS3> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absBottom 
+      name=EX22RES3> </P></TD>
+    <TD height=40>
+      <P><B>4)</B> 93<BR>&nbsp;&nbsp;&nbsp;&nbsp;96 x<BR><INPUT tabIndex=22 
+      onchange="checkAnswer(this,8928,'EX22RES4',totalForm22)" align=middle 
+      size=5 name=EX22ANS4> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absBottom 
+      name=EX22RES4> </P></TD>
+    <TD height=40>
+      <P><B>5)</B> 94<BR>&nbsp;&nbsp;&nbsp;&nbsp;92 x<BR><INPUT tabIndex=23 
+      onchange="checkAnswer(this,8648,'EX22RES5',totalForm22)" align=middle 
+      size=5 name=EX22ANS5> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absBottom 
+      name=EX22RES5> </P></TD>
+    <TD height=40>
+      <P><B>6)</B> 64<BR>&nbsp;&nbsp;&nbsp;&nbsp;99<BR><INPUT tabIndex=24 
+      onchange="checkAnswer(this,6336,'EX22RES6',totalForm22)" align=middle 
+      size=5 name=EX22ANS6> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=33 align=absBottom 
+      name=EX22RES6> </P></TD>
+    <TD height=40>
+      <P><B>7)</B> 98<BR>&nbsp;&nbsp;&nbsp;&nbsp;97 x<BR><INPUT tabIndex=25 
+      onchange="checkAnswer(this,9506,'EX22RES7',totalForm22)" align=middle 
+      size=5 name=EX22ANS7> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absBottom 
+      name=EX22RES7> </P></TD></TR>
+  <TR>
+    <TD colSpan=3>Total Correct = <INPUT tabIndex=26 readOnly align=middle 
+      size=5 name=EX22TOTAL> <INPUT type=reset value="Reset Test" name=EX22RESET> 
+</TD></TR></TBODY></TABLE></FORM>
+<P><FONT color=#0000cc>Multiplying numbers just over 100.</FONT></P>
+<UL>
+  <LI><B>103 x 104 = <U>10712</U></B> 
+  <P>The answer is in two parts: 107 and 12,<BR>107 is just 103 + 4 (or 104 + 
+  3),<BR>and 12 is just 3 x 4.</P>
+  <LI>Similarly <B>107 x 106 = <U>11342</U></B> 
+  <P>107 + 6 = 113 and 7 x 6 = 42</P></LI></UL>
+<P><I><FONT color=#000099>Again, just for mental arithmetic</FONT></I></P>
+<FORM name=EXERCISE23 onreset=resetForm23()>
+<P><I><FONT color=#000099>Try a few:</FONT></I></P>
+<TABLE width=270 border=0>
+  <TBODY>
+  <TR>
+    <TD>
+      <P><B>1)</B> 102 x 107 = <INPUT tabIndex=27 
+      onchange="checkAnswer(this,10914,'EX23RES1',totalForm23)" align=middle 
+      size=5 name=EX23ANS1> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absBottom 
+      name=EX23RES1> </P></TD></TR>
+  <TR>
+    <TD>
+      <P><B>1)</B> 106 x 103 = <INPUT tabIndex=28 
+      onchange="checkAnswer(this,10918,'EX23RES2',totalForm23)" align=middle 
+      size=5 name=EX23ANS2> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absBottom 
+      name=EX23RES2> </P></TD></TR>
+  <TR>
+    <TD>
+      <P><B>1)</B> 104 x 104 = <INPUT tabIndex=29 
+      onchange="checkAnswer(this,10816,'EX23RES3',totalForm23)" align=middle 
+      size=5 name=EX23ANS3> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absBottom 
+      name=EX23RES3> </P></TD></TR>
+  <TR>
+    <TD>
+      <P><B>4)</B> 109 x 108 = <INPUT tabIndex=30 
+      onchange="checkAnswer(this,11772,'EX23RES4',totalForm23)" align=middle 
+      size=5 name=EX23ANS4> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absBottom 
+      name=EX23RES4> </P></TD></TR>
+  <TR>
+    <TD>
+      <P><B>5)</B> 101 x123 = <INPUT tabIndex=31 
+      onchange="checkAnswer(this,12423,'EX23RES5',totalForm23)" align=middle 
+      size=5 name=EX23ANS5> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absBottom 
+      name=EX23RES5> </P></TD></TR>
+  <TR>
+    <TD>
+      <P><B>6)</B> 103 x102 = <INPUT tabIndex=32 
+      onchange="checkAnswer(this,10506,'EX23RES6',totalForm23)" align=middle 
+      size=5 name=EX23ANS6> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absBottom 
+      name=EX23RES6> </P></TD></TR>
+  <TR>
+    <TD>Total Correct = <INPUT tabIndex=33 readOnly align=middle size=5 
+      name=EX23TOTAL> <INPUT type=reset value="Reset Test" name=EX23RESET> 
+  </TD></TR></TBODY></TABLE></FORM>
+<P>Return to <A 
+href="http://www.vedicmaths.org/Group%20Files/tutorial/Tutorial.asp">Index</A></P>
+<HR>
+<A name=tutorial3></A>
+<P align=center></P>
+<H1 align=center>Tutorial 3</H1>
+<P><FONT color=#0000cc>The easy way to add and subtract fractions.</FONT></P>
+<P>Use VERTICALLY AND CROSSWISE to write the answer straight down!</P>
+<UL>
+  <LI><IMG height=41 src="Vedic Maths Tutorial 1_files/tut3-Image1.gif" 
+  width=175 align=middle> 
+  <P>Multiply crosswise and add to get the top of the answer:<BR>2 x 5 = 10 and 
+  1 x 3 = 3. Then 10 + 3 = 13.<BR>The bottom of the fraction is just 3 x 5 = 
+  15.<BR>You multiply the bottom number together.</P>So: 
+  <LI><IMG height=35 src="Vedic Maths Tutorial 1_files/tut3-Image2.gif" 
+  width=177 align=middle> 
+  <P>Subtracting is just as easy: multiply crosswise as before, but the 
+  subtract:</P>
+  <LI><IMG height=37 src="Vedic Maths Tutorial 1_files/tut3-Image3.gif" 
+  width=175 align=middle> </LI></UL>
+<FORM name=EXERCISE31 onreset=resetForm31()>
+<P><I><FONT color=#0000cc><FONT color=#0000cc></FONT>Try a few:</FONT></I></P>
+<TABLE width=300 border=0>
+  <TBODY>
+  <TR>
+    <TD><IMG height=35 src="Vedic Maths Tutorial 1_files/tut3-Image5.gif" 
+      width=90 align=left> <INPUT tabIndex=34 
+      onchange="checkDoubleAnswer(this,29,'EXERCISE31','EX31ANS1BOT',30,'EX31RES1',totalForm31)" 
+      size=3 name=EX31ANS1TOP> <BR><INPUT tabIndex=35 
+      onchange="checkDoubleAnswer(this,30,'EXERCISE31','EX31ANS1TOP',29,'EX31RES1',totalForm31)" 
+      size=3 name=EX31ANS1BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX31RES1> </TD></TR>
+  <TR>
+    <TD><IMG height=37 src="Vedic Maths Tutorial 1_files/tut3-Image6.gif" 
+      width=90 align=left> <INPUT tabIndex=36 
+      onchange="checkDoubleAnswer(this,7,'EXERCISE31','EX31ANS2BOT',12,'EX31RES2',totalForm31)" 
+      size=3 name=EX31ANS2TOP> <BR><INPUT tabIndex=37 
+      onchange="checkDoubleAnswer(this,12,'EXERCISE31','EX31ANS2TOP',7,'EX31RES2',totalForm31)" 
+      size=3 name=EX31ANS2BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX31RES2> </TD></TR>
+  <TR>
+    <TD><IMG height=35 src="Vedic Maths Tutorial 1_files/tut3-Image7.gif" 
+      width=93 align=left> <INPUT tabIndex=38 
+      onchange="checkDoubleAnswer(this,20,'EXERCISE31','EX31ANS3BOT',21,'EX31RES3',totalForm31)" 
+      size=3 name=EX31ANS3TOP> <BR><INPUT tabIndex=39 
+      onchange="checkDoubleAnswer(this,21,'EXERCISE31','EX31ANS3TOP',20,'EX31RES3',totalForm31)" 
+      size=3 name=EX31ANS3BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX31RES3> </TD></TR>
+  <TR>
+    <TD><IMG height=36 src="Vedic Maths Tutorial 1_files/tut3-Image8.gif" 
+      width=92 align=left> <INPUT tabIndex=40 
+      onchange="checkDoubleAnswer(this,19,'EXERCISE31','EX31ANS4BOT',30,'EX31RES4',totalForm31)" 
+      size=3 name=EX31ANS4TOP> <BR><INPUT tabIndex=41 
+      onchange="checkDoubleAnswer(this,30,'EXERCISE31','EX31ANS4TOP',19,'EX31RES4',totalForm31)" 
+      size=3 name=EX31ANS4BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX31RES4> </TD></TR>
+  <TR>
+    <TD><IMG height=39 src="Vedic Maths Tutorial 1_files/tut3-Image9.gif" 
+      width=96 align=left> <INPUT tabIndex=42 
+      onchange="checkDoubleAnswer(this,1,'EXERCISE31','EX31ANS5BOT',20,'EX31RES5',totalForm31)" 
+      size=3 name=EX31ANS5TOP> <BR><INPUT tabIndex=43 
+      onchange="checkDoubleAnswer(this,20,'EXERCISE31','EX31ANS5TOP',1,'EX31RES5',totalForm31)" 
+      size=3 name=EX31ANS5BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX31RES5> </TD></TR>
+  <TR>
+    <TD><IMG height=40 src="Vedic Maths Tutorial 1_files/tut3-Image10.gif" 
+      width=93 align=left> <INPUT tabIndex=44 
+      onchange="checkDoubleAnswer(this,13,'EXERCISE31','EX31ANS6BOT',15,'EX31RES6',totalForm31)" 
+      size=3 name=EX31ANS6TOP> <BR><INPUT tabIndex=45 
+      onchange="checkDoubleAnswer(this,15,'EXERCISE31','EX31ANS6TOP',13,'EX31RES6',totalForm31)" 
+      size=3 name=EX31ANS6BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX31RES6> </TD></TR>
+  <TR>
+    <TD>Total Correct = <INPUT tabIndex=46 readOnly size=5 name=EX31TOTAL> <INPUT type=reset value="Reset Test" name=EX31RESET> 
+</TD></TR></TBODY></TABLE></FORM>
+<P>Return to <A 
+href="http://www.vedicmaths.org/Group%20Files/tutorial/Tutorial.asp">Index</A> 
+<HR>
+<A name=tutorial4></A>
+<P align=center></P>
+<H1 align=center>Tutorial 4</H1>
+<P><FONT color=#0000cc>A quick way to square numbers that end in 5 using the 
+formula BY ONE MORE THAN THE ONE BEFORE.</FONT></P>
+<UL>
+  <LI><B>75<SUP>2</SUP> = <U>5625</U> </B>
+  <P>75<SUP>2</SUP> means 75 x 75.<BR>The answer is in two parts: 56 and 
+  25.<BR>The last part is always <B>25</B>.<BR>The first part is the first 
+  number, 7, multiplied by the number "one more", which is 8:<BR>so 7 x 8 = 
+  <B>56<BR><IMG height=63 src="Vedic Maths Tutorial 1_files/tut4-Image1.gif" 
+  width=231> </B></P>
+  <LI>Similarly <B>85<SUP>2</SUP> = <U>7225</U></B> because 8 x 9 = 72. </LI></UL>
+<FORM name=EXERCISE41 onreset=resetForm41()>
+<P><I><FONT color=#0000cc><FONT color=#0000cc></FONT>Try these:</FONT></I></P>
+<TABLE width=300 border=0>
+  <TBODY>
+  <TR>
+    <TD><B>1)</B> 45<SUP>2</SUP> = <INPUT tabIndex=47 
+      onchange="checkAnswer(this,2025,'EX41RES1',totalForm41)" align=middle 
+      size=5 name=EX41ANS1> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX41RES1> </TD></TR>
+  <TR>
+    <TD><B>2)</B> 65<SUP>2</SUP> = <INPUT tabIndex=48 
+      onchange="checkAnswer(this,4225,'EX41RES2',totalForm41)" align=middle 
+      size=5 name=EX41ANS2> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX41RES2> </TD></TR>
+  <TR>
+    <TD><B>3)</B> 95<SUP>2</SUP> = <INPUT tabIndex=49 
+      onchange="checkAnswer(this,9025,'EX41RES3',totalForm41)" align=middle 
+      size=5 name=EX41ANS3> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX41RES3> </TD></TR>
+  <TR>
+    <TD><B>4)</B> 35<SUP>2</SUP> = <INPUT tabIndex=50 
+      onchange="checkAnswer(this,1225,'EX41RES4',totalForm41)" align=middle 
+      size=5 name=EX41ANS4> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX41RES4></TD></TR>
+  <TR>
+    <TD><B>5)</B> 15<SUP>2</SUP> = <INPUT tabIndex=51 
+      onchange="checkAnswer(this,225,'EX41RES5',totalForm41)" align=middle 
+      size=5 name=EX41ANS5> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX41RES5></TD></TR>
+  <TR>
+    <TD>Total Correct = <INPUT tabIndex=52 readOnly size=5 name=EX41TOTAL> <INPUT type=reset value="Reset Test" name=EX41RESET> 
+</TD></TR></TBODY></TABLE></FORM>
+<P><FONT color=#0000cc>Method for multiplying numbers where the first figures 
+are the same and the last figures add up to 10.</FONT></P>
+<UL>
+  <LI><B>32 x 38 = <U>1216</U></B> 
+  <P>Both numbers here start with 3 and the last<BR>figures (2 and 8) add up to 
+  10.</P>
+  <P>So we just multiply 3 by 4 (the next number up)<BR>to get <B>12</B> for the 
+  first part of the answer.</P>
+  <P>And we multiply the last figures: 2 x 8 = <B>16</B> to<BR>get the last part 
+  of the answer.</P>
+  <P>Diagrammatically:<BR><IMG height=111 
+  src="Vedic Maths Tutorial 1_files/tut4-Image2.gif" width=305></P>
+  <LI>And <B>81 x 89 = <U>7209</U></B> 
+  <P>We put 09 since we need two figures as in all the other 
+examples.</P></LI></UL>
+<FORM name=EXERCISE42 onreset=resetForm42()>
+<P><I><FONT color=#0000cc><FONT color=#0000cc></FONT>Practise 
+some:</FONT></I></P>
+<TABLE width=300 border=0>
+  <TBODY>
+  <TR>
+    <TD><B>1)</B> 43 x 47 = <INPUT tabIndex=53 
+      onchange="checkAnswer(this,2021,'EX42RES1',totalForm42)" size=5 
+      name=EX42ANS1> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absMiddle name=EX42RES1> </TD></TR>
+  <TR>
+    <TD><B>2)</B> 24 x 26 = <INPUT tabIndex=54 
+      onchange="checkAnswer(this,624,'EX42RES2',totalForm42)" size=5 
+      name=EX42ANS2> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=33 align=absMiddle name=EX42RES2> </TD></TR>
+  <TR>
+    <TD><B>3)</B> 62 x 68 = <INPUT tabIndex=55 
+      onchange="checkAnswer(this,4216,'EX42RES3',totalForm42)" size=5 
+      name=EX42ANS3> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absMiddle name=EX42RES3> </TD></TR>
+  <TR>
+    <TD><B>4)</B> 17 x 13 = <INPUT tabIndex=56 
+      onchange="checkAnswer(this,221,'EX42RES4',totalForm42)" size=5 
+      name=EX42ANS4> <IMG height=33 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absMiddle name=EX42RES4> </TD></TR>
+  <TR>
+    <TD><B>5)</B> 59 x 51 = <INPUT tabIndex=57 
+      onchange="checkAnswer(this,3009,'EX42RES5',totalForm42)" size=5 
+      name=EX42ANS5> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=31 align=absMiddle name=EX42RES5> </TD></TR>
+  <TR>
+    <TD><B>6)</B> 77 x 73 = <INPUT tabIndex=58 
+      onchange="checkAnswer(this,5621,'EX42RES6',totalForm42)" size=5 
+      name=EX42ANS6> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absMiddle name=EX42RES6> </TD></TR>
+  <TR>
+    <TD>Total Correct = <INPUT tabIndex=59 readOnly size=5 name=EX42TOTAL> <INPUT type=reset value="Reset Test" name=EX42RESET> 
+</TD></TR></TBODY></TABLE></FORM>
+<P>Return to <A 
+href="http://www.vedicmaths.org/Group%20Files/tutorial/Tutorial.asp">Index</A> 
+</P>
+<HR>
+<A name=tutorial5></A>
+<P align=center></P>
+<H1 align=center>Tutorial 5</H1>
+<P><FONT color=#0000cc>An elegant way of multiplying numbers using a simple 
+pattern.</FONT></P>
+<UL>
+  <LI><B>21 x 23 = <U>483</U></B> 
+  <P>This is normally called long multiplication but<BR>actually the answer can 
+  be written straight down<BR>using the VERTICALLY AND CROSSWISE<BR>formula.</P>
+  <P>We first put, or imagine, 23 below 21:</P>
+  <BLOCKQUOTE>
+    <BLOCKQUOTE>
+      <P><IMG height=81 src="Vedic Maths Tutorial 1_files/tut5-Image1.gif" 
+      width=66></P></BLOCKQUOTE></BLOCKQUOTE>
+  <P>There are 3 steps:</P>
+  <P>a) Multiply <B>vertically on the left</B>: 2 x 2 = 
+  <B>4</B>.<BR>&nbsp;&nbsp;&nbsp;&nbsp;This gives the first figure of the 
+  answer.<BR>b) Multiply <B>crosswise and add</B>: 2 x 3 + 1 x 2 = 
+  <B>8</B><BR>&nbsp;&nbsp;&nbsp;&nbsp;This gives the middle figure.<BR>c) 
+  Multiply <B>vertically on the right</B>: 1 x 3 = 
+  <B>3</B><BR>&nbsp;&nbsp;&nbsp;&nbsp;This gives the last figure of the 
+  answer.</P></LI></UL>
+<P><I><FONT color=#0000cc>And thats all there is to it.</FONT></I></P>
+<UL>
+  <LI>Similarly <B>61 x 31 = <U>1891</U></B><BR>
+  <BLOCKQUOTE>
+    <BLOCKQUOTE>
+      <P><IMG height=84 src="Vedic Maths Tutorial 1_files/tut5-Image2.gif" 
+      width=74></P></BLOCKQUOTE></BLOCKQUOTE>
+  <LI>6 x 3 = <B>18</B>; 6 x 1 + 1 x 3 = <B>9</B>; 1 x 1 = <B>1</B> </LI></UL>
+<FORM name=EXERCISE51 onreset=resetForm51()>
+<P><I><FONT color=#0000cc>Try these, just write down the answer:</FONT></I></P>
+<TABLE width=500 border=0>
+  <TBODY>
+  <TR>
+    <TD><B>1)</B> 14<BR>&nbsp;&nbsp;&nbsp;&nbsp;21 x<BR>&nbsp; <INPUT 
+      tabIndex=60 onchange="checkAnswer(this,294,'EX51RES1',totalForm51)" size=5 
+      name=EX51ANS1> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=33 align=absBottom name=EX51RES1> </TD>
+    <TD><B>2)</B> 22<BR>&nbsp;&nbsp;&nbsp;&nbsp;31 x<BR>&nbsp; <INPUT 
+      tabIndex=61 onchange="checkAnswer(this,682,'EX51RES2',totalForm51)" size=5 
+      name=EX51ANS2> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absBottom name=EX51RES2> </TD>
+    <TD><B>3)</B> 21<BR>&nbsp;&nbsp;&nbsp;&nbsp;31 x<BR>&nbsp; <INPUT 
+      tabIndex=62 onchange="checkAnswer(this,651,'EX51RES3',totalForm51)" size=5 
+      name=EX51ANS3> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absBottom name=EX51RES3> </TD>
+    <TD><B>4)</B> 21<BR>&nbsp;&nbsp;&nbsp;&nbsp;22 x<BR>&nbsp; <INPUT 
+      tabIndex=63 onchange="checkAnswer(this,462,'EX51RES4',totalForm51)" size=5 
+      name=EX51ANS4> <IMG height=35 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absBottom name=EX51RES4> </TD>
+    <TD><B>5)</B> 32<BR>&nbsp;&nbsp;&nbsp;&nbsp;21 x <BR>&nbsp; <INPUT 
+      tabIndex=64 onchange="checkAnswer(this,672,'EX51RES5',totalForm51)" size=5 
+      name=EX51ANS5> <IMG height=33 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absBottom name=EX51RES5> </TD></TR>
+  <TR>
+    <TD colSpan=3>Total Correct = <INPUT tabIndex=65 readOnly size=5 
+      name=EX51TOTAL> <INPUT type=reset value="Reset Test" name=EX51RESET> 
+  </TD></TR></TBODY></TABLE></FORM>
+<P><FONT color=#0000cc>Multiply any 2-figure numbers together by mere mental 
+arithmetic!</FONT></P>
+<P>If you want 21 stamps at 26 pence each you can<BR>easily find the total price 
+in your head.</P>
+<P>There were no carries in the method given above.<BR>However, there only 
+involve one small extra step.</P>
+<UL>
+  <LI><B>21 x 26 = <U>546</U></B> </LI></UL>
+<BLOCKQUOTE>
+  <BLOCKQUOTE>
+    <BLOCKQUOTE>
+      <P><IMG height=81 src="Vedic Maths Tutorial 1_files/tut5-Image4.gif" 
+      width=96></P></BLOCKQUOTE></BLOCKQUOTE>
+  <P>The method is the same as above<BR>except that we get a 2-figure number, 
+  14, in the<BR>middle step, so the 1 is carried over to the left<BR>(4 becomes 
+  5).</P></BLOCKQUOTE>
+<P>So 21 stamps cost £5.46.</P>
+<FORM name=EXERCISE52 onreset=resetForm52()>
+<P><FONT color=#0000cc><FONT color=#0000cc></FONT>Practise a few:</FONT></P>
+<TABLE width=500 border=0>
+  <TBODY>
+  <TR>
+    <TD width=113><B>1)</B> 21<BR>&nbsp;&nbsp;&nbsp;&nbsp;47 x<BR>&nbsp; 
+      <INPUT tabIndex=66 onchange="checkAnswer(this,987,'EX52RES1',totalForm52)" 
+      size=5 name=EX52ANS1> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=33 align=absBottom 
+      name=EX52RES1> </TD>
+    <TD width=113><B>2)</B> 23<BR>&nbsp;&nbsp;&nbsp;&nbsp;43 x<BR>&nbsp; 
+      <INPUT tabIndex=67 onchange="checkAnswer(this,989,'EX52RES2',totalForm52)" 
+      size=5 name=EX52ANS2> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=33 align=absBottom 
+      name=EX52RES2> </TD>
+    <TD width=113><B>3)</B> 32<BR>&nbsp;&nbsp;&nbsp;&nbsp;53 x<BR>&nbsp; 
+      <INPUT tabIndex=68 
+      onchange="checkAnswer(this,1696,'EX52RES3',totalForm52)" size=5 
+      name=EX52ANS3> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=33 align=absBottom name=EX52RES3> </TD>
+    <TD width=114><B>4)</B> 42<BR>&nbsp;&nbsp;&nbsp;&nbsp;32 x<BR>&nbsp; 
+      <INPUT tabIndex=69 
+      onchange="checkAnswer(this,1344,'EX52RES4',totalForm52)" size=5 
+      name=EX52ANS4> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=33 align=absBottom name=EX52RES4> </TD>
+    <TD width=113><B>5)</B> 71<BR>&nbsp;&nbsp;&nbsp;&nbsp;72 x<BR>&nbsp; 
+      <INPUT tabIndex=70 
+      onchange="checkAnswer(this,5112,'EX52RES5',totalForm52)" size=5 
+      name=EX52ANS5> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=33 align=absBottom name=EX52RES5> </TD></TR>
+  <TR>
+    <TD colSpan=3>Total Correct = <INPUT tabIndex=71 readOnly size=5 
+      name=EX52TOTAL> <INPUT type=reset value="Reset Test" name=EX52RESET> 
+  </TD></TR></TBODY></TABLE></FORM>
+<UL>
+  <LI><B>33 x 44 = <U>1452</U></B> 
+  <P>There may be more than one carry in a sum:</P>
+  <BLOCKQUOTE>
+    <BLOCKQUOTE>
+      <P><IMG height=82 src="Vedic Maths Tutorial 1_files/tut5-Image5.gif" 
+      width=112></P></BLOCKQUOTE></BLOCKQUOTE>
+  <P>Vertically on the left we get 12.<BR>Crosswise gives us 24, so we carry 2 
+  to the left<BR>and mentally get 144.</P>
+  <P>Then vertically on the right we get 12 and the 1<BR>here is carried over to 
+  the 144 to make 1452.</P></LI></UL>
+<FORM name=EXERCISE53 onreset=resetForm53()>
+<TABLE width=500 border=0>
+  <TBODY>
+  <TR>
+    <TD><B>6)</B> 32<BR>&nbsp;&nbsp;&nbsp;&nbsp;56 x<BR>&nbsp; <INPUT 
+      tabIndex=72 onchange="checkAnswer(this,1792,'EX53RES1',totalForm53)" 
+      size=5 name=EX53ANS1> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=33 align=absBottom 
+      name=EX53RES1> </TD>
+    <TD><B>7)</B> 32<BR>&nbsp;&nbsp;&nbsp;&nbsp;54 x<BR>&nbsp; <INPUT 
+      tabIndex=73 onchange="checkAnswer(this,1728,'EX53RES2',totalForm53)" 
+      size=5 name=EX53ANS2> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=33 align=absBottom 
+      name=EX53RES2> </TD>
+    <TD><B>8)</B> 31<BR>&nbsp;&nbsp;&nbsp;&nbsp;72 x<BR>&nbsp; <INPUT 
+      tabIndex=74 onchange="checkAnswer(this,2232,'EX53RES3',totalForm53)" 
+      size=5 name=EX53ANS3> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=33 align=absBottom 
+      name=EX53RES3> </TD>
+    <TD><B>9)</B> 44<BR>&nbsp;&nbsp;&nbsp;&nbsp;53 x<BR>&nbsp; <INPUT 
+      tabIndex=75 onchange="checkAnswer(this,2332,'EX53RES4',totalForm53)" 
+      size=5 name=EX53ANS4> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=33 align=absBottom 
+      name=EX53RES4> </TD>
+    <TD><B>10)</B> 54<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;64 x<BR>&nbsp; 
+      &nbsp; <INPUT tabIndex=76 
+      onchange="checkAnswer(this,3456,'EX53RES5',totalForm53)" size=5 
+      name=EX53ANS5> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=33 align=absBottom name=EX53RES5> </TD></TR>
+  <TR>
+    <TD colSpan=3>Total Correct = <INPUT tabIndex=77 readOnly size=5 
+      name=EX53TOTAL> <INPUT type=reset value="Reset Test" name=EX53RESET> 
+  </TD></TR></TBODY></TABLE></FORM>
+<P>Any two numbers, no matter how big, can be<BR>multiplied in one line by this 
+method. 
+<P>Return to <A 
+href="http://www.vedicmaths.org/Group%20Files/tutorial/Tutorial.asp">Index</A> 
+<HR>
+<A name=tutorial6></A>
+<P align=center></P>
+<H1 align=center>Tutorial 6</H1>
+<P><FONT color=#0000af>Multiplying a number by 11.</FONT></P>
+<UL>
+  <P>To multiply any 2-figure number by 11 we just put<BR>the total of the two 
+  figures between the 2 figures.</P>
+  <LI><B>26 x 11 = <U>286</U></B> 
+  <P>Notice that the outer figures in 286 are the 26<BR>being multiplied.</P>
+  <P>And the middle figure is just 2 and 6 added up.</P>
+  <LI><B>So 72 x 11 = <U>792</U></B> </LI></UL>
+<FORM name=EXERCISE61 onreset=resetForm61()>
+<P><FONT color=#0000af>Multiply by 11:</FONT></P>
+<TABLE width=300 border=0>
+  <TBODY>
+  <TR>
+    <TD><B>1)</B> 43 = <INPUT tabIndex=78 
+      onchange="checkAnswer(this,473,'EX61RES1',totalForm61)" size=5 
+      name=EX61ANS1> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absMiddle name=EX61RES1> </TD></TR>
+  <TR>
+    <TD><B>2)</B> 81 = <INPUT tabIndex=79 
+      onchange="checkAnswer(this,891,'EX61RES2',totalForm61)" size=5 
+      name=EX61ANS2> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absMiddle name=EX61RES2> </TD></TR>
+  <TR>
+    <TD><B>3) </B>15 = <INPUT tabIndex=80 
+      onchange="checkAnswer(this,165,'EX61RES3',totalForm61)" size=5 
+      name=EX61ANS3> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absMiddle name=EX61RES3> </TD></TR>
+  <TR>
+    <TD><B>4)</B> 44 = <INPUT tabIndex=81 
+      onchange="checkAnswer(this,484,'EX61RES4',totalForm61)" size=5 
+      name=EX61ANS4> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absMiddle name=EX61RES4> </TD></TR>
+  <TR>
+    <TD><B>5)</B> 11 = <INPUT tabIndex=82 
+      onchange="checkAnswer(this,121,'EX61RES5',totalForm61)" size=5 
+      name=EX61ANS5> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absMiddle name=EX61RES5> </TD></TR>
+  <TR>
+    <TD>Total Correct = <INPUT tabIndex=83 readOnly size=5 name=EX61TOTAL> <INPUT type=reset value="Reset Test" name=EX61RESET> 
+</TD></TR></TBODY></TABLE></FORM>
+<UL>
+  <LI><B>77 x 11 = <U>847</U></B> 
+  <P>This involves a carry figure because 7 + 7 = 14<BR>we get 77 x 11 = 
+  7<SUB>1</SUB>47 = 847.</P></LI></UL>
+<FORM name=EXERCISE62 onreset=resetForm62()>
+<P><FONT color=#0000af>Multiply by 11:</FONT></P>
+<TABLE width=300 border=0>
+  <TBODY>
+  <TR>
+    <TD><B>1)</B> 88 = <INPUT tabIndex=83 
+      onchange="checkAnswer(this,968,'EX62RES1',totalForm62)" size=5 
+      name=EX62ANS1> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absMiddle name=EX62RES1> </TD></TR>
+  <TR>
+    <TD><B>2)</B> 84 = <INPUT tabIndex=84 
+      onchange="checkAnswer(this,924,'EX62RES2',totalForm62)" size=5 
+      name=EX62ANS2> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absMiddle name=EX62RES2> </TD></TR>
+  <TR>
+    <TD><B>3)</B> 48 = <INPUT tabIndex=85 
+      onchange="checkAnswer(this,528,'EX62RES3',totalForm62)" size=5 
+      name=EX62ANS3> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absMiddle name=EX62RES3> </TD></TR>
+  <TR>
+    <TD><B>4)</B> 73 = <INPUT tabIndex=86 
+      onchange="checkAnswer(this,803,'EX62RES4',totalForm62)" size=5 
+      name=EX62ANS4> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absMiddle name=EX62RES4> </TD></TR>
+  <TR>
+    <TD><B>5)</B> 56 = <INPUT tabIndex=87 
+      onchange="checkAnswer(this,616,'EX62RES5',totalForm62)" size=5 
+      name=EX62ANS5> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absMiddle name=EX62RES5> </TD></TR>
+  <TR>
+    <TD>Total Correct = <INPUT tabIndex=88 readOnly size=5 name=EX62TOTAL> <INPUT type=reset value="Reset Test" name=EX62RESET> 
+</TD></TR></TBODY></TABLE></FORM>
+<UL>
+  <LI><B>234 x 11 = <U>2574</U></B> 
+  <P>We put the 2 and the 4 at the ends.<BR>We add the first pair 2 + 3 = 
+  5.<BR>and we add the last pair: 3 + 4 = 7.</P></LI></UL>
+<FORM name=EXERCISE63 onreset=resetForm63()>
+<P><FONT color=#0000cc><FONT color=#0000af></FONT>Multiply by 11:</FONT></P>
+<TABLE width=300 border=0>
+  <TBODY>
+  <TR>
+    <TD><B>1)</B> 151 = <INPUT tabIndex=89 
+      onchange="checkAnswer(this,1661,'EX63RES1',totalForm63)" size=5 
+      name=EX63ANS1> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absMiddle name=EX63RES1> </TD></TR>
+  <TR>
+    <TD><B>2) </B>527 = <INPUT tabIndex=90 
+      onchange="checkAnswer(this,5797,'EX63RES2',totalForm63)" size=5 
+      name=EX63ANS2> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absMiddle name=EX63RES2> </TD></TR>
+  <TR>
+    <TD><B>3) </B>333 = <INPUT tabIndex=91 
+      onchange="checkAnswer(this,3663,'EX63RES3',totalForm63)" size=5 
+      name=EX63ANS3> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absMiddle name=EX63RES3> </TD></TR>
+  <TR>
+    <TD><B>4)</B> 714 = <INPUT tabIndex=92 
+      onchange="checkAnswer(this,7854,'EX63RES4',totalForm63)" size=5 
+      name=EX63ANS4> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absMiddle name=EX63RES4> </TD></TR>
+  <TR>
+    <TD><B>5)</B> 909 = <INPUT tabIndex=93 
+      onchange="checkAnswer(this,9999,'EX63RES5',totalForm63)" size=5 
+      name=EX63ANS5> <IMG height=34 src="Vedic Maths Tutorial 1_files/blank.jpg" 
+      width=34 align=absMiddle name=EX63RES5> </TD></TR>
+  <TR>
+    <TD>Total Correct = <INPUT tabIndex=94 readOnly size=5 name=EX63TOTAL> <INPUT type=reset value="Reset Test" name=EX63RESET> 
+</TD></TR></TBODY></TABLE></FORM>
+<P>Return to <A 
+href="http://www.vedicmaths.org/Group%20Files/tutorial/Tutorial.asp">Index</A> 
+<HR>
+<A name=tutorial7></A>
+<H1 align=center>Tutorial 7</H1>
+<P><FONT color=#0000af>Method for diving by 9.</FONT></P>
+<UL>
+  <LI><B>23 / 9 = <U>2 remainder 5</U></B> 
+  <P>The first figure of 23 is 2, and this is the answer.<BR>The remainder is 
+  just 2 and 3 added up!</P>
+  <LI><B>43 / 9 = <U>4 remainder 7</U></B> 
+  <P>The first figure 4 is the answer<BR>and 4 + 3 = 7 is the remainder - could 
+  it be easier?</P></LI></UL>
+<FORM name=EXERCISE71 onreset=resetForm71()>
+<P><FONT color=#0000af>Divide by 9:</FONT></P>
+<TABLE width=300 border=0>
+  <TBODY>
+  <TR>
+    <TD><B>1)</B> 61 = <INPUT tabIndex=95 
+      onchange="checkDoubleAnswer(this,6,'EXERCISE71','EX71ANS1BOT',7,'EX71RES1',totalForm71)" 
+      size=5 name=EX71ANS1TOP> remainder <INPUT tabIndex=96 
+      onchange="checkDoubleAnswer(this,7,'EXERCISE71','EX71ANS1TOP',6,'EX71RES1',totalForm71)" 
+      size=5 name=EX71ANS1BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX71RES1> </TD></TR>
+  <TR>
+    <TD><B>2)</B> 33 = <INPUT tabIndex=97 
+      onchange="checkDoubleAnswer(this,3,'EXERCISE71','EX71ANS2BOT',6,'EX71RES2',totalForm71)" 
+      size=5 name=EX71ANS2TOP> remainder <INPUT tabIndex=98 
+      onchange="checkDoubleAnswer(this,6,'EXERCISE71','EX71ANS2TOP',3,'EX71RES2',totalForm71)" 
+      size=5 name=EX71ANS2BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX71RES2> </TD></TR>
+  <TR>
+    <TD><B>3)</B> 44 = <INPUT tabIndex=99 
+      onchange="checkDoubleAnswer(this,4,'EXERCISE71','EX71ANS3BOT',8,'EX71RES3',totalForm71)" 
+      size=5 name=EX71ANS3TOP> remainder <INPUT tabIndex=100 
+      onchange="checkDoubleAnswer(this,8,'EXERCISE71','EX71ANS3TOP',4,'EX71RES3',totalForm71)" 
+      size=5 name=EX71ANS3BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX71RES3> </TD></TR>
+  <TR>
+    <TD><B>4)</B> 53 = <INPUT tabIndex=101 
+      onchange="checkDoubleAnswer(this,5,'EXERCISE71','EX71ANS4BOT',8,'EX71RES4',totalForm71)" 
+      size=5 name=EX71ANS4TOP> remainder <INPUT tabIndex=102 
+      onchange="checkDoubleAnswer(this,8,'EXERCISE71','EX71ANS4TOP',5,'EX71RES4',totalForm71)" 
+      size=5 name=EX71ANS4BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX71RES4> </TD></TR>
+  <TR>
+    <TD><B>5)</B> 80 = <INPUT tabIndex=103 
+      onchange="checkDoubleAnswer(this,8,'EXERCISE71','EX71ANS5BOT',8,'EX71RES5',totalForm71)" 
+      size=5 name=EX71ANS5TOP> remainder <INPUT tabIndex=104 
+      onchange="checkDoubleAnswer(this,8,'EXERCISE71','EX71ANS5TOP',8,'EX71RES5',totalForm71)" 
+      size=5 name=EX71ANS5BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX71RES5> </TD></TR>
+  <TR>
+    <TD>Total Correct = <INPUT tabIndex=105 readOnly size=5 name=EX71TOTAL> <INPUT type=reset value="Reset Test" name=EX71RESET> 
+</TD></TR></TBODY></TABLE></FORM>
+<UL>
+  <LI><B>134 / 9 = <U>14 remainder 8</U></B> 
+  <P>The answer consists of <B>1,4</B> and <B>8</B>.<BR><B>1</B> is just the 
+  first figure of 134.<BR><B>4</B> is the total of the first two figures 1+ 3 = 
+  4,<BR>and <B>8</B> is the total of all three figures 1+ 3 + 4 = 8.</P></LI></UL>
+<FORM name=EXERCISE72 onreset=resetForm72()>
+<P><FONT color=#0000af>Divide by 9:</FONT></P>
+<TABLE width=300 border=0>
+  <TBODY>
+  <TR>
+    <TD><B>6)</B> 232 = <INPUT tabIndex=106 
+      onchange="checkDoubleAnswer(this,25,'EXERCISE72','EX72ANS1BOT',7,'EX72RES1',totalForm72)" 
+      size=5 name=EX72ANS1TOP> remainder <INPUT tabIndex=107 
+      onchange="checkDoubleAnswer(this,7,'EXERCISE72','EX72ANS1TOP',25,'EX72RES1',totalForm72)" 
+      size=5 name=EX72ANS1BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX72RES1></TD></TR>
+  <TR>
+    <TD><B>7)</B> 151 = <INPUT tabIndex=108 
+      onchange="checkDoubleAnswer(this,16,'EXERCISE72','EX72ANS2BOT',7,'EX72RES2',totalForm72)" 
+      size=5 name=EX72ANS2TOP> remainder <INPUT tabIndex=109 
+      onchange="checkDoubleAnswer(this,7,'EXERCISE72','EX72ANS2TOP',16,'EX72RES2',totalForm72)" 
+      size=5 name=EX72ANS2BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX72RES2></TD></TR>
+  <TR>
+    <TD><B>8) </B>303 = <INPUT tabIndex=110 
+      onchange="checkDoubleAnswer(this,33,'EXERCISE72','EX72ANS3BOT',6,'EX72RES3',totalForm72)" 
+      size=5 name=EX72ANS3TOP> remainder <INPUT tabIndex=111 
+      onchange="checkDoubleAnswer(this,6,'EXERCISE72','EX72ANS3TOP',33,'EX72RES3',totalForm72)" 
+      size=5 name=EX72ANS3BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX72RES3></TD></TR>
+  <TR>
+    <TD><B>9) </B>212 = <INPUT tabIndex=112 
+      onchange="checkDoubleAnswer(this,23,'EXERCISE72','EX72ANS4BOT',5,'EX72RES4',totalForm72)" 
+      size=5 name=EX72ANS4TOP> remainder <INPUT tabIndex=113 
+      onchange="checkDoubleAnswer(this,5,'EXERCISE72','EX72ANS4TOP',23,'EX72RES4',totalForm72)" 
+      size=5 name=EX72ANS4BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX72RES4></TD></TR>
+  <TR>
+    <TD><B>10)</B> 2121 = <INPUT tabIndex=114 
+      onchange="checkDoubleAnswer(this,235,'EXERCISE72','EX72ANS5BOT',6,'EX72RES5',totalForm72)" 
+      size=5 name=EX72ANS5TOP> remainder <INPUT tabIndex=115 
+      onchange="checkDoubleAnswer(this,6,'EXERCISE72','EX72ANS5TOP',235,'EX72RES5',totalForm72)" 
+      size=5 name=EX72ANS5BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX72RES5></TD></TR>
+  <TR>
+    <TD>Total Correct = <INPUT tabIndex=116 readOnly size=5 name=EX72TOTAL> <INPUT type=reset value="Reset Test" name=EX72RESET> 
+</TD></TR></TBODY></TABLE></FORM>
+<UL>
+  <LI><B>842 / 9 = 8<SUB>1</SUB>2 remainder 14 = <U>92 remainder 14</U></B> 
+  <P>Actually a remainder of 9 or more is not usually<BR>permitted because we 
+  are trying to find how<BR>many 9's there are in 842.</P>
+  <P>Since the remainder, 14 has one more 9 with 5<BR>left over the final answer 
+  will be <B><U>93 remainder 5</U></B> </P></LI></UL>
+<FORM name=EXERCISE73 onreset=resetForm73()>
+<P><FONT color=#0000af>Divide these by 9:</FONT></P>
+<TABLE width=300 border=0>
+  <TBODY>
+  <TR>
+    <TD><B>1) </B>771 = <INPUT tabIndex=117 
+      onchange="checkDoubleAnswer(this,85,'EXERCISE73','EX73ANS1BOT',6,'EX73RES1',totalForm73)" 
+      size=5 name=EX73ANS1TOP> remainder <INPUT tabIndex=118 
+      onchange="checkDoubleAnswer(this,6,'EXERCISE73','EX73ANS1TOP',85,'EX73RES1',totalForm73)" 
+      size=5 name=EX73ANS1BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX73RES1></TD></TR>
+  <TR>
+    <TD><B>2)</B> 942 = <INPUT tabIndex=119 
+      onchange="checkDoubleAnswer(this,104,'EXERCISE73','EX73ANS2BOT',6,'EX73RES2',totalForm73)" 
+      size=5 name=EX73ANS2TOP> remainder <INPUT tabIndex=120 
+      onchange="checkDoubleAnswer(this,6,'EXERCISE73','EX73ANS2TOP',104,'EX73RES2',totalForm73)" 
+      size=5 name=EX73ANS2BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX73RES2></TD></TR>
+  <TR>
+    <TD><B>3)</B> 565 = <INPUT tabIndex=121 
+      onchange="checkDoubleAnswer(this,62,'EXERCISE73','EX73ANS3BOT',7,'EX73RES3',totalForm73)" 
+      size=5 name=EX73ANS3TOP> remainder <INPUT tabIndex=122 
+      onchange="checkDoubleAnswer(this,7,'EXERCISE73','EX73ANS3TOP',62,'EX73RES3',totalForm73)" 
+      size=5 name=EX73ANS3BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX73RES3></TD></TR>
+  <TR>
+    <TD><B>4)</B> 555 = <INPUT tabIndex=123 
+      onchange="checkDoubleAnswer(this,61,'EXERCISE73','EX73ANS4BOT',6,'EX73RES4',totalForm73)" 
+      size=5 name=EX73ANS4TOP> remainder <INPUT tabIndex=124 
+      onchange="checkDoubleAnswer(this,6,'EXERCISE73','EX73ANS4TOP',61,'EX73RES4',totalForm73)" 
+      size=5 name=EX73ANS4BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX73RES4></TD></TR>
+  <TR>
+    <TD><B>5)</B> 777 = <INPUT tabIndex=125 
+      onchange="checkDoubleAnswer(this,86,'EXERCISE73','EX73ANS5BOT',3,'EX73RES5',totalForm73)" 
+      size=5 name=EX73ANS5TOP> remainder <INPUT tabIndex=126 
+      onchange="checkDoubleAnswer(this,3,'EXERCISE73','EX73ANS5TOP',86,'EX73RES5',totalForm73)" 
+      size=5 name=EX73ANS5BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX73RES5></TD></TR>
+  <TR>
+    <TD><B>6)</B> 2382 = <INPUT tabIndex=127 
+      onchange="checkDoubleAnswer(this,264,'EXERCISE73','EX73ANS6BOT',6,'EX73RES6',totalForm73)" 
+      size=5 name=EX73ANS6TOP> remainder <INPUT tabIndex=128 
+      onchange="checkDoubleAnswer(this,6,'EXERCISE73','EX73ANS6TOP',264,'EX73RES6',totalForm73)" 
+      size=5 name=EX73ANS6BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX73RES6></TD></TR>
+  <TR>
+    <TD><B>7)</B> 7070 = <INPUT tabIndex=129 
+      onchange="checkDoubleAnswer(this,785,'EXERCISE73','EX73ANS7BOT',5,'EX73RES7',totalForm73)" 
+      size=5 name=EX73ANS7TOP> remainder <INPUT tabIndex=130 
+      onchange="checkDoubleAnswer(this,5,'EXERCISE73','EX73ANS7TOP',785,'EX73RES7',totalForm73)" 
+      size=5 name=EX73ANS7BOT> <IMG height=34 
+      src="Vedic Maths Tutorial 1_files/blank.jpg" width=34 align=absMiddle 
+      name=EX73RES7></TD></TR>
+  <TR>
+    <TD>Total Correct = <INPUT tabIndex=131 readOnly size=5 name=EX73TOTAL> <INPUT type=reset value="Reset Test" name=EX73RESET> 
+</TD></TR></TBODY></TABLE></FORM>
+<P>Return to <A 
+href="http://www.vedicmaths.org/Group%20Files/tutorial/Tutorial.asp">Index</A> 
+<HR>
+
+<P align=center><FONT size=5><A name=instructions></A>Instructions</FONT><BR>for 
+using the tutorials</P>
+<P>Each tutorial has test sections comprising of several questions each. Next to 
+each question is a box (field) into which you can enter the answer to the 
+question. Select the first question in each test with the mouse to start a test. 
+Enter the answer for the question using the numeric keys on the keyboard. To 
+move to the answer field of the next question in the test, press the 
+<B>'TAB'</B> key. Moving to the next question, will cause the answer you entered 
+to be checked, the following will be displayed depending on how you answered the 
+question :-</P>
+<BLOCKQUOTE>
+  <P><IMG height=34 src="Vedic Maths Tutorial 1_files/tick.jpg" width=34 
+  align=absMiddle name=Tick_example>Correct<BR><IMG height=34 
+  src="Vedic Maths Tutorial 1_files/cross.jpg" width=34 align=absMiddle 
+  name=Cross_example>Wrong<BR><IMG height=34 
+  src="Vedic Maths Tutorial 1_files/question.jpg" width=34 align=left>Answer has 
+  more than one part (such as fractions and those answers with remainders). 
+  Answering remaining parts of the question, will determine whether you answered 
+  the question correctly or not.</P></BLOCKQUOTE>
+<P>Some browsers will update the answer on <B>'RETURN'</B> being pressed, others 
+do not. Any problems stick to the 'TAB' key. Pressing <B>'SHIFT TAB'</B> will 
+move the cursor back to the answer field for the previous question.<BR>The <INPUT type=button value="Reset Test" name=EXAMPLE_RESET> button will clear all 
+answers from the test and set the count of correct answers back to zero.</P>
+<P>N.B. JavaScript is used to obtain the interactive nature of these tutorials. 
+If you cannot get this to work then try the<A 
+href="http://www.vedicmaths.org/Group%20Files/tutorial/Tutorial%20text%20only.asp"> 
+text/picture based version</A> of this tutorial.</P>
+<P>Return to <A 
+href="http://www.vedicmaths.org/Group%20Files/tutorial/Tutorial.asp">Index</A> 
+</P></BODY></HTML>

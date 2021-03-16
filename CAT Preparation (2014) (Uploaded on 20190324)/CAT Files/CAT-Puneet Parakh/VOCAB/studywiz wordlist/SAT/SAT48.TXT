@@ -1,0 +1,80 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 48 
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+ulterior	situated beyond; unstated	adjective
+ultimate	final; not susceptible to further analysis	adjective
+ultimatum	last demand; warning	noun
+umbrage	resentment; anger; sense of injury or insult	noun
+unanimity	complete agreement	noun
+unassuaged	unsatisfied; not soothed	adjective
+unassuming	modest	adjective
+unbridled	violent	adjective
+uncanny	strange; mysterious	adjective
+unconscionable	unscrupulous; excessive	adjective
+uncouth	outlandish; clumsy; boorish	adjective
+unctuous	oily; bland; insincerely suave	adjective
+undermine	weaken; sap	verb
+undulate	move with a wavelike motion	verb
+unearth	dig up	verb
+unearthly	not earthy; weird	adjective
+unequivocal	plain; obvious; unmistakable	adjective
+unerringly	infallibly	adjective
+unfaltering	steadfast	adjective
+unfeigned	genuine; real	adjective
+unfledged	immature	adjective
+unfrock	strip a priest or minister of church authority	verb
+ungainly	awkward	adjective
+unguent	ointment	noun
+uniformity	sameness; monotony	noun	*
+unilateral	one-sided	adjective
+unimpeachable	blameless and exemplary	adjective
+uninhibited	unrepressed	adjective
+unique	without an equal; single in kind	adjective
+unison	unity of pitch; complete accord	noun
+unkempt	disheveled; with uncared-for appearance	adjective	*
+unmitigated	harsh; severe; not lightened	adjective
+universal	characterizing or affecting all; present everywhere	adjective
+unobtrusive	inconspicuous; not blatant	adjective	*
+unprecedented	novel; unparalleled	adjective	*
+unruly	disobedient; lawless	adjective
+unsavory	distasteful; morally offensive	adjective
+unscathed	unharmed	adjective
+unseemly	unbecoming; indecent	adjective
+unsullied	untarnished	adjective
+untenable	insupportable	adjective
+untoward	unfortunate; annoying	adjective
+unwarranted	unjustified; groundless; undeserved	adjective	*
+unwitting	unintentional; not knowing	adjective
+unwonted	unaccustomed	adjective
+upbraid	scold; reproach	verb
+upshot	outcome	noun
+urbane	suave; refined; elegant	adjective
+urchin	mischievous child (usually a boy)	noun
+ursine	bearlike; pertaining to a bear	adjective
+usurpation	act of seizing power and rank of another	noun
+usury	lending money at illegal rates of interest	noun
+utopia	imaginary land with perfect social and political system	noun
+vacillation	fluctuation; wavering	noun	*
+vacuous	empty; inane	adjective
+vagabond	wanderer; tramp	noun
+vagrant	a homeless wanderer	noun	*
+vainglorious	boastful; excessively conceited	adjective
+valedictory	pertaining to farewell	adjective
+valid	logically convincing; sound; legally acceptable	adjective
+validate	confirm; ratify	verb
+valor	bravery	noun
+vampire	ghostly being that sucks the blood of the living	noun
+vanguard	forerunners; advance forces	noun
+vantage	position giving an advantage	noun
+vapid	insipid; insane	adjective
+vassal	in feudalism, one who held land of a superior lord	noun
+vaunted	boasted; bragged; highly publicized	adjective
+veer	change in direction	verb
+vegetate	live in a monotonous way	verb
+vehement	impetuous; with marked vigor	adjective

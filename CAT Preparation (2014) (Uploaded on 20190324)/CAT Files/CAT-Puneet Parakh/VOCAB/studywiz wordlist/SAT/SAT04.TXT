@@ -1,0 +1,81 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 04
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+apothegm	pithy, compact saying	noun	
+apotheosis	deification; glorification	noun	
+appall	dismay; shock	verb	
+apparition	ghost; phantom	noun	
+appease	pacify; soothe	verb	*
+appellation	name; title	noun	
+append	attach	verb	
+application	diligent attention	noun	
+apposite	appropriate; fitting	adjective	
+appraise	estimate value of	verb	
+appreciate	be thankful for; increase in worth; be thoroughly conscious for	verb	
+apprehend	arrest(a criminal); dread; perceive	verb	
+apprehension	fear	noun	*
+apprise	inform	verb	
+approbation	approval	noun	
+appropriate	acquire; take position of for one's own use	verb	
+apropos	with reference to; regarding	preposition	
+aptitude	fitness; talent	noun	
+aquiline	curved; hooked	adjective	
+arable	fit for plowing	adjective	
+arbiter	a person with power to decide a dispute; judge	noun	
+arbitrary	unreasonable or capricious; imperious; tyrannical; despotic	adjective	*
+arbitrate	act as judge	verb	
+arboretum	place where different tree varieties are exhibited	noun	
+arcade	a covered passageway, usually lined with shops	noun	
+arcane	secret; mysterious	adjective	
+archaeology	study of artifacts and relics of early mankind	noun	
+archaic	antiquated	adjective	
+archetype	prototype; primitive pattern	noun	
+archipelago	group of closely located islands	noun	
+archives	public records; place where public records are kept	noun	
+ardor	heat; passion; zeal	noun	
+arduous	hard; strenuous	adjective	
+argot	slang	noun	
+aria	operatic solo	noun	
+arid	dry; barren	adjective	
+aristocracy	hereditary nobility; privileged class	noun	
+armada	fleet of warships	noun	
+aromatic	fragrant	adjective	
+arraign	charge in court; indict	verb	
+array	marshal; draw up in order	verb	
+array	clothe; adorn	verb	
+arrears	being in debt	noun	
+arrogance	pride; haughtiness	noun	
+arroyo	gully	noun	
+articulate	effective; distinct	adjective	*
+artifacts	products of primitive culture	noun	
+artifice	deception; trickery	noun	
+artisan	a manually skilled worker	noun	
+artless	without guile, open and honest	adjective	
+ascendancy	controlling influence; domination	noun	*
+ascertain	find out for certain	verb	
+ascetic	practicing self-denial, austere	adjective	*
+ascribe	refer; attribute, assign	verb	
+aseptic	preventing infection; having a cleansing effect	adjective	
+ashen	ash-colored	adjective	
+asinine	stupid	adjective	
+askance	with a sideways or indirect look	adjective	
+askew	crookedly; slanted; at an angle	adjective	
+asperity	sharpness(of temper)	noun	
+aspersion	slanderous remark	noun	
+aspirant	seeker after position or status	noun	
+aspiration	noble ambition	noun	
+assail	assault	verb	
+assay	analyze; evaluate	verb	
+assent	agree; accept	verb	
+assessment	estimation	noun	
+assiduous	diligent	adjective	
+assimilate	absorb; cause to become homogeneous	verb	
+assuage	ease; lessen (pain)	verb	*
+asteroid	small planet	noun	
+astigmatism	eye defect that prevents proper focus	noun

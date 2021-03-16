@@ -1,0 +1,85 @@
+[HEADER]
+ Category=SAT
+Description=Word List No. 45
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+subliminal	below the threshold	adjective
+submissive	yielding; timid	adjective	*
+subsequent	following; later	adjective
+subservient	behaving like a slave; servile; obsequious	adjective
+subside	settle down; descend; grow quiet	verb
+subsidiary	subordinate; secondary	adjective
+subsidy	direct financial aid by government, etc.	noun
+subsistence	existence; means of support; livelihood	noun
+substantiate	verify; support	verb
+substantive	essential; pertaining to the substance	adjective
+subterfuge	pretense; evasion	noun
+subtlety	nicety; cunning; guile; delicacy	noun	*
+subversive	tending to overthrow or ruin	adjective
+succinct	brief; terse; compact	adjective	*
+succor	aid; assistance; relief	noun
+succulent	juicy; full of richness	adjective
+succumb	yield; give in; die	verb
+suffuse	spread over	verb
+sully	tarnish; soil	verb
+sultry	sweltering	adjective
+summation	act of finding the total; summary	noun
+sumptuous	lavish; rich;	adjective
+sunder	separate; part	verb
+sundry	various; several	adjective
+superannuated	retired on pension because of age	adjective
+supercilious	contemptuous; haughty	adjective
+superficial	trivial; shallow	adjective
+superfluous	excessive; overabundant; unnecessary	adjective	*
+superimpose	place over something else	verb
+supernal	heavenly; celestial	adjective
+supernumerary	person or thing in excess of what is necessary; extra	noun
+supersede	cause to be set aside; replace	verb
+supine	lying on back	adjective
+supplant	replace; usurp	verb
+supple	flexible; pliant	adjective
+suppliant	entreating; beseeching	adjective
+supplicate	petition humbly; pray to grant a favor	verb
+supposition	hypothesis; the act of supposing	noun
+suppress	crush; subdue; inhibit	verb
+surcease	cessation	noun
+surfeit	cloy; overfeed	verb
+surly	rude; cross	adjective
+surmise	guess	verb
+surmount	overcome	verb
+surpass	exceed	verb	*
+surreptitious	secret	adjective	*
+surrogate	substitute	noun
+surveillance	watching; guarding	noun
+susceptible	impressionable; easily influenced; having little resistance, as to a disease	adjective
+sustain	experience; support; nourish	verb	*
+sustenance	means of support, food, nourishment	noun
+suture	stitches sewn to hold the cut edges of a wound or incision; material used in sewing	noun
+swarthy	dark; dusky	adjective
+swathe	wrap around; bandage	verb
+swelter	be oppressed by heat	verb
+swerve	deviate; turn aside sharply	verb
+swindler	cheat	noun
+sybarite	lover of luxury	noun
+sycophant	servile flatterer	noun	*
+syllogism	logical formula utilizing a major premise, a minor premise and a conclusion	noun
+sylvan	pertaining to the woods; rustic	adjective
+symmetry	arrangement of parts so that balance is obtained; congruity	noun
+synchronous	similarly timed; simultaneous with	adjective
+synoptic	providing a general overview; summary	adjective
+synthesis	combining parts into a whole	noun
+synthetic	artificial; resulting from synthesis	adjective
+tacit	understood; not put into words	adjective
+taciturn	habitually silent; talking little	adjective	*
+tactile	pertaining to the organs or sense of touch	adjective
+tainted	contaminated; corrupt	adjective
+talisman	charm	noun
+talon	claw of bird	noun
+tangential	peripheral; only slightly connected; digressing	adjective
+tangible	able to be touched; real; palpable	adjective
+tantalize	tease; torture with disappointment	verb
+tantamount	equal	adjective

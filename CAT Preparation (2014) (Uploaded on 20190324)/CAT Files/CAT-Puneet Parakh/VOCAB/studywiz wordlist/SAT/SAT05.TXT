@@ -1,0 +1,77 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 05
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+astral	relating to stars	adjective	
+astringent	binding; causing contraction	adjective	
+astronomical	enormously large or extensive	adjective	
+astute	wise; shrewd	adjective	*
+asunder	into parts, apart	adjective	
+asylum	place of refuge or shelter; protection	noun	
+asymmetric	not identical on both sides of a dividing central line	adjective	
+atavism	resemblance to remote ancestors rather than to parents; deformity returning after passage of two or more generations	noun	
+atheistic	denying the existence of God	adjective	
+atone	make amends for; pay for	verb	
+atrocity	brutal deed	noun	
+atrophy	wasting away	noun	*
+attentive	considerate; thoughtful	adjective	
+attenuate	make thin; weaken	verb	
+attest	testify; bear witness	verb	
+attribute	essential quality	noun	
+attribute	ascribe; explain	verb	
+attrition	gradual wearing down	noun	
+atypical	not normal	adjective	
+audacious	daring; bold	adjective	
+audit	examination of accounts	noun	
+augment	increase	verb	
+augury	omen; prophecy	verb	
+august	impressive; majestic	adjective	
+aureole	sun's corona; halo	noun	
+auroral	pertaining to the aurora borealis	adjective	
+auspicious	favoring success	adjective	
+austere	strict; stern	adjective	
+austerity	sternness; severity; lack of luxuries	noun	*
+authenticate	prove genuine	verb	
+authoritarian	favoring or exercising total control; non-democratic 	adjective	*
+authoritative	having the weight of authority; dictatorial	adjective	
+autocrat	monarch with supreme power	noun	
+automaton	mechanism that imitates actions of humans	noun	
+autonomous	self-governing	adjective	
+autopsy	examination of a dead body; post-mortem	noun	
+auxiliary	helper; additional or subsidiary	adjective	
+avarice	greediness for wealth	noun	
+aver	state confidently	verb	
+averse	reluctant	adjective	
+aversion	firm dislike	noun	
+avert	prevent; turn away	verb	
+aviary	enclosure for birds	noun	
+avid	greedy; eager for	adjective	
+avocation	secondary or minor occupation	noun	
+avow	declare openly	verb	
+avuncular	like an uncle	adjective	
+awe	solemn wonder	noun	
+awry	distorted; crooked	adverb	
+axiom	self-evident truth requiring no proof	noun	
+azure	sky blue	adjective	
+babble	chatter ugly	verb	
+bacchanalian	drunken	adjective	
+badger	pester; annoy	verb	
+badinage	teasing conversation	noun	
+baffle	frustrate; perplex	verb	
+bait	harass; tease	verb	
+baleful	deadly; destructive	adjective	
+balk	foil	verb	
+ballast	heavy substance used to add stability or weight	noun	
+balm	something that relieves pain	noun	
+balmy	mild; fragrant	adjective	
+banal	hackneyed; commonplace; trite	adjective	*
+bandy	discuss lightly; exchange blows or words	verb	
+bane	cause of ruin	noun	
+baneful	ruinous; poisonous	adjective	
+bantering	good-natured ridiculing	adjective	
+barb	sharp projection from fishhook, etc.	noun

@@ -1,0 +1,80 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 13
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+deciduous	falling off as of leaves	adjective
+decimate	kill, usually one out of ten	verb
+decipher	interpret secret code	verb
+declivity	downward slope	noun
+décolleté  	having a low-necked dress	adjective
+decomposition	decay	noun
+decorous	proper	adjective
+decoy	lure or bail	noun
+decrepit	worn out of age	adjective
+decrepitude	state of collapse caused by illness or old age	noun
+decry	disparage	verb
+deducible	derived by reasoning	adjective
+defame	harm someone's reputation; malign	verb
+default	failure to do	noun
+defeatist	attitude of one who is ready to accept defeat as a natural outcome	adjective
+defection	desertion	noun
+deference	courteous regard for another's wish	noun	*
+defile	pollute; profane	verb
+definitive	final; compete	adjective
+deflect	turn aside	verb
+defoliate	destroy leaves	verb
+defray	pay costs for	verb
+deft	neat; skillful	adjective
+defunct	dead; no longer in use or existence	adjective
+degenerate	become worse; deteriorate	verb
+degraded	lowered in rank; debased	adjective
+deify	turn into god; idolize	verb
+deign	condescend	verb
+delectable	delightful; delicious	adjective
+delete	erase; strike out	verb
+deleterious	harmful	adjective
+deliberate	consider; ponder	verb
+deleterious	harmful	adjective
+delineate	portray	noun	*
+delirium	mental disorder marked by confusion	noun
+delude	deceive	verb
+delude	flood; rush	noun
+delusion	false belief; hallucination	noun
+delusive	deceptive; raising vain hopes	adjective
+delve	dig; investigate	verb
+demagogue	person who appeals to people's prejudice	noun
+demean	degrade; humiliate	verb
+demeanor	behavior; bearing	noun
+demented	insane	adjective
+demise	death	noun
+demolition	destruction	noun
+demoniac	fiendish	adjective
+demotic	pertaining to the people	adjective
+demur	delay; object	verb
+demure	grave; serious; coy	adjective
+denigrate	blacken	verb
+denizen	inhabitant of	noun
+denotation	meaning; distinguishing by name	noun
+denouement	outcome; final development of the plot of a play	noun
+denounce	condemn; criticize	verb	*
+depict	portray	verb
+deplete	reduce; exhaust	verb
+deplore	regret; disapprove of	verb	*
+deploy	move troops so that the battle line is extended at the expense of depth	verb
+depose	dethrone; remove from office	verb
+deposition	testimony under oath	noun
+depravity	corruption; wickedness	noun	*
+depreciate	express disapproval of; protest against; belittle	verb	*
+depreciate	lessen in value	verb
+depredation	plundering	noun
+deranged	insane	adjective
+derelict	abandoned;	adjective
+deride	scoff at	verb	*
+derision	ridicule	noun
+derivative	unoriginal; derived from another source	adjective
+dermatologist	one who studies the skin and its diseases	noun

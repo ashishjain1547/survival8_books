@@ -1,0 +1,646 @@
+[HEADER]
+Category=TOEFL
+Description=Word List
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+[DATA]
+word	definition	part of speech
+abate	to lessen; to subside	verb
+abet	to help; to aid	verb
+abhor	to hate; to detest	verb
+abject	miserable; wretched	adjective
+abruptly	suddenly; unexpectedly	adverb
+absorbed	interested; engrossed	adjective
+abundant	plentiful	adjective
+accessory	something added	noun
+accommodations	a room and meals	noun
+accomplice	one who aids and abets a criminal	noun
+accost	to meet someone and to speak first	verb
+accumulate	to pile up; to collect	verb
+accurate	correct	adjective
+acrid	sharp; bitter	adjective
+adjacent	next to; adjoining	adjective
+admonish	to warn about; to advise against doing something	verb
+adore	to love greatly	verb
+adroit	clever; skillful	adjective
+affluent	rich	adjective
+aggravate	to make worse	verb
+agile	lively	adjective
+agitate	to disturb	verb
+aglow	shining brightly	adjective
+ailment	a mild illness	noun
+ajar	slightly open	adjective
+akin	similar; related	adjective
+albino	a person or animal without normal pigmentation, characterized by pale skin, hair, and eyes	noun
+alert	perceptive; quick	adjective
+alleviate	to lessen; to relieve	verb
+alluring	tempting; enticing	adjective
+aloof	reserved; indifferent	adjective
+amateur	not professional; untrained	adjective
+ambiguous	doubtful; uncertain	adjective
+amicable	friendly	adjective
+amnesia	a lapse of memory	noun
+ample	adequate; enough	adjective
+amplify	to make larger, more powerful	verb
+anguish	great sorrow; pain	noun
+ankle	the joint between the foot and the leg	noun
+annual	yearly	adjective
+anomalous	unusual	adjective
+antique	a very old and valuable object	noun
+applaud	to clap	verb
+appraisal	an estimate of the value	noun
+appropriate	suitable	adjective
+arduous	demanding great effort; strenuous	adjective
+arouse	to spur; to incite	verb
+arraign	to charge; to accuse	verb
+arrogance	haughtiness	noun
+aspire	to strive toward; to seek eagerly	verb
+assert	to affirm an opinion	verb
+asset	a useful or valuable quality; finances	noun
+assuage	to ease; to lessen	verb
+astound	to surprise greatly; to astonish	verb
+astray	away from the correct path or direction	adverb
+audacious	bold; daring	adjective
+audible	able to be heard	adjective
+augment	to increase	verb
+autonomous	free; independent	adjective
+avarice	greed	noun
+aversion	intense dislike	noun
+baffle	to confuse	verb
+bald	without hair	adjective
+ban	to declare that something must not be done; to prohibit	verb
+bar	a court of law	noun
+barricade	a barrier; an obstruction	noun
+beckon	to signal with one's hand	verb
+behavior	one's actions	noun
+bellow	to shout loudly	verb
+beneficiary	a person who receives money or property from an insurance policy or from a will	noun
+beverage	a kind of drink	noun
+bewilder	to confuse	verb
+bicker	to quarrel	verb
+bitter	a sharp, acrid taste	adjective
+blame	responsibility	noun
+blandishment	coaxing; persuasion by flattery	noun
+bleak	cold and bare; cheerless	adjective
+blend	a mixture	noun
+blithe	carefree and gay; lighthearted	adjective
+blizzard	a severe snowstorm	noun
+blunder	an error; a mistake	noun
+blush	to flush	verb
+boulder	a large rock	noun
+boundary	border; limit	noun
+boundless	without limits	adjective
+brandish	to shake or wave a weapon menacingly 	verb
+brawl	a noisy fight; a quarrel	noun
+bribe	money or gift used to influence someone to do something that he should not	noun
+brim	the upper edge of anything hollow	noun
+brink	the edge of a high place	noun
+brittle	easily broken	adjective
+broom	an object used to sweep the floor	noun
+brutal	savage; cruel	adjective
+bully	to be cruel to weaker people or animals	verb
+bump	a light blow; a jolt	noun
+cabal	a group of people united in a scheme to promote their views by intrigue; a group of conspirators	noun
+callous	insensitive; unfeeling	adjective
+captive	a person who is not permitted to leave	noun
+carve	to slice meat	verb
+cast	to throw out or down	verb
+castigate	to reprove	verb
+cataclysm	a great flood; a terrible event	noun
+chaos	without organization; confusion	noun
+chasm	a deep crack in the earth	noun
+chaste	pure	adjective
+chilly	cool	adjective
+chore	a task; a job	noun
+chum	an intimate friend	noun
+cider	juice from apples	noun
+clamorous	noisy	adjective
+clap	to applaud	verb
+clemency	kindness, mercy	noun
+cluttered	confused; disorganized; littered	adjective
+coerce	to compel by pressure or threat	verb
+cogent	convincing	adjective
+colleague	a fellow worker; a co-worker, usually in a profession	noun
+colloquy	a formal conversation; a conference	noun
+commence	to begin	verb
+commend	to praise	verb
+compassion	symphony; pity	noun
+complex	complicated	adjective
+complexion	the natural color and appearance of the skin	noun
+compliment	an expression of praise or admiration	noun
+compulsory	required	adjective
+conceal	to hide	verb
+concoct	to devise; to invent	verb
+concord	an agreement	noun
+concurrence	an agreement, usually by equals	noun
+condone	to overlook; to excuse	verb
+confide	to entrust a secret	verb
+confident	sure of oneself	adjective
+confine	to limit	verb
+confiscate	to seize by authority	verb
+congeal	to become hard; to solidify	verb
+congenial	pleasing in nature of character; agreeable	adjective
+congenital	existing at birth, but not hereditary	adjective
+congestion	crowding	noun
+conjecture	a supposition; a guess	noun
+conscientious	careful; honest	adjective
+constantly	all the time	adverb
+contaminated	polluted	adjective
+contract	to reduce	verb
+conventional	usual; ordinary	adjective
+conversion	a change	noun
+core	a center	noun
+coward	one who lacks courage; a person who is not brave	noun
+crave	to desire greatly	verb
+credulous	inclined to believe too readily; gullible	adjective
+creed	a belief; a faith	noun
+crude	not finished; rough	adjective
+cruise	to drive slowly	verb
+crumb	a small piece of bread or cake	noun
+crutch	a support used as an aid in walking, often used in pairs	noun
+cryptic	secret; hidden	adjective
+culpable	deserving blame	adjective
+curt	rudely brief in speech or manner	adjective
+curtail	to shorten; to suspend	verb
+dagger	a knife	noun
+dangle	to hang loosely; to swing	verb
+debtor	one who owes	noun
+decade	a period of ten years	noun
+decency	modest behavior; propriety	noun
+deck	the floor of a ship	noun
+decline	a downward slope; a declivity	noun
+decrepit	weakened by illness or age; badly used	adjective
+dedicate	to honor someone by placing his or her name in the beginning of a literary book or an artistic performance	verb
+defect	an imperfection	noun
+deformed	disfigured	adjective
+deliberately	in a planned way	adverb
+demolish	to tear down completely	verb
+dent	to depress a surface by pressure or a blow	verb
+depict	to describe	verb
+depreciate	to express disapproval	verb
+deprive	to take away	verb
+deride	to make fun of; to jeer	verb
+designate	to name; to specify	verb
+detect	to discover	verb
+deterioration	lower value; depreciation	noun
+detest	to hate	verb
+deviate	to depart from; to differ	verb
+diffidence	lack of confidence in oneself	noun
+digress	to stray from the main subject	verb
+dilate	to become wider; larger	verb
+diligent	industrious; busy	adjective
+diminutive	a small amount; something small	adjective
+dingy	dirty; shabby	adjective
+disband	to dissolve; to discontinue	verb
+discard	to throw out	verb
+discern	to recognize; to perceive	verb
+dispatch	to send	verb
+dissect	to examine; to criticize	verb
+disseminate	to spread; to distribute	verb
+divert	to entertain; to amuse	verb
+divulge	to make known; to reveal	verb
+doze	to sleep for a short time; to take a nap	verb
+drench	to make very wet	verb
+drought	a long period of dry weather	noun
+drowsy	very sleepy	adjective
+dubious	doubtful	adjective
+dungeon	a dark cell; a prison	noun
+durable	sturdy; lasting	adjective
+duration	the length of time from beginning to end	noun
+dusk	evening, just before dark	noun
+earthquake	a shaking of the earth's surface caused by disturbances underground	noun
+eccentric	strange; odd	adjective
+eloquence	persuasive, graceful language	noun
+elucidate	to make understandable	verb
+elusive	tending to escape notice	adjective
+emit	to give off	verb
+emphasis	special attention; importance	noun
+emulate	to try to equal or excel	verb
+endeavor	to make an effort; to try very hard	verb
+energy	vigor; strength	noun
+enervate	to debilitate; to weaken	verb
+enhance	to make greater, better	verb
+entice	to attract; to lure	verb
+envious	discontent or resentful because of another's possessions or qualities	adjective
+equitably	fairly; justly	adverb
+equivocal	ambiguous; evasive	adjective
+eradicate	to remove all traces	verb
+erosion	wearing away	noun
+erudite	learned	adjective
+escort	to accompany	verb
+essential	important; necessary	adjective
+esteem	a favorable opinion; respect	noun
+eulogy	high praise; laudation  	noun
+evolve	to develop gradually	verb
+exacting	detailed; meticulous	adjective
+exasperate	to make angry or impatient	verb
+exceed	to be greater than	verb
+exhausted	very tired; enervated	adjective
+exorbitant	extravagant; excessive	adjective
+expand	to make larger	verb
+expanse	a large area	noun
+expire	to cease to be effective, to terminate	verb
+explicit	very clear; definite	adjective
+exploit	to use for selfish advantage or profit	verb
+expound	to explain in detail	verb
+extempore	without preparation; impromptu	adjective
+extensive	far-reaching	adjective
+extinct	no longer active; having died out	adjective
+extol	to praise highly	verb
+extravagance	excess spending	noun
+exultant	very happy; full of joy	adjective
+facile	easy	adjective
+falter	to move hesitatingly; unsteadily	verb
+famine	starvation	noun
+fascinate	to attract powerfully; to charm	verb
+feat	an act requiring great strength or courage	noun
+feeble	lacking strength, power	adjective
+ferry	to cross a river or a narrow body of water	verb
+feud	to engage in a long, bitter hostility	verb
+flatter	to praise too much	verb
+flee	to escape swiftly	verb
+flicker	to shine unsteadily	verb
+flimsy	lacking solidarity, strength	adjective
+flip	to overturn	verb
+flounder	to move awkwardly	verb
+fluffy	soft; airy	adjective
+foolish	silly	adjective
+forbearance	self-restraint	noun
+ford	a shallow place in a river which can be crossed by walking or driving	noun
+foresee	to anticipate	verb
+fowl	a bird which can be eaten	noun
+fraction	a part of something	noun
+fracture	a break	noun
+fraud	a fault; a deception	noun
+fret	to worry	verb
+frigid	very cold	adjective
+furtive	secret	adjective
+futile	useless	adjective
+garb	clothing	noun
+garrison	a fortified place occupied by soldiers	noun
+garrulous	talkative	adjective
+gash	a deep cut	noun
+gauche	impolite; clumsy	adjective
+gem	a precious stone; a jewel	noun
+genial	kindly; friendly	adjective
+genuine	true	adjective
+germinate	to begin to grow	verb
+gist	the main idea	noun
+glamorous	fascinating; alluring	adjective
+glib	spoken easily but with little thought; fluent	adjective
+glitter	to shine with a sparkling light	verb
+glossary	an explanation of special words at the end of the book	noun
+glow	to shine	verb
+goal	an objective; an aim	noun
+greedy	excessively desirous of acquiring possessions; avaricious	adjective
+grievance	a complaint	noun
+grope	to search blindly, uncertainly	verb
+grouchy	irritable	adjective
+grudge	hard feelings; resentment	noun
+grumble	to complain	verb
+gust	a sudden, brief rush of wind	noun
+hamlet	a small village	noun
+handy	easily reached	adjective
+haphazard	without a fixed or regular course; indifferent; disorganized	adjective
+harsh	cruel	adjective
+hasty	done too quickly to be accurate or wise	adjective
+hazy	not clear; vague	adjective
+heavy	a great amount	adjective
+heretic	very busy; active	adjective
+heed	to pay attention to	verb
+henceforth	from now on	adverb
+hilarious	very funny; merry; laughable	adjective
+hinge	a joint on which a door or gate is attached	noun
+hint	a suggestion; a clue	noun
+hoarse	a rough, husky sound, especially a rough voice	adjective
+hoax	a trick	noun
+hoe	a garden tool with a long handle and a flat blade used for digging	noun
+holocaust	widespread destruction, usually by fire	noun
+homage	allegiance; respect	noun
+hubbub	noise; confusion	noun
+humid	damp; hot	adjective
+hypothesis	a tentative theory	noun
+identical	exactly the same	adjective
+ignorant	without knowledge; unaware; uninformed	adjective
+ignore	to refuse to notice or recognize; to discard	verb
+imminent	about to occur; impending	adjective
+impartial	not favoring one more than the other; just	adjective
+impartible	indivisible	adjective
+imply	to suggest	verb
+impromptu	without preparation; unrehearsed; extempore	adjective
+incessant	without interruption; continuous	adjective
+incidental	of lesser importance; secondary	adjective
+incisive	crisp; trenchant	adjective
+incredible	hard to believe	adjective
+indictment	an accusation	noun
+induce	to lead or move by influence or persuasion	verb
+inert	lacking independent power to move; not active	adjective
+infested	inhabited in large numbers by something harmful	adjective
+ingredients	parts of a mixture, especially a recipe 	noun
+inhabit	to live in a place	verb
+initiate	to start; to begin	verb
+innovation	a change	noun
+inquisitive	asking many questions; curious	adjective
+inseparable	not able to be separated	adjective
+inspect	to examine closely	verb
+integrate	to coordinate; to unite	verb
+intersect	to meet	verb
+interval	the time between two events	noun
+intrepid	fearless	adjective
+intricate	complicated	adjective
+intrude	to be in the way; to be an obstacle	verb
+invalid	a sick person	noun
+invariable	always the same	adjective
+irritate	to excite to anger; to bother	verb
+jeopardy	danger	noun
+jerk	a sudden movement	noun
+jungle	land covered with a growth of trees and vegetation	noun
+keen	eager	adjective
+lament	to express sorrow	verb
+lanky	tall and slim	adjective
+laud	to praise	verb
+leisure	free; unoccupied	adjective
+lid	a cover	noun
+lift	to raise	verb
+light	having little substance; not heavy	adjective
+limb	a large branch of a tree	noun
+limp	to favor one leg; to cripple	verb
+limpid	lucid	adjective
+litter	to strew with scattered articles	verb
+lively	fill of energy; agile	adjective
+loafer	an idle, lazy person	noun
+loathe	to hate; to detest	verb
+loot	stolen goods; plunder	noun
+lullaby	a song to lull a baby to sleep	noun
+luminous	bright	adjective
+lustrous	bright; shining	adjective
+malign	to slander	verb
+mansion	a large, imposing house; a residence	noun
+mare	a female horse	noun
+margin	the blank space bordering the written or printed area of a page	noun
+marshal	a law officer	noun
+massive	huge; heavy	adjective
+meddle	to interfere; to intrude	verb
+menace	to threaten	verb
+mend	to repair	verb
+merger	a legal combination of two or more businesses	noun
+meteor	a celestial body smaller than one mile in diameter	noun
+meticulous	to be careful about detail	adjective
+mingle	to mix; to combine	verb
+modify	to change something a little	verb
+molest	to annoy; to bother	verb
+monstrous	horrible; shocking	adjective
+moron	a foolish, silly person	noun
+morsel	a small amount of food	noun
+mumble	to speak indistinctly	verb
+munch	to chew	verb
+mutual	having the same relationship one to the other; shared	adjective
+nadir	the lowest point	noun
+nasty	mean	adjective
+negligent	extremely careless	adjective
+numb	without sensation; paralyzed	adjective
+oasis	fertile place with water located in the desert	noun
+oblivion	the condition of being completely forgotten	noun
+obvious	forgetful; unaware	adjective
+obscure	not easily seen	adjective
+obsequious	obedient; servile	adjective
+obsolete	no longer useful; outdated	adjective
+obstinate	stubborn; unyielding	adjective
+obstruct	to get in the way; to block	verb
+ominous	threatening	adjective
+omit	to leave out	verb
+oration	a formal speech	noun
+orchard	a group of nut or fruit trees	noun
+ordeal	difficult or painful experience	noun
+output	production; yield	noun
+outrageous	very offensive; shocking	adjective
+overall	general; comprehensive	adjective
+pact	a treaty; an agreement	noun
+palatable	savory	adjective
+pauper	a very poor person	noun
+peek	to take a brief look	verb
+penetrate	to pass through; to enter	verb
+pensive	thoughtful	adjective
+perforated	small lines or holes in something	adjective
+perilous	full of danger	adjective
+permanently	constantly	adverb
+permissible	allowed	adjective
+perpetual	continuing forever; constant	adjective
+persuade	to convince	verb
+pessimist	one who always takes a gloomy view of things	noun
+petition	a formal request	noun
+phlegmatic	sluggish; apathetic	adjective
+pilfer	to steal	verb
+pillar	a column	noun
+pinch	to press between one's fingers or another object	verb
+pity	compassion	noun
+placate	to appease	verb
+plateau	a broad pain	noun
+plausible	believable, but doubtful	adjective
+plea	an appeal	noun
+plump	a full, round shape	adjective
+pollute	to contaminate; to dirty	verb
+ponder	to consider carefully	verb
+posterity	future generations	noun
+postpone	to delay	verb
+prank	a trick; a joke	noun
+precaution	action taken to avoid future accident or problem	noun
+precede	to go before	verb
+precept	a rule; a command	noun
+precisely	exactly	adverb
+predict	to tell what will happen in the future; to foretell	verb
+prelude	a preliminary event preceding a more important one	noun
+prestigious	admired	adjective
+prevail	to continue in use or fashion; to succeed	verb
+prevalent	widespread	adjective
+primary	most important; final	adjective
+prior	before in time, order or importance	adverb
+probe	a thorough examination	noun
+profound	deep	adjective
+prolific	productive	adjective
+promulgate	to make known; to declare officially	verb
+prop	a support	noun
+proprietor	one who owns a shop	noun
+prosper	to succeed; to thrive	verb
+protrude	to punish outward; to project	verb
+provoke	to cause; to incite	verb
+proximity	nearness	noun
+prudent	careful; wise; complete	adjective
+purify	to cleanse	verb
+quell	to make quiet; to subdue	verb
+quest	a search	noun
+ramble	to wander idly, without purpose	verb
+rancor	spiteful hatred	noun
+random	chance	adjective
+rash	with little care	adjective
+ratify	to approve; to confirm	verb
+raze	to destroy	verb
+rebut	to contradict	verb
+recite	to repeat from memory	verb
+reckless	not cautious; not careful	adjective
+recluse	a person who chooses to live apart from society	noun
+recollection	a memory	noun
+reconcile	to settle on friendly terms	verb
+refined	noble; attractive	adjective
+rehearse	to practice	verb
+reiterate	to say again; to repeat	verb
+relapse	the return of an illness	noun
+reliable	dependable	adjective
+reluctant	unwilling; hesitant	adjective
+remnant	something left over	noun
+renowned	famous	adjective
+repel	to drive back	verb
+reproach	to blame	verb
+resemble	to have a similar appearance	verb
+reside	to live in a certain place	verb
+resolute	firm; determined	adjective
+respond	to answer	verb
+restrain	to check; to limit	verb
+retain	to keep in one's possession; to hold	verb
+retard	to delay; to hold back	verb
+retort	a quick, sharp reply	noun
+revenue	money earned; income	noun
+reverse	to go in the opposite direction; to turn around	verb
+risky	dangerous	adjective
+rivalry	a contest; a competition	noun
+roam	to wander	verb
+role	a character played by an actor in a drama	noun
+rotate	to circle	verb
+roughly	approximately	adverb
+routine	the usual way of doing things	noun
+rustic	typical of country life; simple	adjective
+rusty	oxidized	adjective
+sagacity	good judgment; keenness; wisdom	noun
+scandal	a rumor as a result of disgraceful actions	noun
+scant	meager	adjective
+scatter	to throw about	verb
+schedule	to make a timetable of arrivals and departures; to list	verb
+scoop	to dip into a spoon or a cupped hand	verb
+scope	the range or extent of something	noun
+scornful	disdainful; aloof	adjective
+scrape	to abrade	verb
+scrub	to wash vigorously by scrubbing	verb
+scrutiny	close, careful examination	noun
+segment	a division; a part of something	noun
+seize	to grab	verb
+sentry	a guard	noun
+sever	to cut into two parts	verb
+shabby	worn-out; faded	adjective
+shatter	to break into many pieces	verb
+shawl	a covering for a woman's head and shoulders	noun
+shift	to change a position or direction	verb
+shrewd	able in particular affairs; clever	adjective
+shrug	to raise the shoulders in a gesture of doubt or indifference	verb
+shutter	a hinged cover attached to a window to keep out light and rain	noun
+simulate	to imitate; to copy	verb
+simultaneously	at the same time	adverb
+sinuous	winding; curving	adjective
+sip	to drink a little at a time	verb
+skeptical	not easily convinced; doubting	adjective
+skim	to read quickly and superficially	verb
+slap	to hit with an open hand	verb
+slay	to kill	verb
+sleazy	sheer; gauzy; cheap	adjective
+sleet	a mixture of snow, hail and rain	noun
+slit	to cut	verb
+sluggish	not easily aroused by activity; slow to respond	adjective
+smolder	to burn with little smoke and no flame	verb
+snatch	to grab abruptly and hastily	verb
+sneak	to move quietly, secretly	verb
+soar	to fly high	verb
+soothe	to calm	verb
+sorrowful	sorry for a sin or mistake	adjective
+span	to extend from one side to another	verb
+species	a group with a common appearance	noun
+specific	defined	adjective
+speck	a very small spot or piece of something	noun
+spill	to allow a liquid to run out of the container	verb
+sporadic	happening from time to time	adjective
+sprawl	to stretch out	verb
+squash	to flatten; to crush	verb
+stack	to put several things on top of each other	verb
+stale	not fresh; old	adjective
+static	not moving	adjective
+storm	a natural disturbance of wind	noun
+straddle	to sit with one leg on one side and the other leg on the other side of something	verb
+strain	tension; stress	noun
+strive	to make great efforts; to struggle	verb
+stunt	to retard normal growth	verb
+subsequent	following	adjective
+substitute	to use something in place of another; to replace	verb
+sue	to bring to court	verb
+sultry	hot, moist weather	adjective
+supersede	to replace	verb
+surfeit	to eat an excessive amount	verb
+surly	rude; arrogant	adjective
+surmise	to guess	verb
+swarm	a large number of moving insects	noun
+swerve	to turn aside; to veer	verb
+synchronize	to cause to coincide	verb
+synopsis	an outline	noun
+taciturn	unspoken; silent	adjective
+tack	to fasten with a small nail	verb
+tact	diplomacy	noun
+tally	an account; a score	noun
+tamper	to interfere in a harmful manner; to meddle	verb
+tapered	smaller at one end	adjective
+tentative	uncertain; probable	adjective
+tepid	slightly warm	adjective
+terminate	to bring to an end.	verb
+testify	to give evidence	verb
+thicken	to coagulate	verb
+thrifty	careful; frugal	adjective
+throng	a crowd	noun
+thump	the dull sound of a blow made by a heavy object	noun
+tilted	not straight	adjective
+tiptoe	to walk stealthily; quietly	verb
+tolerant	inclined to tolerate others; having a fair attitude toward those who hold different views	adjective
+torture	to inflict extreme pain on someone	verb
+touchy	sensitive; irritable	adjective
+tranquil	peaceful; quiet	adjective
+transact	to conduct, perform or carry out business	verb
+transcend	to raise above; to surpass	verb
+transform	to change in appearance	verb
+traverse	to move along	verb
+treacherous	not to be trusted; perfidious	adjective
+trend	a course; a tendency	noun
+tributary	a river that flows into a larger one	noun
+trivial	of a little importance	adjective
+troupe	a group of singers or actors	noun
+tug	to pull something with effort	verb
+tumble	to fall in a rolling manner	verb
+tumult	noisy commotion	noun
+tutor	to teach	verb
+twofold	a double amount	noun
+tyro	a beginner	noun
+ultimate	final	adjective
+unanimous	in a full accord; by common consent	adjective
+uncouth	rude in one's behavior	adjective
+undercut	to sell at a lesser price than a competitor	verb
+unsophisticated	naïve	adjective
+vacant	empty	adjective
+vagabond	one who moves from place to place without a fixed abode; a wandered	noun
+vanish	to disappear	verb
+vanity	a foolish pride	noun
+variation	a different form of something; a change	noun
+variety	a collection of many different things	noun
+vehemence	forcefulness; intensity; conviction	noun
+vendor	one who sells something	noun
+verify	to make certain of the truth; to confirm	verb
+versatile	having varied uses; flexible	adjective
+vestige	a small, remaining sign; a trace	noun
+vibrate	to move back and forth rapidly	verb
+vicarious	a feeling of identification with another; a substitute	adjective
+vigilance	watchfulness	noun
+vulnerable	weak	adjective
+warily	cautiously	adverb
+warrant	a written authorization	noun
+waxy	pliable	adjective
+wayward	nonconforming; irregular	adjective
+wile	a trick	noun
+wither	to lose freshness; to dry up; to fade	verb
+wrath	a great anger	noun
+wrinkle	a crease	noun
+yelp	to cry out sharply, usually in reference to dogs	verb
+zealot	an eager, enthusiastic person; a fanatic	noun

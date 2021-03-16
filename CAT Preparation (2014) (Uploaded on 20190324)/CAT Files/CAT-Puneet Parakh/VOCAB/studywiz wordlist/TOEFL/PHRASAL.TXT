@@ -1,0 +1,49 @@
+[HEADER]
+Category=TOEFL
+Description=Two- And Three- Word Verbs
+PrimaryField=1
+SecondaryField=2
+[DATA]
+word	definition
+bring about	to cause to happen
+bring out	to publish
+bring up on	to review
+call on	to visit
+come by	to acquire; to get
+come down with	to contract; to catch
+count on	to thrust
+depend on	to thrust
+rely on	to thrust
+cut down	to reduce
+fall for	to be fooled
+find fault with	to criticize
+get across	to make an idea understood
+get away from	to escape
+get rid of	to discard
+go over	to review
+hand out	to distribute
+help out	to aid
+jack up	to elevate
+keep on	to continue
+keep up	to continue
+lay aside	to save
+look up to	to respect
+make fun of	to gibe; to joke
+muster up	to gather; to assemble
+preside over	to have charge of
+pull through	to get well
+put off	to postpone
+put up with	to tolerate
+round up	to capture
+run into	to meet by chance
+set up	to establish
+show up	to arrive
+speak out	to declare one's opinions
+take after	to look or behave like
+take pride in	to be satisfied
+throw away	to cause to lose; to discard
+throw out	to cause to lose; to discard
+turn down	to decline; to refuse
+turn out	to manufacture
+turn to	to ask for help
+wear out	to make useless by wear; to consume

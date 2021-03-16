@@ -1,0 +1,149 @@
+* {margin:0;padding:0}
+p{margin-bottom:1em}
+/* mac hide \*/
+html, body {height:100%}
+/* end hide */
+body {
+	
+	color: #000000;
+}
+#outer{
+	min-height:100%;
+	margin-left:160px;
+	border-left:3px solid #000;
+	margin-bottom:-52px;
+	color: #000000;
+}
+
+
+
+* html #outer{	height:100%} /*IE treats height as min-height anyway*/
+
+#left {
+	float: left;
+	position: relative; /* Needed for IE/win */
+	width: 160px;  /*same as margin on outer */  
+	margin-left: -159px; /*must be 1px less than width otherwise won't push footer down */   
+	left:-20px;/* line it up exactly*/
+	padding-top:87px;/* space for header*/
+}
+#left {margin-right: -3px;}/* 3 px jog for ie (also fixes mozilla issue with float drop)*/
+#left p {padding:3px;}
+
+#header{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:85px;
+	background:black ;
+	border-top:1px solid #000;
+	overflow:hidden;/* fixed height so hide overflow*/
+	color: #000000;
+}
+
+#footer {
+	width:100%;
+	clear:both;
+	height:50px;
+	
+	
+	
+	color: #000000;
+	text-align:center;
+	position:relative;
+}
+* html #footer {/*only ie gets this style*/
+	\height:52px;/* for ie5 */
+	he\ight:50px;/* for ie6 */
+}
+#clearfooter{clear:both;height:52px;}/*needed to make room for footer*/
+#centrecontent {
+	float:right;
+	width:100%;
+	position:relative;
+	padding-top:82px;/* space for header*/
+	padding-left:0px;
+}
+.outerwrap {
+float: left;
+width: 100%;
+position:relative;
+}
+
+
+/* Heading CSS*/
+h1,h2,h3 {
+	color: #06C;
+	padding-top: 6px;
+}
+
+h1 {
+	color: #06C;
+	font-size: 1.5em;
+	margin-bottom: 4px;
+}
+
+h2 {
+	color: #06C;
+	font-size: 1.2em;
+	margin-bottom: 4px;
+}
+h3 {
+	color: #06C;
+	font-size: 0.9em;
+	margin-bottom: 4px;
+}
+.title h1 {
+	color: #FFF;
+	font: normal 2em Verdana,sans-serif;
+}
+
+
+/* Content CSS*/
+p
+{
+/*	font-size: 1em;*/
+	font-size: 80%;
+	font-family: Verdana;
+	font-color: black;
+	   /* <FONT color=black face="Verdana, Arial" size=2> */
+}
+ul
+{
+/*	font-size: 1em;*/
+	font-size: 80%;
+	font-style: italic;
+	font-family: Verdana;
+	list-style-type: disc;
+   /* <FONT color=black face="Verdana, Arial" size=2> */
+}
+/* Hyperlink CSS*/
+a:link {color: blue}
+a:visited {color:purple}
+a:hover {color: red}
+a:active {color: blue}
+
+/* Top Navigation CSS*/
+#header{
+font-size: 80%;
+text-align: center;
+font-weight: bold;
+font-family: Verdana;
+}
+
+
+#header a:link,#header a:active
+{
+color: white;
+}
+
+#header a:visited
+{
+color: grey;
+}
+
+#header a:hover
+{
+color: red;
+}

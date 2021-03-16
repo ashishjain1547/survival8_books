@@ -1,0 +1,255 @@
+ 
+
+10. If p+q+r+s=15 what is the maximum vaue of (p-q)/(r+s)? p,q,r,s are positive unequal integers.
+
+(a)    3
+
+(b)   12/7
+
+(c)    13/2
+
+(d)   2
+
+ answer (d)
+
+    a little bit of trial and error, put a minum value for r+s = 1 +2 = 3
+
+and then maximize p-q. putting values of p=9 and q =3, we will get p-q =6, anyone with a better method please let us know.
+
+ 
+
+11. a,b,c,d are real numbers and a+b>c+d and a-b<c-d, then which of the following is definitely true?
+
+(a)    b < d
+
+(b)   b > d
+
+(c)    a < c
+
+(d)   a > c
+
+Answer (b)
+
+a+b>c+d
+
+b-a>d-b
+
+add the two equations, and we get the answer 
+
+ 
+
+12. A and B start together from the same point on a circular course and walk in the same directions till they both again arrive at the starting point. If A completes a circle in 224 seconds and B in 364 seconds, how many times does A meet B including the last meeting?
+
+(a)    10
+
+(b)   8
+
+(c)    6
+
+(d)   5
+
+ Answer: (d).  LCM of 224, 364 is 4*7*8*13.
+
+So A runs 4*7*8*13/224 =13 times
+
+B runs 4*7*8*13/364 = 8 times
+
+So the number of times A will pass B is 13-8 = 5. (this includes the last meeting).
+
+ 
+
+13. What is the least value of (x-1)(x-3)(x-4)(x-6) + 10 for real values of x?
+
+(a)    1
+
+(b)   10
+
+(c)    9
+
+(d)   0
+
+Answer: (a)
+
+  (x-1)(x-3)(x-4)(x-6) + 10 = (x-1)(x-6)(x-3)(x-4) + 10
+
+= (x2 - 7x + 6) (x2 -7x + 12) +10
+
+let x2 - 7x + 6 = y
+
+the _expression reduces to y2 + 6y +10 = (y +3)2 + 1
+
+the mimum value for the expresion hence is 1.
+
+ 
+
+ 
+
+14. Jay, Veeru and Vijay started off with a game according to which the loser of the game distributes half his money amongst the other two in the ratio of the money they are holding. If after playing three rounds, Jay ends up with Rs 150, Vijay with Rs 100 and Veeru with Rs 50,find the total amount of money they were holding initially.
+
+(a)    Rs 600
+
+(b)   Rs 300
+
+(c)    Rs 400
+
+(d)   Cant determine
+
+Answer: (b). Why? :-) Since the total money is always constant.
+
+ 
+---------------------------------------------------------------------------------------------
+
+
+16. Is m3 + 11m divisible by 6
+
+(a)    m is a real number
+
+(b)   m is a natural number
+
+Answer: (b).  statement (a) will not give any clue, but statement (b) gives a direct answer
+
+ 
+
+---------------------------------------------------------------------------------------------
+
+ 
+
+Directions 1-2: A number of statements are given below. When properly sequenced they form a coherent paragraph. Choose the most logical order of sentences from among the four choices given to construct a coherent paragraph.
+
+ 
+
+1. 
+
+A haircut just before the interview should, as far as possible, be avoided. 
+It is always better to keep a pocket comb. 
+Before, entering the interview hall, you should see thaht your hair is neatly combed. 
+It changes the appearance of the fac for sometime and could make you feel edgy and uncomfortable.
+ 
+
+(a) BCDA        (b) BCAD       (c) CBDA       (d) CBAD
+
+Answer: (d)
+
+ 
+
+2.
+
+There are actually several possibilities. 
+How was it possible for Sirius to be red? 
+After all, Sirius B is a white dwarf. 
+A white dwarf starts out as an ordinary star that expands into a red star.
+ 
+
+(a) BACD        (b) BDAC       (c) CBAD       (d) DABC
+
+Answer: (a)
+
+ 
+
+Directions 3-4: Select the word(s) that would make the sentences logically complete
+
+ 
+
+3. The judge ruled that the evidence was inadmissible on the grounds that it was not _________ to the issue at hand.
+
+(a) consistent    (b) germane     (c) manifest      (d) inchoate
+
+Answer (b)
+
+ 
+
+4. The columnist was almost ______ when he mentioned his friends but he was unpleasant and even ______ when he discussed people who irritated him.
+
+(a) recalcitrant  … laconic                                             (b) reverential…acrimonious     
+
+(c) sensitive… remorseful                                              (d) insipid…militant.
+
+Answer (b)
+
+ 
+
+Directions 5-7: Each question below has a set of four sentences A, B, C and D with one blank each. There are four words following these sentences. Each of the four words can fit into one or more of the four sentences. Find the maximum number of times any word can fit into the blanks given in each set of the sentences and mark that as your answer.
+
+Please note: Here we have to mark the maximum number of times the word can fit into the picture and not the choice of the word. But I am very sorry! I made a mistake when typing in the questions :-). This is taken from a TIME MOCK CAT, and all choices in the question paper were marked/indicated as (1) (2) (3) (4) and not as (a) (b) (c) (d). So kindly read all choices index to be numbers. From next question paper I shall have the index to be numbers (just as in TIME papers)
+
+ 
+
+Here are my answers (matchs with the answers from TIME)
+
+ 
+
+5. 
+
+A.     My watch shows the right _Time____
+
+B.     He used to ____organize_______ the events well.
+
+C.     The chairperson has to __inaugrate___ the ceremony.
+
+D.     We invited the president to ______inaugrate_____ our venture
+
+(a) time         (b) inaugurate               (c) encourage               (d)organize
+
+answer 2 or (b),
+
+ 
+
+ 
+
+6. 
+
+A.     Your vocabulary __matches_______ the standard required by the job.
+
+B.     The Indian Cricket team played three _matches_ in a series
+
+C.     Tendulkar’s was the performance in each of the __matches___.
+
+D.     Jane Austin’s fictional character Emma indulged too much in making ___matches_______.
+
+(a) matches                   (b)innings          (c)conacts        (d)events
+
+answer 4 if you have marked it as (d) then its right, although its not choice (d), but (d => 4)
+
+ 
+
+ 
+
+7. 
+
+A.     I dont believe in your shallow ___reports______.
+
+B.     He takes particular interest in writing ___reports_____.
+
+C.     Your _reports___ on the election campaign were mysterious.
+
+D.     The minister encouraged the children to _plant_ trees.
+
+(a)stories                      (b)reports         (c)        dissertations      (d) plant
+
+answer 3 (c)
+
+ 
+
+ 
+
+Direction for question number 8. Select the best choice
+
+8. The age old marketing story of whether an island of barefoot represents incredible opportunity or waste of time for a shore maker is especially to emerging markets
+
+ 
+
+It can be inferred from the above passage that:
+
+     (a)    emerging markets behave in a predictable way.
+
+(b)   There is an element of uncertainty associated with emerging markets
+
+(c)    The emerging markets behave in a paradoxical manner
+
+(d)   Scientific study can give us the underlying trends, which govern emerging markets.
+
+Simple one I guess, the answer is (b) . although I havent gone through the CAT 2003 retest, heard that such questions came in DI section.
+
+ 
+
+

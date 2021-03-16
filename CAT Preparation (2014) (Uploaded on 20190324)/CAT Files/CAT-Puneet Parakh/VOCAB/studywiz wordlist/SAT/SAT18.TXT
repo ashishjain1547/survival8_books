@@ -1,0 +1,77 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 18
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+eulogy	praise	noun	*
+euphemism	mild expression in place of an unpleasant one	noun	*
+euphonious	pleasing in sound	adjective
+euphoria	feeling of great happiness and well-being (sometimes exaggerated)	noun
+euthanasia	mercy killing	noun
+evanescent	fleeting; vanishing	adjective
+evasive	not frank; eluding	adjective
+evince	show clearly	verb
+evoke	call forth	verb
+exacerbate	worsen; embitter	verb	*
+exacting	extremely demanding	adjective
+exalt	raise in rank or dignity; praise	verb
+exasperate	vex	verb
+exchequer	treasury	noun
+excise	cut away; cut out	verb
+exculpate	clear from blame	verb
+execrable	very bad	adjective
+execrate	curse; express abhorrence for	verb
+execute	put into effect; carry out	verb	*
+exegesis	explanation, especially of Biblical passages	noun
+exemplary	serving as a model; outstanding	adjective	*
+exemplify	serve as an example of; embody	verb	*
+exertion	effort; expenditure of much physical work	noun
+exhaustive	thorough; comprehensive	adjective	*
+exhort	urge	verb
+exhume	dig out of the ground; remove from a grave	verb
+exigency	urgent situation	noun
+exodus	departure	noun
+exonerate	acquit; exculpate	verb	*
+exorbitant	excessive	adjective
+exorcise	drive out evil spirits	verb
+exotic	not native; strange	adjective
+expatiate	talk at length	verb
+expatriate	exile; someone who has withdrawn from his native land	noun
+expedient	suitable; practical; politic	adjective
+expedite	hasten	verb	*
+expeditiously	rapidly and efficiently	adverb
+expertise	specialized knowledge; expert skill	noun
+expiate	make amends for (a sin)	verb
+expletive	interjection; profane oath	noun
+explicit	definite; open	adjective	*
+exploit	deed or action, particularly a brave deed	noun
+expository	explanatory; serving to explain	adjective
+expunge	cancel; remove	verb
+expurgate	clean; remove offensive parts of a book	verb
+extant	still in existence	adjective
+extemporaneous	not planned; impromptu	adjective
+extenuate	weaken; mitigate	verb
+extol	praise; glorify	verb	*
+extort	wring from; get money by threats, etc.	verb
+extradition	surrender of prisoner by one state to another	noun
+extraneous	not essential; external	adjective	*
+extricate	free; disentangle	verb	*
+extrinsic	not inherent; foreign	adjective
+extrovert	person interested mostly in external objects and actions	noun
+extrude	force or push out	verb
+exuberance	abundance; effusiveness; lavishness	noun	*
+exude	discharge; give forth	verb
+exult	rejoice	verb
+fabricate	build; lie	verb
+facade	front of the building	noun
+facet	small plane surface (of a gem); a side	noun
+facetious	humorous; jocular	adjective
+facile	easy; expert	adjective	`
+facilitate	make less difficult	verb	*
+facsimile	copy	noun
+faction	party; clique; dissension	noun
+faculty	mental or bodily powers; teaching staff	noun

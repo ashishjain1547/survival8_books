@@ -1,0 +1,80 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 26
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+ingenue	an artless girl; an actress who plays such parts	noun
+ingenious	naïve; young; unsophisticated	adjective	*
+ingrate	ungrateful person	noun
+ingratiate	become poplar with	verb
+inherent	firmly established by nature or habit	adjective	*
+inhibit	prohibit; restrain	verb
+inimical	unfriendly; hostile	adjective
+inimitable	matchless; not able to be imitated	adjective
+iniquitous	unjust; wrong	adjective
+initiate	begin; originate; receive into a group	verb
+injurious	harmful	adjective
+inkling	hint	noun
+innate	inborn	adjective	*
+innocuous	harmless	adjective	*
+innovation	change; introduction of something new	noun	*
+innuendo	hint; inspiration	noun
+inopportune	untimely; poorly chosen	adjective
+inordinate	unrestrained; excessive	adjective
+insatiable	not easily satisfied; greedy	adjective
+inscrutable	incomprehensive; not to be discovered	adjective
+insensate	without feeling	adjective
+insensible	unconscious; unreasonable	adjective
+insidious	treacherous; stealthy; sly	adjective
+insinuate	hint; imply	verb
+insipid	tasteless; dull	adjective	*
+insolent	haughty and contemptuous	adjective
+insolvent	bankrupt; lacking money to pay	adjective	*
+insomnia	wakefulness; inability to sleep	noun
+instigate	urge; start; provoke	verb	*
+insubordinate	disobedient	adjective
+insularity	narrow-mindedness; isolation	noun
+insuperable	insurmountable; invincible	adjective
+insurgent	rebellious	adjective
+insurrection	rebellion; uprising	noun
+intangible	not material; not able to be perceived by touch	adjective	*
+integral	complete; necessary for completeness	adjective
+integrate	make whole; combine; make into one unit	verb
+integrity	wholeness; purify; uprightness	noun	*
+intellect	higher mental powers	noun
+intelligentsia	the intelligent and educated classes [often used derogatory]	noun
+inter	bury	verb
+interdict	prohibit; forbid	verb
+interim	meantime	noun
+interloper	intruder	noun
+interment	burial	noun
+interminable	endless	adjective	*
+intermittent	periodic; on and off	adjective	*
+internecine	mutually destructive	adjective
+interpolate	insert between	verb
+intervene	come between	verb
+intimate	hint	verb
+intimidation	fear	noun
+intractable	unruly; refractory	adjective	*
+intransigent	refusing any compromise; stubborn	adjective
+intrepid	fearless	adjective
+intricate	complex; knotty; tangled	adjective
+intrinsically	essentially; inherently; naturally	adjective
+introspective	locking within oneself	adjective
+introvert	one who is introspective; inclined to think more about oneself	noun
+intrude	trespass; enter as uninvited person	verb
+intuition	power of knowing without reasoning	noun
+inundate	overflow; flood	verb
+inured	accustomed; hardened	adjective
+invalidate	weaken; destroy	verb
+invective	abuse	noun
+inveigh	denounce; utter censure or invective	verb
+inveigle	lead astray; wheedle	verb
+inverse	opposite	adjective
+invert	turn upside down or inside out	verb	*
+inveterate	deep-rooted; habitual	adjective
+invidious	designed to create ill will or envy	adjective

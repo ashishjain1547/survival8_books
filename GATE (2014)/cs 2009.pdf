@@ -1,0 +1,2573 @@
+<!----------------   COPYRIGHT NOTICE  ------------------->
+<!--                                                    -->
+<!-- Copyright (c) 2004 by Syvum Technologies Inc.      -->
+<!--                                                    -->
+<!-- The material contained in this file, and all       -->
+<!-- associated files, including all text and graphics, -->
+<!-- is property of Syvum Technologies.  Unauthorized   -->
+<!-- copying, distribution or usage is strictly         -->
+<!-- prohibited and will be prosecuted to the maximum   -->
+<!-- permissible extent under the law.                  -->
+<!--                                                    -->
+<!-------------------------------------------------------->
+
+<!-------------------------------------------------------->
+<!--                                                    -->
+<!-- IF YOU ARE INTERESTED IN AUTHORING YOUR OWN        -->
+<!-- MATERIAL WITH SIMILAR GRAPHICS AND TEXT, YOU       -->
+<!-- MAY OBTAIN AN AUTHORING TOOL BY CONTACTING         -->
+<!-- Syvum Technologies:                                -->
+<!-- http://www.syvum.com/contact.html                  -->
+<!--                                                    -->
+<!-------------------------------------------------------->
+
+<html>
+<head>
+<title>GATE 2012 : Computer Science And Information Technology - ResPaper</title>
+<meta http-equiv="X-UA-Compatible" content="chrome=IE8">
+<meta property="og:image" content="http://www.respaper.com/img/sml.png" />
+<meta property="og:description" content="View, solve, download or print solved ResPaper: Solved GATE exam paper study guid - gate 2012 : comp science and IT free online ques paper" />
+<style type="text/css">
+.round
+  { -moz-border-radius:6px; -webkit-border-radius:6px; }
+
+.searched
+  { background-color: #ffff33; }
+.idiv
+  { font-size:100%; }
+.menubar
+  { border: 0px;
+    background-image:url('/img/menu_bg.gif');
+    background-repeat: repeat-x;
+    padding-left: 3px;
+    padding-right: 3px;
+    z-index:21003;
+    position:fixed;
+    _position:absolute;
+    right:0;
+    bottom:0;
+    _top:expression(document.body.scrollTop+document.body.clientHeight-this.clientHeight);}
+
+
+  .serif p
+    {
+      font-family:serif !important;
+      font-size:13px !important;
+    }
+</style>
+<link rel="canonical" href="/gate/344/6865.pdf" />
+<link rel="stylesheet" type="text/css" href="/css/c1.css" />
+
+<link rel="stylesheet" type="text/css" href="/css/thickbox_v1.css" />
+<link rel="stylesheet" type="text/css" href="/css/contrib.css" />
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+<script type="text/javascript" src="/js/jqBubble/jquery.BubblePopup-1.1.src.js"></script>
+<script src="/js/thickbox_compressed.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/contrib_view_v5.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/jquery.scrollTo-min.js"></script>
+<script type="text/javascript" src="/js/rpv-1.4.min.js"></script>
+<script type="text/javascript"> 
+var linksNum = 0;
+var linksArray = new Array(1);
+var linksOnPage = new Array(1);
+
+var str50 = 'Add Response';
+var str51 = 'Edit';
+var str297 = 'Add Handwritten Response';
+var str300 = 'Upload using webcam';
+var str90 = 'To access the feature, you need to sign in. Click OK to continue';
+var str301 = 'Already responded.';
+var str302 = 'No new responses being accepted.';
+var numPages = 20;
+var clickcount = 0;
+var linetype = 0;
+var positions = new Array(100);
+var linetypes = new Array(100);
+var curPage = 0;
+var gifFileName = "gate.344.6865.pdf";
+
+var imageHeights=new Array(numPages+1),imageWidths=new Array(numPages+1);
+imageHeights[1]=1123;imageWidths[1]=794;imageHeights[2]=1123;imageWidths[2]=794;imageHeights[3]=1123;imageWidths[3]=794;imageHeights[4]=1123;imageWidths[4]=794;imageHeights[5]=1123;imageWidths[5]=794;imageHeights[6]=1123;imageWidths[6]=794;imageHeights[7]=1123;imageWidths[7]=794;imageHeights[8]=1123;imageWidths[8]=794;imageHeights[9]=1123;imageWidths[9]=794;imageHeights[10]=1123;imageWidths[10]=794;imageHeights[11]=1123;imageWidths[11]=794;imageHeights[12]=1123;imageWidths[12]=794;imageHeights[13]=1123;imageWidths[13]=794;imageHeights[14]=1123;imageWidths[14]=794;imageHeights[15]=1123;imageWidths[15]=794;imageHeights[16]=1123;imageWidths[16]=794;imageHeights[17]=1123;imageWidths[17]=794;imageHeights[18]=1123;imageWidths[18]=794;imageHeights[19]=1123;imageWidths[19]=794;imageHeights[20]=1123;imageWidths[20]=794;
+var enCache = 1;
+var file_unid = 12439;
+var file_name = '/gate/344/6865.pdf';
+var userID = $.cookie('UserID');
+var mobi_flag = 0;
+var modified = false;
+var div_offset_x = 5;
+var div_offset_IE = 228;
+var pvString = '';
+var hpString = '18,19,20,';
+var hpVals = hpString.split(/,/);
+var hpElems = new Array(numPages);
+
+var ihp = 0;
+for (ihp = 1; ihp <= numPages; ihp++)
+  {
+    hpElems[ihp] = 0;
+  }
+
+for (ihp = 0; ihp < hpVals.length; ihp++)
+  {
+    hpElems[hpVals[ihp]] = 1;
+  }
+
+//hpElems[2] = 1;
+//hpElems[4] = 1;
+
+var visibString = new Array(2);
+visibString[0] = '<span style="color:blue;">Visible</span>';
+visibString[1] = '<span style="color:red;">Hidden</span>';
+var toggleString = new Array(2);
+toggleString[0] = 'Hide';
+toggleString[1] = 'Show';
+var delString = '<p align="right"><span style="text-decoration:underline;color:red;cursor:pointer;" onclick="deleteLastPage();">Delete</span></p>';
+var pageBorder = new Array(2);
+pageBorder[0] = '#b0b0b0';
+pageBorder[1] = '#ff8080';
+var pageVersion = new Array(30);
+var pageLoaded = new Array(30);
+var initPage = -1;
+var addRes = -1;
+//var addRes = parseInt(location.hash.substring(1));
+//lert('location hash is: ' + location.hash + ', addRes is ' + addRes);
+var addResDone = 0;
+var scrollPoint = 0;
+var pageGap = 22;
+var mymode = 'view';
+var div_offset_y = 220;
+if (navigator.appName == 'Microsoft Internet Explorer')
+  {
+    div_offset_y = 229;
+  }
+else if (window.opera)
+  {
+    div_offset_y = 229;
+  }
+
+</script>
+<script type="text/javascript">
+  window.google_analytics_uacct = "UA-503594-8";
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-503594-8']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+</script>
+
+</head>
+
+<body style="padding:0;margin:0;border:0;" onload="onloadPreset();" onbeforeunload="if (modified) return 'There are unsaved modifications to this ResPaper.  Please save it first; otherwise, the changes will be lost.'">
+<div style="height:65;width:100%;"><div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({appId: '134966723232604', channelUrl: '//'+document.domain+'/html/channel.html', status: true, cookie: true, xfbml: true});
+  };
+
+(function(d, s, id) {
+   var js, fjs = d.getElementsByTagName(s)[0];
+   if (d.getElementById(id)) return;
+   js = d.createElement(s); js.id = id; js.async = true;
+   js.src = "//connect.facebook.net/en_US/all.js";
+   fjs.parentNode.insertBefore(js, fjs);
+ }(document, 'script', 'facebook-jssdk'));</script>
+<script type="text/javascript">
+var userID = $.cookie('UserID');
+if (userID == null)
+  userID = '';
+</script>
+
+   <table width="100%" style="margin:0px;padding:0px;padding-left:1px;padding-right:1px;background:#202020;font-size:80%;border:0px;">
+   <tr><td rowspan="2" align="left" valign="top" style="width:202;"><a href="/"><img border="0" height="40" width="202" src="/img/lf2.png" align="top"/></a></td><td align="left" valign="top" rowspan="2"><a href="https://plus.google.com/114930525759102376153?prsrc=3" rel="publisher" target="_blank" style="text-decoration:none;"><img src="https://ssl.gstatic.com/images/icons/gplus-16.png" alt="" style="border:0;width:16px;height:16px;"/></a> &nbsp;<div class="fb-like" data-href="http://www.facebook.com/respaper" data-layout="button_count" data-width="85" data-show-faces="false" data-colorscheme="light"></div></td>
+    <td align="right" valign="top">
+<style>
+
+.menus {
+  clear: both;
+  position: absolute;
+  width: 120px;
+  background: #6688EE;
+  float: left;
+  z-index: 1005;
+  padding: 5px;
+  top: 18px;
+}
+
+.menus .menuoptions {
+  text-decoration: none;
+  color: #EEEEEE;
+}
+.menus .menuoptions {
+  clear: both;
+  float: left;
+  cursor: pointer;
+  text-align:left;
+}
+.sepa {
+  color: #aaaaaa;
+}
+</style>
+<!--[if IE]>
+<style>
+.menus .menuoptions {
+  width: 120px;
+}
+</style>
+<![endif]--> 
+<script>
+$(document).ready(function(){
+ $('.myacc').css('background','#ffffff');
+ if (userID.length > 0)
+   {
+    $(".myacc, .menus")
+     .mouseover(function() { checkfocus('s');})
+     .mouseout(function() { checkfocus('h'); });
+   }
+});
+
+function checkfocus(flag)
+{
+  if (flag == 's') {
+    var position = $('.myacc').position();
+    $('.menus').show();
+    $('.menus').css('left',position.left);
+    $('.myacc').css('background','#BBCCFF');
+  } else {
+    $('.myacc').css('background','#ffffff');
+    $('.menus').hide();  
+  }
+}
+
+var upload_button = "";
+if (userID.length > 0)
+  {
+    document.writeln('<b><span class="topText">'+userID+'</span></b> <a href="/m/h" class="myacc topButton">My account  &#9660;</a> <a href="/m/lo" class="topButton">Sign out</a> &nbsp; <span onclick="goToApp();" class="topButton">iPhone App</span> &nbsp; <span onclick="goToApp();" class="topButton">Android App</span> <div class="menus" style="display:none;">  <div class="menuoptions" onclick="location.replace(\'/'+userID+'/\');">My Index</div><div class="menuoptions sepa">-----------------------</div> <div class="menuoptions" onclick="location.replace(\'/m/mg\');">Group manager</div> <div class="menuoptions sepa">-----------------------</div> <div class="menuoptions" onclick="location.replace(\'/m/p?u='+userID+'\');">View profile</div> <div class="menuoptions sepa">-----------------------</div> <div class="menuoptions" onclick="location.replace(\'/m/p?u='+userID+'&e\');">Edit profile</div> <div class="menuoptions sepa">-----------------------</div> <div class="menuoptions" onclick="location.replace(\'/m/p?u='+userID+'&p\');">Change password</div> </div>');
+    upload_button = '<a href="/m/ip?f=/'+userID+'/&up" class="topButton"><img border="0" src="/img/up_16.png" height="16" width="16" style="vertical-align:top;" /> Upload your Test Papers & Class Notes</a>';
+  }
+else
+  {
+    document.writeln('<span onclick="goToApp();" class="topButton">iPhone App</span> &nbsp; <span onclick="goToApp();" class="topButton">Android App</span> &nbsp; <span onclick="goToSignIn();" class="SignInURL topButton">Sign in</span> &nbsp;');
+    upload_button = '<span onclick="upl_signin();" class="topButton"><img border="0" src="/img/up_16.png" height="16" width="16" style="vertical-align:top;" />Upload your Test Papers & Class Notes</span>';
+  }
+
+function upl_signin()
+  {
+    var conf_signin = confirm('You must be signed in to upload!  Sign in now?');
+    if (conf_signin)
+      {
+        goToSignIn();
+      }
+  }
+
+function goToApp()
+{
+  location.href = "/app";
+}
+
+function goToSignIn()
+{
+  if (typeof (isHomePage) == 'undefined' 
+      || isHomePage != 1)
+    {
+      location.href = "/";
+    }
+  else
+    {
+      $("#sign_in_buttons").css('opacity', 0.0);
+      $("#sign_in_buttons").animate({opacity: 1.0}, 1000, function() {});
+    }
+}
+
+$(document).ready(function(){
+  var url = location.href;
+  if (!url.match(/respaper.com\/?$/) && !url.match(/respaper.com\/?\?/)) {
+      $('.SignInURL').attr('href','/?turl='+encodeURIComponent(url));
+    }
+});
+</script>
+
+<script type="text/javascript">
+  function search_onfocus()
+    {
+      $('#sboxid').css('color', '#000');
+      var myval = $('#sboxid').val();
+      myval = myval.replace(/s/g, '');
+      if (myval == 'Search')
+        {
+          $('#sboxid').val('');
+        }
+    }
+
+  function search_onblur()
+    {
+      var myval = $('#sboxid').val();
+      myval = myval.replace(/s/g, '');
+      if (myval.length == 0)
+        {
+          $('#sboxid').css('color', '#888');
+          $('#sboxid').val('Search');
+        }
+    }
+</script>
+
+</td></tr><tr><td align="right" valign="top" style="height:20;">
+<form style="display:inline;margin:0px;padding:0px;" action="/s" method="get">
+<input type="text" size="20" name="q" id="sboxid" onfocus="search_onfocus();" onblur="search_onblur()" value="Search" style="font-size:12px;padding:0px;color:#888;background:#eeeeee;border-radius:5px;" />&nbsp;<input type="submit" style="background:black;color:white;background-image:url(/img/si.gif);width:16px;height:16px;border:0px;" name="search" value="" /> <span style="color:white;font-family:arial;font-size:80%;">OR</span>
+<script type="text/javascript">
+document.writeln(upload_button);
+</script>
+</form></td></tr>
+</table>
+<table style="width:100%;border:0px;font-size:80%;"><tr><td>&nbsp;<a href="/">Home</a> &gt; <a href="/gate/">gate</a> &gt; </td></tr></table></div>
+<div style="height:145;margin:4;padding:0;width:95%;"><table width="100%"><tr><td><b><span style="font-size:20px;color:#0000cc;position:relative;" >&nbsp;GATE 2012 : Computer Science And Information Technology</span></b> <div style="float:right;margin-top:-10px;"><script type="text/javascript">var sign_in_msg = 'You must be signed in to download this paper.  It is free to register and to sign in.  Follow the links at the top of this page.';
+var sign_in_msg = 'You must be signed in to Print or Download this paper.  It is free to register and to sign in.  Follow the links at the top of this page.\n\nIf you are already signed in, reload this page.';
+document.writeln('<table><tr><td valign="top"><p style="border-radius:5px;background:#0000ff;color:#ffffff;padding:3px;cursor:pointer;font-size:80%;" onclick="alert(sign_in_msg);">Print</p></td>');  
+document.writeln('<td valign="top"><p style="border-radius:5px;background:#0000ff;color:#ffffff;padding:3px;cursor:pointer;font-size:80%;" onclick="alert(sign_in_msg);">Download</p></td>');  
+ document.writeln('<td valign="top"><div class="fb-send" data-href="'+location.href+'"></div></td></tr></table>');
+</script>
+</div>
+<br>&nbsp;<span class="mFont" id="stats">&nbsp;&nbsp;<span style="color:red;">20</span> pages, <span style="color:red;">65</span> questions, <span style="color:red;">57</span> questions with responses, <span style="color:red;">120</span> total responses</span> <br/>
+<script type="text/javascript"><!--
+  google_ad_client = "ca-pub-0582656916058535";
+/* ResPaper Top LB */
+google_ad_slot = "9566024286";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td>
+</table></div>
+
+<form method="post" action="/r/p" id="split_form" target="_blank" style="background:white;border:0px;margin:0px;padding:0px;">
+<table cellpadding="0" cellspacing="0" style="padding:0px;margin:0px;border:0px;">
+<script type="text/javascript">
+  function getTDElemStart(j, pageNumsString, throw_only)
+    {
+      var zIndexHere = numPages - j;
+      var phRow = '';
+      var pRowDisp = '';
+      var newWidth = imageWidths[j] + 162;
+      var newHeight = imageHeights[j] + 2;
+      var innerWidth = imageWidths[j] + 2;
+
+      if (hpElems[j] == 1)
+        {
+          pRowDisp = ' style="display:none;" id="trow' + j + '"';
+        }
+
+      if (pageNumsString.length > 0)
+        {
+          var phnums = pageNumsString.split(",");
+          var phcount = phnums.length;
+          var word = ' Pages';
+          if (phcount == 1)
+            {
+              word = ' Page';
+            }
+          phRow = '<tr id="throw'+j+'" style="display:"><td><div style="float:right;color:blue;font-family:arial;font-size:11px;height:20px;margin-right:170px;">' + phcount + word + ' Hidden (<span style="cursor:pointer;text-decoration:underline;color:blue;" onclick="showPage('+j+','+phcount+');">Show</span>)</div></td></tr>';
+          if (throw_only == 1)
+            {
+              return phRow;
+            }
+        }
+
+      var retEl = phRow + '<tr' + pRowDisp +'><td style="margin:0px;padding:0px;border:0px;"><table border="0" cellpadding="0" cellspacing="0" width="' + newWidth + '" height="' + newHeight + '" style="padding:0px;margin:0px;border:0px;" id="imageTable"><tr><td valign="top"><table cellspacing="0" cellpadding="0" width="' + innerWidth + '" height="' + newHeight + '" style="padding:0px;margin:0px;margin-left:4px;margin-right:4px;border:1px solid ' + pageBorder[hpElems[j]] + ';"><tr><td id="td' + j + '" width="' + imageWidths[j] + '" style="margin:0px;padding:0px;z-index:'+zIndexHere+';background-image:url(\'/img/wm.gif\');">';
+      return retEl;
+    }
+
+  function getTDElemEnd()
+    {
+      var retEl = '</td></tr></table></td>';
+      return retEl;
+    }
+</script>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(1, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(1);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+2012
+
+Question Booklet Code
+
+CS : COMPUTER SCIENCE & INFORMATION TECHNOLOGY
+Duration: Three Hours
+
+A
+
+Maximum Marks: 100
+
+Read the following instructions carefully.
+
+1. Do not open the seal of the Question Booklet until you are asked to do so by the invigilator.
+2. Take out the Optical Response Sheet (ORS) from this Question Booklet without breaking the seal
+and read the instructions printed on the ORS carefully. If you find that the Question Booklet Code
+printed at the right hand top corner of this page does not match with the Booklet Code on the ORS,
+exchange the booklet immediately with a new sealed Question Booklet.
+3. On the right half of the ORS, using ONLY a black ink ball point pen, (i) darken the bubble
+corresponding to your test paper code and the appropriate bubble under each digit of your registration
+number and (ii) write your registration number, your name and name of the examination centre and
+put your signature at the specified location.
+4. This Question Booklet contains 20 pages including blank pages for rough work. After you are
+permitted to open the seal, please check all pages and report discrepancies, if any, to the invigilator.
+5. There are a total of 65 questions carrying 100 marks. All these questions are of objective type. Each
+question has only one correct answer. Questions must be answered on the left hand side of the ORS
+by darkening the appropriate bubble (marked A, B, C, D) using ONLY a black ink ball point pen
+against the question number. For each question darken the bubble of the correct answer. More
+than one answer bubbled against a question will be treated as an incorrect response.
+6. Since bubbles darkened by the black ink ball point pen cannot be erased, candidates should darken
+the bubbles in the ORS very carefully.
+7. Questions Q.1 – Q.25 carry 1 mark each. Questions Q.26 – Q.55 carry 2 marks each. The 2 marks
+questions include two pairs of common data questions and two pairs of linked answer questions. The
+answer to the second question of the linked answer questions depends on the answer to the first
+question of the pair. If the first question in the linked pair is wrongly answered or is unattempted, then
+the answer to the second question in the pair will not be evaluated.
+8. Questions Q.56 – Q.65 belong to General Aptitude (GA) section and carry a total of 15 marks.
+Questions Q.56 – Q.60 carry 1 mark each, and questions Q.61 – Q.65 carry 2 marks each.
+9. Unattempted questions will result in zero mark and wrong answers will result in NEGATIVE marks.
+For all 1 mark questions, ⅓ mark will be deducted for each wrong answer. For all 2 marks questions,
+⅔ mark will be deducted for each wrong answer. However, in the case of the linked answer question
+pair, there will be negative marks only for wrong answer to the first question and no negative marks
+for wrong answer to the second question.
+10. Calculator is allowed whereas charts, graph sheets or tables are NOT allowed in the examination hall.
+11. Rough work can be done on the question paper itself. Blank pages are provided at the end o f the
+question paper for rough work.
+12. Before the start of the examination, write your name and registration number in the space provided
+below using a black ink ball point pen.
+Name
+Registration Number
+
+CS-A
+
+CS
+1/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><script type="text/javascript"><!--
+google_ad_client = "pub-0582656916058535";
+/* ResPaper wide sky */
+google_ad_slot = "8242201069";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td>
+</tr></table></tr><tr><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar1 = - imageHeights[1] + 7;
+var pnumLeft1 = imageWidths[1] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar1 + 'px;margin-left:' + pnumLeft1 + 'px;" id="pnumdiv' + 1 + '" class="round" onclick="this.style.display=\'none\';">Page 1</div>');
+</script><script type="text/javascript"><!--
+  google_ad_client = "pub-0582656916058535";
+/* ResPaper lb link unit, created 12/18/10 */
+google_ad_slot = "0085625754";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(2, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(2);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+COMPUTER SCIENCE & INFORMATION TECH. – CS
+
+2012
+
+Q. 1 – Q. 25 carry one mark each.
+Q.1
+
+Consider the following logical inferences.
+I1: If it rains then the cricket match will not be played.
+The cricket match was played.
+Inference: There was no rain.
+I2: If it rains then the cricket match will not be played.
+It did not rain.
+Inference: The cricket match was played.
+Which of the following is TRUE?
+(A) Both I1 and I2 are correct inferences
+(B) I1 is correct but I2 is not a correct inference
+(C) I1 is not correct but I2 is a correct inference
+(D) Both I1 and I2 are not correct inferences
+
+Q.2
+
+Which of the following is TRUE?
+(A) Every relation in 3NF is also in BCNF
+(B) A relation R is in 3NF if every non-prime attribute of R is fully functionally dependent on every
+key of R
+(C) Every relation in BCNF is also in 3NF
+(D) No relation can be in both BCNF and 3NF
+
+Q.3
+
+What will be the output of the following C program segment?
+char inChar = ‘A’
+switch ( inChar )
+case ‘A’ : printf
+case ‘B’ :
+case ‘C’ : printf
+case ‘D’ :
+case ‘E’ :
+default : printf
+
+;
+{
+(“Choice A\ n”) ;
+(“Choice B”) ;
+( “ No Choice” ) ; }
+
+(A) No Choice
+(B) Choice A
+(C) Choice A
+Choice B No Choice
+
+(D) Program gives no output as it is erroneous
+Q.4
+
+Assuming P ≠ NP, which of the following is TRUE?
+(B) NP-complete ∩ P = 
+(D) P = NP-complete
+
+(A) NP-complete = NP
+(C) NP-hard = NP
+Q.5
+
+The worst case running time to search for an element in a balanced binary search tree with n2n
+elements is
+(A) Θ (n log n)
+
+CS-A
+
+(B) Θ (n2n)
+
+(C) Θ (n)
+
+(D) Θ (log n)
+
+2/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><!-- vads2 --></td>
+</tr></table></tr><tr><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar2 = - imageHeights[2] + 7;
+var pnumLeft2 = imageWidths[2] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar2 + 'px;margin-left:' + pnumLeft2 + 'px;" id="pnumdiv' + 2 + '" class="round" onclick="this.style.display=\'none\';">Page 2</div>');
+</script><script type="text/javascript"><!--
+  google_ad_client = "pub-0582656916058535";
+/* ResPaper lb link unit, created 12/18/10 */
+google_ad_slot = "0085625754";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(3, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(3);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+COMPUTER SCIENCE & INFORMATION TECH. – CS
+
+2012
+
+Q.6
+
+The truth table
+X
+0
+0
+1
+1
+
+Y
+0
+1
+0
+1
+
+f (X, Y)
+0
+0
+1
+1
+
+represents the Boolean function
+(A) X
+Q.7
+
+(C) X  Y
+
+(B) X + Y
+
+(D) Y
+
+The decimal value 0.5 in IEEE single precision floating point representation has
+(A) fraction bits of 000…000 and exponent value of 0
+(B) fraction bits of 000…000 and exponent value of −1
+(C) fraction bits of 100…000 and exponent value of 0
+(D) no exact representation
+
+Q.8
+
+A process executes the code
+fork();
+fork();
+fork();
+The total number of child processes created is
+(A) 3
+
+Q.9
+
+(B) 4
+
+(C) 7
+
+(D) 8
+
+Consider the function f(x) = sin(x) in the interval x  [π/4, 7π/4]. The number and location(s) of the
+local minima of this function are
+(A) One, at π/2
+(B) One, at 3π/2
+(C) Two, at π/2 and 3π/2
+(D) Two, at π/4 and 3π/2
+
+Q.10
+
+The protocol data unit (PDU) for the application layer in the Internet stack is
+(A) Segment
+
+Q.11
+
+(B) Datagram
+
+(C) Message
+
+Let A be the 2 × 2 matrix with elements a11 = a12 = a21 = +1 and a22 = −1. Then the eigenvalues of
+the matrix A19 are
+(A) 1024 and −1024
+(C) 4√2 and −4√2
+
+Q.12
+
+(D) Frame
+
+(B) 1024√2 and −1024√2
+(D) 512√2 and −512√2
+
+What is the complement of the language accepted by the NFA shown below?
+Assume  = {a} and  is the empty string.
+
+
+
+a
+
+
+(A) 
+CS-A
+
+(B) {}
+
+(C) a*
+
+(D) {a , }
+3/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><!-- vads3 --></td>
+</tr></table></tr><tr><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar3 = - imageHeights[3] + 7;
+var pnumLeft3 = imageWidths[3] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar3 + 'px;margin-left:' + pnumLeft3 + 'px;" id="pnumdiv' + 3 + '" class="round" onclick="this.style.display=\'none\';">Page 3</div>');
+</script><script type="text/javascript"><!--
+  google_ad_client = "pub-0582656916058535";
+/* ResPaper lb link unit, created 12/18/10 */
+google_ad_slot = "0085625754";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(4, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(4);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+COMPUTER SCIENCE & INFORMATION TECH. – CS
+
+2012
+
+Q.13
+
+What is the correct translation of the following statement into mathematical logic?
+“Some real numbers are rational”
+(A) x (real(x)  rational(x))
+(B) x (real(x)  rational(x))
+(C) x (real(x)  rational(x))
+(D) x (rational(x)  real(x))
+
+Q.14
+
+Given the basic ER and relational models, which of the following is INCORRECT?
+(A) An attribute of an entity can have more than one value
+(B) An attribute of an entity can be composite
+(C) In a row of a relational table, an attribute can have more than one value
+(D) In a row of a relational table, an attribute can have exactly one value or a NULL value
+
+Q.15
+
+Which of the following statements are TRUE about an SQL query?
+P : An SQL query can contain a HAVING clause even if it does not have a GROUP BY clause
+Q : An SQL query can contain a HAVING clause only if it has a GROUP BY clause
+R : All attributes used in the GROUP BY clause must appear in the SELECT clause
+S : Not all attributes used in the GROUP BY clause need to appear in the SELECT clause
+(A) P and R
+
+Q.16
+
+(B) P and S
+
+(B) 4
+
+(D) 6
+
+(B) A(n) = Θ (W(n))
+(D) A(n) = o (W(n))
+
+The amount of ROM needed to implement a 4 bit multiplier is
+(A) 64 bits
+
+Q.20
+
+(C) 5
+
+Let W(n) and A(n) denote respectively, the worst case and average case running time of an
+algorithm executed on an input of size n. Which of the following is ALWAYS TRUE?
+(A) A(n) = Ω (W(n))
+(C) A(n) = O (W(n))
+
+Q.19
+
+(B) T(n) = 2T(n − 1) + n
+(D) T(n) = 2T(n − 1) + 1
+
+Let G be a simple undirected planar graph on 10 vertices with 15 edges. If G is a connected graph,
+then the number of bounded faces in any embedding of G on the plane is equal to
+(A) 3
+
+Q.18
+
+(D) Q and S
+
+The recurrence relation capturing the optimal execution time of the Towers of Hanoi problem with
+n discs is
+(A) T(n) = 2T(n − 2) + 2
+(C) T(n) = 2T(n/2) + 1
+
+Q.17
+
+(C) Q and R
+
+(B) 128 bits
+
+(C) 1 Kbits
+
+(D) 2 Kbits
+
+Register renaming is done in pipelined processors
+(A) as an alternative to register allocation at compile time
+(B) for efficient access to function parameters and local variables
+(C) to handle certain kinds of hazards
+(D) as part of address translation
+
+Q.21
+
+Consider a random variable X that takes values +1 and −1 with probability 0.5 each. The values of
+the cumulative distribution function F(x) at x = −1 and +1 are
+(A) 0 and 0.5
+
+CS-A
+
+(B) 0 and 1
+
+(C) 0.5 and 1
+
+(D) 0.25 and 0.75
+
+4/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><!-- vads4 --></td>
+</tr></table></tr><tr><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar4 = - imageHeights[4] + 7;
+var pnumLeft4 = imageWidths[4] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar4 + 'px;margin-left:' + pnumLeft4 + 'px;" id="pnumdiv' + 4 + '" class="round" onclick="this.style.display=\'none\';">Page 4</div>');
+</script><!-- hads4 -->
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(5, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(5);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+COMPUTER SCIENCE & INFORMATION TECH. – CS
+
+2012
+
+Q.22
+
+Which of the following transport layer protocols is used to support electronic mail?
+(A) SMTP
+
+Q.23
+
+(B) IP
+
+(B) 27
+
+(A) 1, 2, 3, 4
+
+(D) 224
+
+Does a given program ever produce an output?
+If L is a context-free language, then, is L also context-free?
+If L is a regular language, then, is L also regular?
+If L is a recursive language, then, is L also recursive?
+(B) 1, 2
+
+(C) 2, 3, 4
+
+(D) 3, 4
+
+Given the language L = {ab, aa, baa}, which of the following strings are in L*?
+1)
+2)
+3)
+4)
+(A) 1, 2 and 3
+(C) 1, 2 and 4
+
+CS-A
+
+(C) 221
+
+Which of the following problems are decidable?
+1)
+2)
+3)
+4)
+
+Q.25
+
+(D) UDP
+
+In the IPv4 addressing format, the number of networks allowed under Class C addresses is
+(A) 214
+
+Q.24
+
+(C) TCP
+
+abaabaaabaa
+aaaabaaaa
+baaaaabaaaab
+baaaaabaa
+(B) 2, 3 and 4
+(D) 1, 3 and 4
+
+5/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><!-- vads5 --></td>
+</tr></table></tr><tr><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar5 = - imageHeights[5] + 7;
+var pnumLeft5 = imageWidths[5] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar5 + 'px;margin-left:' + pnumLeft5 + 'px;" id="pnumdiv' + 5 + '" class="round" onclick="this.style.display=\'none\';">Page 5</div>');
+</script><!-- hads5 -->
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(6, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(6);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+COMPUTER SCIENCE & INFORMATION TECH. – CS
+
+2012
+
+Q. 26 to Q. 55 carry two marks each.
+Q.26
+
+Which of the following graphs is isomorphic to
+
+(A)
+
+(C)
+
+Q.27
+
+(B)
+
+(D)
+
+Consider the following transactions with data items P and Q initialized to zero:
+T1 :read (P);
+read (Q);
+if P = 0 then Q := Q + 1 ;
+write (Q).
+T2 : read (Q);
+read (P);
+if Q = 0 then P := P + 1 ;
+write (P).
+
+Any non-serial interleaving of T1 and T2 for concurrent execution leads to
+
+Q.28
+
+Q.29
+
+(A) a serializable schedule
+(B) a schedule that is not conflict serializable
+(C) a conflict serializable schedule
+(D) a schedule for which a precedence graph cannot be drawn
+The bisection method is applied to compute a zero of the function f(x) = x4 – x3 – x2 – 4 in the
+interval [1,9]. The method converges to a solution after ––––– iterations.
+(A) 1
+(B) 3
+(C) 5
+(D) 7
+Let G be a weighted graph with edge weights greater than one and G be the graph constructed by
+squaring the weights of edges in G. Let T and T be the minimum spanning trees of G and G,
+respectively, with total weights t and t. Which of the following statements is TRUE?
+(A) T = T with total weight t = t2
+(B) T = T with total weight t &lt; t2
+(C) T ≠ T but total weight t = t2
+(D) None of the above
+
+CS-A
+
+6/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><!-- vads6 --></td>
+</tr></table></tr><tr><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar6 = - imageHeights[6] + 7;
+var pnumLeft6 = imageWidths[6] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar6 + 'px;margin-left:' + pnumLeft6 + 'px;" id="pnumdiv' + 6 + '" class="round" onclick="this.style.display=\'none\';">Page 6</div>');
+</script><!-- hads6 -->
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(7, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(7);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+COMPUTER SCIENCE & INFORMATION TECH. – CS
+
+2012
+
+Q.30
+
+What is the minimal form of the Karnaugh map shown below? Assume that X denotes a don’t care
+term.
+ab
+00
+01
+11
+10
+cd
+00
+
+1
+
+01
+
+X
+
+1
+
+1
+
+X
+
+X
+
+X
+
+1
+
+11
+10
+(A) b d
+Q.31
+
+(C) b d  ab c d
+
+(B) b d  b c
+
+(D) b d  b c  c d
+
+Consider the 3 processes, P1, P2 and P3 shown in the table.
+Process
+P1
+P2
+P3
+
+Arrival
+time
+0
+1
+3
+
+Time Units
+Required
+5
+7
+4
+
+The completion order of the 3 processes under the policies FCFS and RR2 (round robin scheduling
+with CPU quantum of 2 time units) are
+(A) FCFS: P1, P2, P3 RR2: P1, P2, P3
+(C) FCFS: P1, P2, P3 RR2: P1, P3, P2
+Q.32
+
+(B) FCFS: P1, P3, P2 RR2: P1, P3, P2
+(D) FCFS: P1, P3, P2 RR2: P1, P2, P3
+
+Fetch_And_Add(X,i) is an atomic Read-Modify-Write instruction that reads the value of
+
+memory location X, increments it by the value i, and returns the old value of X. It is used in the
+pseudocode shown below to implement a busy-wait lock. L is an unsigned integer shared variable
+initialized to 0. The value of 0 corresponds to lock being available, while any non -zero value
+corresponds to the lock being not available.
+AcquireLock(L){
+while (Fetch_And_Add(L,1))
+L = 1;
+}
+ReleaseLock(L){
+L = 0;
+}
+
+This implementation
+
+Q.33
+
+(A) fails as L can overflow
+(B) fails as L can take on a non-zero value when the lock is actually available
+(C) works correctly but may starve some processes
+(D) works correctly without starvation
+Suppose a fair six-sided die is rolled once. If the value on the die is 1, 2, or 3, the die is rolled a
+second time. What is the probability that the sum total of values that turn up is at least 6?
+(A) 10/21
+
+CS-A
+
+(B) 5/12
+
+(C) 2/3
+
+(D) 1/6
+7/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><!-- vads7 --></td>
+</tr></table></tr><tr><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar7 = - imageHeights[7] + 7;
+var pnumLeft7 = imageWidths[7] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar7 + 'px;margin-left:' + pnumLeft7 + 'px;" id="pnumdiv' + 7 + '" class="round" onclick="this.style.display=\'none\';">Page 7</div>');
+</script><!-- hads7 -->
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(8, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(8);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+COMPUTER SCIENCE & INFORMATION TECH. – CS
+
+2012
+
+Q.34
+
+An Internet Service Provider (ISP) has the following chunk of CIDR -based IP addresses available
+with it: 245.248.128.0/20. The ISP wants to give half of this chunk of addresses to Organization A,
+and a quarter to Organization B, while retaining the remaining with itself. Which of the following is
+a valid allocation of addresses to A and B?
+(A) 245.248.136.0/21 and 245.248.128.0/22
+(B) 245.248.128.0/21 and 245.248.128.0/22
+(C) 245.248.132.0/22 and 245.248.132.0/21
+(D) 245.248.136.0/24 and 245.248.132.0/21
+
+Q.35
+
+Suppose a circular queue of capacity (n −1) elements is implemented with an array of n elements.
+Assume that the insertion and deletion operations are carried out using REAR and FRONT as array
+index variables, respectively. Initially, REAR = FRONT = 0. The conditions to detect queue full
+and queue empty are
+(A) full: (REAR+1) mod n == FRONT
+empty: REAR == FRONT
+(C) full: REAR == FRONT
+empty: (REAR+1) mod n == FRONT
+
+CS-A
+
+(B) full: (REAR+1) mod n == FRONT
+empty: (FRONT+1) mod n == REAR
+(D) full: (FRONT+1) mod n == REAR
+empty: REAR == FRONT
+
+8/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><!-- vads8 --></td>
+</tr></table></tr><tr><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar8 = - imageHeights[8] + 7;
+var pnumLeft8 = imageWidths[8] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar8 + 'px;margin-left:' + pnumLeft8 + 'px;" id="pnumdiv' + 8 + '" class="round" onclick="this.style.display=\'none\';">Page 8</div>');
+</script><!-- hads8 -->
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(9, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(9);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+COMPUTER SCIENCE & INFORMATION TECH. – CS
+
+2012
+
+Q.36
+
+Consider the program given below, in a block-structured pseudo-language with lexical scoping and
+nesting of procedures permitted.
+Program main;
+Var ...
+Procedure A1;
+Var ...
+Call A2;
+End A1
+Procedure A2;
+Var ...
+Procedure A21;
+Var ...
+Call A1;
+End A21
+Call A21;
+End A2
+Call A1;
+End main.
+
+Consider the calling chain: Main  A1  A2  A21  A1
+The correct set of activation records along with their access links is given by
+(A)
+
+(B)
+Main
+A1
+
+A1
+
+A2
+
+A2
+
+A21
+FRAME
+POINTER
+
+Main
+
+A21
+
+A1
+
+ACCESS
+LINKS
+
+(C)
+
+FRAME
+POINTER
+
+A1
+
+(D)
+Main
+
+Main
+
+A1
+
+A1
+
+A2
+
+A2
+
+A21
+
+FRAME
+POINTER
+
+A21
+ACCESS
+LINKS
+FRAME
+POINTER
+
+CS-A
+
+ACCESS
+LINKS
+
+A1
+
+ACCESS
+LINKS
+
+9/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><!-- vads9 --></td>
+</tr></table></tr><tr><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar9 = - imageHeights[9] + 7;
+var pnumLeft9 = imageWidths[9] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar9 + 'px;margin-left:' + pnumLeft9 + 'px;" id="pnumdiv' + 9 + '" class="round" onclick="this.style.display=\'none\';">Page 9</div>');
+</script><!-- hads9 -->
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(10, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(10);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+COMPUTER SCIENCE & INFORMATION TECH. – CS
+
+2012
+
+Q.37
+
+How many onto (or surjective) functions are there from an n-element (n  2) set to a 2-element set?
+
+Q.38
+
+(A) 2n
+(B) 2n − 1
+(C) 2n − 2
+(D) 2(2n – 2)
+Let G be a complete undirected graph on 6 vertices. If vertices of G are labeled, then the number of
+distinct cycles of length 4 in G is equal to
+
+Q.39
+
+(A) 15
+(B) 30
+(C) 90
+(D) 360
+A list of n strings, each of length n, is sorted into lexicographic order using the merge -sort
+algorithm. The worst case running time of this computation is
+
+Q.40
+
+(A) O (n log n)
+(B) O (n2 log n)
+(C) O (n2 + log n)
+(D) O (n2)
+Consider the directed graph shown in the figure below. There are multiple shortest paths between
+vertices S and T. Which one will be reported by Dijkstra’s shortest path algorithm? Assume that, in
+any iteration, the shortest path to a vertex v is updated only when a strictly shorter path to v is
+discovered.
+2
+C
+A
+
+E
+D
+
+1
+
+1
+
+2
+
+G
+
+1
+3
+
+4
+
+4
+
+7
+
+S
+
+D
+4
+
+3
+
+5
+5
+
+3
+B
+
+3
+
+3
+
+T
+
+F
+
+Q.41
+
+(A) SDT
+(B) SBDT
+(C) SACDT
+(D) SACET
+A file system with 300 GByte disk uses a file descriptor with 8 direct block addresses, 1 indirect
+block address and 1 doubly indirect block address. The size of each disk block is 128 Bytes and the
+size of each disk block address is 8 Bytes. The maximum possible file size in this file system is
+
+Q.42
+
+(A) 3 KBytes
+(B) 35 KBytes
+(C) 280 KBytes
+(D) dependent on the size of the disk
+Consider the virtual page reference string
+1, 2, 3, 2, 4, 1, 3, 2, 4, 1
+on a demand paged virtual memory system running on a computer system that has main memory
+size of 3 page frames which are initially empt y. Let LRU, FIFO and OPTIMAL denote the number
+of page faults under the corresponding page replacement policy. Then
+(A) OPTIMAL &lt; LRU &lt; FIFO
+(C) OPTIMAL = LRU
+
+Q.43
+
+Suppose R1(A, B) and R2(C, D) are two relation schemas. Let r1 and r2 be the corresponding
+relation instances. B is a foreign key that refers to C in R2. If data in r1 and r2 satisfy referential
+integrity constraints, which of the following is ALWAYS TRUE?
+(A)
+(B)
+(C)
+(D)
+
+CS-A
+
+(B) OPTIMAL &lt; FIFO &lt; LRU
+(D) OPTIMAL = FIFO
+
+B(r1)  C(r2) = 
+C(r2)  B(r1) = 
+B(r1) = C(r2)
+B(r1)  C(r2) ≠ 
+10/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><!-- vads10 --></td>
+</tr></table></tr><tr><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar10 = - imageHeights[10] + 7;
+var pnumLeft10 = imageWidths[10] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar10 + 'px;margin-left:' + pnumLeft10 + 'px;" id="pnumdiv' + 10 + '" class="round" onclick="this.style.display=\'none\';">Page 10</div>');
+</script><!-- hads10 -->
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(11, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(11);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+COMPUTER SCIENCE & INFORMATION TECH. – CS
+
+2012
+
+Q.44
+
+Q.45
+
+Consider a source computer (S) transmitting a file of size 106 bits to a destination computer (D)
+over a network of two routers (R1 and R2) and three links (L1, L2, and L3). L1 connects S to R1; L2
+connects R1 to R2; and L3 connects R2 to D. Let each link be of length 100 km. Assume signals
+travel over each link at a speed of 108 meters per second. Assume that the link bandwidth on each
+link is 1Mbps. Let the file be broken down into 1000 packets each of size 1000 bits. Find the total
+sum of transmission and propagation delays in transmitting the file from S to D?
+(A) 1005 ms
+(B) 1010 ms
+(C) 3000 ms
+(D) 3003 ms
+Consider an instance of TCP’s Additive Increase Multiplicative Decrease (AIMD) algorithm where
+the window size at the start of the slow start phase is 2 MSS and the threshold at the start of the first
+transmission is 8 MSS. Assume that a timeout occurs during the fifth transmission. Find the
+congestion window size at the end of the tenth transmission.
+(A) 8 MSS
+
+Q.46
+
+(B) 14 MSS
+
+(C) 7 MSS
+
+(D) 12 MSS
+
+Consider the set of strings on {0,1} in which, every substring of 3 symbols has at most two zeros.
+For example, 001110 and 011001 are in the language, but 100010 is not. All strings of length less
+than 3 are also in the language. A partially completed DFA that accepts this language is shown
+below.
+00
+0
+1
+
+01
+
+0
+
+0
+
+0
+
+
+1
+
+0
+
+1
+
+1
+
+q
+
+0, 1
+
+10
+
+11
+1
+The missing arcs in the DFA are
+(A)
+00
+01
+10
+11
+
+(B)
+00
+1
+
+01
+0
+
+10
+
+11
+
+q
+
+1
+0
+0
+
+(C)
+
+CS-A
+
+01
+0
+1
+
+10
+
+11
+
+q
+1
+
+0
+0
+
+(D)
+00
+
+00
+01
+10
+11
+
+00
+00
+01
+10
+11
+
+01
+1
+1
+
+10
+
+0
+0
+
+11
+
+q
+0
+
+00
+00
+01
+10
+11
+
+01
+1
+
+10
+
+11
+
+q
+0
+
+1
+0
+0
+11/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><!-- vads11 --></td>
+</tr></table></tr><tr><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar11 = - imageHeights[11] + 7;
+var pnumLeft11 = imageWidths[11] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar11 + 'px;margin-left:' + pnumLeft11 + 'px;" id="pnumdiv' + 11 + '" class="round" onclick="this.style.display=\'none\';">Page 11</div>');
+</script><!-- hads11 -->
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(12, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(12);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+COMPUTER SCIENCE & INFORMATION TECH. – CS
+
+2012
+
+Q.47
+
+The height of a tree is defined as the number of edges on the longest path in the tree. The function
+shown in the pseudocode below is invoked as height(root) to compute the height of a binary
+tree rooted at the tree pointer root.
+int height (treeptr n)
+{ if (n == NULL) return -1;
+if (n  left == NULL)
+if (n  right == NULL) return 0;
+else return
+
+B1
+
+;
+
+// Box 1
+
+else { h1 = height (n  left);
+if (n  right == NULL) return (1+h1);
+else { h2 = height (n  right);
+}
+
+return
+
+B2
+
+;
+
+// Box 2
+
+}
+}
+
+The appropriate expressions for the two boxes B1 and B2 are
+(A) B1: (1+height(n  right))
+B2: (1+max(h1, h2))
+(C) B1: height(n  right)
+B2: max(h1, h2)
+
+CS-A
+
+(B) B1: (height(n  right))
+B2: (1+max(h1,h2))
+(D) B1: (1+ height(n  right))
+B2: max(h1, h2)
+
+12/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><!-- vads12 --></td>
+</tr></table></tr><tr><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar12 = - imageHeights[12] + 7;
+var pnumLeft12 = imageWidths[12] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar12 + 'px;margin-left:' + pnumLeft12 + 'px;" id="pnumdiv' + 12 + '" class="round" onclick="this.style.display=\'none\';">Page 12</div>');
+</script><!-- hads12 -->
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(13, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(13);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+COMPUTER SCIENCE & INFORMATION TECH. – CS
+
+2012
+
+Common Data Questions
+Common Data for Questions 48 and 49:
+Consider the following C code segment.
+int a, b, c = 0;
+void prtFun(void);
+main( )
+{
+static int a = 1;
+prtFun( );
+a += 1;
+prtFun( );
+printf(“ \n %d %d ”, a, b);
+
+/*
+
+Line 1 */
+
+}
+void prtFun(void)
+{
+static int a = 2;
+int b = 1;
+a += ++b;
+printf(“ \n %d %d ”, a, b);
+
+/*
+
+Line 2 */
+
+}
+
+Q.48
+
+What output will be generated by the given code segment?
+(A)
+3
+4
+4
+
+Q.49
+
+(B)
+1
+1
+2
+
+2
+1
+1
+
+4
+6
+2
+
+(D)
+2
+2
+0
+
+3
+5
+5
+
+1
+2
+2
+
+What output will be generated by the given code segment if:
+Line 1 is replaced by auto int a = 1;
+Line 2 is replaced by register int a = 2;
+(A)
+3
+4
+4
+
+CS-A
+
+4
+6
+6
+
+(C)
+
+(B)
+1
+1
+2
+
+4
+6
+6
+
+(C)
+2
+1
+1
+
+4
+6
+2
+
+(D)
+2
+2
+0
+
+4
+4
+2
+
+2
+2
+0
+
+13/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><!-- vads13 --></td>
+</tr></table></tr><tr><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar13 = - imageHeights[13] + 7;
+var pnumLeft13 = imageWidths[13] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar13 + 'px;margin-left:' + pnumLeft13 + 'px;" id="pnumdiv' + 13 + '" class="round" onclick="this.style.display=\'none\';">Page 13</div>');
+</script><!-- hads13 -->
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(14, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(14);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+COMPUTER SCIENCE & INFORMATION TECH. – CS
+
+2012
+
+Common Data for Questions 50 and 51:
+Consider the following relations A, B and C:
+
+Id
+12
+15
+99
+
+Q.50
+
+A
+Name
+Arun
+Shreya
+Rohit
+
+Age
+60
+24
+11
+
+Id
+15
+25
+98
+99
+
+B
+Name
+Shreya
+Hari
+Rohit
+Rohit
+
+Age
+24
+40
+20
+11
+
+Id
+10
+99
+
+C
+Phone
+2200
+2100
+
+Area
+02
+01
+
+How many tuples does the result of the following relational algebra expression contain? Assume
+that the schema of A∪B is the same as that of A.
+(A∪B)
+(A)
+
+Q.51
+
+7
+
+⋈ A.Id > 40  C.Id &lt; 15 C
+(B) 4
+
+(C) 5
+
+(D) 9
+
+How many tuples does the result of the following SQL query contain?
+SELECT A.Id
+FROM A
+WHERE A.Age > ALL (SELECT B.Age
+FROM B
+WHERE B.Name = ‘Arun’)
+(A) 4
+
+CS-A
+
+(B) 3
+
+(C) 0
+
+(D) 1
+
+14/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><!-- vads14 --></td>
+</tr></table></tr><tr><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar14 = - imageHeights[14] + 7;
+var pnumLeft14 = imageWidths[14] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar14 + 'px;margin-left:' + pnumLeft14 + 'px;" id="pnumdiv' + 14 + '" class="round" onclick="this.style.display=\'none\';">Page 14</div>');
+</script><!-- hads14 -->
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(15, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(15);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+COMPUTER SCIENCE & INFORMATION TECH. – CS
+
+2012
+
+Linked Answer Questions
+Statement for Linked Answer Questions 52 and 53:
+For the grammar below, a partial LL(1) parsing table is also presented along with the grammar. Entries that
+need to be filled are indicated as E1, E2, and E3.  is the empty string, $ indicates end of input, and, |
+separates alternate right hand sides of productions.
+SaAbB | bAaB | 
+AS
+BS
+
+S
+A
+B
+Q.52
+
+a
+E1
+AS
+BS
+
+b
+E2
+AS
+BS
+
+$
+S
+error
+E3
+
+The FIRST and FOLLOW sets for the non-terminals A and B are
+(A) FIRST(A) = {a, b, } = FIRST(B)
+FOLLOW(A) = {a, b}
+FOLLOW(B) = {a, b, $}
+(C) FIRST(A) = {a, b, } = FIRST(B)
+FOLLOW(A) = {a, b}
+FOLLOW(B) = 
+
+Q.53
+
+(B) FIRST(A) = {a, b, $}
+FIRST(B) = {a, b, }
+FOLLOW(A) = {a, b}
+FOLLOW(B) = {$}
+(D) FIRST(A) = {a, b} = FIRST(B)
+FOLLOW(A) = {a, b}
+FOLLOW(B) = {a, b}
+
+The appropriate entries for E1, E2, and E3 are
+(A) E1: S  aAbB, A  S
+E2: S  bAaB, B  S
+E3: B  S
+
+(B) E1: S  aAbB, S  
+E2: S  bAaB, S  
+E3: S  
+
+(C) E1: S  aAbB, S  
+E2: S  bAaB, S  
+E3: B  S
+
+(D) E1: A  S, S  
+E2: B  S, S  
+E3: B  S
+
+Statement for Linked Answer Questions 54 and 55:
+A computer has a 256 KByte, 4-way set associative, write back data cache with block size of 32 Bytes. The
+processor sends 32 bit addresses to the cache controller. Each cache tag directory entry contains, in
+addition to address tag, 2 valid bits, 1 modified bit and 1 replacement bit.
+Q.54
+
+The number of bits in the tag field of an address is
+(A) 11
+
+Q.55
+
+(C) 16
+
+(D) 27
+
+(C) 40 Kbits
+
+(D) 32 Kbits
+
+The size of the cache tag directory is
+(A) 160 Kbits
+
+CS-A
+
+(B) 14
+
+(B) 136 Kbits
+
+15/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><!-- vads15 --></td>
+</tr></table></tr><tr><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar15 = - imageHeights[15] + 7;
+var pnumLeft15 = imageWidths[15] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar15 + 'px;margin-left:' + pnumLeft15 + 'px;" id="pnumdiv' + 15 + '" class="round" onclick="this.style.display=\'none\';">Page 15</div>');
+</script><!-- hads15 -->
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(16, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(16);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+COMPUTER SCIENCE & INFORMATION TECH. – CS
+
+2012
+
+General Aptitude (GA) Questions
+Q. 56 – Q. 60 carry one mark each.
+Q.56 The cost function for a product in a firm is given by 5q2, where q is the amount of production. The
+firm can sell the product at a market price of 50 per unit. The number of units to be produced by
+the firm such that the profit is maximized is
+(A) 5
+
+(B) 10
+
+(C) 15
+
+(D) 25
+
+Q.57 Choose the most appropriate alternative from the options given below to complete the following
+sentence:
+Despite several ––––––––– the mission succeeded in its attempt to resolve the conflict.
+(A) attempts
+
+(B) setbacks
+
+(C) meetings
+
+(D) delegations
+
+Q.58 Which one of the following options is the closest in meaning to the word given below?
+Mitigate
+(A) Diminish
+
+(B) Divulge
+
+(C) Dedicate
+
+(D) Denote
+
+Q.59 Choose the grammatically INCORRECT sentence:
+(A) They gave us the money back less the service charges of Three Hundred rupees.
+(B) This country’s expenditure is not less than that of Bangladesh.
+(C) The committee initially asked for a funding of Fifty Lakh rupees, but later settled for a lesser
+sum.
+(D) This country’s expenditure on educational reforms is very less.
+Q.60 Choose the most appropriate alternative from the options given below to complete the following
+sentence:
+Suresh’s dog is the one ––––––––– was hurt in the stampede.
+(A) that
+
+(B) which
+
+(C) who
+
+(D) whom
+
+Q. 61 - Q. 65 carry two marks each.
+Q.61 Wanted Temporary, Part-time persons for the post of Field Interviewer to conduct personal
+interviews to collect and collate economic data. Requirements: High School -pass, must be
+available for Day, Evening and Saturday work. Transportation paid, expenses reimbursed.
+Which one of the following is the best inference from the above advertisement?
+(A) Gender-discriminatory
+(B) Xenophobic
+(C) Not designed to make the post attractive
+(D) Not gender-discriminatory
+Q.62 A political party orders an arch for the entrance to the ground in which the annual convention is
+being held. The profile of the arch follows the equation y = 2x – 0.1x2 where y is the height of the
+arch in meters. The maximum possible height of the arch is
+(A) 8 meters
+CS-A
+
+(B) 10 meters
+
+(C) 12 meters
+
+(D) 14 meters
+16/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><!-- vads16 --></td>
+</tr></table></tr><tr><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar16 = - imageHeights[16] + 7;
+var pnumLeft16 = imageWidths[16] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar16 + 'px;margin-left:' + pnumLeft16 + 'px;" id="pnumdiv' + 16 + '" class="round" onclick="this.style.display=\'none\';">Page 16</div>');
+</script><!-- hads16 -->
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(17, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(17);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+COMPUTER SCIENCE & INFORMATION TECH. – CS
+
+2012
+
+Q.63 An automobile plant contracted to buy shock absorbers from two suppliers X and Y. X supplies
+60% and Y supplies 40% of the shock absorbers. All shock absorbers are subjected to a quality test.
+The ones that pass the quality test are considered reliable. Of X’s shock absorbers, 96% are reliable.
+Of Y’s shock absorbers, 72% are reliable.
+The probability that a randomly chosen shock absorber, which is found to be reliable, is made by Y
+is
+(A) 0.288
+
+(B) 0.334
+
+(C) 0.667
+
+(D) 0.720
+
+Q.64 Which of the following assertions are CORRECT?
+P: Adding 7 to each entry in a list adds 7 to the mean of the list
+Q: Adding 7 to each entry in a list adds 7 to the standard deviation of the list
+R: Doubling each entry in a list doubles the mean of the list
+S: Doubling each entry in a list leaves the standard deviation of the list unchanged
+(A) P, Q
+
+(B) Q, R
+
+(C) P, R
+
+(D) R, S
+
+Q.65 Given the sequence of terms, AD CG FK JP, the next term is
+(A) OV
+
+(B) OW
+
+(C) PV
+
+(D) PW
+
+END OF THE QUESTION PAPER
+
+CS-A
+
+17/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><!-- vads17 --></td>
+</tr></table></tr><tr><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar17 = - imageHeights[17] + 7;
+var pnumLeft17 = imageWidths[17] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar17 + 'px;margin-left:' + pnumLeft17 + 'px;" id="pnumdiv' + 17 + '" class="round" onclick="this.style.display=\'none\';">Page 17</div>');
+</script><!-- hads17 -->
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(18, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(18);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+2012
+
+COMPUTER SCIENCE & INFORMATION TECH. – CS
+
+Space for Rough Work
+
+CS-A
+
+18/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><!-- vads17 --></td>
+</tr></table></tr><tr style="display:none;" id="adrow18"><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar18 = - imageHeights[18] + 7;
+var pnumLeft18 = imageWidths[18] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar18 + 'px;margin-left:' + pnumLeft18 + 'px;" id="pnumdiv' + 18 + '" class="round" onclick="this.style.display=\'none\';">Page 18</div>');
+</script><!-- hads17 -->
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(19, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(19);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+2012
+
+COMPUTER SCIENCE & INFORMATION TECH. – CS
+
+Space for Rough Work
+
+CS-A
+
+19/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><!-- vads17 --></td>
+</tr></table></tr><tr style="display:none;" id="adrow19"><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar19 = - imageHeights[19] + 7;
+var pnumLeft19 = imageWidths[19] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar19 + 'px;margin-left:' + pnumLeft19 + 'px;" id="pnumdiv' + 19 + '" class="round" onclick="this.style.display=\'none\';">Page 19</div>');
+</script><!-- hads17 -->
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(20, '', 0));
+</script>
+<div style="position:relative;top:-200px;">
+<p>
+<img src="/img/l.gif" width="32" height="32" title="loading" /> Formatting page ...
+<br/>&nbsp;<br/>
+<script type="text/javascript">
+  if (window.opera)
+    {
+      document.writeln('<b>Opera Users</b>: If you continue to see this message, <span style="color:blue;cursor:pointer;" onclick="getPage(20);">click here</span> to manually load formatted page.  Or, you may use a different browser to auto-load formatted pages.');
+    }
+</script>
+</p>
+</div>
+2012
+
+COMPUTER SCIENCE & INFORMATION TECH. – CS
+
+Space for Rough Work
+
+CS-A
+
+20/20
+
+
+<script type="text/javascript">
+  document.writeln(getTDElemEnd());
+</script>
+<td valign="top"><!-- vads17 --></td>
+</tr></table></tr><tr style="display:none;" id="adrow20"><td style="margin:0px;padding:0px;border:0px;"><img src="/img/1.gif" width="1" height="22" style="vertical-align:bottom;"/>
+<script type="text/javascript">
+var topMar20 = - imageHeights[20] + 7;
+var pnumLeft20 = imageWidths[20] + 2 - 50;
+document.writeln('<div style="float:left;background:white;color:blue;font-family:arial;font-size:11px;border:1px white solid;height:12px;margin-top:' + topMar20 + 'px;margin-left:' + pnumLeft20 + 'px;" id="pnumdiv' + 20 + '" class="round" onclick="this.style.display=\'none\';">Page 20</div>');
+</script><!-- hads17 -->
+</td></tr>
+<script type="text/javascript">
+  document.writeln(getTDElemStart(numPages+1, '18,19,20', 1));
+  document.writeln(getTDElemEnd());
+</script>
+</table>
+
+
+<div id="dummyImage" style="width:1;height:1;"></div>
+<input type="hidden" name="cmd" value="save"/>
+<div style="display:none;">
+<p>&nbsp;<br/>
+<input type="button" name="doit" value="Save ResPaper" onclick="formSubmit()"/>
+<input type="button" name="clear" value="Clear All Lines" onclick="clearAll()"/><br/>
+<input type="checkbox" name="debugMode" value="1" /> &nbsp; Print intermediate debugging step<br/>
+</p>
+<p id="showDebug" onclick="document.getElementById('debugInfo').style.display='';this.style.display='none';" style="text-decoration:underline;cursor:pointer;color:blue;">Show debugging info</p>
+<div id="debugInfo" style="display:none;">
+<p><span onclick="document.getElementById('debugInfo').style.display='none';document.getElementById('showDebug').style.display='';" style="text-decoration:underline;cursor:pointer;color:blue;">Hide debugging info</span></p>
+<table>
+<tr><td>Horizontal lines at:</td><td><input type="text" id="splitter" name="splitter" value="1:1513;2:1638;3:1916;4:1989;5:2069;6:2506;7:2616;8:2740;9:2864;10:2927;11:3023;12:3248;13:3593;14:3706;15:3849;16:3944;17:4016;18:4108;19:4169;20:4279;21:4360;22:4645;23:4705;24:4863;25:5044;26:6187;27:6427;28:6492;29:6625;30:7116;31:7341;32:7680;33:7749;34:8116;35:8294;36:9982;37:10255;38:10316;39:10380;41:10731;42:10859;43:10987;44:11123;45:11446;46:11539;47:12238;48:12893;50:14123;51:14294;52:15011;53:15190;55:16290;56:16454;57:16605;58:16669;59:17102;60:17212;61:17304;62:17429;63:17548;64:17758;65:17851;66:18229;67:18366;68:18432; " size="50" style="font-family:verdana;font-size:70%;"/></td></tr>
+<tr><td>Box geometries:</td><td><input type="text" id="boxes" name="boxes" value="" size="50" style="font-family:verdana;font-size:70%;"/></td></tr>
+</table>
+
+Box geometries: <br/><textarea rows="5" cols="60" name="boxesArea" id="boxesArea" readonly="true"></textarea>
+<br/>
+<br/>Text Data: <br/><textarea rows="5" cols="60" name="textData" id="textData" readonly="true"></textarea>
+</div>
+</div>
+<input type="hidden" name="f" value="/gate/344/6865.pdf" id="file_name"/>
+<input type="hidden" name="numPages" value="20" id="numPages"/>
+</form>
+<script type="text/javascript">var sign_in_msg = 'You must be signed in to download this paper.  It is free to register and to sign in.  Follow the links at the top of this page.';
+var sign_in_msg = 'You must be signed in to Print or Download this paper.  It is free to register and to sign in.  Follow the links at the top of this page.\n\nIf you are already signed in, reload this page.';
+document.writeln('<table><tr><td valign="top"><p style="border-radius:5px;background:#0000ff;color:#ffffff;padding:3px;cursor:pointer;font-size:80%;" onclick="alert(sign_in_msg);">Print</p></td>');  
+document.writeln('<td valign="top"><p style="border-radius:5px;background:#0000ff;color:#ffffff;padding:3px;cursor:pointer;font-size:80%;" onclick="alert(sign_in_msg);">Download</p></td>');  
+ document.writeln('<td valign="top"><div class="fb-send" data-href="'+location.href+'"></div></td></tr></table>');
+</script>
+
+<p style="padding:6px;font-family:verdana;font-size:80%;">
+<b>Additional Info:</b>: Solved GATE exam paper study guid - gate 2012 : comp science and IT free online ques paper<br/> <b>Tags</b>: GATE comp sci and IT 2013 model paper, syllabus, CS paper, India, GATE Exam Question Papers, Free Online Solutions, Answers, Answer Key, Graduate Aptitude Test in Engineering, IIT, IISc, GATE Exam Syllabus, GATE Study Material, GATE Exam Pattern, gate exam papers, gate question papers 2011, past gate papers, gate papers with answers, gate entrance exam engineering, gate previous years papers, gate old  papers<br/>
+&nbsp;
+</p>
+<script type="text/javascript"><!--
+google_ad_client = "pub-0582656916058535";
+/* ResPaper - Bottom */
+google_ad_slot = "1928441164";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+<div style="width:98%; height:20px;margin-top:15px;font-size:12px;text-align:center;">&copy; 2010 - 2013 ResPaper.  A service by <a href="http://www.syvum.com/" target="_blank">Syvum</a><span style="float:left;"><a href="/m/fb">Contact Us</a></span></div>
+</div>
+</body>
+</html>
+
+<div style="height:45;"><p>&nbsp;</p></div>
+
+</body>
+</html>
+<script language=JavaScript>
+var doNothingSyvum = 1;
+</script>
+<noscript>
+<h3><font color=red>Error: This page requires JavaScript / Active Scripting</font></h3>
+</noscript>
+<style>
+.fixedToBottom
+ {
+   position:fixed;
+   _position:absolute;
+   right:0;
+   bottom:2;
+   _top:expression(document.body.scrollTop+document.body.clientHeight-this.clientHeight - 2);
+ }
+</style>
+
+<script type="text/javascript" src="/js/chat-2.min.js"></script>
+<script type="text/javascript">
+var chat_path = '/gate/344/6865.pdf';
+var str212 = 'Sign in to start posting chat comments';
+</script>
+<div id="ChatTimeOutMsg" class="fixedToBottom" style="display:none;clear:both;float:left;background-color:rgba(255,255,255,0.7);color:#000000;height:470px;width:266px;z-index:50001;"><div style="height:470px;display:table-cell;vertical-align:middle;"><center><table width="90%" style="border:1px solid #808080;background:#eeeeee;border-radius:5px;font-size:12px;" cellpadding="20"><tr><td valign="middle" align="center">This chat window will be minimized in <span id="timeout">30</span> seconds due to inactivity.<br/>&nbsp;<br/><input type="button" value="Do not minimize" onclick="resetInterval();" /></td></tr></table></center></div></div>
+<div id="ChatBoxContainer" class="ChatBoxOpt fixedToBottom" style="clear:both;float:left;background:#ffffff;color:#000000;height:502px;width:268px;z-index:50000;">
+  <div style="clear:both;float:left;padding:2px;height:25px;width:268px;background:#0000FF;color:#ffffff;"><span style="float:left;padding-left:5px;font-weight:bold;">gate - Discuss</span><span style="float:right;padding-right:5px;cursor:pointer;" id="close_chat"><img title="close" src="/img/close.gif" width="16" height="16" onclick="closeChatBox();"></span><span style="float:right;padding-right:5px;cursor:pointer;" id="tog_chat"><img title="Minimize" src="/img/minimize.gif" width="16" height="16" onclick="toggleChatBox(0);"></span></div>
+  <div id="ChatBoxOpt">
+    <div id="blockList" style="font-size:10px;clear:both;float:left;display:none;height:13px;width:266px;border:1px solid #aaaaaa;background:#dddddd;overflow:hidden;"></div>
+    <div style="clear:both;float:left;padding:2px;height:415px;width:262px;border:1px solid #aaaaaa;overflow:auto;" id="AllChatText"><span style="font-family:Arial;font-size:11px;color:#666666;"><p>Type your message below to chat with other users on <b>this page</b>.<p>
+
+<p style="color:red;"> <br/>If you have just created your account, go the page of your interest (e.g., <a href="/gate/">GATE</a>, <a href="/icse/">ICSE</a>, <a href="/ugc_net/">UGC NET</a>, etc.) and post your message there. </p></span></div>
+    <div style="clear:both;float:left;height:50px;width:266px;border:1px solid #aaaaaa;"><table width="100%" cellpadding="0" cellspacing="0"><tr><td valign="top"><textarea id="ChatText" style="width:209px;height:50px;"></textarea></td><td valign="bottom"><input type="button" value="Send" onclick="sendChatText();" style="height:50px;" /></td></tr></table></div>
+  </div>
+</div>

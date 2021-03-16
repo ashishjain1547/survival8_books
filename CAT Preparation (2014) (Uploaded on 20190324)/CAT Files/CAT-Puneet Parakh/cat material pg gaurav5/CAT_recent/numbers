@@ -1,0 +1,870 @@
+
+
+
+Problem on Numbers
+-----------------------------------
+A rich man died. In his will, he has divided his gold coins among his 5 sons, 5 daughters and a manager. According to his will: First give one coin to manager. 1/5th of the remaining to the elder son. Now give one coin to the manager and 1/5th of the remaining to second son and so on..... After giving coins to 5th son, divided the remaining coins among five daughters equally. All should get full coins. Find the minimum number of coins he has?
+
+I need to know , is it possible to get the solution in easiest way?
+
+-----------------------------------
+TheAkshaT
+Tue Aug 31, 2004 11:57 pm
+
+
+
+
+
+-----------------------------------
+and a manager. According to his will: First give one coin to manager. 1/5th of the remaining to the elder son. Now give one coin to the manager and 1/5th of the remaining to second son and so on..... After giving coins to 5th son, divided the remaining coins among five daughters equally. All should get full coins. Find the minimum number of coins he has?
+
+Manager = 5 coins
+First son = 624 coins
+ Second son = 499 coins
+ Third son = 399 coins
+ Forth son = 319 coins
+ Fifth son = 255 coins
+ Daughters = 204 *5 
+
+Total = 3121 coins
+
+------------------------------------------
+A group of friends went on a holiday to a hill station. It rained for 13 days. But when it
+rained in the morning, the afternoon was lovely. And when it rained in the afternoon, the
+day was preceded by clear morning.
+Altogether there were 11 very nice mornings and 12 very nice afternoons. How many days did
+their holiday last?
+
+-----------------------------------
+The ratio of Boys to Girls is 6:4. 60% of the boys and 40% of the girls take lunch in the
+canteen. What % of class takes lunch in canteen?
+
+-----------------------------------
+
+Which of the following day(s) can't be the last day of a century? Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday.
+
+-----------------------------------
+
+The ratio of Boys to Girls is 6:4. 60% of the boys and 40% of the girls take lunch in the canteen. What % of class takes lunch in canteen? 
+ 
+ 
+I think the answer for this should be 52%, Total Students 10x Students taking food in canteen = 3.6x + 1.6 x = 5.2 x
+
+Hence 52%
+
+For other questions wait for some time
+
+Luv
+willitbenow
+
+[/quote]
+
+
+-----------------------------------
+A group of friends went on a holiday to a hill station. It rained for 13 days. But when it
+rained in the morning, the afternoon was lovely. And when it rained in the afternoon, the
+day was preceded by clear morning.
+Altogether there were 11 very nice mornings and 12 very nice afternoons. How many days did
+their holiday last?
+
+Let the number of total mornings be M and the number of total afternoons be E
+The wet mornings must be M-11 and the horrid afternoons are E-12
+So, M-11+E-12=13 or M+E = 36
+but M+E is one day so the number of days must be 18!
+
+-----------------------------------
+
+Which of the following day(s) can't be the last day of a century? Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday.
+
+Ans: 
+easiest one.
+
+The last day of a century can not be Tuesday, Thursday or Saturday.
+( hope everybody aware of calendar probs. 5317 - fri,wed,mon,sun alone be the last days of centuries)
+
+Here it goes.
+ 
+A normal year has 365 days whereas a leap year has 366 days. Every year which is divisible by 4 is called a leap year. 
+Also, every 4th century is a leap year but no other century is a leap year. 
+1 normal year = 365 days = 52 weeks + 1 day 
+1 leap year = 366 days = 52 weeks + 2 day
+
+ Thus, a normal year has 1 odd day whereas a leap year has 2 odd days. 
+100 years = 76 normal years + 24 leap years = 76*[52 weeks + 1 day] + 24*[52 weeks + 2 day] = (76*52) weeks + 76 days + (24*52) weeks + 48 days = 5200 weeks + 124 days = 5217 weeks + 5 days
+
+ i.e. 100 years contain 5 odd days 
+Similarly, 200 years contain 10 odd days
+ i.e. 3 odd days. 300 years contain 15 odd days
+ i.e. 1 odd days.
+
+400 years contain (20+1) odd days i.e. 0 odd days.
+
+ Note that 400 years contain one more leap year.
+
+ Also, we have Sunday for 0 odd day, Monday for 1 odd day, Tuesday for 2 odd days, and so on... Thus, last day of first century is Friday. (5 odd days) Last day of second century is Wednesday. (3 odd days) Last day of third century is Monday. (1 odd days)
+ Last day of forth century is Sunday. (0 odd days) 
+
+Since the order is repeating in successive cycles, the last day of a century can not be Tuesday, Thursday or Saturday.
+
+-----------------------------------------------------
+A ship went on a voyage.
+After it had travelled 180 miles a plane statrted with 10 times the speed of the ship.
+Find the distance when they meet from starting point.
+
+--------------------------------
+200 miles
+
+-----------------------------------
+koolfriend4u
+Thu Sep 02, 2004 3:01 pm
+
+soln. :-) yes i 2 worked
+-----------------------------------
+200 miles
+
+ 200 miles
+
+Let's say the ship is travelling v mi/hr
+and plane took t hours to meet the ship
+
+Than, vt is the distance ship travelled after plane started
+(10v)t = 10vt is the distance plane travelled.
+
+So we have, vt + 180 = 10vt
+or 9vt = 180
+or vt = 20
+
+Hence distance ==> 180 + 20 = 200 miles
+
+
+But.... :mg:  one more soln. with me.
+
+By the time the plane flies 180 miles the ship would have travelled 18 miles.
+
+180 + 18 = 198 miles
+
+By the time the plane flies 18 miles the ship would have travelled 1.8 miles.
+
+198 + 1.8 = 199.8 miles
+
+By the time the plane flies 1.8 miles the ship would have travelled .18 miles.
+
+199.8 + .18 = 199.98 miles
+
+By the time the plane flies .18 miles the ship would have travelled .018 miles.
+
+199.98 + .018 = 199.998 miles
+
+By the time the plane flies .018 miles the ship would have travelled .0018 miles.
+
+199.998 + .0018 = 199.9988
+
+And so on, assuming the plane never tries to overtake the ship  :idea:
+
+-----------------------------------
+mizzou
+Thu Sep 02, 2004 3:07 pm
+
+Re: Problem on Numbers
+-----------------------------------
+speeds x and 10 x
+rel dis = 180
+rel speed = 10x - x = 9x
+time = 180/9x = 20/x
+
+Ans = Dis Travelled by plane = 10x * 20/x = 200 miles
+
+-----------------------------------
+koolfriend4u
+Thu Sep 02, 2004 3:20 pm
+
+
+-----------------------------------
+smart work mizzou.
+
+-----------------------------------
+koolfriend4u
+Thu Sep 02, 2004 4:37 pm
+
+
+-----------------------------------
+An orange glass has orange juice and white glass has apple juice both of equal volumes. 50ml of the orange juice is taken and poured into the apple juice. 50ml from the white glass is poured into the orange glass. Of the two quantities, the amount of apple juice in the orange glass and the amount of orange juice in the white glass, which one is greater and by how much?
+
+-----------------------------------
+koolfriend4u
+Thu Sep 02, 2004 7:08 pm
+
+
+-----------------------------------
+soln. equal in amnt.
+
+-----------------------------------
+koolfriend4u
+Thu Sep 02, 2004 7:11 pm
+
+
+-----------------------------------
+There are some chicken in a poultry. They are fed with corn. One sack of corn will come for 9 days. The farmer decides to sell some chicken and wanted to hold 12 chicken with him. He cuts the feed by 10% and sack of corn comes for 30 days. So initially how many chicken are there? 
+ 
+There is an element which triplicates in every  hour. Each of these 3 
+items  inturn reproduce exactly 3 other items. If a  single  compund is kept in  a 
+container at noon and the container is full by  midnight. After how  many  hours is the container 1/3 full.
+
+100 Kg. Potatoes with 98% water content are  dried  in an oven. The  percentage  of water decreases to 50 %. What is the  weight of potatoes  now.
+
+There are n Railway stations. Ticket facility is  10available between  every 
+two stations. Recently, m new stations are bulit  so  that 42 new  tickets 
+are  to be printed. How many stations were there? How  many are newly 
+constructed.
+
+-----------------------------------
+zango
+Thu Sep 02, 2004 9:29 pm
+
+Re: Problem on Numbers
+-----------------------------------
+There are some chicken in a poultry. They are fed with corn. One sack of corn will come for 9 days. The farmer decides to sell some chicken and wanted to hold 12 chicken with him. He cuts the feed by 10% and sack of corn comes for 30 days. So initially how many chicken are there?
+
+.9x - 30 days
+1 x - 30*.9 days = 27 days for 12 chicken
+                            = 9 days for t chicken
+                            = 27 * 12 days for 1 chicken
+                            = 27 * 12 / 9 days for t chicken
+t = 27*12/9 = 36 chicken initially.
+
+There is an element which triplicates in every hour. Each of these 3
+items inturn reproduce exactly 3 other items. If a single compund is kept in a
+container at noon and the container is full by midnight. After how many hours is the container 1/3 full.
+9 pm.or 9 hours (1/3 becomes 3/3 in 3 hours - therefore 12-3 = 9) - not very sure - have to check.
+
+100 Kg. Potatoes with 98% water content are dried in an oven. The percentage of water decreases to 50 %. What is the weight of potatoes now.
+98 kg + 2kg of solid matter of water becomes 2 kg of water + 2 kg of solid matter (2 = 50% of 4) (assuming 50% of original weight - if it is 50% of the weight of water - then it will be 49kg water + 2kg solid = 51kg - but then the wording should have been "The percentage of water decreases by 50 %" )
+
+There are n Railway stations. Ticket facility is 10available between every
+two stations. Recently, m new stations are bulit so that 42 new tickets
+are to be printed. How many stations were there? How many are newly
+constructed.
+For the m new stations you will need to print 42 new tickets = 21 new tickets one way.
+Now, 21 = trains between 1 each of n stations and 1 of m stations = m*n + trains between each of the m new stations = mC2
+21 = m*n+mC2 = m(2n + m-1)/2
+3*7 = m(2n+m-1)/2
+Taking m = 3
+7 = (2n+3-1)/2
+14 = 2n + 2
+n = 6
+
+If we take m = 7, (2n+6) = 6 => n = 0
+Therefore, either there were no stations initially and 7 new stations were added or 6 originally, 3 new were added.
+
+-----------------------------------
+THUSSU
+Thu Sep 02, 2004 10:09 pm
+
+
+-----------------------------------
+There are some chicken in a poultry. They are fed with corn. One sack of corn will come for 9 days. The farmer decides to sell some chicken and wanted to hold 12 chicken with him. He cuts the feed by 10% and sack of corn comes for 30 days. So initially how many chicken are there? 
+ 
+There is an element which triplicates in every  hour. Each of these 3 
+items  inturn reproduce exactly 3 other items. If a  single  compund is kept in  a 
+container at noon and the container is full by  midnight. After how  many  hours is the container 1/3 full.
+
+100 Kg. Potatoes with 98% water content are  dried  in an oven. The  percentage  of water decreases to 50 %. What is the  weight of potatoes  now.
+
+There are n Railway stations. Ticket facility is  10available between  every 
+two stations. Recently, m new stations are bulit  so  that 42 new  tickets 
+are  to be printed. How many stations were there? How  many are newly 
+constructed.
+
+36 chickens
+11 pm
+51 kg
+there is a direct formula for this one...
+
+-----------------------------------
+act_naturally1
+Thu Sep 02, 2004 10:16 pm
+
+
+-----------------------------------
+There are some chicken in a poultry. They are fed with corn. One sack of corn will come for 9 days. The farmer decides to sell some chicken and wanted to hold 12 chicken with him. He cuts the feed by 10% and sack of corn comes for 30 days. So initially how many chicken are there? 
+ 
+There is an element which triplicates in every  hour. Each of these 3 
+items  inturn reproduce exactly 3 other items. If a  single  compund is kept in  a 
+container at noon and the container is full by  midnight. After how  many  hours is the container 1/3 full.
+
+100 Kg. Potatoes with 98% water content are  dried  in an oven. The  percentage  of water decreases to 50 %. What is the  weight of potatoes  now.
+
+There are n Railway stations. Ticket facility is  10available between  every 
+two stations. Recently, m new stations are bulit  so  that 42 new  tickets 
+are  to be printed. How many stations were there? How  many are newly 
+constructed.
+
+ans2) 11:00
+ans3) 2 kg
+
+-----------------------------------
+zango
+Fri Sep 03, 2004 1:11 am
+
+Re: Problem on Numbers
+-----------------------------------
+
+There is an element which triplicates in every hour. Each of these 3
+items inturn reproduce exactly 3 other items. If a single compund is kept in a
+container at noon and the container is full by midnight. After how many hours is the container 1/3 full.
+9 pm.or 9 hours (1/3 becomes 3/3 in 3 hours - therefore 12-3 = 9) - not very sure - have to check.
+originally, 3 new were added.
+
+Ah messed up here : sorry - shud be 11 - not 9 - i read triplicates every 3hours :p - damn was held up at work - and was tired when i answered your Qs :)
+
+your q's are fun to solve - keep them coming kool guy
+
+-----------------------------------
+koolfriend4u
+Fri Sep 03, 2004 1:00 pm
+
+
+-----------------------------------
+yes zango. the ans. is 11 alone i think. wait 4 some time. i can post in eve alone. sorry 4 my delay.
+
+-----------------------------------
+koolfriend4u
+Fri Sep 03, 2004 7:39 pm
+
+Re: Problem on Numbers
+-----------------------------------
+There are some chicken in a poultry. They are fed with corn. One sack of corn will come for 9 days. The farmer decides to sell some chicken and wanted to hold 12 chicken with him. He cuts the feed by 10% and sack of corn comes for 30 days. So initially how many chicken are there?
+
+1(part)*9*x= 0.9(part)*12*30
+therfore x=36 (chicks)
+
+There is an element which triplicates in every hour. Each of these 3
+items inturn reproduce exactly 3 other items. If a single compund is kept in a
+container at noon and the container is full by midnight. After how many hours is the container 1/3 full.
+ (1/3 becomes 3/3 in 1 hr) - therefore 12-1 = 11  ==> 11pm. 
+
+
+There are n Railway stations. Ticket facility is available between every
+two stations. Recently, m new stations are bulit so that 42 new tickets
+are to be printed. How many stations were there? How many are newly
+constructed.
+
+Soln.
+
+n(n-1) is the no. of tickets available between n no. of stations.
+
+therefor n1(n1-1) - n(n-1) =42
+9*8 - 6*5 =42.
+n=6, n1 =9. 3 new stations.
+
+
+
+Therefore, either there were no stations initially and 7 new stations were added or 6 originally, 3 new were added.
+
+n stations were there. so u cant say n=0 :-)
+
+-----------------------------------
+koolfriend4u
+Fri Sep 03, 2004 8:05 pm
+
+
+-----------------------------------
+1)A train and A Cyclist reaches a station every  day  at the same time.  One   day the Cyclist starts 20 minutes late from his   house.On his way to  station   the train  crosses him at 5 miles before 
+station.The speed of cyclist   is  12mph. Find the speed of the train. 
+
+2)there were 50 players playing a game among themselves. each player is out of the game when lose 3 matches. what is the number of matches should be played in order to get the winner.
+
+-----------------------------------
+koolfriend4u
+Fri Sep 03, 2004 8:06 pm
+
+
+-----------------------------------
+Two men are going along a track rail in the opposite direction. One goods train crossed the first person in 20 sec. After 10 min the train crossed the other person who is comming in opposite direction in 18 sec .After the train has passed, when thetwo persons will meet?
+
+-----------------------------------
+zango
+Fri Sep 03, 2004 8:45 pm
+
+Re: Problem on Numbers
+-----------------------------------
+
+
+Therefore, either there were no stations initially and 7 new stations were added or 6 originally, 3 new were added.
+
+n stations were there. so u cant say n=0 :-)
+
+You can - unless the question says n is not = 0 :)
+
+-----------------------------------
+koolfriend4u
+Fri Sep 03, 2004 9:09 pm
+
+Re: Problem on Numbers
+-----------------------------------
+
+
+Therefore, either there were no stations initially and 7 new stations were added or 6 originally, 3 new were added.
+
+n stations were there. so u cant say n=0 :-)
+
+You can - unless the question says n is not = 0 :)
+
+well if n=0 , then they wont mention tht stations were thr & moreover tickets were available in between stations. 
+
+;-) wats ur reply zango?
+
+-----------------------------------
+shivhare
+Fri Sep 03, 2004 9:26 pm
+
+
+-----------------------------------
+wont there be one more solution that 21 stations are there n 1 station was newly added ?? or are we assuming that since its stations ...that more than 1 station was added ??
+
+-----------------------------------
+zango
+Fri Sep 03, 2004 9:34 pm
+
+
+-----------------------------------
+wont there be one more solution that 21 stations are there n 1 station was newly added ?? or are we assuming that since its stations ...that more than 1 station was added ??
+
+That was smart shivhare - i forgot to factor 21 as 21*1 :) good job :)
+
+-----------------------------------
+zango
+Fri Sep 03, 2004 9:38 pm
+
+Re: Problem on Numbers
+-----------------------------------
+
+
+Therefore, either there were no stations initially and 7 new stations were added or 6 originally, 3 new were added.
+
+n stations were there. so u cant say n=0 :-)
+
+You can - unless the question says n is not = 0 :)
+
+well if n=0 , then they wont mention tht stations were thr & moreover tickets were available in between stations. 
+
+;-) wats ur reply zango?
+
+Koolfriend: i think the paper will be set such that they will explicitly mention any such criteria. since you are going to be answering an objective paper - if options are such that they can have multiple answers - then chose the best answer - perhaps in this case 6 & 3. 
+However, 0 & 7 is still a valid option as is 21 & 1 (as shivhare pointed out)
+
+-----------------------------------
+koolfriend4u
+Fri Sep 03, 2004 9:43 pm
+
+
+-----------------------------------
+i expected somone lik shivhare might point it out. hats off shivhare. 
+
+zangho...sorry bey...i wont agree wit ur point here. post it in polls. lets see hw many votes u r getting.
+
+-----------------------------------
+zango
+Fri Sep 03, 2004 9:48 pm
+
+
+-----------------------------------
+zangho...sorry bey...i wont agree wit ur point here. post it in polls. lets see hw many votes u r getting.
+lets not worry about it ;) the issue is closed from my side :) i take your argument
+
+-----------------------------------
+koolfriend4u
+Fri Sep 03, 2004 10:02 pm
+
+
+-----------------------------------
+well zango. we shall lv tht issue. 
+
+Frens any tough Probs here in no.s? n any shortcut methods ???
+
+-----------------------------------
+koolfriend4u
+Fri Sep 03, 2004 10:17 pm
+
+
+-----------------------------------
+one problem in no.s 
+
+i forget the problem. but d concept is
+
+a+b+c=100;
+5a+3b+1/3c=100
+
+find a,b,c ?
+
+ans: a=4, b=18, c=78
+
+help me in this type of solving this type of probs.
+
+-----------------------------------
+kool_dude
+Fri Sep 03, 2004 11:26 pm
+
+Re: Problem on Numbers
+-----------------------------------
+hi koolfriend,
+the question given by u has 2 equations and 3 variables....so i think 3 equations are needed to be solve 3 variables...so pls check it out if any extra data is given or not....
+otherwise this is the question of DS...where the answer is data insufficient... :D
+
+-----------------------------------
+koolfriend4u
+Fri Sep 03, 2004 11:33 pm
+
+
+-----------------------------------
+kool dude! by this 2 eqn.s we can derive some soln. tht a,b,c wont be more than certain value. i forget where i found the prob. might be shaku.
+
+by trial n error method we can achieve.
+
+-----------------------------------
+zango
+Sat Sep 04, 2004 2:39 am
+
+
+-----------------------------------
+1)A train and A Cyclist reaches a station every  day  at the same time.  One   day the Cyclist starts 20 minutes late from his   house.On his way to  station   the train  crosses him at 5 miles before 
+station.The speed of cyclist   is  12mph. Find the speed of the train. 
+
+->time to cover 5 miles at 12mph = 5/12 hrs = 25 minutes
+Given that the cylist was 20 minutes late, he would have arrived at the station in 5 minutes, if he were not late. So the train has been travelling for 5 minutes.
+5 minutes = 5 miles => 1 hr = 60miles
+therefore train speed = 60mph
+
+2)there were 50 players playing a game among themselves. each player is out of the game when lose 3 matches. what is the number of matches should be played in order to get the winner.
+It's either too difficult - or I am too tired to think - i prefer to think its the latter :mg:
+
+-----------------------------------
+shivhare
+Sat Sep 04, 2004 8:53 am
+
+Re: Problem on Numbers
+-----------------------------------
+a+b+c=100; 
+5a+3b+1/3c=100 
+
+find a,b,c ?
+
+i guess u r lookibng for positive integral solution ...
+ if u r ...
+ then do it this way 
+ solve for a and b in terms of c
+ u will get a=4/3c-100 , b=200-7/3c
+now since we looking for intergral solutions c is a multiple of 3 
+ also since a and b are positive c>75 and c<86
+now the only muliples of 3 in this set 78 81 84 
+hence possible values of c are 78 81 84 
+
+giving u 3 sets of solution
+
+4 18 78
+8 11 81
+12 4 84
+
+my suggestion on how to do this ....check the options ....lot less pain...
+
+-----------------------------------
+THUSSU
+Sat Sep 04, 2004 9:24 am
+
+
+-----------------------------------
+one problem in no.s 
+
+i forget the problem. but d concept is
+
+a+b+c=100;
+5a+3b+1/3c=100
+
+find a,b,c ?
+
+ans: a=4, b=18, c=78
+
+help me in this type of solving this type of probs.
+
+this is a diophantine equation. we might not need another equation, but we need a criterion like 'all the numbers are positive integers' and so on.
+In which case, we have a+b+c=100 and 15a+9b+c=300
+or, 14a+8b=200; 7a+4b=100
+so, a=(100-4b)/7
+the son. set is (12,4), (8,11), (4, 18) 
+for each of these, c hasa a value; so the soln set is (12,4, 84), (8,11, 81), (4, 18, 78) 
+
+all three are valid solutions for the equations given by you koolfriend!
+enjoy
+
+-----------------------------------
+koolfriend4u
+Sat Sep 04, 2004 9:57 am
+
+
+-----------------------------------
+thanks yaar. but i nd 2 knw.
+
+hav u got this via c progm ;-) ?
+
+-----------------------------------
+koolfriend4u
+Sat Sep 04, 2004 3:07 pm
+
+
+-----------------------------------
+friends here's a puzzle CAT & MICE
+
+http://aleph0.clarku.edu/~djoyce/puzzles/mice.html
+
+(most of u hav seen this puzzle in infy i think.
+
+i got the answer by striking. but this page gav a formula tht : f(n,k) indicates how many mice past the white mouse the count should start.   - i need u  friends to explain me the formula meant in it.
+
+Thanks
+
+-----------------------------------
+koolfriend4u
+Sat Sep 04, 2004 3:50 pm
+
+
+-----------------------------------
+some problem collections 
+
+A colck takes 33 seconds to complete the   pendulum  sound when it is  12:00  
+noon. How long one can hear the pendulum sound it is  6:00 a.m.??
+
+mr. x (got paramvir chakra in 1981) died when his age was 1/59th the year of birth. what was his date of birth? 
+
+There is 66x33m rectangular area. Ram is 11/8 times faster than Krishna . Both of them started walking at opposite ends and they met at some point then, Ram said "See you in the other end" Then they continued walking. After some time Ram thought he will have tea so he turned back walked back 15 meters then he changed his mind again and continued walking .How much Krishna has traveled by the time they meet? 
+
+There are 4 married couples out of which 3 a group is needed . But ther should not be his of her spouse .How many groups are possible ?
+
+-----------------------------------
+whocarez
+Sat Sep 04, 2004 9:44 pm
+
+
+-----------------------------------
+
+mr. x (got paramvir chakra in 1981) died when his age was 1/59th the year of birth. what was his date of birth? 
+
+quite clearly from the problem It should be of the form 59k and around 1981.
+if u think of 59 approx. to 60 then clearly u can see that k should be less than 40 and greater than 30.
+so i start with 59*30=1770
+clearly to make it to 19xx i need to add 59*3=177 which takes it to 1947.
+SO he was born in 1947 lived 33 yrs and died in 1980  :wink: 
+
+
+
+There are 4 married couples out of which 3 a group is needed . But ther should not be his of her spouse .How many groups are possible ?
+
+there can be 0,1,2 or 3 females in the grp
+and you need to calculate for only 2 cases either the first 2 or the last 2 and then double it get ur answer (easy enough to understand :wink: )
+
+so when there are 3 females  the group can be selected in 4 ways
+when there are 2girls they can be selected in 4C2 for females *2 ways for guys =12
+so final answer (12+4)*2=32.
+
+-----------------------------------
+koolfriend4u
+Sun Sep 05, 2004 9:41 am
+
+
+-----------------------------------
+clock take 15 secs to strike 6.
+
+-----------------------------------
+koolfriend4u
+Sun Sep 05, 2004 10:00 am
+
+
+-----------------------------------
+1. There are 4 married couples out of which 3 a group is needed . But ther should not be his of her spouse .How many groups are possible ?
+Ans 32
+
+10)mr. x (got paramvir chakra in 1981) died when his age was 1/59th the year of birth. what was his date of birth? 
+ans-1947
+
+Rectangular area sum i didnt  solved. i thot its lengthy. anyone wit solution??
+
+-----------------------------------
+koolfriend4u
+Sun Sep 05, 2004 10:06 am
+
+
+-----------------------------------
+There are 100 bulbs and 100 switches.
+i. All bulbs are switched on.
+ii. All bulbs divided by two are switched on if off and switched off if on.
+iii. ,, ,, ,, ,, three --do-
+iv. This continues upto 100 i.e. at last the bulb dived by 100 is switched on if off and off if on.
+How many bulbs wiil be in on condition after this?
+
+When a boy is asked abt his age he said I'm 2.5 times the age of my sis now.Last yr.Iwas 3 times the age of hers.2 yrs. before Iwas 4 times her age .Before 3 yrs. I was7 times her age .Find out age of both.
+
+. There is an idler and a devil. The devil said to the idler "cross the bridge and your money will be doubled. But you have to give 24$ to me every time you cross." The idler did so. First time he crossed he find his money doubled and gave 24$ to the devil. He did so for the second time. When he crossed the bridge for the third time he found his total money equal to 24$ and has to give all to the devil. How much did he have at first?
+
+-----------------------------------
+Gordon
+Sun Sep 05, 2004 5:43 pm
+
+Re: Problem on Numbers
+-----------------------------------
+there were 50 players playing a game among themselves. each player is out of the game when lose 3 matches. what is the number of matches should be played in order to get the winner
+
+49 guys lose  and 1 guy wins so for each loser we have 3 games hence 49*3= 147 games to decide the winner
+
+-----------------------------------
+koolfriend4u
+Tue Sep 07, 2004 3:29 pm
+
+
+-----------------------------------
+one hundred and twenty five small cube of equal size are 
+arranged in a solid pile of dimension 5*5*5 .Then from one corner 
+one cube is removed from the top.From the opposite corner 8 cubes
+(2*2*2)r removed from the third corner a column of three cubes and 
+from the fourth corner a column of 4 cubes r removed the remaining 
+solid r coloured red on all the exposed faces...
+
+1. how many cubes in the secomd layer fron the top do not have any 
+coloured face
+
+
+2: how many cubes in the third layer have at least two coloured faces each
+
+
+3: how many cubes in the fourth layer from the top have only one colour face each..
+
+
+4: how many cubes in the bottom layer have at least one coloured face each
+
+
+5: how many cubes in the top four layers taken together have only one coloured 
+face each
+
+
+6: how many cubes donot have any colour face 
+
+
+7: how many cubes have three colour faces each
+
+
+8:how many cubes have only two colour faces each?
+
+
+9:how many cubes have only one colour faces each?
+
+
+10:how many cubes are there in the top layer ?
+
+-----------------------------------
+koolfriend4u
+Wed Sep 08, 2004 1:09 am
+
+
+-----------------------------------
+1. how many cubes in the secomd layer fron the top do not have any 
+coloured face
+ans : 6
+
+2: how many cubes in the third layer have at least two coloured faces each
+ans :8
+
+3: how many cubes in the fourth layer from the top have only one colour face each..
+ans :10
+
+4: how many cubes in the bottom layer have at least one coloured face each
+ans :16
+
+5: how many cubes in the top four layers taken together have only one coloured 
+face each
+ans:29
+
+6: how many cubes donot have any colour face 
+ans : 32
+
+7: how many cubes have three colour faces each
+ans :12
+
+8:how many cubes have only two colour faces each?
+ans :24
+
+9:how many cubes have only one colour faces each?
+ans : 41
+
+10:how many cubes are there in the top layer ?
+ans : 18
+
+-----------------------------------
+Malli
+Wed Sep 08, 2004 5:40 pm
+
+Re: Problem on Numbers
+-----------------------------------
+I think for such problems it's best to go for the elimination method, since these are multiple choice questions. any thoughts?
+
+-----------------------------------
+koolfriend4u
+Wed Sep 08, 2004 11:26 pm
+
+
+-----------------------------------
+i dont think so.a 3x3x cube has 27 cubic boxes. (8+10+8+1)
+
+a 4x4x4 box on cutting yield ( 8+24+24+8)
+
+3 color face, 2 colo face, 1 colo face & no color face
+
+-----------------------------------
+mizzou
+Fri Sep 10, 2004 11:22 am
+
+New Q!
+-----------------------------------
+What is the highest power of 3 in 
+87! - 60!
+
+-----------------------------------
+RahulSharma
+Fri Sep 10, 2004 1:37 pm
+
+Re: Problem on Numbers
+-----------------------------------
+87! - 60! = 60!(61*62*...87 -1)
+
+61*62...*87 -1 is not divisible by 3.
+
+hence 28 is the answer!
+
+-----------------------------------
+newguy
+Fri Sep 10, 2004 9:28 pm
+
+Re: New Q!
+-----------------------------------
+What is the highest power of 3 in 
+87! - 60!
+
+3^42 - 3^28 = 3^28(3^14-1) hence 28...
+
+-----------------------------------
+mathmoron
+Sun Sep 12, 2004 6:37 pm
+
+Re: Problem on Numbers
+-----------------------------------
+Hi
+Another approach will be to equate the time taken by the ship and airplane after the plane has started...
+Therefore
+(x-180)/v = x/10v
+x-total distance the airplane has to travel
+v-speed of the ship
+
+-----------------------------------
+mathmoron
+Sun Sep 12, 2004 6:50 pm
+
+Re: Problem on Numbers
+-----------------------------------
+Oops sorry....i think this is a solution to a long lost problem....please ignore it.....

@@ -1,0 +1,81 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 50
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+volatile	evaporating rapidly; lighthearted; mercurial	adjective	*
+volition	act of making a conscious choice	noun
+voluble	fluent; glib	adjective
+voluminous	bulky; large	adjective
+voluptuous	gratifying the senses	adjective
+voracious	ravenous	adjective
+vouchsafe	grant condescendingly; guarantee	verb
+vulnerable	susceptible to wounds	adjective
+vulpine	like a fox; crafty	adjective
+vying	contending	verb
+waft	moved gently by wind or waves	verb
+waggish	mischievous; humorous; tricky	adjective
+waif	homeless child or animal	noun
+waive	give up temporarily; yield	verb
+wallow	roll in; indulge in; become helpless	verb
+wan	having a pale or sickly color; pallid	adjective
+wane	grow gradually smaller	verb
+wangle	wiggle out; fake	verb
+wanton	unruly; unchaste; excessive	adjective
+warble	sing; babble	verb
+warrant	justify; authorize	verb
+warranty	guarantee; assurance by seller	noun
+warren	tunnels in which rabbits live; crowded conditions in which people live	noun
+wary	very cautious	adjective
+wastrel	profligate	noun
+wax	increase; grow	verb
+waylay	ambush; lie in want	verb
+wean	accustom a baby not to nurse; give up a cherished activity	verb
+weather	endure the effect of weather or other forces	verb
+welt	mark from a beating or whipping	noun
+wheedle	cajole; coax; deceive by flattery	verb
+whelp	young wolf, dog, tiger, etc.	noun
+whet	sharpen; stimulate	verb
+whimsical	capricious; fanciful; quaint	adjective	*
+whinny	neigh like a horse	verb
+whit	smallest speck	noun
+whorl	ring of leaves around stem; ring	noun
+willful	intentional; headstrong	adjective
+wily	cunning; artful	adjective
+wince	shrink back; flinch	verb
+windfall	unexpected lucky event	noun
+winnow	sift; separate good parts from bad	verb
+winsome	agreeable; gracious; engaging	adjective
+wispy	thin; slight; barely discernible	adjective
+wistful	vaguely longing; sadly thoughtful	adjective
+wither	shrivel; decay	verb
+witless	foolish; idiotic	adjective
+witticism	witty saying; facetious remark	noun
+wizardry	sorcery; magic	noun
+wizened	withered; shriveled	adjective
+wont	custom, habitual procedure	noun
+worldly	engrossed in matters of this earth; not spiritual	adjective
+wraith	ghost; phantom of a living person	noun
+wrangle	quarrel; obtain through arguing	verb
+wrath	anger; fury	noun
+wreak	inflict	verb
+wrench	pull; strain; twist	verb
+wrest	pull away; take by violence	verb
+writhe	squirm; twist	verb
+wry	twisted; with a humorous twist	adjective
+xenophobia	fear or hatred of foreigners	noun
+yen	longing; urge	noun
+yeoman	man owning small estate; middle-class farmer	noun
+yield	give in; surrender	verb
+yield	amount produced; crop; income on investment	noun
+yoke	join together; unite	verb
+yokel	country bumpkin	noun
+yore	time-past	noun
+zany	crazy; comic	adjective
+zealot	fanatic; person who shows excessive zeal	noun
+zenith	point directly overhead in the sky; summit	noun
+zephyr	gentle breeze; west wind	noun

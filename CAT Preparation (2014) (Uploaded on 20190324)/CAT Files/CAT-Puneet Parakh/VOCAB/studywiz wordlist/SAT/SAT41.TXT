@@ -1,0 +1,78 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 41
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+reserve	self-control; formal but distant manner	noun	*
+residue	remainder; balance	noun
+resigned	unresisting; patiently submissive	adjective	*
+resilient	elastic; having the power of springing back	adjective
+resolution	determination	noun
+resolve	determination	noun	*
+resonant	echoing; resounding; possessing resonance	adjective
+respite	delay in punishment; interval of relief; rest	noun
+resplendent	brilliant; lustrous	adjective
+responsiveness	state of reacting readily to appeals	noun
+restitution	reparation; indemnification	noun
+restive	unmanageable; fretting under control	adjective
+restraint	controlling force	noun
+resurgent	rising again after defeat, etc.	adjective
+resuscitate	revive	verb
+retaliation	repayment in kind (usually for bad treatment)	noun
+retentive	holding; having a good memory	adjective
+reticence	reserve; uncommunicativeness; inclination to be silent	noun	*
+retinue	following; attendants	noun
+retiring	modest; shy	adjective
+retort	quick, sharp reply	noun
+retract	withdraw; take back	verb	*
+retrench	cut down; economize	verb
+retribution	vengeance; compensation; punishment for offenses	noun
+retrieve	recover; find and bring in	verb
+retroactive	of a law which dates back to a period before its enactment	adjective
+retrograde	go backwards; degenerate, instead of advancing	verb
+retrospective	looking back on the past	adjective
+revelry	boisterous merrymaking	noun
+reverberate	echo; resound	verb
+reverent	respectful; worshipful	adjective	*
+reverie	daydream; musing	noun
+revile	slander; vilify	verb
+revulsion	sudden violent change of feeling; reaction	noun
+rhapsodize	to speak or write in an exaggerately enthusiastic matter	verb
+rhetoric	art of effective communication; insincere language	noun
+rhetorical	pertaining to effective communication; insincere language	adjective
+ribald	wanton; profane	adjective
+rider	amendment or clause added to a legislative bill	noun
+rife	abundant; current	adjective
+rift	opening; break	noun
+rigor	severity	noun
+risible	inclined to laugh; ludicrous	adjective
+risqué	verging upon the improper; offcolor	adjective
+roan	brown mixed with gray or white	adjective
+robust	vigorous; strong	adjective
+rococo	ornate; highly decorated	adjective
+roil	to make liquids murky by stirring up sediment	verb
+roseate	rosy; optimistic	adjective
+roster	list	noun
+rostrum	platform for speech-making; pulpit	noun
+rote	repetition	noun
+rotunda	circular building or hall covered with a dome	noun
+rotundity	roundness; sonorousness of speech	noun
+rout	stampede; drive out	verb
+rubble	broken fragments	noun
+ruddy	reddish; healthy-looking	adjective
+rudimentary	not developed; elementary	adjective	*
+rueful	regretful; sorrowful; dejected	adjective
+ruffian	bully; scoundrel	noun
+ruminate	chew the cud; ponder	verb
+rummage	ransack; thoroughly search	verb
+ruse	trick; stratagem	noun
+rustic	pertaining to country people; uncouth	adjective
+rusticate	banish to the country; dwell in the country	verb
+ruthless	pitiless	adjective
+saccharine	cloyingly sweet	adjective
+sacrilegious	desecrating; profane	adjective
+sacrosanct	most sacred; inviolable	adjective

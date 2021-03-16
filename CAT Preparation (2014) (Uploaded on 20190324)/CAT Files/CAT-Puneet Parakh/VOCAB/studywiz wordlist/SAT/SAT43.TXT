@@ -1,0 +1,78 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 43
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+sequester	retire from public life; segregate; seclude	verb
+seraph	high-ranking, six-winged angel	noun
+serendipity	gift for finding valuable things not searched for	noun
+serenity	calmness; placidity	noun
+serpentine	winding; twisting	adjective
+serrated	having a sawtoothed edge	adjective
+servile	slavish; cringing	adjective	*
+severance	division; partition; separation	noun
+severity	harshness; plainness	noun
+shackle	chain; fetter	verb
+sham	pretend	verb
+shambles	slaughterhouse; science of carnage	noun
+sheaf	bundle of stalks of grain; any bundle of things tied together	noun
+sheathe	place into a case	verb
+sherbet	flavored dessert ice	noun
+shimmer	glimmer intermittently	verb
+shoddy	sham; not genuine; inferior	adjective
+shrew	scolding woman	noun
+shrewd	clever; astute	adjective
+sibling	brother or sister	noun
+silt	sediment deposited by running water	noun
+simian	monkeylike	adjective
+simile	comparison of one thing with another, using the word "like" or "as"	noun
+similitude	similarity; using comparisons such as similes	noun
+simpering	smirking	adjective
+simulate	feign	verb
+sinecure	well-paid position with little responsibility	noun
+sinewy	tough; strong and firm	adjective
+singular	unique; extraordinary; odd	adjective
+sinister	evil	adjective
+sinuous	winding; bending in and out; not morally honest	adjective
+sirocco	warm, sultry wind blown from Africa to southern Europe	noun
+skeptic	doubter; person who suspends judgment until he has examined the evidence supporting a point of view	noun	*
+skimp	provide scantily; live very economically	verb
+skinflint	miser	noun
+skirmish	minor fight	noun
+skittish	lively; frisky	adjective
+skullduggery	dishonest behavior	noun
+skulk	move furtively and secretly	verb
+slacken	slow up; loosen	verb
+slake	quench; sate	verb
+slander	defamation; utterance of false and malicious statements	noun
+sleazy	flimsy; unsubstantial	adjective
+sleeper	something originally of little value or importance that in time becomes very valuable	noun
+sleight	dexterity	noun
+slither	slip or slide	verb
+sloth	laziness	noun
+slough	cast off	verb
+slovenly	untidy; careless in work habits	adjective
+sluggard	lazy person	noun
+sluggish	slow; lazy; lethargic	adjective
+sluice	artificial channel for directing or controlling the flow of water	noun
+smattering	slight knowledge	noun
+smirk	conceited smile	noun
+smolder	burn without flame; be liable to break out in any moment	verb
+snicker	half-stiffed laugh	noun
+snivel	run at the nose; snuffle; whine	verb
+sobriety	soberness	noun
+sobriquet	nickname	noun
+sodden	soaked; dull, as if from drink	adjective
+sojourn	temporary stay	noun
+solace	comfort in trouble	noun
+solecism	construction that is flagrantly incorrect grammatically	noun
+solemnity	seriousness; gravity	noun	*
+solicit	request earnestly; seek	verb
+solicitous	worried; concerned	adjective
+soliloquy	talking to oneself	noun
+solstice	point at which the sun is farthest from the equator	noun
+solvent	able to pay all debts	adjective

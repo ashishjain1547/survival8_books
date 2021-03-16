@@ -1,0 +1,72 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 47
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+topography	physical features of a region	noun
+torpid	dormant; dull; lethargic	adjective	*
+torpor	lethargy; sluggishness; dormancy	noun
+torso	trunk of statue with head and limbs missing; human trunk	noun
+tortilla	flat cake made of cornmeal, etc.	noun
+tortuous	winding; full of curves	adjective
+touchstone	stone used to test the fitness of gold alloys; criterion	noun
+touchy	sensitive; irascible	adjective
+toxic	poisonous	adjective
+tract	pamphlet; a region of indefinite size	noun
+tractable	docile	adjective
+traduce	expose to slander	verb
+trajectory	path taken by a projectile	noun
+tranquillity	calmness; peace	noun
+transcend	exceed; surpass	verb
+transcribe	copy	verb
+transgression	violation of law; sin	noun
+transient	fleeting; quickly passing away; staying for a short time	adjective
+transition	going from one state of action to another	noun
+transitory	impermanent; fleeting	adjective
+translucent	partly transparent	adjective
+transmute	change; convert to something different	verb
+transparent	permitting light to pass through freely; easily detected	adjective
+transpire	exhale; become known; happen	verb
+trappings	outward decorations; ornaments	noun
+traumatic	pertaining to an injury caused by violence	adjective
+travail	painful labor	noun
+traverse	go through or across	verb
+travesty	comical parody; treatment aimed at making something appear ridiculous	noun
+treatise	article treating a subject systematically and thoroughly	noun
+trek	travel; journey	noun
+tremor	trembling; slight quiver	noun
+tremulous	trembling; wavering	adjective
+trenchant	cutting; keen	adjective
+trepidation	fear; trembling agitation	noun	*
+tribulation	distress; suffering	noun
+tribunal	court of justice	noun
+tribute	tax levied by a ruler; mark of respect	noun
+trident	three-pronged spear	noun
+trilogy	group of three works	noun
+trite	hackneyed; commonplace	adjective	*
+trivia	trifles; unimportant matters	noun	*
+troth	pledge of good faith especially in betrothal	noun
+truckle	curry favor; act in an obsequious way	verb
+truculent	aggressive; savage	adjective
+truism	self-evident truth	noun
+trumpery	objects that are showy, valueless, deceptive	noun
+truncate	cut the top off	verb
+tryst	meeting	noun
+tumult	commotion; riot; noise	noun
+tundra	rolling, treeless plain in Siberia and arctic North America	noun
+turbid	muddy; having the sediment disturbed	adjective
+turbulence	state of violent agitation	noun	*
+tureen	deep table dish for holding soup	noun
+turgid	swollen; distended	adjective
+turmoil	confusion; strife	noun
+turpitude	depravity	noun
+tutelage	guardianship; training	noun
+tutelary	protective; pertaining to a guardianship	adjective
+tycoon	wealthy leader	noun
+tyranny	oppression; cruel government	noun
+tyro	beginner; novice	noun
+ubiquitous	being everywhere; omnipresent	adjective

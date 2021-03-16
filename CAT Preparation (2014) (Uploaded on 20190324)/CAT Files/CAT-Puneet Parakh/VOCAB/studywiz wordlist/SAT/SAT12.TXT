@@ -1,0 +1,76 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 12
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+counterpart	a thing that completes another; things very much alike	noun
+coup	highly successful action or sudden attack	noun
+couple	join; unite	verb
+courier	messenger	noun
+convenant 	agreement 	noun
+covert	secret; hidden; implied	adjective
+covetous	avaricious; eagerly desirous of	adjective
+cower	shrink quivering, as from fear	verb
+coy	shy; modest; coquettish	adjective
+cozen	cheat; hoodwink; swindle	verb
+crabbed	sour; peevish	adjective
+crass	very unrefined; grossly insensible	adjective
+craven	cowardly	adjective
+credence	belief	noun
+credibility	believability	noun
+credo	creed	noun
+credulity	belief on slight evidence	noun	*
+creed	system of religious or ethical belief	noun
+crescendo	increase in the volume or intensity as in a musical passage; climax	noun
+crestfallen	dejected; dispirited	adjective
+crevice	crack; fissure	noun
+cringe	shrink back, as if in fear	verb
+criterion	standard used in judging	noun	*
+crone	hag	noun
+crotchety	eccentric; whimsical	adjective
+crux	critical point	noun
+crypt	secret recess or vault, usually used for burial	noun
+cryptic	mysterious; puzzling; secret	adjective	*
+cubicle	small chamber used for sleeping	noun
+cuisine	style of cooking	noun
+culinary	pertaining to cooking	adjective
+cull	pick out; reject	verb
+culmination	attainment of highest point	noun
+culpable	deserving blame	adjective
+culvert	artificial channel for water	noun
+cumbersome	heavy; hard to manage	adjective
+cupidity	greed	noun
+curator	superintendent; manager	noun
+curmudgeon	churlish, miserly individual	noun
+cursive	flowing, running	adjective
+cursory	casual; hastily done	adjective
+curtail	shorten; reduce	verb
+cynical	skeptical or distrustful of human motives	adjective
+cynosure	object of general attention	noun
+dais	raised platform for guests of honor	noun
+dally	trifle with; procrastinate	verb
+dank	damp	adjective
+dappled	spotted	adjective
+dastard	coward	noun
+daub	smear (as with paint)	verb
+daunt	intimidate	verb	*
+dauntless	bold	adjective
+dawdle	loiter; waste time	verb
+deadlock	standstill; stalemate	noun
+deadpan	wooden; impersonal	adjective
+dearth	scarcity	noun
+debacle	breaking up; downfall	noun
+debase	reduce to lower state	verb
+debauch	corrupt; make intemperate	verb
+debilitate	weaken; enfeeble	verb	*
+debonair	friendly; aiming to please	adjective
+debris	rubble	noun
+debutante	young woman making formal entrance in society	noun
+decadence	decay	noun
+decant	pour off gently	verb
+decapitate	behead	verb
+decelerate	slow down	verb

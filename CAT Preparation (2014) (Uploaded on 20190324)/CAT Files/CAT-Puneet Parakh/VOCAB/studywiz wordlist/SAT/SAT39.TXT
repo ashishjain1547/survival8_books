@@ -1,0 +1,79 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 39
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+quay	dock; landing place	noun
+queasy	easily nauseated; squeamish	adjective
+quell	put down; quiet	verb
+querulous	fretful; whining	adjective
+queue	line	noun
+quibble	equivocate; play on words	verb
+quiescent	at rest; dormant	adjective
+quietude	tranquillity	noun
+quintessence	purest and highest embodiment	noun
+quip	taunt	noun
+quirk	startling twist; caprice	noun
+quixotic	idealistic but impractical	adjective
+quizzical	bantering; comical; humorously serious	adjective
+quorum	number of members necessary to conduct a meeting	noun
+rabid	like a fanatic; furious	adjective
+raconteur	story-teller	noun
+ragamuffin	person wearing tattered clothes	noun
+rail	scold; rant	verb
+raiment	clothing	noun
+rakish	stylish; sporty	adjective
+ramble	wonder aimlessly (physically or mentally)	verb
+ramification	branching out; subdivision	noun
+ramify	divide into branches or subdivisions	verb
+ramp	slope; inclined plane	noun
+rampant	rearing up on hind legs; unrestrained	adjective
+rampart	defensive mound of earth	noun
+ramshackle	rickety; falling apart	adjective
+rancid	having the odor of stale fat	adjective
+rancor	bitterness; hatred	noun
+rankle	irritate; fester	verb
+rant	rave; speak bombastically	verb
+rapacious	excessively gasping; plundering	adjective
+rapprochement	reconciliation	noun
+rarefied	made less dense (of a gas)	adjective
+raspy	grating; harsh	adjective
+ratify	approve formally; verify	verb	*
+ratiocination	reasoning; act of drawing conclusions from premises	noun
+rationalization	bringing into conformity with reason	noun
+rationalize	reason; justify an improper act	verb
+raucous	harsh and shrill	adjective
+ravage	plunder; despoil	verb
+ravenous	extremely hungry	adjective
+raze	destroy completely	verb
+reactionary	recoiling from progress; retrograde	adjective
+realm	kingdom; sphere	noun
+rebate	discount	noun
+rebuff	snub; beat back	verb	*
+rebuttal	refutation; response with contrary evidence	noun	*
+recalcitrant	obstinately stubborn	adjective
+recant	repudiate; withdraw previous statement	verb
+recapitulate	summarize	verb
+receptive	quick or willing to receive ideas, suggestions, etc.	adjective
+recession	withdrawal; retreat	noun
+recidivism	habitual return to crime	noun
+recipient	receiver	noun
+reciprocal	mutual; exchangeable; interacting	adjective
+reciprocate	repay in kind	verb
+recluse	hermit	noun	*
+reconcile	make friendly after quarrel; correct inconsistencies	verb
+recondite	abstruse; profound; secret	adjective
+reconnaissance	survey of enemy by soldiers; 	noun
+recount	narrate or tell; count over again	verb
+recourse	resorting to help when in trouble	noun
+recreant	coward; betrayed of faith	noun
+recrimination	countercharges	noun
+rectify	correct	verb	*
+rectitude	uprightedness	noun
+recumbent	reclining; lying down completely or in part	adjective
+recuperate	recover	verb
+recurrent	occurring again and again	adjective

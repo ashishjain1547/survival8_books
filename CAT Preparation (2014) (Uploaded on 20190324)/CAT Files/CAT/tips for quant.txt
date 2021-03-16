@@ -1,0 +1,33 @@
+URPERCENTILE WRITES :  
+TIPS FOR QUANTS: Most important part is to understand your 
+weaknesses and strong areas. When you have limited time first 
+attempt the questions you are strong at.
+When you get a question wrong analyse it and try to understand 
+why you got it wrong . The most likely reason are :
+1. Lack of knowledge
+2. Lack of practise 
+3. Silly Mistake.
+
+If it is due to lack of knowledge you need to go back and start 
+working on fundamentals. When it is due to lack of practice you 
+need to solve more questions of similar type.  Notice the trend of 
+your silly mistakes. People tend to repeat the same silly 
+mistakes over and again. Be cautious when you are solving a 
+question where you tend to commit a silly mistake. 
+
+ Multiplication of numbers till 25*25 should be remembered. 
+Squares and cubes of numbers till 25 should be remembered. 
+Pythogoras triplets with any all the arms less than 200 should be 
+remembered. Start working on mental calculations with 
+percentages, fractions etc.
+
+When attempting a MOCK test, don't get bogged down on any 
+particular question. If you are not able to solve any particular 
+question within a minute just leave it and move to the next 
+question. Don't let your ego force you to stay on that particular 
+question that you are not able to solve quickly. Read the 
+questions properly, if you feel that you can solve it, then go ahead 
+and solve it , otherwise just leave it and move to the next one. 
+The ability to judge, if a question is to be solved or to be left will 
+come with more practice. Practice more, try to solve as many 
+questions as possible, from diverse sources.

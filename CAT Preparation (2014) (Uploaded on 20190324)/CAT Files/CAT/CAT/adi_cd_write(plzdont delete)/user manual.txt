@@ -1,0 +1,25 @@
+  Here are the most recent versions of two  simple applications ADD.EXE & SUBTRACT.EXE written in C++. These applications can be used to  practice the  the operations of mental addition & subtraction, thus saving the valuable time on the D-day. Thus as you can practice to mentally perform these calculations, it also tells you the average time per question taken by you , thus you can also improve your speed .
+
+How to use:
+____________________________________________
+Here as U invoke  any of the program, you are first asked to enter the limit. Limit is nothing more than the level of Qs you want to practice . A limit of 2 means the numbers  will be under 100 , limit of 3 means numbers will be under 1000, & so on.
+
+If the answer given by you is wrong, it on the spot gives you the correct answer.Press any key for next question. Also, time lapsed in displaying the correct answer & then in pressing the key is not considered. Remember that only that time is  taken into account till the moment  you hit the ENTER key, for entering your answer.
+
+Whenever U want to stop calculating & see your results , all you have to do is enter a negative answer(any negative number, like -6) to that question asked. Press any key  n the results are displayed; then press any key to terminate the program. ( Keep in mind that answer & time taken for the last question, to which you entered the negative answer , will not be taken into consideration for evaluating the results i.e. that question will be simply ignored.) For any more query do mail me at my id.
+The result is displayed in this format:
+___________________________________________
+Total Qs: XXX
+Correct : XXX
+Wrong  : XXX
+
+Total time taken: XX sec
+Time/Question   : XX sec
+===============================================================================================
+
+ I have also got a same application for mental multiplication(MULTIPLY.EXE) with a color interface . All of us (specially all the IMS students) already know the shortcut method to multiply two numbers under 100. Now this program gives you chance to practice whole method mentally , and improve your speed, as we all know that multiplicatuion is the most time consuming of all. But it is feasable only after you have mastered a good speed in mental addition, coz the trick involves addition.
+
+
+cheers,
+
+Ashish.

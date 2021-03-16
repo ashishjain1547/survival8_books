@@ -1,0 +1,147 @@
+HURDLE 13 
+
+Following data is of a school.
+
+In Class V there are 102 girls and 100 boys.
+In Class VI there are 103 girls and 104 boys.
+In Class VII there are 107 girls and 107 boys.
+In Class VIII there are 107 girls and 109 boys.
+In Class IX there are 94 girls and 112 boys.
+In Class X there are 96 girls and 115 boys.
+In Class XI there are 93 girls and 97 boys.
+In Class XII there are 107 girls and 99 boys.
+
+
+Each student has to select only one extra curricular activity. The 
+break up of students taking different activity is as follows :
+
+In Class V, 23 students take Sports, 35 students take Music, 28 
+students take Art and craft and the remaining of the students in Class V take 
+other hobby classes.
+
+In Class VI, 26 students take Sports, 35 students take Music, 36 
+students take Art and craft and the remaining of the students in Class VI 
+take other hobby classes.
+
+In Class VII, 43 students take Sports, 28 students take Music, 32 
+students take Art and craft and the remaining of the students in Class VII 
+take other hobby classes.
+
+In Class VIII, 54 students take Sports, 59 students take Music, 51 
+students take Art and craft and the remaining of the students in Class VIII 
+take other hobby classes.
+
+In Class IX, 48 students take Sports, 60 students take Music, 55 
+students take Art and craft and the remaining of the students in Class IX 
+take other hobby classes.
+
+In Class X, 48 students take Sports, 54 students take Music, 56 
+students take Art and craft and the remaining of the students in Class X take 
+other hobby classes. 
+
+In Class XI, 52 students take Sports, 55 students take Music, 57 
+students take Art and craft and the remaining of the students in Class XI 
+take other hobby classes.
+
+In Class XII, 57 students take Sports, 54 students take Music, 56 
+students take Art and craft and the remaining of the students in Class XII 
+take other hobby classes.
+
+
+MARK 1 if only statement A is correct.
+MARK 2 if only Statement B is correct.
+Mark 3 if both are correct.
+Mark 4 if both statement is false.
+
+
+Q1. A. There is only one class with equal number of boys and girls.
+B. The maximum difference between number of girls and boys is in class 
+IX.
+
+
+Q2. A. The total number of girls is more than total number of boys.
+B. The total number of students taking sports is more than the total 
+number of students taking Music.
+
+
+Q3. A. Class 5 is the class where maximum number of students have taken 
+other activities.
+B. It can be said by 100 % assurance that there are at least 14 boys in 
+class V who have not taken either Sports, music or Art & craft.
+
+Q4. A. The total number of students taking Art & craft is more than the 
+total number of students taking Music.
+B. There are 550 students who have not taken either Sports, music or 
+Art & craft.
+
+Q5. A. 30 % of students of class XI have taken Art and craft.
+B. 25 % of the students of class VIII have taken sports.
+
+Q6. A. There are 1652 students in total from Class V to class XII.
+B. There are 352 students in total who have taken sports.
+
+Q7. A. Around 30 % of the students of Class V have taken Music.
+B. Around 22.75 % of the students of class X have taken sports.
+
+Q8. A. In total the difference between number of student taking Art & 
+craft and sports is 20.
+B. In total the difference between number of student taking Music and 
+sports is 20.
+
+Q9. A. 43 % of the total students have taken sports.
+B. 23 % of the total students have taken Music.
+
+Q10. A. Class VIII has the maximum number of students.
+B. Class XI has the minimum number of students .
+
+Q11. A. 27.5 % of students of Class V have taken sports.
+B. More than 30 % of students of Class XII have taken sports.
+
+
+Q12. A. The total number of students who have taken either sports , 
+music or art & craft of Class VIII is more than the total number of 
+students who have taken either sports , music or art & craft of Class IX.
+B. Only in class V, VI and VII more 50 % of the students have taken 
+other hobby classes (that is they have not taken either sports , music or 
+art & craft)
+
+
+Q13. A. More than 33 % of students of class V have taken either sports 
+or music.
+B. More than 33 % of students of class VI have taken either sports or 
+music.
+
+Q14. A. More than 50 % of the students of class XI have taken either 
+sports or music.
+B. More than 50 % of the students of class XII have taken either sports 
+or music.
+
+
+http://groups.yahoo.com/group/urpercentile/
+
+MATCH THE WORDS IN SET A WITH THEIR MEANINGS IN SET B
+
+SET A: 15. Forbearance 16. Imperative, 17. Jocose, 18. Maunder , 19. 
+Oaf 20.Integument
+
+SET B:
+A. To recover the financial loss.
+B. Patient endurance or toleration of offences .
+C. Urgent, essential
+D. Roguish person.
+E. A clay pot.
+F. Talk in a vague fashion .
+G. An accident involving two trains.
+H. Reduce the strength , weaken.
+I. An unintelligent person.
+J. Outer covering or skin.
+K. Humorous .
+L. To recollect.
+M. Having the quality of sinking in water.
+N. Not easily acceptable.
+
+
+
+
+
+_____________________________________________________

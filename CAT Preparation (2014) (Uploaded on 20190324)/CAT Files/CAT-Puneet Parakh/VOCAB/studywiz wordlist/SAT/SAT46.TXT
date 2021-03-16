@@ -1,0 +1,76 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 46
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+tantrum	fit of petulance; caprice	noun
+taper	candle	noun
+tarantula	venomous spider	noun
+tarn	small mountain lake	noun
+tarry	delay; dawdle	verb
+tatterdemalion	ragged fellow	noun
+taurine	like a bull	adjective
+taut	tight; ready	adjective
+tautological	needlessly repetitious	adjective
+tautology	unnecessary repetitions; pleonasm	noun
+tawdry	cheap and gaudy	adjective
+tedious	boring; tiring	adjective	*
+temerity	boldness; rashness	noun
+temper	moderate; tone down or restrain; toughen (steel)	verb
+temperate	restrained; self-controlled	adjective
+tempo	speed of music	noun
+temporal	not lasting forever; limited by time; secular	adjective
+temporize	avoid committing oneself; gain time	verb
+tenacious	holding fast	adjective
+tenacity	firmness; persistency; adhesiveness	noun
+tendentious	having and aim; biased; designed to further a cause	adjective
+tenet	doctrine; dogma	noun
+tensile	capable of being stretched	adjective
+tentative	provisional; experimental	adjective	*
+tenuous	thin; rare; slim	adjective
+tenure	holding of an office; time during which such and office is held	noun
+tepid	lukewarm	adjective
+termagant	shrew, scolding, brawling woman	noun
+terminate	bring to an end	verb
+terminology	terms used in a science or art	noun
+terminus	last stop of railroad	noun
+terrapin	American marsh tortoise	noun
+terrestrial	on the earth	adjective
+terse	concise; abrupt; pithy	adjective	*
+tertiary	third	adjective
+tessellated	inlaid; mosaic	adjective
+testator	maker of a will	noun
+testy	irritable; short-tempered	ad.
+tether	tie with a rope	verb
+thaumaturgist	miracle worker; magician	noun
+thematic	relating to a unifying motif or idea	adjective
+theocracy	government of a community by religious leaders	noun
+therapeutic	curative	adjective
+thermal	pertaining to heat	adjective
+thespian	pertaining to drama	adjective
+thrall	slave; bondage	noun
+threnody	song of lamentation; dirge	noun
+thrifty	careful about money; economical	adjective
+thrive	prosper; flourish	verb
+throes	violent anguish	noun
+throng	crowd	noun
+throttle	strange	verb
+thwart	baffle; frustrate	verb
+thyme	aromatic plant used for seasoning	noun
+timbre	quality of a musical tone produced by a musical instrument	noun
+timidity	lack of self-confidence or courage	noun
+timorous	fearful; demonstrating fear	adjective
+tipple	drink (alcoholic beverages) frequently	verb
+tirade	extended scolding; denunciation	noun	*
+titanic	gigantic	adjective
+tithe	tax of one-tenth	noun
+titillate	tickle	verb
+titter	nervous laugh	noun
+titular	nominal holding of title without obligations	adjective
+toady	flatter of favors	verb
+toga	Roman outer robe	noun
+tome	large volume	noun

@@ -1,0 +1,863 @@
+<!--web11904-->
+
+
+<html>
+<head>
+<title>Yahoo! Mail - j_poojara@yahoo.com</title>
+
+<script>
+<!-- 
+if (typeof top.frames["wmailmain"] != "undefined") {
+    window.open("http://mail.yahoo.com", "_top");
+}
+var ypim_color = "blue";
+// -->
+</script>
+
+
+
+
+<script src="http://us.js1.yimg.com/us.yimg.com/lib/pim/c3/ylib_dom.js"></script>
+<script language=JavaScript src="http://us.js1.yimg.com/us.yimg.com/lib/pim/j3/pim.js"></script>
+
+
+<script language=JavaScript src="http://us.js1.yimg.com/us.yimg.com/lib/pim/css2/pim_css.js"></script>
+
+<noscript>
+<META HTTP-EQUIV=Refresh CONTENT="0; URL=/ym/login?nojs=1">
+</noscript>
+
+<script>
+    function SynchMoves(which) {
+	if(which==1) {
+	    document.showLetter2.destBox.selectedIndex = document.showLetter.destBox.selectedIndex;
+	}
+	else {
+	    document.showLetter.destBox.selectedIndex = document.showLetter2.destBox.selectedIndex;
+	}
+    }
+
+    function SynchFwOpts(which) {
+	if(which==1) {
+	    document.showLetter2.fwopt.selectedIndex = document.showLetter.fwopt.selectedIndex;
+	}
+	else {
+	    document.showLetter.fwopt.selectedIndex = document.showLetter2.fwopt.selectedIndex;
+	}
+    }
+
+    function Move() {
+	var sl = document.showLetter;
+	var dbox = sl.destBox;
+	if(dbox.options[dbox.selectedIndex].value == "@NEW") {
+	    nn = window.prompt("Please enter a name for your folder.","");
+	    if(nn == null || nn == "null" || nn == "") {
+		dbox.selectedIndex = 0;
+		document.showLetter2.destBox.selectedIndex = 0;
+	    }
+	    else {
+		sl.NewFol.value = nn;
+		sl.MOV.value = "1";
+		sl.submit();
+	    }
+	}
+	else {
+	    sl.MOV.value = "1";
+	    sl.submit();
+	}
+    }
+
+    function Reply()
+    {
+	document.compose.REP.value = "1";
+	document.compose.submit();
+    }
+
+    function ReplySMS(from)
+    {
+        from = from.replace(/\+/g, '%2b');
+	var loc_href = '/ym/ComposeSMS?YY=81073&order=down&sort=date&pos=0&To=';
+        loc_href = loc_href + from + "&REP=1";
+
+        window.location.href = loc_href;
+    }
+
+    function ReplyAll()
+    {
+	document.compose.REPA.value = "1";
+	document.compose.submit();
+    }
+
+    function Forward()
+    {
+	document.compose.FWD.value = "1";
+	document.compose.fwopt.value = document.showLetter.fwopt[document.showLetter.fwopt.selectedIndex].value;
+	document.compose.submit();
+    }
+
+    var pwWarningShown = false;
+    function ShowPwWarning()
+    {
+	if (!pwWarningShown) {
+	    alert('Warning! You are about to enter a password in a form that will not be sent to Yahoo! Remember: Yahoo! will NEVER ask you for your password in an unsolicited phone call or an unsolicited email.');
+	    pwWarningShown = true;
+	}
+    }
+
+    var noFormWarning = false;
+    function ShowFormWarning()
+    {
+	if (noFormWarning) {
+	    return true;
+	}
+	var r = showModalDialog(
+	    "/ym/Static?file=FormWarning.html&YY=81073&order=down&sort=date&pos=0",
+	    null,
+	    "dialogWidth:456px;dialogHeight:230px;center:yes;resizeable:no;status:no;help:no"
+	);
+	if (r) {
+	    if (r.dontshow) {
+		noFormWarning = true;
+		window.open("/ym/Asynch?op=noformwarn&YY=81073&order=down&sort=date&pos=0", "asynch");
+	    }
+	    return r.send;
+	}
+	return false;
+    }
+</script>
+</head>
+
+<td></td><td></td>
+<body marginwidth=4 marginheight=4 topmargin=4 leftmargin=4 bgcolor=white vlink="#0000ff" link="#0000ff">
+<form name=compose method=post action="/ym/Compose?box=Inbox&Mid=1256_2211974_85637_2514_2060_0_6612_5843_1371063737&inc=&Search=&YY=81073&order=down&sort=date&pos=0">
+<input type=hidden name=REP value="">
+<input type=hidden name=REPA value="">
+<input type=hidden name=FWD value="">
+<input type=hidden name="fwopt" value="attach">
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+    function Help(link)
+    {
+	window.open(link,"help","width=400,height=500,scrollbars=yes,dependent=yes");
+    }
+    if (document.cookie != "" && document.cookie.indexOf("09gL/A") == -1) {
+	window.open("http://mail.yahoo.com", "_top");
+    }
+</script>
+
+<!-- begin search masthead -->
+<div style="margin-top:-4px;">
+<table border=0 cellpadding=0 cellspacing=0 width="100%">
+<tr bgcolor="#dcdcdc"><td colspan=2 height=4 nowrap><spacer type=block width=1 height=1></td></tr>
+<tr>
+<td width="99%">
+<table cellpadding=0 cellspacing=0 border=0>
+<tr><td colspan=3 height=3 nowrap><spacer type=block width=1 height=1></td></tr>
+<tr>
+<td>
+<a href="http://mail.yahoo.com/"><img border=0 src="http://us.i1.yimg.com/us.yimg.com/i/us/pim/b/mailma1.gif" width=250 height=34 alt="Yahoo! Mail"></a>
+</td>
+<td nowrap><font face=arial size=-1>
+<a href="http://us.rd.yahoo.com/mail_us/pimnav/letter/?http://www.yahoo.com">Yahoo!</a> 
+		-  
+<a href="http://us.rd.yahoo.com/mail_us/pimnav/letter/?http://my.yahoo.com">My Yahoo!</a> 
+		-
+ 
+ 
+<a href="http://us.rd.yahoo.com/mail_us/help/?http://help.yahoo.com/help/us/mail"> 
+ 
+ 
+Help</a>
+
+		&nbsp;&nbsp;</font>
+</td>
+<td align=right>
+<script language=JavaScript>var pb_target="_blank";var pb_URL = new Array();pb_URL[1]="http://rd.yahoo.com/M=243098.2891634.4238018.1284474/D=mail/S=150500004:PB/A=1579788/R=0/id=flashurl/SIG=18aut7aal/*http://shop.store.yahoo.com/cgi-bin/clink?hp3+shopping:dmad/M=243098.2891634.4238018.1284474/D=mail/S=150500004:PB/A=1579788/R=1/1059983726+http://us.rmi.yahoo.com/rmi/http://www.compaq.com/rmi-framed-url/http://www.compaq.com/bridge/poweredby/smb/index-yahoo.html";var pb_flashfile="http://us.a1.yimg.com/us.yimg.com/a/1-/flash/hp/pb/pbhp_84x28_blu_yahoomail.swf";var pb_altURL="http://rd.yahoo.com/M=243098.2891634.4238018.1284474/D=mail/S=150500004:PB/A=1579788/R=2/id=altimgurl/SIG=18aock4c1/*http://shop.store.yahoo.com/cgi-bin/clink?hp3+shopping:dmad/M=243098.2891634.4238018.1284474/D=mail/S=150500004:PB/A=1579788/R=3/1059983726+http://us.rmi.yahoo.com/rmi/http://www.compaq.com/rmi-framed-url/http://www.compaq.com/bridge/poweredby/smb/index-yahoo.html";var pb_altimg="http://us.a1.yimg.com/us.yimg.com/a/1-/flash/hp/pb/pbhp_84x28_blu_yahoo.gif";var pb_width=84;var pb_height=28;var pb_FitNewWinHeight = new Array;var pb_FitNewWinWidth = new Array;pb_FitNewWinWidth[1] = 790;pb_FitNewWinHeight[1] = 590;</script><script language=JavaScript src=http://us.a1.yimg.com/us.yimg.com/a/1-/jscodes/072002/fs_pb_fitted_072002b.js></script><noscript><a href="http://rd.yahoo.com/M=243098.2891634.4238018.1284474/D=mail/S=150500004:PB/A=1579788/R=4/id=noscript/SIG=18aqv2bg2/*http://shop.store.yahoo.com/cgi-bin/clink?hp3+shopping:dmad/M=243098.2891634.4238018.1284474/D=mail/S=150500004:PB/A=1579788/R=5/1059983726+http://us.rmi.yahoo.com/rmi/http://www.compaq.com/rmi-framed-url/http://www.compaq.com/bridge/poweredby/smb/index-yahoo.html" target=_blank><imgsrc="http://us.a1.yimg.com/us.yimg.com/a/1-/flash/hp/pb/pbhp_84x28_blu_yahoo.gif" width=84 height=28 border=0></a></noscript></td>
+</tr>
+</table>
+</td>
+<td valign=top align=right nowrap width="1%">
+<form style="margin-top:0;margin-bottom:0" 
+action="http://srd.yahoo.com/fp=150500001&loc=head&st=yahoo/*http://search.yahoo.com/search" target=_blank>
+<input type=hidden name=fr value="ush1-mail">
+<table cellpadding=0 cellspacing=0 border=0 width=250>
+<tr valign=top>
+<td width=17 align=right><img src="http://us.i1.yimg.com/us.yimg.com/i/us/pim/el/sch_ang30_1.gif" width=17 height=30></td>
+<td  bgcolor="#dcdcdc" align=center valign=middle>
+<table cellpadding=0 cellspacing=0 border=0>
+<tr>		
+<td><img src="http://us.i1.yimg.com/us.yimg.com/i/us/search/test/stw2.gif" width=38 height=16>&nbsp;&nbsp;</td>
+<td><input size=12 name=p title="enter search terms here"></td>
+<td><input type=submit value=Search></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</form>
+</td>
+</tr>
+<tr><td height=5 colspan=2 nowrap><spacer type=block width=1 height=1></td></tr>
+</table>
+</div>
+<!-- end search masthead -->
+
+<center>
+<table border=0 cellpadding=0 cellspacing=0><tr><td align=center><font face=arial size=-2>ADVERTISEMENT</font><br><ahref="http://rd.yahoo.com/M=244236.3651388.4917611.313120/D=mail/S=150500004:N/A=1426491/R=0/SIG=11usgos37/*http://click.atdmt.com/COL/go/yhxxxchm00400214col/direct/01/" target="_blank"><img src="http://view.atdmt.com/COL/view/yhxxxchm00400214col/direct/01/" width=728 height=90 border=0></a></td></tr></table></center><br>
+
+
+
+
+
+
+
+
+<script>
+    var oKey = new ylib_keyevt();
+    oKey.addKey(67,-1,"location='http://us.f119.mail.yahoo.com/ym/ShowFolder?rb=Inbox&YY=81073&order=down&sort=date&pos=0&YN=1'","shift+ctrl"); // Check Mail | CTRL-C
+    oKey.addKey(80,-1,"location='http://us.f119.mail.yahoo.com/ym/Compose?YY=81073&order=down&sort=date&pos=0'","shift+ctrl"); // Compose | CTRL-P
+    oKey.addKey(70,-1,"location='http://us.f119.mail.yahoo.com/ym/Folders?YY=81073&order=down&sort=date&pos=0'","shift+ctrl"); // Folders | CTRL-F
+    oKey.addKey(83,-1,"location='http://us.f119.mail.yahoo.com/ym/Search?YY=81073&order=down&sort=date&pos=0'","shift+ctrl"); // Search | CTRL-S
+    oKey.addKey(72,-1,"location='http://help.yahoo.com/help/us/mail'","shift+ctrl"); // Help | CTRL-H
+</script>
+
+<script language=javascript>
+<!-- 
+    function init() 
+    { 
+	if (oBw.ie||oBw.dom) {  
+  
+	    ypim_initMenu('mail','addr','cal','note'); // initiates the drop down menus  
+	    document.onkeydown = function(evt) { oKey.keyevent(evt); }
+	}
+	OnLoad(); // do not delete
+    }
+
+    function OnLoad()
+    {
+	// noop by default
+	// redefine as needed
+    }
+
+    onload=init
+    //-->
+</script>
+
+												<table cellpadding=0 cellspacing=0 border=0>
+<tr>
+	<td width=1% class=tabhi>
+		<table cellpadding=0 cellspacing=0 border=0 width=100% id=mailTb>
+		<tr>
+			<td id=mail1 class=tabhia>
+			<table cellpadding=0 cellspacing=0 border=0 width=100%>
+			<tr>
+				<td><a href="http://mail.yahoo.com"><img src="http://us.i1.yimg.com/us.yimg.com/i/us/pim/b/mailbr1.gif" height=24 width=24 border=0 name=iconmail hspace=4 alt="Yahoo! Mail"></a></td>
+				<td class=tabhit nowrap><a href="http://mail.yahoo.com">Mail</a>&nbsp;</td></tr>
+			</table>
+			</td>
+			<td valign=middle id=mailBtn class=tabhia><a href="http://mail.yahoo.com" onclick="ypim_prepareMail(); return ypim_showMenu('mail')"><img src="http://us.i1.yimg.com/us.yimg.com/i/us/pim/bn/downbr1.gif" name=arr_mail border=0 width=10 height=24></a></td>
+		</tr>
+		</table>
+	</td>
+	<td width=1% class=tablor>
+		<table cellpadding=0 cellspacing=0 border=0 width=100% id=addrTb>
+		<tr>
+			<td id=addr1 class=tabloa>
+			<table cellpadding=0 cellspacing=0 border=0 width=100%>
+			<tr>
+				<td><a href="http://address.yahoo.com/yab/us"><img src="http://us.i1.yimg.com/us.yimg.com/i/us/pim/b/abbr1.gif" height=24 width=24 border=0 name=iconaddr hspace=4 alt="Yahoo! Address Book"></a></td>
+				<td class=tablot nowrap><a href="http://address.yahoo.com/yab/us">Addresses</a>&nbsp;</td></tr>
+			</table>
+			</td>
+			<td valign=middle id=addrBtn class=tabloa><a href="http://address.yahoo.com/yab/us" onclick="ypim_prepareAddr(); return ypim_showMenu('addr')"><img src="http://us.i1.yimg.com/us.yimg.com/i/us/pim/bn/downbr1.gif" name=arr_addr border=0 width=10 height=24></a></td>
+		</tr>
+		</table>
+	</td>
+	<td width=1% class=tablor>
+		<table cellpadding=0 cellspacing=0 border=0 width=100% id=calTb>
+		<tr>
+			<td id=cal1 class=tabloa>
+			<table cellpadding=0 cellspacing=0 border=0 width=100%>
+			<tr>
+				<td><a href="http://calendar.yahoo.com"><img src="http://us.i1.yimg.com/us.yimg.com/i/us/pim/b/calbr1.gif" height=24 width=24 border=0 name=iconcal hspace=4 alt="Yahoo! Calendar"></a></td>
+				<td class=tablot nowrap><a href="http://calendar.yahoo.com">Calendar</a>&nbsp;</td></tr>
+			</table>
+			</td>
+			<td valign=middle id=calBtn class=tabloa><a href="http://calendar.yahoo.com" onclick="ypim_prepareCal(); return ypim_showMenu('cal')"><img src="http://us.i1.yimg.com/us.yimg.com/i/us/pim/bn/downbr1.gif" name=arr_cal border=0 width=10 height=24></a></td>
+		</tr>
+		</table>
+	</td>
+	<td width=1% class=tablor>
+		<table cellpadding=0 cellspacing=0 border=0 width=100% id=noteTb>
+		<tr>
+			<td id=note1 class=tabloa>
+			<table cellpadding=0 cellspacing=0 border=0 width=100%>
+			<tr>
+				<td><a href="http://notepad.yahoo.com"><img src="http://us.i1.yimg.com/us.yimg.com/i/us/pim/b/npdbr1.gif" height=24 width=24 border=0 name=iconnote hspace=4 alt="Yahoo! Notepad"></a></td>
+				<td class=tablot nowrap><a href="http://notepad.yahoo.com">Notepad</a>&nbsp;</td></tr>
+			</table>
+			</td>
+			<td valign=middle id=noteBtn class=tabloa><a href="http://notepad.yahoo.com" onclick="ypim_prepareNote(); return ypim_showMenu('note')"><img src="http://us.i1.yimg.com/us.yimg.com/i/us/pim/bn/downbr1.gif" name=arr_note border=0 width=10 height=24></a></td>
+		</tr>
+		</table>
+	</td>
+	<td width=95% align=right class=tabnone>
+		<b>j_poojara@yahoo.com</b> [<a href="/ym/Logout?YY=81073&order=down&sort=date&pos=0&YY=81073">Sign Out</a>]&nbsp;
+	</td>
+</tr>
+</table>
+<table width="100%" cellpadding=4 cellspacing=0 border=0>
+<tr class="bgd" bgcolor="#e4ecf6">
+<td align=left>
+<table cellpadding=2 cellspacing=0 border=0>
+<tr>
+<td class="tbutton" width=100 onclick="window.open('/ym/ShowFolder?rb=Inbox&YY=81073&order=down&sort=date&pos=0&YN=1', '_top')">
+<a href="/ym/ShowFolder?rb=Inbox&reset=1&YY=81073&order=down&sort=date&pos=0&YN=1">Check Mail</a>
+</td>
+<td>&nbsp;</td>
+<td class="tbutton" width=100 onclick="window.open('/ym/Compose?YY=81073&order=down&sort=date&pos=0', '_top')">
+<a href="/ym/Compose?YY=81073&order=down&sort=date&pos=0">Compose</a>
+</td>
+</tr>
+</table>
+</td>
+<td align=right valign=bottom>
+<table cellpadding=4 cellspacing=0 border=0>
+<tr>
+<td class="bge" bgcolor="#e4ecf6">
+<a href="http://us.rd.yahoo.com/mail_us/nav/?http://billing.mail.yahoo.com/bm/Upgrades" target="_blank">Mail Upgrades</a> -
+<a href="/ym/Search?YY=81073&order=down&sort=date&pos=0">Search Mail</a> - 
+<a href="/ym/Options?YY=81073&order=down&sort=date&pos=0"><b>Mail Options</b></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<script>
+    function OnLoad()
+    {
+	document.compose.REP.value = "";
+	document.compose.REPA.value = "";
+	document.compose.FWD.value = "";
+    }
+</script>
+
+
+<table width="100%" cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td class=bgd bgcolor="#9bbad6"  height=4><img src="http://us.i1.yimg.com/us.yimg.com/i/space.gif" width=2 height=3></td>
+</tr>
+</table>
+<table width="100%" cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td class=bgd bgcolor="#9bbad6"  width=150 valign=top>
+
+
+<script>
+    function AddFolder()
+    {
+	var nn = window.prompt("Please enter a name for your folder.","");
+	if (nn != null && nn != "null" && nn != "") {
+	    var nn_escaped = "";
+	    var nn_len = nn.length;
+	    for (i = 0 ; i < nn_len ; i++) {
+		var nn_asc = nn.charCodeAt(i);
+		if (nn_asc > 128) {
+			nn_escaped += nn.charAt(i);
+		} else {
+			nn_escaped += escape(nn.charAt(i));
+		}
+	    }
+
+            var str = "/ym/Folders?ADD=1&Name=" + nn_escaped + "&.crumb=OlW0q.MxJia&.done=" + escape(document.URL) + "&YY=81073&order=down&sort=date&pos=0";
+            window.open(str, "_top");
+	}
+    }
+
+    function TogglePersonal()
+    {
+	window.open(
+	    "/ym/Welcome?pers=1&.done=" 
+	    + 
+	    escape("/ym/ShowLetter?box=Inbox&MsgId=1256_2211974_85637_2514_2060_0_6612_5843_1371063737&inc=&num=&Search=&YY=81073&order=down&sort=date&pos=0") 
+	    + 
+	    "&YY=81073&order=down&sort=date&pos=0", 
+	    "_top"
+	);
+    }
+</script>
+<table width="100%" cellpadding="2" cellspacing="0" border="0">
+<tr>
+<td height="6">
+</td>
+</tr>
+
+
+
+<tr class="ftitle">
+<td colspan="2">
+	    &nbsp;
+<a href="/ym/Folders?YY=81073&order=down&sort=date&pos=0"><b>Folders</b></a>
+<small>[<a href="javascript:AddFolder()">Add</a>]</small>
+</td>
+</tr>
+
+<tr class="fhi">
+<td width="1%" nowrap>
+            &nbsp;      
+<img src="http://us.i1.yimg.com/us.yimg.com/i/us/pim/f/inbo1.gif" width="16" height="16">
+</td>
+<td>
+<a href="/ym/ShowFolder?rb=Inbox&reset=1&YY=81073&order=down&sort=date&pos=0"><b>Inbox (51)</b></a>
+</td>
+</tr>
+<tr class="flo">
+<td width="1%" nowrap>
+            &nbsp;      
+<img src="http://us.i1.yimg.com/us.yimg.com/i/us/pim/f/dftc1.gif" width="16" height="16">
+</td>
+<td>
+<a href="/ym/ShowFolder?rb=Draft&reset=1&YY=81073&order=down&sort=date&pos=0">Draft</a>
+</td>
+</tr>
+<tr class="flo">
+<td width="1%" nowrap>
+            &nbsp;      
+<img src="http://us.i1.yimg.com/us.yimg.com/i/us/pim/f/sntc1.gif" width="16" height="16">
+</td>
+<td>
+<a href="/ym/ShowFolder?rb=Sent&reset=1&YY=81073&order=down&sort=date&pos=0">Sent</a>
+</td>
+</tr>
+<tr class="flo">
+<td width="1%" nowrap>
+            &nbsp;      
+<img src="http://us.i1.yimg.com/us.yimg.com/i/us/pim/f/blkc1.gif" width="16" height="16">
+</td>
+<td>
+<a href="/ym/ShowFolder?rb=%40B%40Bulk&reset=1&YY=81073&order=down&sort=date&pos=0"><b>Bulk (86)</b></a>
+	    &nbsp;<small>[<a href="/ym/ShowFolder?EB=1&.crumb=GCNa8I2ABrz&reset=1&YY=81073&order=down&sort=date&pos=0">Empty</a>]</small>
+</td>
+</tr>
+<tr class="flo">
+<td width="1%" nowrap>
+            &nbsp;      
+<img src="http://us.i1.yimg.com/us.yimg.com/i/us/pim/f/tshc1.gif" width="16" height="16">
+</td>
+<td>
+<a href="/ym/ShowFolder?rb=Trash&reset=1&YY=81073&order=down&sort=date&pos=0">Trash</a>
+            &nbsp;<small>[<a href="/ym/ShowFolder?ET=1&.crumb=GCNa8I2ABrz&reset=1&YY=81073&order=down&sort=date&pos=0">Empty</a>]</small>
+</td>
+</tr>
+
+<tr>
+<td colSpan=2 height=5><IMG height=5 alt="" src="http://us.i1.yimg.com/us.yimg.com/i/space.gif" width=5>
+</td>
+</tr>
+<tr class=flo>
+<td colspan=2>
+<!--X--><P> <table cellspacing=0 border=0 cellpadding=0> <tr><td> <a href="http://rd.yahoo.com/M=245829.2916373.4772318.2058947/D=mail/S=150500004:SW1/A=1676238/R=0/SIG=12aln3g86/*https://qspace.iplace.com/cobrands/27/order1_1.asp?p=1&afd=3&sc=1485sb09" target="_blank"><img src="http://us.a1.yimg.com/us.yimg.com/a/co/consumer_info/stickey25.gif" width=25 height=25 border=0></a></td> <td><a href="http://rd.yahoo.com/M=245829.2916373.4772318.2058947/D=mail/S=150500004:SW1/A=1676238/R=1/SIG=12aln3g86/*https://qspace.iplace.com/cobrands/27/order1_1.asp?p=1&afd=3&sc=1485sb09" target="_blank"> <font size=2><b>Check Your <br>Credit For FREE</b></font></a> </td></tr></table><!--X--></td>
+</tr>
+<tr class=flo>
+<td colspan=2>
+<!--X--><P> <table cellspacing=0 border=0 cellpadding=0> <tr><td> <a href="http://rd.yahoo.com/M=237861.3650680.4916594.2046184/D=mail/S=150500004:SW2/A=1586303/R=0/SIG=130rjs89r/*http://www.metareward.com/rd?ssa_esh=land&rd=nfs_land&ci=3205&ssa_pmo=aW5zdGFudF90d29fZG9sbGFy" target="_blank"><img src="http://us.a1.yimg.com/us.yimg.com/a/ne/netflip/comm_nav_25x25.gif" width=25 height=25 border=0></a></td> <td><a href="http://rd.yahoo.com/M=237861.3650680.4916594.2046184/D=mail/S=150500004:SW2/A=1586303/R=1/SIG=130rjs89r/*http://www.metareward.com/rd?ssa_esh=land&rd=nfs_land&ci=3205&ssa_pmo=aW5zdGFudF90d29fZG9sbGFy" target="_blank"> <font size=2><br>Make $500 Now with NetFlip!</font></a> </td></tr></table><!--X--></td>
+</tr>
+<tr class=flo>
+<td colspan=2>
+<table cellspacing=0 border=0 cellpadding=0> <tr><td> <a href="http://rd.yahoo.com/M=236179.2446109.3884436.2070966/D=mail/S=150500004:SW3/A=1666213/R=0/SIG=1197n8ejs/*http://home.efax.com/s/r/yahoonewplus_1" target="_blank"><img src="http://us.a1.yimg.com/us.yimg.com/a/jf/jfax/fax_machine.jpg" width=25 height=25 border=0></a></td> <td><a href="http://rd.yahoo.com/M=236179.2446109.3884436.2070966/D=mail/S=150500004:SW3/A=1666213/R=1/SIG=1197n8ejs/*http://home.efax.com/s/r/yahoonewplus_1" target="_blank"> <font size=2>Easy Faxing With<br>Your Yahoo! Mail</font></a> </td></tr></table></td>
+</tr>
+<tr class=flo>
+<td colspan=2>
+<!--X--><P> <table cellspacing=0 border=0 cellpadding=0> <tr><td> <a href="http://rd.yahoo.com/M=246920.3576589.4848123.2135186/D=mail/S=150500004:SW4/A=1642781/R=0/SIG=12kppu53p/*http://www.gotomypc.com/u/tr/yh/cpm/mail/SW4/25x25PC_10/g22lp?Target=mm/g22lp.tmpl"><img src="http://us.a1.yimg.com/us.yimg.com/a/ex/expert_city/25x25_PC-icon.gif" width=25 height=25 border=0></a></td> <td><a href="http://rd.yahoo.com/M=246920.3576589.4848123.2135186/D=mail/S=150500004:SW4/A=1642781/R=1/SIG=12hdrnou3/*http://www.gotomypc.com/u/tr/yh/cpm/mail/SW4/25chtext10/PC?Target=mm/g22lp.tmpl" target="_blank"> <font size=2>Access Your Office <br>Files from Home</font></a> </td></tr></table><!--X--></td>
+</tr>
+</table>
+</td>
+<td class=bgd bgcolor="#9bbad6"  width=8><img src="http://us.i1.yimg.com/us.yimg.com/i/space.gif" width=8 height=2></td>
+<td bgcolor="white" valign=top>
+		
+<table cellpadding=0 cellspacing=0 border=0>
+<td class=bgd bgcolor="#9bbad6" ><img src="http://us.i1.yimg.com/us.yimg.com/i/us/pim/el/rdul1.gif" width=5 height=5></td>
+</table>
+<table cellpadding=4 cellspacing=0 border=0 width="100%">
+<tr>
+<td colspan=2>
+
+
+</td>
+</tr>
+<tr>
+<td>
+<font color=#999999>Previous</font>
+		&nbsp;|&nbsp;
+<a href="/ym/ShowLetter?box=Inbox&MsgId=1256_2211974_85637_2514_2060_0_6612_5843_1371063737&NEXT=1&inc=&num=&Search=&YY=81073&order=down&sort=date&pos=0" onmouseover="self.status='From: vinu chandran, Subject: Re: [ascent CAT] Number System Problems';return true" onmouseout="window.status=window.defaultStatus;return true">Next</a>
+		&nbsp;|&nbsp;
+<a href="/ym/ShowFolder?box=Inbox&back=1&YY=81073&order=down&sort=date&pos=0" onmouseover="window.status='Folder: Inbox';return true" onmouseout="window.status=window.defaultStatus;return true">Back to Messages</a>
+</td>
+<td align=right valign=bottom>
+<a href="/ym/ShowLetter?box=Inbox&MsgId=1256_2211974_85637_2514_2060_0_6612_5843_1371063737&Search=&PRINT=1&ShowImages=&YY=81073&order=down&sort=date&pos=0" target=_blank>Printable View</a>&nbsp;-&nbsp;
+<a href="/ym/ShowLetter?box=Inbox&MsgId=1256_2211974_85637_2514_2060_0_6612_5843_1371063737&Search=&Nhead=f&YY=81073&order=down&sort=date&pos=0">Full Headers</a>
+</td>
+</tr>
+</table>
+<form  name=showLetter method=post action="/ym/ShowLetter?Search=&YY=81073&order=down&sort=date&pos=0">
+<input type=hidden name=".crumb" value="1zaKiNF4EO."><input type=hidden name="MsgId" value="1256_2211974_85637_2514_2060_0_6612_5843_1371063737">
+<input type=hidden name="box" value="Inbox">
+<input type=hidden name=MOV value="">
+<input type=hidden name=NewFol value="">
+
+<table cellpadding=3 cellspacing=0 border=0 width="100%">
+			    
+<tr class=bbar bgcolor="#3f6c96">
+				    
+<td>
+<table border=0 cellpadding=1 cellspacing=0>
+<tr>
+<td><input type=submit name=DEL value="&nbsp;Delete&nbsp;" class=fbutton></td>
+<td>&nbsp;</td>
+<td><input type=button value="&nbsp;&nbsp;Reply&nbsp;&nbsp;" class=fbutton onclick="Reply()"></td>
+<td><input type=button value="Reply All" class=fbutton onclick="ReplyAll()"></td>
+<td><input type=button value="Forward" class=fbutton onclick="Forward()"></td>
+<td><select name="fwopt" onchange="SynchFwOpts(1)">
+<option value="attach" selected>as attachment
+<option value="quoted">inline text
+</select></td>
+</tr>
+</table>
+</td>
+<td nowrap align=right>
+<table border=0 cellpadding=1 cellspacing=0>
+<tr>
+<td><select name="destBox" title="Move checked items" onchange="SynchMoves(1)">
+<option>Move to folder...</option>
+<option value="@NEW">[New Folder]</option>
+</select></td>
+<td><input type=button value="OK" class=fbutton onclick="Move()"></td>
+</tr>
+</table>
+</td>
+</tr>
+		    
+</table>
+</form>
+
+<table cellpadding=0 cellspacing=0 border=0 class="barlink" width="100%">
+<tr>
+<td>
+<table cellpadding=8 width="100%"><tr><td>
+
+<table cellpadding=4 cellspacing=0 border=0 width="100%">
+<tr class=frmb>
+<td>
+				&nbsp;&nbsp;This message is not flagged. 
+				[
+<a href="/ym/ShowLetter?box=Inbox&MsgId=1256_2211974_85637_2514_2060_0_6612_5843_1371063737&Search=&FLG=1&YY=81073&order=down&sort=date&pos=0">Flag Message</a> - <a href="/ym/ShowLetter?box=Inbox&MsgId=1256_2211974_85637_2514_2060_0_6612_5843_1371063737&Search=&UNR=1&.crumb=1zaKiNF4EO.&YY=81073&order=down&sort=date&pos=0">Mark as Unread</a>
+				]
+</td>
+</tr>
+</table>
+
+
+
+<table cellpadding=0 cellspacing=0 width="100%" border=0>
+<tr>
+<td>
+<table cellspacing=0 cellpadding=3 width="100%" border=0>
+<tr valign=top>
+<tr class=bge><td align=right valign=top nowrap><b><small>To:</small></b></td><td width="100%"><small>ascent4cat@yahoogroups.com</small></td></tr>
+<tr class=bge><td align=right valign=top nowrap><b><small>From:</small></b></td><td width="100%"><small><a href = "ymsgr:sendim?vinu12120"><img border=0 src="http://mail.opi.yahoo.com/online?u=vinu12120&m=g&t=0" alt="Send an Instant Message" height=12 width=12></a>&nbsp;&#34;vinu chandran&#34; &lt;vinu12120@yahoo.co.in&gt;&nbsp;|&nbsp;<b><a href="/ym/BlockSender?&.crumb=Tcm6PTmI2SE&SP=Yes&NE=vinu12120%40yahoo.co.in&box=Inbox&MsgId=1256_2211974_85637_2514_2060_0_6612_5843_1371063737&inc=&num=&Search=&YY=81073&order=down&sort=date&pos=0"><small>This is spam</small></a></b>&nbsp;|&nbsp;<b><a href="javascript:document.frmAddAddrs.submit()"><small>Add to Address Book</small></a></b></small></td></tr>
+<tr class=bge><td align=right valign=top nowrap><b><small>Date:</small></b></td><td width="100%"><small> Wed, 30 Jul 2003 16:00:42 +0100 (BST)</small></td></tr>
+<tr class=bge><td align=right valign=top nowrap><b><small>Subject:</small></b></td><td width="100%"><small> Re: [ascent CAT] Problem on Profit and Loss</small></td></tr>
+</table></td>
+<td valign=top bgcolor="#eeeeee"><form name=frmAddAddrs action="http://address.mail.yahoo.com/yab/us?v=YM&A=a&.intl=us" method="post">
+<table cellpadding=0 cellspacing=0 border=0 width="100%">
+<tr valign=top><td bgcolor="#eeeeee" align=left>
+<font face="Arial" size="-1">
+<input type="hidden" name="fn" value=",vinu,">
+<input type="hidden" name="ln" value=",chandran,">
+<input type="hidden" name="e" value="ascent4cat@yahoogroups.com,vinu12120@yahoo.co.in,">
+<input type="hidden" name="m" value="1">
+<input type="hidden" name=".done" value="http://us.f119.mail.yahoo.com/ym/ShowLetter?MsgId=1256_2211974_85637_2514_2060_0_6612_5843_1371063737&order=down&inc=&sort=date&view=&head=&box=Inbox&YY=81073">
+</font>
+</td></tr>
+</table>
+</form></td>
+</tr>
+</table>
+<br>
+
+
+
+<div id=message>
+<table cellpadding=0 cellspacing=0 border=0 width="100%""><tr><td>
+
+<html><xbody>
+
+
+<DIV>hi ankush</DIV>
+<DIV>P&nbsp;- selling price of unit article</DIV>
+<DIV>C - cost of unit article</DIV>
+<DIV>so</DIV>
+<DIV>Px = 1.11C(x-y)</DIV>
+<DIV>Px = C(x+y)</DIV>
+<DIV>so x =<U>&nbsp; 11&nbsp;</U>&nbsp; y<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;211 </DIV>
+<DIV><U>P - C</U>&nbsp; =&nbsp;<U>&nbsp; 1100 &nbsp;</U>&nbsp;&nbsp; = 5.2%</DIV>
+<DIV>&nbsp;&nbsp; C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 211 </DIV>
+<DIV>so Ans =5.2% gain</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>g'luk everyone</DIV>
+<DIV>bye<BR><B><I>Ankush Saxena &lt;as_bechtel@yahoo.com&gt;</I></B> wrote:</DIV>
+<BLOCKQUOTE style="BORDER-LEFT: #1010ff 2px solid; MARGIN-LEFT: 5px; PADDING-LEFT: 5px; WIDTH: 100%">
+<DIV>Can anyone help me in solving this problem.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Thanks</DIV>
+<DIV>Ankush</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>----------------</DIV>
+<DIV>Question:</DIV>
+<DIV><FONT color=#000000 size=2>
+<P>A fraudulent tradesman contrives to employ his false balance both in buying and selling a certain article, thereby gaining 11% more on his outlay than he would gain, were the balance true. If, however, the scalepans, in which the article is weighed when bought and sold respectively, were interchanged, he would neither gain nor lose by the transaction. Determine the legitimate gain per cent on the article.</P></FONT></DIV>
+<P>
+<HR SIZE=1>
+Do you Yahoo!?<BR><A target="_blank"  href="http://us.rd.yahoo.com/evt=10469/*http://sitebuilder.yahoo.com" >Yahoo! SiteBuilder</A> - Free, easy-to-use web site design software <BR><BR><TT>Ascent Education<BR>An IIM Alumni Venture<BR>Class for CAT, XAT, GRE, GMAT<BR><A target="_blank"  href="http://www.ascenteducation.com/" >http://www.ascenteducation.com</A><BR><BR>Archives of past CAT questions can be viewed at <A target="_blank"  href="http://www.ascenteducation.com/india-mba/iim/cat/questionbank/questionbank.shtml" >http://www.ascenteducation.com/india-mba/iim/cat/questionbank/questionbank.shtml</A><BR><BR>To unsubscribe from this group, send an email to:<BR>ascent4cat-unsubscribe@yahoogroups.com<BR><BR></TT><BR><BR><TT>Your use of Yahoo! Groups is subject to the <A target="_blank"  href="http://docs.yahoo.com/info/terms/" >Yahoo! Terms of Service</A>.</TT> <BR></BLOCKQUOTE><p><font face=arial size=-1><img src="http://in.yimg.com/i/in/mobile/pctomob.gif"  width=28 height=22 border=0 alt="Yahoo! India
+ Mobile"></a>
+<a target="_blank"  href="http://in.mobile.yahoo.com/new/pc/"  ><b>SMS</b></a> using the Yahoo! 
+<a target="_blank"  href="http://in.mobile.yahoo.com/new/pc/" ><b>Messenger</a>;</b></font>
+<font face=arial size=-1><b>
+<a target="_blank"  href="http://in.messenger.yahoo.com/" >Download</b></a> latest version.</font>
+<br>
+
+<!-- |**|begin egp html banner|**| -->
+
+<table border=0 cellspacing=0 cellpadding=2>
+<tr bgcolor=#FFFFCC>
+<td align=center><font size="-1" color=#003399><b>Yahoo! Groups Sponsor</b></font></td>
+</tr>
+<tr bgcolor=#FFFFFF>
+<td align=center width=470><table border=0 cellpadding=0 cellspacing=0> <tr> <td align=center><font face=arial size=-2>ADVERTISEMENT</font><br><a target="_blank"  href="http://rd.yahoo.com/M=259538.3625325.4914071.1261774/D=egroupweb/S=1705000003:HM/A=1695348/R=0/SIG=11u38u3s2/*http://hits.411web.com/cgi-bin/hit?page=1374-105951838331032"  alt=""><img src="http://us.a1.yimg.com/us.yimg.com/a/fo/fo_web2/sleep_300x250.gif"  alt="click here" width="300" height="250" border="0"></a></td></tr></table> </td>
+</tr>
+<tr><td><img alt="" width=1 height=1 src="http://us.adserver.yahoo.com/l?M=259538.3625325.4914071.1261774/D=egroupmail/S=:HM/A=1695348/rand=513331353" ></td></tr>
+</table>
+
+<!-- |**|end egp html banner|**| -->
+
+
+<br>
+<tt>
+Ascent Education<BR>
+An IIM Alumni Venture<BR>
+Class for CAT, XAT, GRE, GMAT<BR>
+<a target="_blank"  href="http://www.ascenteducation.com" >http://www.ascenteducation.com</a><BR>
+<BR>
+Archives of past CAT questions can be viewed at <a target="_blank"  href="http://www.ascenteducation.com/india-mba/iim/cat/questionbank/questionbank.shtml" >http://www.ascenteducation.com/india-mba/iim/cat/questionbank/questionbank.shtml</a><BR>
+<BR>
+To unsubscribe from this group, send an email to:<BR>
+ascent4cat-unsubscribe@yahoogroups.com<BR>
+<BR>
+</tt>
+<br>
+
+<br>
+<tt>Your use of Yahoo! Groups is subject to the <a target="_blank"  href="http://docs.yahoo.com/info/terms/" >Yahoo! Terms of Service</a>.</tt>
+</br>
+
+</xbody></html>
+
+
+</td></tr></table>
+</div>
+
+</td></tr></table>
+
+</td>
+</tr>
+<tr class="headc" bgcolor="#eef3fb">
+<td style="padding: 6px">
+		&nbsp;The HTML graphics in this message have been displayed.&nbsp;[<small><a href="/ym/Preferences?YY=81073&order=down&sort=date&pos=0#security">Edit Preferences</a> - <a href="javascript:Help('http://help.yahoo.com/help/us/mail/context/context-71.html')">What's This?</a></small>]
+</td>
+</tr>
+</table>
+
+<form  name=showLetter2 method=post action="/ym/ShowLetter?YY=81073&order=down&sort=date&pos=0">
+<input type=hidden name=".crumb" value="1zaKiNF4EO."><input type=hidden name="MsgId" value="1256_2211974_85637_2514_2060_0_6612_5843_1371063737">
+<input type=hidden name="box" value="Inbox">
+<input type=hidden name=MOV value="">
+<input type=hidden name=NewFol value="">
+
+<table cellpadding=3 cellspacing=0 border=0 width="100%">
+			    
+<tr class=bbar bgcolor="#3f6c96">
+				    
+<td>
+<table border=0 cellpadding=1 cellspacing=0>
+<tr>
+<td><input type=submit name=DEL value="&nbsp;Delete&nbsp;" class=fbutton></td>
+<td>&nbsp;</td>
+<td><input type=button value="&nbsp;&nbsp;Reply&nbsp;&nbsp;" class=fbutton onclick="Reply()"></td>
+<td><input type=button value="Reply All" class=fbutton onclick="ReplyAll()"></td>
+<td><input type=button value="Forward" class=fbutton onclick="Forward()"></td>
+<td><select name="fwopt" onchange="SynchFwOpts(2)">
+<option value="attach" selected>as attachment
+<option value="quoted">inline text
+</select></td>
+</tr>
+</table>
+</td>
+<td nowrap align=right>
+<table border=0 cellpadding=1 cellspacing=0>
+<tr>
+<td><select name="destBox" title="Move checked items" onchange="SynchMoves(2)">
+<option>Move to folder...</option>
+<option value="@NEW">[New Folder]</option>
+</select></td>
+<td><input type=button value="OK" class=fbutton onclick="Move()"></td>
+</tr>
+</table>
+</td>
+</tr>
+		    
+</table>
+</form>
+<table cellpadding=4 cellspacing=0 border=0 width="100%">
+<tr><td colspan=2></td></tr>
+<tr>
+<td>
+<font color=#999999>Previous</font>
+		&nbsp;|&nbsp;
+<a href="/ym/ShowLetter?box=Inbox&MsgId=1256_2211974_85637_2514_2060_0_6612_5843_1371063737&NEXT=1&inc=&num=&Search=&YY=81073&order=down&sort=date&pos=0" onmouseover="self.status='From: vinu chandran, Subject: Re: [ascent CAT] Number System Problems';return true" onmouseout="window.status=window.defaultStatus;return true">Next</a>
+		&nbsp;|&nbsp;
+<a href="/ym/ShowFolder?box=Inbox&YY=81073&order=down&sort=date&pos=0" onmouseover="window.status='Folder: Inbox';return true" onmouseout="window.status=window.defaultStatus;return true">Back to Messages</a>
+</td>
+<td align=right>
+<a href="/ym/ShowLetter/file.txt?box=Inbox&MsgId=1256_2211974_85637_2514_2060_0_6612_5843_1371063737&bodyPart=1&filename=file.txt&save=1&download=1&YY=81073&order=down&sort=date&pos=0">Save Message Text</a>
+</td>
+</tr>
+</table>
+<tr>
+<td class=bgd bgcolor="#9bbad6" colspan=2>
+<img src="http://us.i1.yimg.com/us.yimg.com/i/space.gif" width=40 height=2 alt=""></td>
+<td bgcolor="white" valign=top>
+<table cellpadding=0 cellspacing=0 border=0>
+<tr class=bgd bgcolor="#9bbad6" class=bgd><td width=5 height=5><img src="http://us.i1.yimg.com/us.yimg.com/i/us/pim/el/rddl1.gif" width=5 height=5 alt=""></td></tr>
+</table>
+</td>
+</tr>
+	
+
+</table>
+
+<table width="100%" cellpadding=4 cellspacing=0 border=0>
+<tr class="bgd" bgcolor="#e4ecf6">
+<td align=left>
+<table cellpadding=2 cellspacing=0 border=0>
+<tr>
+<td class="tbutton" width=100 onclick="window.open('/ym/ShowFolder?rb=Inbox&YY=81073&order=down&sort=date&pos=0&YN=1', '_top')">
+<a href="/ym/ShowFolder?rb=Inbox&reset=1&YY=81073&order=down&sort=date&pos=0&YN=1">Check Mail</a>
+</td>
+<td>&nbsp;</td>
+<td class="tbutton" width=100 onclick="window.open('/ym/Compose?YY=81073&order=down&sort=date&pos=0', '_top')">
+<a href="/ym/Compose?YY=81073&order=down&sort=date&pos=0">Compose</a>
+</td>
+</tr>
+</table>
+</td>
+<td align=right valign=bottom>
+<table cellpadding=4 cellspacing=0 border=0>
+<tr>
+<td class="bge" bgcolor="#e4ecf6">
+<a href="http://us.rd.yahoo.com/mail_us/nav/?http://billing.mail.yahoo.com/bm/Upgrades" target="_blank">Mail Upgrades</a> -
+<a href="/ym/Search?YY=81073&order=down&sort=date&pos=0">Search Mail</a> - 
+<a href="/ym/Options?YY=81073&order=down&sort=date&pos=0"><b>Mail Options</b></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<center>
+<table cellpadding=4 cellspacing=0 border=0>
+<tr><td>
+<a href="/ym/Welcome?YY=81073&order=down&sort=date&pos=0">Mail</a>&nbsp;-
+&nbsp;<a href="http://us.rd.yahoo.com/mail_us/footer/ab/?http://address.yahoo.com/yab/us">Address Book</a> - <a href="http://us.rd.yahoo.com/mail_us/footer/cal/?http://calendar.yahoo.com">Calendar</a> - <a href="http://us.rd.yahoo.com/mail_us/footer/note/?http://notepad.yahoo.com">Notepad</a></td></tr>
+</table>
+</center>
+
+<br>
+<table cellpadding=0 cellspacing=0 border=0 width="100%"><tr><td bgcolor=#a0b8c8><table cellpadding=1 cellspacing=1 border=0 width="100%"><tr valign=top bgcolor=#ffffff><td align=center><font face="arial" size=-2><a href="http://us.rd.yahoo.com/footer/*http://address.yahoo.com/">Address&nbsp;Book</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://auctions.yahoo.com/">Auctions</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://autos.yahoo.com/">Autos</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://briefcase.yahoo.com/">Briefcase</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://calendar.yahoo.com/">Calendar</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://chat.yahoo.com/">Chat</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://classifieds.yahoo.com/">Classifieds</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://finance.yahoo.com/">Finance</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://games.yahoo.com/">Games</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://geocities.yahoo.com/">Geocities</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://greetings.yahoo.com/">Greetings</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://groups.yahoo.com/">Groups</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://health.yahoo.com/">Health</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://astrology.yahoo.com/yastro/">Horoscopes</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://hotjobs.yahoo.com/">HotJobs</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://www.yahooligans.com/">Kids</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://mail.yahoo.com/">Mail</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://maps.yahoo.com/">Maps</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://members.yahoo.com/">Member&nbsp;Directory</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://messenger.yahoo.com/">Messenger</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://mobile.yahoo.com/">Mobile</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://movies.yahoo.com/">Movies</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://launch.yahoo.com/">Music</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://my.yahoo.com/">My&nbsp;Yahoo!</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://news.yahoo.com/">News</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://paydirect.yahoo.com/">PayDirect</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://personals.yahoo.com/">Personals</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://pets.yahoo.com/">Pets</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://photos.yahoo.com/">Photos</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://platinum.yahoo.com/">Platinum</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://shopping.yahoo.com/">Shopping</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://sports.yahoo.com/">Sports</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://tv.yahoo.com/">TV</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://travel.yahoo.com/">Travel</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://weather.yahoo.com/">Weather</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://yp.yahoo.com/">Yellow&nbsp;Pages</a> &#183; <a href="http://us.rd.yahoo.com/footer/*http://docs.yahoo.com/docs/family/more.html">more...</a></font></td></tr></table></td></tr></table>
+<!-- SpaceID=150500004 loc=FOOT noad -->
+<script language=javascript> var ADFadids = "1522466,1522468,1453288,1453290,1579788,1676238,1586303,1666213,1642781,1426491,1544483,1052425"; function ADFlaunch() {var w; var l="http://rd.yahoo.com/M=224039.2020109.3495275.1958505/D=mail/S=150500004:FOOT2/A=1052425/R=0/id=adfeedback/SIG=12ern1fgq/*http://promo.yahoo.com/adfeedback/?page=150500004:FOOT2&property=mail&adids="+ADFadids; w=window.open(l,"AdFeedbackWin","toolbar=no,scrollbars=yes,resizable,location=no,height=400,width=640"); }</script><center><small><br>Copyright &copy; 1994-2003 <a href="http://rd.yahoo.com/M=224039.2020109.3495275.1958505/D=mail/S=150500004:FOOT2/A=1052425/R=1/SIG=11n7g195d/*http://rd.yahoo.com/mail_us/tos/?http://www.yahoo.com" target="_blank">Yahoo!</a> Inc. All rights reserved. <a href="http://rd.yahoo.com/M=224039.2020109.3495275.1958505/D=mail/S=150500004:FOOT2/A=1052425/R=2/SIG=1136qnvkg/*http://docs.yahoo.com/info/terms/">Terms of Service</a> - <a href=http://rd.yahoo.com/M=224039.2020109.3495275.1958505/D=mail/S=150500004:FOOT2/A=1052425/R=3/SIG=11lp7krrc/*http://docs.yahoo.com/info/copyright/copyright.html>Copyright Policy</a> - <a href="http://rd.yahoo.com/M=224039.2020109.3495275.1958505/D=mail/S=150500004:FOOT2/A=1052425/R=4/SIG=11he80eif/*http://docs.yahoo.com/info/guidelines/mail.html">Guidelines</a> - <a href="javascript:ADFlaunch()">Ad Feedback</a><br>NOTICE: We collect personal information on this site.<br>To learn more about how we use your information, see our <a href="http://rd.yahoo.com/M=224039.2020109.3495275.1958505/D=mail/S=150500004:FOOT2/A=1052425/R=5/SIG=11b5p6lhe/*http://privacy.yahoo.com/privacy/us/mail/">Privacy Policy</a></small></center><script>
+var ypim_MA_Farm_URL = "http://us.f119.mail.yahoo.com";
+var ypim_AB_URL = "http://address.yahoo.com/yab/us";
+var ypim_CA_URL = "http://calendar.yahoo.com";
+var ypim_NP_URL = "http://notepad.yahoo.com";
+var ypim_MA_YY = "115239";
+var ypim_IMG = "http://us.i1.yimg.com/us.yimg.com/i/us/pim";
+var ypim_Loc = "us";
+var ypim_IsCalendarView = false;
+var ypim_IsNotepadView = false;
+var ypim_i18n_CheckMail = "Check Mail";
+var ypim_i18n_Compose = "Compose";
+var ypim_i18n_Folders = "Folders";
+var ypim_i18n_Search = "Search";
+var ypim_i18n_Options = "Options";
+var ypim_i18n_Help = "Help";
+var ypim_i18n_AddContact = "Add Contact";
+var ypim_i18n_AddCategory = "Add Category";
+var ypim_i18n_AddList = "Add List";
+var ypim_i18n_ViewContacts = "View Contacts";
+var ypim_i18n_ViewLists = "View Lists";
+var ypim_i18n_Quickbuilder = "Quickbuilder";
+var ypim_i18n_ImportContacts = "Import Contacts";
+var ypim_i18n_Synchronize = "Synchronize";
+var ypim_i18n_AddressesOptions = "Addresses Options";
+var ypim_i18n_AddressesHelp = "Addresses Help";
+var ypim_i18n_AddEvent = "Add Event";
+var ypim_i18n_AddTask = "Add Task";
+var ypim_i18n_AddBirthday = "Add Birthday";
+var ypim_i18n_Day = "Day";
+var ypim_i18n_Week = "Week";
+var ypim_i18n_Month = "Month";
+var ypim_i18n_Year = "Year";
+var ypim_i18n_EventList = "Event List";
+var ypim_i18n_Reminders = "Reminders";
+var ypim_i18n_Tasks = "Tasks";
+var ypim_i18n_Sharing = "Sharing";
+var ypim_i18n_Synchronize = "Synchronize";
+var ypim_i18n_CalendarOptions = "Calendar Options";
+var ypim_i18n_CalendarHelp = "Calendar Help";
+var ypim_i18n_AddNote = "Add Note";
+var ypim_i18n_AddFolder = "Add Folder";
+var ypim_i18n_ViewNotes = "View Notes";
+var ypim_i18n_NotepadOptions = "Notepad Options";
+var ypim_i18n_NotepadHelp = "Notepad Help";
+</script>
+<script src="/lib_web/pulldowns.js"></script>
+<div id="mail">
+</div>
+<div id="addr">				
+</div>
+<div id="cal">
+</div>
+<div id="note" class=menubg>
+</div>
+
+<iframe name="asynch" width=0 height=0></iframe>
+
+</body>
+</html>
+<!-- v3.3.9 1058290337 -->
+<!-- 0.55286 -->
+<!-- web11904.mail.yahoo.com compressed Mon Aug  4 00:55:26 PDT 2003 -->

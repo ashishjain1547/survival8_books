@@ -1,0 +1,73 @@
+[HEADER]
+Category=SAT
+Description=Word List No. 21
+PrimaryField=1
+SecondaryField=2
+GroupField=3
+TagField=4
+[DATA]
+word	definition	part of speech	high-frequency
+gainsay	deny	verb
+gait	manner of walking or running; speed	noun
+galaxy	the Milky Way; any collection of brilliant personalities	noun
+gall	bitterness; nerve	noun
+gall	annoy; chafe	verb
+galleon	large sailing ship	noun
+galvanize	stimulate by shock; stir up	verb
+gambit	opening in chess in which a piece is sacrificed	noun
+gambol	skip; leap playfully	verb
+gamely	bravely; with spirit	adverb
+gamut	entire range	noun
+gape	open widely	verb
+garbled	mixed up; based on false or unfair selection	adjective	*
+gargantuan	huge; enormous	adjective
+gargoyle	waterspout carved in grotesque figures on building	verb
+garish	gaudy	adjective
+garner	gather; store up	verb
+garnish	decorate	verb
+garrulity	talkativeness	noun
+garrulous	loquacious; wordy	adjective
+gastronomy	science of preparing and serving good food	noun
+gauche	clumsy; boorish	adjective
+gaudy	flashy; showy	adjective
+gaunt	lean and angular; barren	adjective
+gazette	official periodical publication	noun
+genealogy	record of descent; lineage	noun
+generality	vague statement	noun
+generic	characteristic of a class or species	adjective
+genesis	beginning; origin	noun
+geniality	cheerfulness; kindness; sympathy	noun
+genre	particular variety of art and culture	noun
+genteel	well-bred; elegant	adjective
+gentility	those of gentle birth; refinement	noun
+gentry	people of standing; class of people just below nobility	noun
+genuflect	bend the knee as in worship	verb
+germane	pertinent; bearing upon the case at hand	adjective
+germinal	pertaining to germ; creative	adjective
+germinate	cause to sprout; sprout	verb
+gestate	evolve, as in prenatal growth	verb
+gesticulation	motion; desire	noun
+ghastly	horrible	adjective
+gibber	speak foolishly	verb
+gibe	mock	verb
+giddy	light-hearted; dizzy	adjective
+gingerly	very carefully	adjective
+girth	distance around something; circumference	noun
+gist	essence	noun
+glacial	like a glacier; extremely cold	adjective
+glaze	cover with a thin and shiny surface	verb
+glib	fluent	adjective
+gloat	express evil satisfaction; view malevolently	verb
+glossary	brief explanation of words used in the text	noun
+glossy	smooth and shining	adjective
+glower	scowl	verb
+glut	overstock; fill to excess	verb
+glutinous	sticky; viscous	adjective
+glutton	someone who eats too much	noun	*
+gnarled	twisted	adjective
+gnome	dwarf; underground spirit	noun
+goad	urge on	verb
+gorge	small, steep-walled canyon	noun
+gorge	stuff oneself	verb
+gory	bloody	adjective
+gossamer	sneer; like cobwebs	adjective

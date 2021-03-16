@@ -1,0 +1,71 @@
+
+'UrPercentile' has developed following timetable for the members who are starting
+their preparation from June.
+You may modify the timetable to suit your requirement.
+
+We recommend that you keep a record of the results of all your
+sectional test and full time test in an excel file for analysis later
+on. If you program your excel file well, you just need to record
+the number of questions you attempted, the time duration for the
+test and the correct attempts for each section and the rest all can
+be programmed. The excel file may be programmed to provides
+you details of Average Attempt per Minute, total Correct attempt
+per minute, score attained per minute, accuracy (correct/attempt)
+and a lot more. Keep a target attempt rate say 100 for a 2 hours
+test and a target for number of correct questions , say 80 for a
+two hours test. Use excel to calculate the variance for the
+number of question attempted and the variance in correct
+questions using that target figure. Compare the speed and
+accuracy of the different sections, this will help you to know the
+area where you need to improve your speed and accuracy. Play
+with your excel file and you will know your weakness and
+strengths, and where you need to improve.
+
+http://groups.yahoo.com/group/urpercentile/
+
+The Timetable is as follows :
+1) Start working on your vocabulary and RC section now as this
+cannot be done in a short time and needs a continuos efforts
+over a period of time. You may devote 30 to 45 minutes a day for
+this section by reading newspapers and magazines. Keep a
+dictionary handy and consult it whenever required.
+
+2) From 1st June to 14th June apart from the time spent on
+English section devote 1 hour and 30 minutes everyday for Data
+Interpretation and Data sufficiency.
+
+3) From 15th June till 28th June, devote 1 hour and 30 minutes
+everyday for Logical Reasoning and Verbal reasoning.
+
+4) 29th June to 8th July , Take section tests on Data
+Interpretation, data sufficiency etc.
+
+4) 9th July till 27th July for Arithmetic and Algebra.
+
+5) 28th July to 11th Aug for Geometry, Set theory, Probability and
+remaining part of QA.
+
+6) 12th Aug to 20th Aug for Section tests on QA.
+
+7) 21st Aug till end of August for section tests on English. By now
+you should score well as you have devoted 45 minute a day on
+reading newspaper and on improving your vocabulary.
+
+8) 1st Sept to 10th Sept for the section you think you did not
+perform well in your section test.
+
+9 ) From 11th Sept, take Full time Mock test twice a week, till CAT
+is held. You should be comfortably able to take 20 full time test.
+
+Note : Take all the section test and Full time test as a part of
+learning. After each section test and Full time test you must go
+back and solve the questions which you could not solve during
+the given time and the ones that you did not solve correctly.
+
+Best Regards
+UrPercentile
+http://groups.yahoo.com/group/urpercentile/
+
+
+
+

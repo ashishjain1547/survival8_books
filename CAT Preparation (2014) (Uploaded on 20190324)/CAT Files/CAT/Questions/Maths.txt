@@ -1,0 +1,176 @@
+1)When a four digit number is multiplied by N,the four digit 
+number repeats itself to give an 8 digit number .If four digit 
+number has all distinct digits then N is a multiple of ?
+a)11 b) 37 c)73 d) 27
+
+the number is of the form abcdabcd i.e 10001* abcd
+
+1001 is not divisible by 27 and 11 so tried 73 and thats the answer.
+
+
+5)The number from 1 to 33 are written side by side as follows : 
+123456...........33.If this number is divided by 9 what is the 
+remainder?
+a)0 b)1 c)3 d) 6
+
+1 to 33 comprises in units place 0 to 9 3 times i.e 45 * 3 = 135.  
+Similarly 1 and 2 10 times in tens place ... i.e 30 and then for 30 to 33 
+... 12 + 6 = 18
+
+So total sum is 135 + 30 + 18 = 183 i.e remainder of 3 Ans.
+
+ 
+
+
+6)  A positive three digit number X is such,when divided in two 
+unequal three digit number,the larger part is the aritmetic mean 
+of X and the smaller part.How many values can X take?
+a)300 b)234 c)198 d)None
+
+Let X be the number and K be the larger number then K=(X+X-K)/2 i.e K = 
+2X/3 and X-K = X/3
+
+Now X/3 should be a 3 digit number i.e true from X = 300 to X= 999 i.e 
+every 3rd number here will satisfy the condition.. hence number od 
+numbers are (699 - 300) /3  + 1 = 234
+
+
+7)A 101 digit number 222.........2X3...333  is formed by repeating 
+the digit 2,50 times followed by the digit X and then repeating the 
+digit 3,50 times.The number is a multiple of 7.Find the value of 
+X.?
+a)2 b)3 c ) 4 d ) 5
+
+I guess 5 as 22533 is divisible :)
+
+
+8) There are ten coin making machine.Nine of them produces 
+coins of 10 gm each while the tenth machine produces coins 
+with 11 gm weight . If one has a weight measuring instrument to 
+measure weight in grams,how many minimum number of 
+readings are required to determine which machine produces 
+heavier coins?
+a)1 b)3 c)4 d)None of these
+
+3 weighings... Group them into 4 groups 3 (A , B , C) of 3 coins each 
+and the last one (D) with a single coin. Weigh A with B If A is heavy , 
+Group A in 3 groups of a single coin each  and wigh 2 of them... 
+similary with B.
+
+In case A=B then the the faulty coin is either from group C or D... 
+this again requires 2 weighings.. So minimun of 3 weighings are required.
+
+
+
+10) The number 444444....(999 times) is definitely divisible by:
+a)22 b)44 c)222 d)444
+
+I think it should be divisible both by 222 and 444
+
+Basically We can write 4444...(999 times) as 
+
+444*(1001001... (with 333 1s)) which is divisible by 444 and 222
+
+
+11)If a three digit number is divided into three two digit numbers 
+and if all these three two digit numbers from an A.P. with a 
+common difference of 20.How many three digit numbers satisfy 
+this condition?
+a)54 b)45 c)46 d) 55
+
+Lets the numbers be X-20 , X , X + 20. Then a = 3X , X= a/3 .. where a 
+is 3 digit and X + 20 is two digit number. Lets imagine X+20 be 99 
+(this can be max 2 digit number) then X = 79 and a = 3 * 79 = 237 is 3 
+digit. To find the lower limit ...33 * 3 = 99 (a two digit number) hence X 
+= 33 + 1 = 34... i.e a = 112.
+
+So we need numbers from 112 to 237 differing with common diff 3 ... So 
+no. of numbers = (237-112)/3 + 1 = 46
+
+
+
+
+12) If first 23 terms of the series 1,11,111 are added together 
+,what digit would occupy the thousands place?
+a)3 b)0 c)9 d)2
+
+
+Adding units 1 give 23 i.e 3 at units place with 2 carry over ... Tens 
+sum = 22 + 2 = 24 ... i.e 4 at tens place and 2 carry over. Similarly 
+thousans place has 20  1s i.e 20 + 2 as the carry over. So 2 is the 
+answer
+
+
+13)A chord is drawn arbitrarily in a given circle.What is the 
+probability that the length of the chord is less than or equal to the 
+radius of the circle?
+a)0.5 b)0.25 c)0 d)0.33
+
+Guess 0.25
+
+
+15)How many natural numbers are factors of 7560 and multiples 
+of 14?
+a)20 b)22 c)24 d)28
+
+7560/14 = 540 = 3^3 * 2^2 * 5^1
+
+Number of factors of 540 = (3+1)(2+1)(1+1) = 24 Ans.
+
+
+16)Definition:If a,k and n are positive integers with k>1,and n=k*a 
+,then a is called proper divisor of n.How many positive integers 
+less than 54 are equal to the product of their proper divisors?
+a)1 b)8 c)10 d)14
+
+I felt all the non primes including 1 less than 54 should be answer... 
+thats counts to 37.
+
+
+17) Given that A is a six digit number with unit digit of 1,and B is a 
+natural number which is the fourth root of A,what is the largest 
+possible value of B?
+a)23 b)29 c)31 d)37
+
+30^4 = 810000 .. so the number is more than 30.. also 35^4 = 1500625   
+so the number is less than 35..
+
+Hence 31
+
+
+18)How many integers greater  than 40,00,000 and less than 
+90,00,000 are perfect squares?
+a)100 b)999 c)1000 d)1999
+
+All the numbers more than 2000 and less than 3000 will have their 
+squares in this range.
+
+i.e (3000-2000)-1 = 999 numbers
+
+19)Six integers are selected from 1 to 100 in such a way that the 
+smallest positive difference between any two of them is as large 
+as possible.What is this difference?
+a)16 b)17 c)19 d)20
+
+basically we need to have 5 divisions in between  1..to ..100 i.e 100/2 
+= 20
+
+But if we choose 1st number as 1 then the numbers are 
+1,21,41,61,81,101... Since 101 cant be in.. the max difference is 19
+
+20)How many different points in the xy plane are at a distance of 
+5 from the origin and have coordinates (a,b) ,where a and b are 
+integers?
+a)4 b)6 c)8 d) 12
+
+x^2 + y^2 = 25.... only possible with (0,5) and (3,4) ,(4,3)  but each 
+of these can have 4 sets as
+
+(0,5) => (0,5),(0,-5) , (5,0) , (-5,0)
+
+(3,4) => (3,4) , (3,-4) , (-3,4) , (-3,-4)
+
+(4,3)... similarily 4 values
+
+So total 12 values.
+

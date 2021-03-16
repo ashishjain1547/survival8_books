@@ -1,0 +1,54 @@
+BODY {
+	
+}
+.leftnavfont {
+	FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.leftnavheading {
+	FONT-SIZE: 12px; COLOR: #29005a; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.arial1 {
+	FONT-SIZE: 11px; COLOR: black; FONT-FAMILY: Arial; TEXT-DECORATION: underline
+}
+.shortnews {
+	FONT-SIZE: 11px; COLOR: black; FONT-FAMILY: arial
+}
+.rightnavheading {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: white; FONT-FAMILY: Arial
+}
+.rightnavfont {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial
+}
+.rightnavfont1 {
+	FONT-SIZE: 12px; FONT-FAMILY: verdana
+}
+.fullstory {
+	FONT-SIZE: 10px; COLOR: #29005a; FONT-FAMILY: Arial; TEXT-DECORATION: underline
+}
+.middleheading {
+	FONT-WEIGHT: 700; FONT-SIZE: 12px; FONT-FAMILY: Arial
+}
+A.nav {
+	FONT-SIZE: 9pt; COLOR: white; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.nav1 {
+	FONT-SIZE: 11px; COLOR: white; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+.nav {
+	FONT-SIZE: 9pt; COLOR: white; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.datefont {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #00105a; FONT-FAMILY: Arial
+}
+.full {
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.opt {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: Arial
+}
+.opt1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: Arial
+}
+.datefont1 {
+	FONT-WEIGHT: 200; FONT-SIZE: 10pt; COLOR: #00105a; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
